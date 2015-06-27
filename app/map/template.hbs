@@ -1,0 +1,8 @@
+Lat: {{input value=lat}}, Lng: {{input value=lng}}
+Zoom: {{input value=zoom}}
+
+<hr>
+<h1>By user location</h1>
+{{google-maps currentLocation=true markers=markers zoom=15 width='90%' height='500px'}}
+
+{{outlet}}
