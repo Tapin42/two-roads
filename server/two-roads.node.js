@@ -5,14 +5,18 @@ var Q    = require('q');
 
 
 function routeRequest(request, response) {
-
-  if (request.url === '/') {
-    return fetchAllParks();
-  } else {
     var parts = request.url.split('/');
-    if (parts.length === 2) {
-      return fetchSinglePark(parts[1]);
-    }
+  if (parts.length === 2 && parts[1].length === 0) {
+    return fetchAllParks();
+  } else if (parts.length === 2) {
+    return fetchSinglePark(parts[1]);
+  } else {
+    var D = Q.defer();
+    D.reject({
+      'status': 404,
+      'error': "I don't understand the question, and I refuse to answer it."
+    });
+    return D.promise;
   }
 }
 
@@ -25,7 +29,7 @@ function fetchAllParks() {
       D.reject({'error': "I can't seem to see any parks"});
     } else {
       D.resolve({
-        "parks": files
+        "parks": files.sort()
       });
     }
   });
@@ -50,7 +54,10 @@ function fetchSinglePark(park) {
         }
       });
     } else {
-      D.reject({'error': "Sorry, I don't know anything about " + park + " yet."});
+      D.reject({
+        'status': 404,
+        'error': "Sorry, I don't know anything about " + park + " yet."
+      });
     }
   });
 
@@ -63,11 +70,14 @@ var server = http.createServer(function (request, response) {
 
   function sendResponse(status) {
     return function (respBlock) {
+      if (respBlock.status) {
+        status = respBlock.status;
+      }
       console.log('Request for ' + request.url + ' returning status ' + status);
       response.writeHead(status, {"Content-Type": "application/json"});
 
       if (typeof respBlock === 'object') {
-        response.end(JSON.stringify(respBlock));
+        response.end(JSON.stringify(respBlock, null, 2));
       } else {
         response.end(respBlock);
       }
