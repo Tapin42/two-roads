@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Willson Camp Cutoff from Willson Camp to Wagon Rd</name>
+  </metadata>
+  <trk>
+    <name>Willson Camp Cutoff from Willson Camp to Wagon Rd</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.08166150" lon="-121.41616585">
+        <ele>627.88000000</ele>
+      </trkpt>
+      <trkpt lat="37.08159436" lon="-121.41596409">
+        <ele>624.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.08153158" lon="-121.41578757">
+        <ele>621.63000000</ele>
+      </trkpt>
+      <trkpt lat="37.08146662" lon="-121.41570719">
+        <ele>620.67000000</ele>
+      </trkpt>
+      <trkpt lat="37.08134894" lon="-121.41558909">
+        <ele>621.15000000</ele>
+      </trkpt>
+      <trkpt lat="37.08128055" lon="-121.41553813">
+        <ele>620.67000000</ele>
+      </trkpt>
+      <trkpt lat="37.08123436" lon="-121.41550661">
+        <ele>621.15000000</ele>
+      </trkpt>
+      <trkpt lat="37.08106413" lon="-121.41536471">
+        <ele>621.63000000</ele>
+      </trkpt>
+      <trkpt lat="37.08095768" lon="-121.41520981">
+        <ele>622.11000000</ele>
+      </trkpt>
+      <trkpt lat="37.08084896" lon="-121.41505348">
+        <ele>623.07000000</ele>
+      </trkpt>
+      <trkpt lat="37.08076514" lon="-121.41488467">
+        <ele>623.07000000</ele>
+      </trkpt>
+      <trkpt lat="37.08072147" lon="-121.41470538">
+        <ele>623.55000000</ele>
+      </trkpt>
+      <trkpt lat="37.08073379" lon="-121.41448310">
+        <ele>624.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.08069239" lon="-121.41428595">
+        <ele>626.44000000</ele>
+      </trkpt>
+      <trkpt lat="37.08062131" lon="-121.41409309">
+        <ele>628.36000000</ele>
+      </trkpt>
+      <trkpt lat="37.08061435" lon="-121.41408035">
+        <ele>628.36000000</ele>
+      </trkpt>
+      <trkpt lat="37.08056532" lon="-121.41382772">
+        <ele>628.84000000</ele>
+      </trkpt>
+      <trkpt lat="37.08049935" lon="-121.41357760">
+        <ele>630.76000000</ele>
+      </trkpt>
+      <trkpt lat="37.08044579" lon="-121.41339538">
+        <ele>631.24000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

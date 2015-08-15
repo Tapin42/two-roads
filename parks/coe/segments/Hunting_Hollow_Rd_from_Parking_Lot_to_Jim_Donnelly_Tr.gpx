@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Hunting Hollow Rd from Parking Lot to Jim Donnelly Tr</name>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Rd from Parking Lot to Jim Donnelly Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.07621486" lon="-121.46539997">
+        <ele>267.38000000</ele>
+      </trkpt>
+      <trkpt lat="37.07622827" lon="-121.46535169">
+        <ele>266.42000000</ele>
+      </trkpt>
+      <trkpt lat="37.07636808" lon="-121.46529025">
+        <ele>264.98000000</ele>
+      </trkpt>
+      <trkpt lat="37.07641535" lon="-121.46523141">
+        <ele>264.50000000</ele>
+      </trkpt>
+      <trkpt lat="37.07646145" lon="-121.46500200">
+        <ele>264.50000000</ele>
+      </trkpt>
+      <trkpt lat="37.07643371" lon="-121.46470905">
+        <ele>265.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.07632164" lon="-121.46442994">
+        <ele>265.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.07619499" lon="-121.46419390">
+        <ele>265.94000000</ele>
+      </trkpt>
+      <trkpt lat="37.07602769" lon="-121.46396516">
+        <ele>266.90000000</ele>
+      </trkpt>
+      <trkpt lat="37.07590892" lon="-121.46368780">
+        <ele>266.90000000</ele>
+      </trkpt>
+      <trkpt lat="37.07583399" lon="-121.46344582">
+        <ele>267.38000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Wagon Rd from Crest Tr to Rattlesnake Tr</name>
+  </metadata>
+  <trk>
+    <name>Wagon Rd from Crest Tr to Rattlesnake Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.12502870" lon="-121.41464080">
+        <ele>777.84375000</ele>
+      </trkpt>
+      <trkpt lat="37.12499910" lon="-121.41468830">
+        <ele>778.32446290</ele>
+      </trkpt>
+      <trkpt lat="37.12485710" lon="-121.41477020">
+        <ele>775.44042970</ele>
+      </trkpt>
+      <trkpt lat="37.12480580" lon="-121.41477890">
+        <ele>774.95996090</ele>
+      </trkpt>
+      <trkpt lat="37.12470700" lon="-121.41482630">
+        <ele>773.99853520</ele>
+      </trkpt>
+      <trkpt lat="37.12456970" lon="-121.41483910">
+        <ele>771.59521480</ele>
+      </trkpt>
+      <trkpt lat="37.12439310" lon="-121.41471280">
+        <ele>767.26953130</ele>
+      </trkpt>
+      <trkpt lat="37.12430070" lon="-121.41471370">
+        <ele>764.86621090</ele>
+      </trkpt>
+      <trkpt lat="37.12406460" lon="-121.41466690">
+        <ele>761.02075200</ele>
+      </trkpt>
+      <trkpt lat="37.12402120" lon="-121.41463310">
+        <ele>761.02075200</ele>
+      </trkpt>
+      <trkpt lat="37.12381730" lon="-121.41461240">
+        <ele>760.05932620</ele>
+      </trkpt>
+      <trkpt lat="37.12365120" lon="-121.41475860">
+        <ele>761.02075200</ele>
+      </trkpt>
+      <trkpt lat="37.12351090" lon="-121.41499540">
+        <ele>758.61743160</ele>
+      </trkpt>
+      <trkpt lat="37.12334150" lon="-121.41504550">
+        <ele>757.65625000</ele>
+      </trkpt>
+      <trkpt lat="37.12332340" lon="-121.41498960">
+        <ele>757.65625000</ele>
+      </trkpt>
+      <trkpt lat="37.12332770" lon="-121.41490720">
+        <ele>757.65625000</ele>
+      </trkpt>
+      <trkpt lat="37.12339420" lon="-121.41465320">
+        <ele>755.25292970</ele>
+      </trkpt>
+      <trkpt lat="37.12338290" lon="-121.41444050">
+        <ele>753.33032230</ele>
+      </trkpt>
+      <trkpt lat="37.12332220" lon="-121.41432370">
+        <ele>750.92700200</ele>
+      </trkpt>
+      <trkpt lat="37.12315780" lon="-121.41418200">
+        <ele>745.63964840</ele>
+      </trkpt>
+      <trkpt lat="37.12313220" lon="-121.41416620">
+        <ele>745.15893550</ele>
+      </trkpt>
+      <trkpt lat="37.12308170" lon="-121.41414250">
+        <ele>744.19775390</ele>
+      </trkpt>
+      <trkpt lat="37.12288980" lon="-121.41403260">
+        <ele>740.83300780</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

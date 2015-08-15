@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Lyman Willson Ridge Tr from Hunting Hollow Rd to Middle Steer Ridge Tr</name>
+  </metadata>
+  <trk>
+    <name>Lyman Willson Ridge Tr from Hunting Hollow Rd to Middle Steer Ridge Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.07266923" lon="-121.45610578">
+        <ele>274.59375000</ele>
+      </trkpt>
+      <trkpt lat="37.07270653" lon="-121.45607603">
+        <ele>273.15185500</ele>
+      </trkpt>
+      <trkpt lat="37.07277065" lon="-121.45598182">
+        <ele>270.26770000</ele>
+      </trkpt>
+      <trkpt lat="37.07281818" lon="-121.45585659">
+        <ele>270.26770000</ele>
+      </trkpt>
+      <trkpt lat="37.07283192" lon="-121.45575274">
+        <ele>272.19043000</ele>
+      </trkpt>
+      <trkpt lat="37.07283804" lon="-121.45573497">
+        <ele>272.19043000</ele>
+      </trkpt>
+      <trkpt lat="37.07287224" lon="-121.45566381">
+        <ele>272.19043000</ele>
+      </trkpt>
+      <trkpt lat="37.07288548" lon="-121.45564134">
+        <ele>272.19043000</ele>
+      </trkpt>
+      <trkpt lat="37.07293301" lon="-121.45559289">
+        <ele>272.67114300</ele>
+      </trkpt>
+      <trkpt lat="37.07294474" lon="-121.45556842">
+        <ele>272.67114300</ele>
+      </trkpt>
+      <trkpt lat="37.07301985" lon="-121.45544789">
+        <ele>273.15185500</ele>
+      </trkpt>
+      <trkpt lat="37.07302781" lon="-121.45542107">
+        <ele>273.15185500</ele>
+      </trkpt>
+      <trkpt lat="37.07306997" lon="-121.45531621">
+        <ele>273.15185500</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body { height: 100%; margin: 0; padding: 0; }
+      #map { height: 100%; }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script type="text/javascript">
+
+var map;
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    center: {
+      lat: 37.17115,
+      lng: -121.41683
+    },
+    zoom: 12
+  });
+
+  // northMap = new google.maps.KmlLayer({
+  //   url: 'overlays/CoeNorth.kmz'
+  // });
+  // northMap.setMap(map);
+
+  northMapBounds = new google.maps.LatLngBounds(
+    new google.maps.LatLng(37.1577, -121.564367),
+    new google.maps.LatLng(37.311783, -121.306583)
+    );
+
+  northMap = new google.maps.GroundOverlay('overlays/CoeNorth.jpg', northMapBounds);
+  northMap.setMap(map);
+
+}
+
+    </script>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqEbiDYhhRnGr4MHqDEq7iK4x0mmp9j50&callback=initMap">
+    </script>
+  </body>
+</html>

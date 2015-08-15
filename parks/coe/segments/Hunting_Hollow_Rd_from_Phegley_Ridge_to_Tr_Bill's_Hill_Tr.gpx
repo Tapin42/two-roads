@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Hunting Hollow Rd from Phegley Ridge to Tr Bill's Hill Tr</name>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Rd from Phegley Ridge to Tr Bill's Hill Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.06292803" lon="-121.44179477">
+        <ele>293.34000000</ele>
+      </trkpt>
+      <trkpt lat="37.06280189" lon="-121.44158590">
+        <ele>294.30000000</ele>
+      </trkpt>
+      <trkpt lat="37.06266576" lon="-121.44133452">
+        <ele>294.78000000</ele>
+      </trkpt>
+      <trkpt lat="37.06252981" lon="-121.44111282">
+        <ele>295.74000000</ele>
+      </trkpt>
+      <trkpt lat="37.06241716" lon="-121.44089405">
+        <ele>296.70000000</ele>
+      </trkpt>
+      <trkpt lat="37.06227441" lon="-121.44063757">
+        <ele>297.18000000</ele>
+      </trkpt>
+      <trkpt lat="37.06209110" lon="-121.44049667">
+        <ele>296.22000000</ele>
+      </trkpt>
+      <trkpt lat="37.06186504" lon="-121.44037446">
+        <ele>295.74000000</ele>
+      </trkpt>
+      <trkpt lat="37.06166186" lon="-121.44025628">
+        <ele>297.18000000</ele>
+      </trkpt>
+      <trkpt lat="37.06141376" lon="-121.44023214">
+        <ele>297.18000000</ele>
+      </trkpt>
+      <trkpt lat="37.06123548" lon="-121.44012108">
+        <ele>297.67000000</ele>
+      </trkpt>
+      <trkpt lat="37.06104864" lon="-121.44003893">
+        <ele>297.67000000</ele>
+      </trkpt>
+      <trkpt lat="37.06092174" lon="-121.43983064">
+        <ele>298.63000000</ele>
+      </trkpt>
+      <trkpt lat="37.06081529" lon="-121.43963124">
+        <ele>299.11000000</ele>
+      </trkpt>
+      <trkpt lat="37.06063231" lon="-121.43941297">
+        <ele>300.07000000</ele>
+      </trkpt>
+      <trkpt lat="37.06040600" lon="-121.43922949">
+        <ele>301.03000000</ele>
+      </trkpt>
+      <trkpt lat="37.06028941" lon="-121.43902095">
+        <ele>302.47000000</ele>
+      </trkpt>
+      <trkpt lat="37.06020081" lon="-121.43872406">
+        <ele>303.43000000</ele>
+      </trkpt>
+      <trkpt lat="37.06007559" lon="-121.43843438">
+        <ele>303.91000000</ele>
+      </trkpt>
+      <trkpt lat="37.06000225" lon="-121.43833380">
+        <ele>303.43000000</ele>
+      </trkpt>
+      <trkpt lat="37.05978256" lon="-121.43821696">
+        <ele>303.43000000</ele>
+      </trkpt>
+      <trkpt lat="37.05952113" lon="-121.43813616">
+        <ele>305.36000000</ele>
+      </trkpt>
+      <trkpt lat="37.05932683" lon="-121.43801915">
+        <ele>305.36000000</ele>
+      </trkpt>
+      <trkpt lat="37.05914847" lon="-121.43794673">
+        <ele>305.84000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

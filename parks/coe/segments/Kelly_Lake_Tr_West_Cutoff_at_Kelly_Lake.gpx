@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Kelly Lake Tr West Cutoff at Kelly Lake</name>
+  </metadata>
+  <trk>
+    <name>Kelly Lake Tr West Cutoff at Kelly Lake</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.12195599" lon="-121.42958804">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12206303" lon="-121.42961897">
+        <ele>576.45000000</ele>
+      </trkpt>
+      <trkpt lat="37.12216596" lon="-121.42965702">
+        <ele>574.53000000</ele>
+      </trkpt>
+      <trkpt lat="37.12228800" lon="-121.42964202">
+        <ele>572.12000000</ele>
+      </trkpt>
+      <trkpt lat="37.12239102" lon="-121.42963397">
+        <ele>571.16000000</ele>
+      </trkpt>
+      <trkpt lat="37.12249403" lon="-121.42961897">
+        <ele>569.72000000</ele>
+      </trkpt>
+      <trkpt lat="37.12259302" lon="-121.42958804">
+        <ele>568.28000000</ele>
+      </trkpt>
+      <trkpt lat="37.12264298" lon="-121.42956499">
+        <ele>567.80000000</ele>
+      </trkpt>
+      <trkpt lat="37.12274599" lon="-121.42958100">
+        <ele>567.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.12277600" lon="-121.42958804">
+        <ele>567.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276803" lon="-121.42956499">
+        <ele>567.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276803" lon="-121.42955803">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276803" lon="-121.42955803">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276803" lon="-121.42955803">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276502" lon="-121.42954999">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276502" lon="-121.42954999">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276502" lon="-121.42954999">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276502" lon="-121.42954303">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276502" lon="-121.42954303">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12276502" lon="-121.42954303">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12277197" lon="-121.42953498">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12277197" lon="-121.42953498">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12285596" lon="-121.42957304">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12289804" lon="-121.42959600">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12295897" lon="-121.42962601">
+        <ele>565.87000000</ele>
+      </trkpt>
+      <trkpt lat="37.12299300" lon="-121.42961897">
+        <ele>565.39000000</ele>
+      </trkpt>
+      <trkpt lat="37.12301304" lon="-121.42958804">
+        <ele>565.39000000</ele>
+      </trkpt>
+      <trkpt lat="37.12303902" lon="-121.42954999">
+        <ele>565.87000000</ele>
+      </trkpt>
+      <trkpt lat="37.12308898" lon="-121.42948897">
+        <ele>567.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.12312703" lon="-121.42945896">
+        <ele>568.76000000</ele>
+      </trkpt>
+      <trkpt lat="37.12319601" lon="-121.42929099">
+        <ele>568.28000000</ele>
+      </trkpt>
+      <trkpt lat="37.12321504" lon="-121.42927598">
+        <ele>569.72000000</ele>
+      </trkpt>
+      <trkpt lat="37.12323398" lon="-121.42927598">
+        <ele>570.20000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

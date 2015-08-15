@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Kickham Ranch Rd from Park Office to Reserve Gate</name>
+  </metadata>
+  <trk>
+    <name>Kickham Ranch Rd from Park Office to Reserve Gate</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.03625799" lon="-121.42146011">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03626017" lon="-121.42147184">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03620695" lon="-121.42160671">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03620887" lon="-121.42162305">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03613218" lon="-121.42165784">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03613335" lon="-121.42164728">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03611801" lon="-121.42165926">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03595851" lon="-121.42174493">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03594912" lon="-121.42174367">
+        <ele>341.41000000</ele>
+      </trkpt>
+      <trkpt lat="37.03584124" lon="-121.42171609">
+        <ele>340.92000000</ele>
+      </trkpt>
+      <trkpt lat="37.03568970" lon="-121.42159875">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.03563522" lon="-121.42140596">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.03566690" lon="-121.42121552">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.03568257" lon="-121.42103867">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.03566086" lon="-121.42098368">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.03566070" lon="-121.42099097">
+        <ele>340.44000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

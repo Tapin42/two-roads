@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Spike Jones Tr from Grizzly Gulch Tr to Timm Tr</name>
+  </metadata>
+  <trk>
+    <name>Spike Jones Tr from Grizzly Gulch Tr to Timm Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.10276403" lon="-121.47061897">
+        <ele>325.54000000</ele>
+      </trkpt>
+      <trkpt lat="37.10264602" lon="-121.47060396">
+        <ele>325.06000000</ele>
+      </trkpt>
+      <trkpt lat="37.10264602" lon="-121.47060396">
+        <ele>325.06000000</ele>
+      </trkpt>
+      <trkpt lat="37.10264602" lon="-121.47060396">
+        <ele>325.06000000</ele>
+      </trkpt>
+      <trkpt lat="37.10261500" lon="-121.47058904">
+        <ele>326.50000000</ele>
+      </trkpt>
+      <trkpt lat="37.10256999" lon="-121.47052802">
+        <ele>328.43000000</ele>
+      </trkpt>
+      <trkpt lat="37.10252004" lon="-121.47047396">
+        <ele>329.87000000</ele>
+      </trkpt>
+      <trkpt lat="37.10249296" lon="-121.47043599">
+        <ele>330.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.10243203" lon="-121.47029903">
+        <ele>333.23000000</ele>
+      </trkpt>
+      <trkpt lat="37.10244804" lon="-121.47026801">
+        <ele>334.20000000</ele>
+      </trkpt>
+      <trkpt lat="37.10245097" lon="-121.47024496">
+        <ele>334.68000000</ele>
+      </trkpt>
+      <trkpt lat="37.10244804" lon="-121.47021504">
+        <ele>334.68000000</ele>
+      </trkpt>
+      <trkpt lat="37.10241702" lon="-121.47011597">
+        <ele>336.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.10250101" lon="-121.47004698">
+        <ele>338.52000000</ele>
+      </trkpt>
+      <trkpt lat="37.10258097" lon="-121.47003198">
+        <ele>340.44000000</ele>
+      </trkpt>
+      <trkpt lat="37.10261903" lon="-121.46997096">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.10261903" lon="-121.46995503">
+        <ele>342.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.10261903" lon="-121.46992503">
+        <ele>343.33000000</ele>
+      </trkpt>
+      <trkpt lat="37.10260402" lon="-121.46989401">
+        <ele>343.81000000</ele>
+      </trkpt>
+      <trkpt lat="37.10256203" lon="-121.46979502">
+        <ele>344.77000000</ele>
+      </trkpt>
+      <trkpt lat="37.10250897" lon="-121.46974197">
+        <ele>345.73000000</ele>
+      </trkpt>
+      <trkpt lat="37.10245499" lon="-121.46965002">
+        <ele>347.65000000</ele>
+      </trkpt>
+      <trkpt lat="37.10236397" lon="-121.46957399">
+        <ele>348.62000000</ele>
+      </trkpt>
+      <trkpt lat="37.10233304" lon="-121.46955899">
+        <ele>349.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.10224897" lon="-121.46948196">
+        <ele>350.06000000</ele>
+      </trkpt>
+      <trkpt lat="37.10216900" lon="-121.46943703">
+        <ele>351.02000000</ele>
+      </trkpt>
+      <trkpt lat="37.10209298" lon="-121.46943703">
+        <ele>352.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.10202802" lon="-121.46942899">
+        <ele>353.42000000</ele>
+      </trkpt>
+      <trkpt lat="37.10197798" lon="-121.46942102">
+        <ele>354.86000000</ele>
+      </trkpt>
+      <trkpt lat="37.10194403" lon="-121.46939797">
+        <ele>356.79000000</ele>
+      </trkpt>
+      <trkpt lat="37.10189802" lon="-121.46939102">
+        <ele>357.75000000</ele>
+      </trkpt>
+      <trkpt lat="37.10185602" lon="-121.46938297">
+        <ele>358.23000000</ele>
+      </trkpt>
+      <trkpt lat="37.10176500" lon="-121.46936797">
+        <ele>360.15000000</ele>
+      </trkpt>
+      <trkpt lat="37.10167296" lon="-121.46936000">
+        <ele>362.55000000</ele>
+      </trkpt>
+      <trkpt lat="37.10161999" lon="-121.46937601">
+        <ele>364.00000000</ele>
+      </trkpt>
+      <trkpt lat="37.10155897" lon="-121.46938297">
+        <ele>364.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.10144799" lon="-121.46945204">
+        <ele>365.92000000</ele>
+      </trkpt>
+      <trkpt lat="37.10135303" lon="-121.46948196">
+        <ele>366.88000000</ele>
+      </trkpt>
+      <trkpt lat="37.10131799" lon="-121.46946704">
+        <ele>368.32000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

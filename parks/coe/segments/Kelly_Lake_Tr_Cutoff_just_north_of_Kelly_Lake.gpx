@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Kelly Lake Tr Cutoff just north of Kelly Lake</name>
+  </metadata>
+  <trk>
+    <name>Kelly Lake Tr Cutoff just north of Kelly Lake</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.12250903" lon="-121.42793303">
+        <ele>579.81000000</ele>
+      </trkpt>
+      <trkpt lat="37.12250501" lon="-121.42803999">
+        <ele>579.81000000</ele>
+      </trkpt>
+      <trkpt lat="37.12250099" lon="-121.42814602">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12250501" lon="-121.42815398">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12250501" lon="-121.42820704">
+        <ele>578.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.12251297" lon="-121.42823797">
+        <ele>578.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.12253602" lon="-121.42839798">
+        <ele>577.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.12257802" lon="-121.42849697">
+        <ele>577.41000000</ele>
+      </trkpt>
+      <trkpt lat="37.12258497" lon="-121.42855103">
+        <ele>577.41000000</ele>
+      </trkpt>
+      <trkpt lat="37.12257399" lon="-121.42866503">
+        <ele>577.41000000</ele>
+      </trkpt>
+      <trkpt lat="37.12255103" lon="-121.42876402">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12249001" lon="-121.42884096">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12240996" lon="-121.42892503">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12236797" lon="-121.42896300">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12227602" lon="-121.42904699">
+        <ele>578.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.12219203" lon="-121.42913098">
+        <ele>578.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.12211601" lon="-121.42920700">
+        <ele>578.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.12205498" lon="-121.42928302">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12200201" lon="-121.42938998">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12197502" lon="-121.42949701">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

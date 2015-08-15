@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Kickham Ranch East Cutoff from Park Office to Wagon Rd</name>
+  </metadata>
+  <trk>
+    <name>Kickham Ranch East Cutoff from Park Office to Wagon Rd</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.03627911" lon="-121.42148735">
+        <ele>341.41000000</ele>
+      </trkpt>
+      <trkpt lat="37.03648472" lon="-121.42159715">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03649470" lon="-121.42160813">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03669737" lon="-121.42168734">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03688186" lon="-121.42178499">
+        <ele>342.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.03708654" lon="-121.42187661">
+        <ele>343.81000000</ele>
+      </trkpt>
+      <trkpt lat="37.03731981" lon="-121.42200368">
+        <ele>345.25000000</ele>
+      </trkpt>
+      <trkpt lat="37.03752047" lon="-121.42214634">
+        <ele>347.17000000</ele>
+      </trkpt>
+      <trkpt lat="37.03774997" lon="-121.42216997">
+        <ele>349.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.03794485" lon="-121.42219076">
+        <ele>350.54000000</ele>
+      </trkpt>
+      <trkpt lat="37.03812623" lon="-121.42221138">
+        <ele>352.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.03827853" lon="-121.42221574">
+        <ele>353.90000000</ele>
+      </trkpt>
+      <trkpt lat="37.03847450" lon="-121.42221255">
+        <ele>356.79000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

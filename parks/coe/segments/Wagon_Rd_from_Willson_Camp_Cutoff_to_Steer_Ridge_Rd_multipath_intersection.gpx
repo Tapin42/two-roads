@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Wagon Rd from Willson Camp Cutoff to Steer Ridge Rd multipath intersection</name>
+  </metadata>
+  <trk>
+    <name>Wagon Rd from Willson Camp Cutoff to Steer Ridge Rd multipath intersection</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.08045158" lon="-121.41339085">
+        <ele>637.01000000</ele>
+      </trkpt>
+      <trkpt lat="37.08046834" lon="-121.41340728">
+        <ele>637.01000000</ele>
+      </trkpt>
+      <trkpt lat="37.08050514" lon="-121.41342781">
+        <ele>637.49000000</ele>
+      </trkpt>
+      <trkpt lat="37.08054411" lon="-121.41348456">
+        <ele>637.97000000</ele>
+      </trkpt>
+      <trkpt lat="37.08072793" lon="-121.41366804">
+        <ele>639.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.08087017" lon="-121.41382839">
+        <ele>642.78000000</ele>
+      </trkpt>
+      <trkpt lat="37.08100839" lon="-121.41398496">
+        <ele>644.70000000</ele>
+      </trkpt>
+      <trkpt lat="37.08113336" lon="-121.41413625">
+        <ele>647.59000000</ele>
+      </trkpt>
+      <trkpt lat="37.08121223" lon="-121.41424295">
+        <ele>650.95000000</ele>
+      </trkpt>
+      <trkpt lat="37.08130477" lon="-121.41435712">
+        <ele>653.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.08145439" lon="-121.41449751">
+        <ele>655.76000000</ele>
+      </trkpt>
+      <trkpt lat="37.08163569" lon="-121.41459893">
+        <ele>656.72000000</ele>
+      </trkpt>
+      <trkpt lat="37.08176745" lon="-121.41465425">
+        <ele>658.16000000</ele>
+      </trkpt>
+      <trkpt lat="37.08193517" lon="-121.41474805">
+        <ele>656.72000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

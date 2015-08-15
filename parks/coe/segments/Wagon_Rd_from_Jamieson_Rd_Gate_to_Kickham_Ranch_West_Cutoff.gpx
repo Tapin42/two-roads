@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Wagon Rd from Jamieson Rd Gate to Kickham Ranch West Cutoff</name>
+  </metadata>
+  <trk>
+    <name>Wagon Rd from Jamieson Rd Gate to Kickham Ranch West Cutoff</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.03556699" lon="-121.42689829">
+        <ele>413.02000000</ele>
+      </trkpt>
+      <trkpt lat="37.03556699" lon="-121.42688865">
+        <ele>349.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.03557294" lon="-121.42687985">
+        <ele>349.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.03561175" lon="-121.42670718">
+        <ele>349.58000000</ele>
+      </trkpt>
+      <trkpt lat="37.03558467" lon="-121.42647626">
+        <ele>350.54000000</ele>
+      </trkpt>
+      <trkpt lat="37.03564486" lon="-121.42623645">
+        <ele>351.02000000</ele>
+      </trkpt>
+      <trkpt lat="37.03574988" lon="-121.42602062">
+        <ele>351.98000000</ele>
+      </trkpt>
+      <trkpt lat="37.03583169" lon="-121.42579339">
+        <ele>353.42000000</ele>
+      </trkpt>
+      <trkpt lat="37.03591551" lon="-121.42564327">
+        <ele>354.86000000</ele>
+      </trkpt>
+      <trkpt lat="37.03591995" lon="-121.42562684">
+        <ele>354.86000000</ele>
+      </trkpt>
+      <trkpt lat="37.03602204" lon="-121.42552491">
+        <ele>355.34000000</ele>
+      </trkpt>
+      <trkpt lat="37.03620158" lon="-121.42540656">
+        <ele>354.38000000</ele>
+      </trkpt>
+      <trkpt lat="37.03636042" lon="-121.42530380">
+        <ele>354.38000000</ele>
+      </trkpt>
+      <trkpt lat="37.03646343" lon="-121.42513666">
+        <ele>354.86000000</ele>
+      </trkpt>
+      <trkpt lat="37.03653971" lon="-121.42491739">
+        <ele>356.79000000</ele>
+      </trkpt>
+      <trkpt lat="37.03659059" lon="-121.42480315">
+        <ele>357.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.03663124" lon="-121.42476870">
+        <ele>357.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.03682176" lon="-121.42465311">
+        <ele>357.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.03701044" lon="-121.42466040">
+        <ele>355.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.03723717" lon="-121.42470416">
+        <ele>353.42000000</ele>
+      </trkpt>
+      <trkpt lat="37.03738318" lon="-121.42473911">
+        <ele>352.94000000</ele>
+      </trkpt>
+      <trkpt lat="37.03760228" lon="-121.42475193">
+        <ele>351.98000000</ele>
+      </trkpt>
+      <trkpt lat="37.03780211" lon="-121.42462302">
+        <ele>351.50000000</ele>
+      </trkpt>
+      <trkpt lat="37.03790302" lon="-121.42441481">
+        <ele>351.50000000</ele>
+      </trkpt>
+      <trkpt lat="37.03795055" lon="-121.42416093">
+        <ele>352.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.03794971" lon="-121.42412874">
+        <ele>352.46000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

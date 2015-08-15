@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Kelly Lake Tr Northeast Cutoff at Kelly Lake</name>
+  </metadata>
+  <trk>
+    <name>Kelly Lake Tr Northeast Cutoff at Kelly Lake</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.12325703" lon="-121.42918403">
+        <ele>566.35000000</ele>
+      </trkpt>
+      <trkpt lat="37.12324496" lon="-121.42908496">
+        <ele>566.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12322200" lon="-121.42897801">
+        <ele>566.35000000</ele>
+      </trkpt>
+      <trkpt lat="37.12314597" lon="-121.42890902">
+        <ele>568.28000000</ele>
+      </trkpt>
+      <trkpt lat="37.12311203" lon="-121.42884096">
+        <ele>569.24000000</ele>
+      </trkpt>
+      <trkpt lat="37.12307003" lon="-121.42880199">
+        <ele>570.68000000</ele>
+      </trkpt>
+      <trkpt lat="37.12299300" lon="-121.42875697">
+        <ele>572.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.12295503" lon="-121.42871900">
+        <ele>575.01000000</ele>
+      </trkpt>
+      <trkpt lat="37.12290600" lon="-121.42866503">
+        <ele>574.53000000</ele>
+      </trkpt>
+      <trkpt lat="37.12286803" lon="-121.42858104">
+        <ele>574.53000000</ele>
+      </trkpt>
+      <trkpt lat="37.12285202" lon="-121.42854298">
+        <ele>577.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.12281397" lon="-121.42848196">
+        <ele>578.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.12278002" lon="-121.42844399">
+        <ele>579.33000000</ele>
+      </trkpt>
+      <trkpt lat="37.12270400" lon="-121.42832204">
+        <ele>580.77000000</ele>
+      </trkpt>
+      <trkpt lat="37.12261599" lon="-121.42820000">
+        <ele>579.33000000</ele>
+      </trkpt>
+      <trkpt lat="37.12254700" lon="-121.42806203">
+        <ele>577.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.12251700" lon="-121.42795600">
+        <ele>576.45000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

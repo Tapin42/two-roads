@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Wagon Rd from Coit Rd to Fish &amp; Game Tr</name>
+  </metadata>
+  <trk>
+    <name>Wagon Rd from Coit Rd to Fish &amp; Game Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.13240380" lon="-121.41471700">
+        <ele>708.14843750</ele>
+      </trkpt>
+      <trkpt lat="37.13237150" lon="-121.41459130">
+        <ele>706.70629880</ele>
+      </trkpt>
+      <trkpt lat="37.13234900" lon="-121.41452770">
+        <ele>705.74511720</ele>
+      </trkpt>
+      <trkpt lat="37.13226200" lon="-121.41437640">
+        <ele>704.30322270</ele>
+      </trkpt>
+      <trkpt lat="37.13223070" lon="-121.41434730">
+        <ele>703.82250980</ele>
+      </trkpt>
+      <trkpt lat="37.13217380" lon="-121.41423810">
+        <ele>704.30322270</ele>
+      </trkpt>
+      <trkpt lat="37.13211800" lon="-121.41415060">
+        <ele>706.22558590</ele>
+      </trkpt>
+      <trkpt lat="37.13204810" lon="-121.41407860">
+        <ele>708.14843750</ele>
+      </trkpt>
+      <trkpt lat="37.13202520" lon="-121.41405750">
+        <ele>709.10961910</ele>
+      </trkpt>
+      <trkpt lat="37.13198160" lon="-121.41400560">
+        <ele>711.51293950</ele>
+      </trkpt>
+      <trkpt lat="37.13192390" lon="-121.41396610">
+        <ele>712.95483400</ele>
+      </trkpt>
+      <trkpt lat="37.13176250" lon="-121.41385650">
+        <ele>715.35815430</ele>
+      </trkpt>
+      <trkpt lat="37.13169300" lon="-121.41384480">
+        <ele>714.87744140</ele>
+      </trkpt>
+      <trkpt lat="37.13165470" lon="-121.41383800">
+        <ele>714.87744140</ele>
+      </trkpt>
+      <trkpt lat="37.13152330" lon="-121.41388450">
+        <ele>714.39672850</ele>
+      </trkpt>
+      <trkpt lat="37.13137780" lon="-121.41393550">
+        <ele>714.39672850</ele>
+      </trkpt>
+      <trkpt lat="37.13127100" lon="-121.41395550">
+        <ele>715.35815430</ele>
+      </trkpt>
+      <trkpt lat="37.13111950" lon="-121.41395710">
+        <ele>715.83886720</ele>
+      </trkpt>
+      <trkpt lat="37.13108200" lon="-121.41394580">
+        <ele>715.83886720</ele>
+      </trkpt>
+      <trkpt lat="37.13088000" lon="-121.41389450">
+        <ele>715.83886720</ele>
+      </trkpt>
+      <trkpt lat="37.13071580" lon="-121.41386410">
+        <ele>714.39672850</ele>
+      </trkpt>
+      <trkpt lat="37.13053550" lon="-121.41392770">
+        <ele>711.99365230</ele>
+      </trkpt>
+      <trkpt lat="37.13040050" lon="-121.41407510">
+        <ele>707.66772460</ele>
+      </trkpt>
+      <trkpt lat="37.13028870" lon="-121.41421460">
+        <ele>705.26440430</ele>
+      </trkpt>
+      <trkpt lat="37.13014630" lon="-121.41435940">
+        <ele>702.38037110</ele>
+      </trkpt>
+      <trkpt lat="37.13012740" lon="-121.41436630">
+        <ele>702.38037110</ele>
+      </trkpt>
+      <trkpt lat="37.13000090" lon="-121.41439280">
+        <ele>702.86108400</ele>
+      </trkpt>
+      <trkpt lat="37.12994930" lon="-121.41441500">
+        <ele>702.86108400</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Hunting Hollow Rd from Bill's Hill Tr to Redfern Tr</name>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Rd from Bill's Hill Tr to Redfern Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.05914847" lon="-121.43794673">
+        <ele>305.84000000</ele>
+      </trkpt>
+      <trkpt lat="37.05893716" lon="-121.43783608">
+        <ele>306.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.05874790" lon="-121.43769510">
+        <ele>308.24000000</ele>
+      </trkpt>
+      <trkpt lat="37.05863968" lon="-121.43747642">
+        <ele>307.76000000</ele>
+      </trkpt>
+      <trkpt lat="37.05861789" lon="-121.43720417">
+        <ele>306.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.05855452" lon="-121.43696068">
+        <ele>306.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.05843911" lon="-121.43675264">
+        <ele>306.80000000</ele>
+      </trkpt>
+      <trkpt lat="37.05828027" lon="-121.43648098">
+        <ele>307.28000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Coit Rd from Willow Ridge Rd to Coit Lake Tr</name>
+  </metadata>
+  <trk>
+    <name>Coit Rd from Willow Ridge Rd to Coit Lake Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.13040730" lon="-121.42772000">
+        <ele>661.04370120</ele>
+      </trkpt>
+      <trkpt lat="37.13040670" lon="-121.42771770">
+        <ele>661.52441410</ele>
+      </trkpt>
+      <trkpt lat="37.13042420" lon="-121.42771460">
+        <ele>662.48559570</ele>
+      </trkpt>
+      <trkpt lat="37.13054220" lon="-121.42770320">
+        <ele>665.36962890</ele>
+      </trkpt>
+      <trkpt lat="37.13059780" lon="-121.42769420">
+        <ele>666.33081050</ele>
+      </trkpt>
+      <trkpt lat="37.13064360" lon="-121.42767860">
+        <ele>667.29223630</ele>
+      </trkpt>
+      <trkpt lat="37.13073400" lon="-121.42766510">
+        <ele>667.77270510</ele>
+      </trkpt>
+      <trkpt lat="37.13079210" lon="-121.42765030">
+        <ele>668.25366210</ele>
+      </trkpt>
+      <trkpt lat="37.13088670" lon="-121.42761100">
+        <ele>668.73437500</ele>
+      </trkpt>
+      <trkpt lat="37.13094260" lon="-121.42760420">
+        <ele>670.17626950</ele>
+      </trkpt>
+      <trkpt lat="37.13108850" lon="-121.42755320">
+        <ele>673.54101560</ele>
+      </trkpt>
+      <trkpt lat="37.13113170" lon="-121.42752490">
+        <ele>673.06030270</ele>
+      </trkpt>
+      <trkpt lat="37.13124260" lon="-121.42744030">
+        <ele>673.06030270</ele>
+      </trkpt>
+      <trkpt lat="37.13128750" lon="-121.42740040">
+        <ele>672.57958980</ele>
+      </trkpt>
+      <trkpt lat="37.13144340" lon="-121.42734620">
+        <ele>671.13769530</ele>
+      </trkpt>
+      <trkpt lat="37.13163030" lon="-121.42733050">
+        <ele>671.61816410</ele>
+      </trkpt>
+      <trkpt lat="37.13176460" lon="-121.42731390">
+        <ele>670.65698240</ele>
+      </trkpt>
+      <trkpt lat="37.13180840" lon="-121.42730380">
+        <ele>670.17626950</ele>
+      </trkpt>
+      <trkpt lat="37.13185470" lon="-121.42729810">
+        <ele>670.17626950</ele>
+      </trkpt>
+      <trkpt lat="37.13194710" lon="-121.42726320">
+        <ele>670.17626950</ele>
+      </trkpt>
+      <trkpt lat="37.13208870" lon="-121.42711610">
+        <ele>671.13769530</ele>
+      </trkpt>
+      <trkpt lat="37.13213920" lon="-121.42698180">
+        <ele>671.13769530</ele>
+      </trkpt>
+      <trkpt lat="37.13217960" lon="-121.42691110">
+        <ele>670.17626950</ele>
+      </trkpt>
+      <trkpt lat="37.13221310" lon="-121.42685280">
+        <ele>669.21508790</ele>
+      </trkpt>
+      <trkpt lat="37.13235670" lon="-121.42675010">
+        <ele>666.81152340</ele>
+      </trkpt>
+      <trkpt lat="37.13244440" lon="-121.42668910">
+        <ele>665.36962890</ele>
+      </trkpt>
+      <trkpt lat="37.13249390" lon="-121.42664570">
+        <ele>664.40820310</ele>
+      </trkpt>
+      <trkpt lat="37.13259750" lon="-121.42658470">
+        <ele>663.44702150</ele>
+      </trkpt>
+      <trkpt lat="37.13261470" lon="-121.42656070">
+        <ele>662.96630860</ele>
+      </trkpt>
+      <trkpt lat="37.13274900" lon="-121.42640340">
+        <ele>662.96630860</ele>
+      </trkpt>
+      <trkpt lat="37.13279730" lon="-121.42635150">
+        <ele>662.00512700</ele>
+      </trkpt>
+      <trkpt lat="37.13285820" lon="-121.42618810">
+        <ele>661.04370120</ele>
+      </trkpt>
+      <trkpt lat="37.13288190" lon="-121.42607170">
+        <ele>658.15991210</ele>
+      </trkpt>
+      <trkpt lat="37.13288070" lon="-121.42602820">
+        <ele>655.75659180</ele>
+      </trkpt>
+      <trkpt lat="37.13290800" lon="-121.42592200">
+        <ele>653.35327150</ele>
+      </trkpt>
+      <trkpt lat="37.13297610" lon="-121.42574950">
+        <ele>651.43041990</ele>
+      </trkpt>
+      <trkpt lat="37.13300830" lon="-121.42566050">
+        <ele>650.46923830</ele>
+      </trkpt>
+      <trkpt lat="37.13302780" lon="-121.42562380">
+        <ele>649.98852540</ele>
+      </trkpt>
+      <trkpt lat="37.13304090" lon="-121.42556590">
+        <ele>649.02709960</ele>
+      </trkpt>
+      <trkpt lat="37.13302150" lon="-121.42546520">
+        <ele>644.22070310</ele>
+      </trkpt>
+      <trkpt lat="37.13301360" lon="-121.42542920">
+        <ele>643.25927730</ele>
+      </trkpt>
+      <trkpt lat="37.13302660" lon="-121.42530510">
+        <ele>639.89477540</ele>
+      </trkpt>
+      <trkpt lat="37.13304470" lon="-121.42518480">
+        <ele>637.97216800</ele>
+      </trkpt>
+      <trkpt lat="37.13304920" lon="-121.42512560">
+        <ele>637.49145510</ele>
+      </trkpt>
+      <trkpt lat="37.13300920" lon="-121.42496390">
+        <ele>636.04956050</ele>
+      </trkpt>
+      <trkpt lat="37.13293550" lon="-121.42482650">
+        <ele>630.28149410</ele>
+      </trkpt>
+      <trkpt lat="37.13293960" lon="-121.42475140">
+        <ele>628.35888670</ele>
+      </trkpt>
+      <trkpt lat="37.13294970" lon="-121.42466360">
+        <ele>629.32006840</ele>
+      </trkpt>
+      <trkpt lat="37.13289960" lon="-121.42460460">
+        <ele>630.76220700</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Center Flats Rd from Walsh Tr to Scherrer Tr</name>
+  </metadata>
+  <trk>
+    <name>Center Flats Rd from Walsh Tr to Scherrer Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.12144101" lon="-121.38669600">
+        <ele>585.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.12147504" lon="-121.38659701">
+        <ele>585.58000000</ele>
+      </trkpt>
+      <trkpt lat="37.12147504" lon="-121.38658896">
+        <ele>585.58000000</ele>
+      </trkpt>
+      <trkpt lat="37.12141402" lon="-121.38639802">
+        <ele>585.58000000</ele>
+      </trkpt>
+      <trkpt lat="37.12135300" lon="-121.38624597">
+        <ele>586.06000000</ele>
+      </trkpt>
+      <trkpt lat="37.12134596" lon="-121.38621496">
+        <ele>586.54000000</ele>
+      </trkpt>
+      <trkpt lat="37.12132299" lon="-121.38617699">
+        <ele>586.54000000</ele>
+      </trkpt>
+      <trkpt lat="37.12130698" lon="-121.38613902">
+        <ele>587.02000000</ele>
+      </trkpt>
+      <trkpt lat="37.12120397" lon="-121.38593299">
+        <ele>588.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.12114303" lon="-121.38576502">
+        <ele>588.95000000</ele>
+      </trkpt>
+      <trkpt lat="37.12108998" lon="-121.38562001">
+        <ele>590.87000000</ele>
+      </trkpt>
+      <trkpt lat="37.12102502" lon="-121.38547501">
+        <ele>591.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.12095997" lon="-121.38534500">
+        <ele>593.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.12093399" lon="-121.38529203">
+        <ele>594.23000000</ele>
+      </trkpt>
+      <trkpt lat="37.12091404" lon="-121.38523101">
+        <ele>594.71000000</ele>
+      </trkpt>
+      <trkpt lat="37.12089200" lon="-121.38516203">
+        <ele>595.19000000</ele>
+      </trkpt>
+      <trkpt lat="37.12077700" lon="-121.38503999">
+        <ele>595.19000000</ele>
+      </trkpt>
+      <trkpt lat="37.12073500" lon="-121.38497201">
+        <ele>593.75000000</ele>
+      </trkpt>
+      <trkpt lat="37.12071598" lon="-121.38492599">
+        <ele>592.79000000</ele>
+      </trkpt>
+      <trkpt lat="37.12070500" lon="-121.38489498">
+        <ele>592.31000000</ele>
+      </trkpt>
+      <trkpt lat="37.12061699" lon="-121.38472700">
+        <ele>590.39000000</ele>
+      </trkpt>
+      <trkpt lat="37.12057097" lon="-121.38459801">
+        <ele>589.91000000</ele>
+      </trkpt>
+      <trkpt lat="37.12057097" lon="-121.38459801">
+        <ele>589.91000000</ele>
+      </trkpt>
+      <trkpt lat="37.12056703" lon="-121.38458996">
+        <ele>589.91000000</ele>
+      </trkpt>
+      <trkpt lat="37.12054800" lon="-121.38452902">
+        <ele>590.39000000</ele>
+      </trkpt>
+      <trkpt lat="37.12052202" lon="-121.38446004">
+        <ele>590.87000000</ele>
+      </trkpt>
+      <trkpt lat="37.12044901" lon="-121.38433096">
+        <ele>593.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.12041900" lon="-121.38429299">
+        <ele>593.75000000</ele>
+      </trkpt>
+      <trkpt lat="37.12039897" lon="-121.38427002">
+        <ele>593.75000000</ele>
+      </trkpt>
+      <trkpt lat="37.12030401" lon="-121.38414798">
+        <ele>593.75000000</ele>
+      </trkpt>
+      <trkpt lat="37.12022404" lon="-121.38410197">
+        <ele>593.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.12006001" lon="-121.38404103">
+        <ele>595.19000000</ele>
+      </trkpt>
+      <trkpt lat="37.11991902" lon="-121.38393399">
+        <ele>593.75000000</ele>
+      </trkpt>
+      <trkpt lat="37.11980402" lon="-121.38380399">
+        <ele>594.71000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

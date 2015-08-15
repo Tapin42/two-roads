@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Hunting Hollow Rd from Gibson Pond Tr to Wagon Rd</name>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Rd from Gibson Pond Tr to Wagon Rd</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.05066648" lon="-121.42938159">
+        <ele>335.64000000</ele>
+      </trkpt>
+      <trkpt lat="37.05045400" lon="-121.42934631">
+        <ele>335.16000000</ele>
+      </trkpt>
+      <trkpt lat="37.05044503" lon="-121.42935209">
+        <ele>334.68000000</ele>
+      </trkpt>
+      <trkpt lat="37.05027756" lon="-121.42922410">
+        <ele>335.16000000</ele>
+      </trkpt>
+      <trkpt lat="37.05008092" lon="-121.42903618">
+        <ele>335.64000000</ele>
+      </trkpt>
+      <trkpt lat="37.04986065" lon="-121.42885529">
+        <ele>336.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.04977817" lon="-121.42862722">
+        <ele>336.12000000</ele>
+      </trkpt>
+      <trkpt lat="37.04970801" lon="-121.42839228">
+        <ele>337.56000000</ele>
+      </trkpt>
+      <trkpt lat="37.04968949" lon="-121.42832304">
+        <ele>337.56000000</ele>
+      </trkpt>
+      <trkpt lat="37.04963543" lon="-121.42801861">
+        <ele>339.48000000</ele>
+      </trkpt>
+      <trkpt lat="37.04956938" lon="-121.42776825">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.04953669" lon="-121.42762458">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.04945329" lon="-121.42740984">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.04936930" lon="-121.42721697">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.04932454" lon="-121.42704564">
+        <ele>339.96000000</ele>
+      </trkpt>
+      <trkpt lat="37.04927274" lon="-121.42674473">
+        <ele>340.92000000</ele>
+      </trkpt>
+      <trkpt lat="37.04920225" lon="-121.42649361">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.04906059" lon="-121.42632295">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.04903880" lon="-121.42628029">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.04898650" lon="-121.42620251">
+        <ele>342.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.04896026" lon="-121.42612556">
+        <ele>343.33000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

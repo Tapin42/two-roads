@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Dexter Tr from Unnamed Pond Tr to Wasno Rd</name>
+  </metadata>
+  <trk>
+    <name>Dexter Tr from Unnamed Pond Tr to Wasno Rd</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.11388799" lon="-121.43938397">
+        <ele>729.78000000</ele>
+      </trkpt>
+      <trkpt lat="37.11394499" lon="-121.43930099">
+        <ele>730.74000000</ele>
+      </trkpt>
+      <trkpt lat="37.11399796" lon="-121.43924701">
+        <ele>732.66000000</ele>
+      </trkpt>
+      <trkpt lat="37.11405203" lon="-121.43920904">
+        <ele>734.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.11410500" lon="-121.43915598">
+        <ele>735.07000000</ele>
+      </trkpt>
+      <trkpt lat="37.11415898" lon="-121.43907200">
+        <ele>736.03000000</ele>
+      </trkpt>
+      <trkpt lat="37.11419301" lon="-121.43898801">
+        <ele>736.99000000</ele>
+      </trkpt>
+      <trkpt lat="37.11423500" lon="-121.43891098">
+        <ele>738.43000000</ele>
+      </trkpt>
+      <trkpt lat="37.11430399" lon="-121.43883504">
+        <ele>739.39000000</ele>
+      </trkpt>
+      <trkpt lat="37.11437196" lon="-121.43875902">
+        <ele>740.35000000</ele>
+      </trkpt>
+      <trkpt lat="37.11441798" lon="-121.43872096">
+        <ele>740.83000000</ele>
+      </trkpt>
+      <trkpt lat="37.11449401" lon="-121.43864402">
+        <ele>742.76000000</ele>
+      </trkpt>
+      <trkpt lat="37.11452099" lon="-121.43862197">
+        <ele>743.72000000</ele>
+      </trkpt>
+      <trkpt lat="37.11453600" lon="-121.43860596">
+        <ele>744.20000000</ele>
+      </trkpt>
+      <trkpt lat="37.11461596" lon="-121.43856799">
+        <ele>745.64000000</ele>
+      </trkpt>
+      <trkpt lat="37.11463499" lon="-121.43855299">
+        <ele>746.12000000</ele>
+      </trkpt>
+      <trkpt lat="37.11476499" lon="-121.43854503">
+        <ele>746.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.11487597" lon="-121.43856003">
+        <ele>748.04000000</ele>
+      </trkpt>
+      <trkpt lat="37.11489902" lon="-121.43856003">
+        <ele>748.04000000</ele>
+      </trkpt>
+      <trkpt lat="37.11498602" lon="-121.43859096">
+        <ele>750.45000000</ele>
+      </trkpt>
+      <trkpt lat="37.11506297" lon="-121.43861401">
+        <ele>752.85000000</ele>
+      </trkpt>
+      <trkpt lat="37.11511997" lon="-121.43862901">
+        <ele>754.29000000</ele>
+      </trkpt>
+      <trkpt lat="37.11519599" lon="-121.43866003">
+        <ele>755.73000000</ele>
+      </trkpt>
+      <trkpt lat="37.11526103" lon="-121.43866698">
+        <ele>756.69000000</ele>
+      </trkpt>
+      <trkpt lat="37.11527302" lon="-121.43866698">
+        <ele>756.21000000</ele>
+      </trkpt>
+      <trkpt lat="37.11527302" lon="-121.43866698">
+        <ele>756.69000000</ele>
+      </trkpt>
+      <trkpt lat="37.11540604" lon="-121.43862901">
+        <ele>754.29000000</ele>
+      </trkpt>
+      <trkpt lat="37.11552003" lon="-121.43862197">
+        <ele>752.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.11562003" lon="-121.43861401">
+        <ele>751.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.11575297" lon="-121.43863698">
+        <ele>750.93000000</ele>
+      </trkpt>
+      <trkpt lat="37.11585598" lon="-121.43867503">
+        <ele>751.41000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

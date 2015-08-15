@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Live Oak Spring Tr from Wagon Rd to Gunsight Tr</name>
+  </metadata>
+  <trk>
+    <name>Live Oak Spring Tr from Wagon Rd to Gunsight Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.12994930" lon="-121.41441500">
+        <ele>702.86108400</ele>
+      </trkpt>
+      <trkpt lat="37.12994150" lon="-121.41439110">
+        <ele>702.86108400</ele>
+      </trkpt>
+      <trkpt lat="37.12994150" lon="-121.41439110">
+        <ele>702.86108400</ele>
+      </trkpt>
+      <trkpt lat="37.12994470" lon="-121.41435820">
+        <ele>702.86108400</ele>
+      </trkpt>
+      <trkpt lat="37.13000180" lon="-121.41423310">
+        <ele>699.49633790</ele>
+      </trkpt>
+      <trkpt lat="37.13009570" lon="-121.41405640">
+        <ele>697.09301760</ele>
+      </trkpt>
+      <trkpt lat="37.13022080" lon="-121.41390440">
+        <ele>697.57373050</ele>
+      </trkpt>
+      <trkpt lat="37.13038970" lon="-121.41380010">
+        <ele>697.57373050</ele>
+      </trkpt>
+      <trkpt lat="37.13047080" lon="-121.41360670">
+        <ele>696.61254880</ele>
+      </trkpt>
+      <trkpt lat="37.13053620" lon="-121.41338560">
+        <ele>695.17041020</ele>
+      </trkpt>
+      <trkpt lat="37.13068460" lon="-121.41325250">
+        <ele>694.20922850</ele>
+      </trkpt>
+      <trkpt lat="37.13071980" lon="-121.41324360">
+        <ele>694.20922850</ele>
+      </trkpt>
+      <trkpt lat="37.13087880" lon="-121.41318530">
+        <ele>691.32519530</ele>
+      </trkpt>
+      <trkpt lat="37.13094540" lon="-121.41312820">
+        <ele>690.84448240</ele>
+      </trkpt>
+      <trkpt lat="37.13098620" lon="-121.41307070">
+        <ele>690.84448240</ele>
+      </trkpt>
+      <trkpt lat="37.13117350" lon="-121.41298830">
+        <ele>690.36401370</ele>
+      </trkpt>
+      <trkpt lat="37.13118490" lon="-121.41298530">
+        <ele>690.36401370</ele>
+      </trkpt>
+      <trkpt lat="37.13129140" lon="-121.41279830">
+        <ele>689.88330080</ele>
+      </trkpt>
+      <trkpt lat="37.13135100" lon="-121.41261230">
+        <ele>688.92211910</ele>
+      </trkpt>
+      <trkpt lat="37.13138100" lon="-121.41251650">
+        <ele>687.96069340</ele>
+      </trkpt>
+      <trkpt lat="37.13141710" lon="-121.41246180">
+        <ele>687.47998050</ele>
+      </trkpt>
+      <trkpt lat="37.13146110" lon="-121.41244870">
+        <ele>686.51879880</ele>
+      </trkpt>
+      <trkpt lat="37.13156770" lon="-121.41253540">
+        <ele>681.23144530</ele>
+      </trkpt>
+      <trkpt lat="37.13157360" lon="-121.41255640">
+        <ele>680.27001950</ele>
+      </trkpt>
+      <trkpt lat="37.13160270" lon="-121.41267770">
+        <ele>673.54101560</ele>
+      </trkpt>
+      <trkpt lat="37.13162650" lon="-121.41273150">
+        <ele>670.17626950</ele>
+      </trkpt>
+      <trkpt lat="37.13170670" lon="-121.41286250">
+        <ele>664.40820310</ele>
+      </trkpt>
+      <trkpt lat="37.13178630" lon="-121.41293290">
+        <ele>663.92749020</ele>
+      </trkpt>
+      <trkpt lat="37.13179490" lon="-121.41293450">
+        <ele>663.92749020</ele>
+      </trkpt>
+      <trkpt lat="37.13188590" lon="-121.41297570">
+        <ele>663.44702150</ele>
+      </trkpt>
+      <trkpt lat="37.13192750" lon="-121.41300390">
+        <ele>663.44702150</ele>
+      </trkpt>
+      <trkpt lat="37.13202400" lon="-121.41300400">
+        <ele>661.04370120</ele>
+      </trkpt>
+      <trkpt lat="37.13213210" lon="-121.41295090">
+        <ele>662.00512700</ele>
+      </trkpt>
+      <trkpt lat="37.13215380" lon="-121.41292590">
+        <ele>662.48559570</ele>
+      </trkpt>
+      <trkpt lat="37.13223010" lon="-121.41286350">
+        <ele>663.92749020</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

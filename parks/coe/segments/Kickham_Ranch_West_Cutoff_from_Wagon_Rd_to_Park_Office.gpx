@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Kickham Ranch West Cutoff from Wagon Rd to Park Office</name>
+  </metadata>
+  <trk>
+    <name>Kickham Ranch West Cutoff from Wagon Rd to Park Office</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.03794971" lon="-121.42412874">
+        <ele>352.46000000</ele>
+      </trkpt>
+      <trkpt lat="37.03782180" lon="-121.42397988">
+        <ele>351.02000000</ele>
+      </trkpt>
+      <trkpt lat="37.03767990" lon="-121.42381433">
+        <ele>349.10000000</ele>
+      </trkpt>
+      <trkpt lat="37.03754470" lon="-121.42367419">
+        <ele>348.13000000</ele>
+      </trkpt>
+      <trkpt lat="37.03739030" lon="-121.42350747">
+        <ele>346.69000000</ele>
+      </trkpt>
+      <trkpt lat="37.03723339" lon="-121.42332567">
+        <ele>345.73000000</ele>
+      </trkpt>
+      <trkpt lat="37.03706819" lon="-121.42316130">
+        <ele>344.77000000</ele>
+      </trkpt>
+      <trkpt lat="37.03691723" lon="-121.42298746">
+        <ele>344.29000000</ele>
+      </trkpt>
+      <trkpt lat="37.03674884" lon="-121.42279124">
+        <ele>343.33000000</ele>
+      </trkpt>
+      <trkpt lat="37.03658187" lon="-121.42260558">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03645572" lon="-121.42242705">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03644449" lon="-121.42236661">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03644072" lon="-121.42229679">
+        <ele>341.89000000</ele>
+      </trkpt>
+      <trkpt lat="37.03645052" lon="-121.42206612">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03645036" lon="-121.42184442">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03639663" lon="-121.42172213">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <trkpt lat="37.03625799" lon="-121.42146011">
+        <ele>342.37000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

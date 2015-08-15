@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Grizzly Gulch Rd from Serpentine Tr to Tule Pond Tr</name>
+  </metadata>
+  <trk>
+    <name>Grizzly Gulch Rd from Serpentine Tr to Tule Pond Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.09552576" lon="-121.42176387">
+        <ele>627.40000000</ele>
+      </trkpt>
+      <trkpt lat="37.09564495" lon="-121.42178843">
+        <ele>628.36000000</ele>
+      </trkpt>
+      <trkpt lat="37.09567429" lon="-121.42177954">
+        <ele>628.36000000</ele>
+      </trkpt>
+      <trkpt lat="37.09574654" lon="-121.42173897">
+        <ele>629.32000000</ele>
+      </trkpt>
+      <trkpt lat="37.09594653" lon="-121.42172716">
+        <ele>630.28000000</ele>
+      </trkpt>
+      <trkpt lat="37.09595650" lon="-121.42172867">
+        <ele>630.28000000</ele>
+      </trkpt>
+      <trkpt lat="37.09602800" lon="-121.42174585">
+        <ele>629.80000000</ele>
+      </trkpt>
+      <trkpt lat="37.09622783" lon="-121.42177016">
+        <ele>630.76000000</ele>
+      </trkpt>
+      <trkpt lat="37.09636236" lon="-121.42191273">
+        <ele>629.80000000</ele>
+      </trkpt>
+      <trkpt lat="37.09651046" lon="-121.42210694">
+        <ele>627.40000000</ele>
+      </trkpt>
+      <trkpt lat="37.09670668" lon="-121.42219218">
+        <ele>627.40000000</ele>
+      </trkpt>
+      <trkpt lat="37.09686468" lon="-121.42230174">
+        <ele>624.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.09687600" lon="-121.42230936">
+        <ele>624.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.09695806" lon="-121.42234993">
+        <ele>623.07000000</ele>
+      </trkpt>
+      <trkpt lat="37.09716191" lon="-121.42250659">
+        <ele>621.15000000</ele>
+      </trkpt>
+      <trkpt lat="37.09730943" lon="-121.42262486">
+        <ele>617.78000000</ele>
+      </trkpt>
+      <trkpt lat="37.09748595" lon="-121.42267590">
+        <ele>614.90000000</ele>
+      </trkpt>
+      <trkpt lat="37.09765342" lon="-121.42266727">
+        <ele>612.02000000</ele>
+      </trkpt>
+      <trkpt lat="37.09779357" lon="-121.42262972">
+        <ele>608.65000000</ele>
+      </trkpt>
+      <trkpt lat="37.09800152" lon="-121.42257096">
+        <ele>606.25000000</ele>
+      </trkpt>
+      <trkpt lat="37.09814334" lon="-121.42254758">
+        <ele>602.88000000</ele>
+      </trkpt>
+      <trkpt lat="37.09832842" lon="-121.42256367">
+        <ele>599.52000000</ele>
+      </trkpt>
+      <trkpt lat="37.09858180" lon="-121.42265713">
+        <ele>598.56000000</ele>
+      </trkpt>
+      <trkpt lat="37.09881524" lon="-121.42272854">
+        <ele>599.52000000</ele>
+      </trkpt>
+      <trkpt lat="37.09883586" lon="-121.42269770">
+        <ele>599.04000000</ele>
+      </trkpt>
+      <trkpt lat="37.09886419" lon="-121.42270105">
+        <ele>598.08000000</ele>
+      </trkpt>
+      <trkpt lat="37.09884390" lon="-121.42270465">
+        <ele>597.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.09886276" lon="-121.42271069">
+        <ele>597.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.09886008" lon="-121.42271404">
+        <ele>596.64000000</ele>
+      </trkpt>
+      <trkpt lat="37.09886787" lon="-121.42270541">
+        <ele>597.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.09887525" lon="-121.42271639">
+        <ele>597.60000000</ele>
+      </trkpt>
+      <trkpt lat="37.09909762" lon="-121.42308251">
+        <ele>597.12000000</ele>
+      </trkpt>
+      <trkpt lat="37.09912897" lon="-121.42310288">
+        <ele>597.12000000</ele>
+      </trkpt>
+      <trkpt lat="37.09926585" lon="-121.42327890">
+        <ele>595.19000000</ele>
+      </trkpt>
+      <trkpt lat="37.09946525" lon="-121.42342466">
+        <ele>593.27000000</ele>
+      </trkpt>
+      <trkpt lat="37.09961261" lon="-121.42353295">
+        <ele>592.31000000</ele>
+      </trkpt>
+      <trkpt lat="37.09973934" lon="-121.42360210">
+        <ele>591.35000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

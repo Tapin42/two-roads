@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Bowl Trail from Steer Ridge Rd multipath intersection to Willson Camp</name>
+  </metadata>
+  <trk>
+    <name>Bowl Trail from Steer Ridge Rd multipath intersection to Willson Camp</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.08197029" lon="-121.41473925">
+        <ele>653.83398400</ele>
+      </trkpt>
+      <trkpt lat="37.08191807" lon="-121.41486355">
+        <ele>653.35327100</ele>
+      </trkpt>
+      <trkpt lat="37.08185613" lon="-121.41501501">
+        <ele>650.94970700</ele>
+      </trkpt>
+      <trkpt lat="37.08183920" lon="-121.41507586">
+        <ele>649.98852500</ele>
+      </trkpt>
+      <trkpt lat="37.08181892" lon="-121.41522112">
+        <ele>646.62402300</ele>
+      </trkpt>
+      <trkpt lat="37.08182302" lon="-121.41536135">
+        <ele>644.22070300</ele>
+      </trkpt>
+      <trkpt lat="37.08183375" lon="-121.41542162">
+        <ele>643.25927700</ele>
+      </trkpt>
+      <trkpt lat="37.08184037" lon="-121.41550569">
+        <ele>640.85595700</ele>
+      </trkpt>
+      <trkpt lat="37.08184012" lon="-121.41564558">
+        <ele>639.89477500</ele>
+      </trkpt>
+      <trkpt lat="37.08183778" lon="-121.41568766">
+        <ele>639.41406200</ele>
+      </trkpt>
+      <trkpt lat="37.08186636" lon="-121.41585002">
+        <ele>637.01074200</ele>
+      </trkpt>
+      <trkpt lat="37.08189569" lon="-121.41591992">
+        <ele>636.53027300</ele>
+      </trkpt>
+      <trkpt lat="37.08192470" lon="-121.41596435">
+        <ele>636.04956100</ele>
+      </trkpt>
+      <trkpt lat="37.08194070" lon="-121.41598815">
+        <ele>636.04956100</ele>
+      </trkpt>
+      <trkpt lat="37.08195034" lon="-121.41601573">
+        <ele>635.56860400</ele>
+      </trkpt>
+      <trkpt lat="37.08197784" lon="-121.41606065">
+        <ele>635.56860400</ele>
+      </trkpt>
+      <trkpt lat="37.08199577" lon="-121.41611304">
+        <ele>634.60742200</ele>
+      </trkpt>
+      <trkpt lat="37.08200843" lon="-121.41616861">
+        <ele>634.12670900</ele>
+      </trkpt>
+      <trkpt lat="37.08200818" lon="-121.41622603">
+        <ele>633.16528300</ele>
+      </trkpt>
+      <trkpt lat="37.08194649" lon="-121.41631605">
+        <ele>631.72338900</ele>
+      </trkpt>
+      <trkpt lat="37.08188446" lon="-121.41631898">
+        <ele>631.24292000</ele>
+      </trkpt>
+      <trkpt lat="37.08181565" lon="-121.41630264">
+        <ele>629.32006800</ele>
+      </trkpt>
+      <trkpt lat="37.08172965" lon="-121.41638378">
+        <ele>627.39770500</ele>
+      </trkpt>
+      <trkpt lat="37.08170023" lon="-121.41640238">
+        <ele>626.91699200</ele>
+      </trkpt>
+      <trkpt lat="37.08170610" lon="-121.41638663">
+        <ele>627.39770500</ele>
+      </trkpt>
+      <trkpt lat="37.08171657" lon="-121.41636592">
+        <ele>627.87817400</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Steer Ridge Rd from Willson Peak Tr to Middle Steer Ridge Tr</name>
+  </metadata>
+  <trk>
+    <name>Steer Ridge Rd from Willson Peak Tr to Middle Steer Ridge Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.09404929" lon="-121.43452079">
+        <ele>800.44000000</ele>
+      </trkpt>
+      <trkpt lat="37.09399967" lon="-121.43476982">
+        <ele>798.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.09400629" lon="-121.43491608">
+        <ele>798.03000000</ele>
+      </trkpt>
+      <trkpt lat="37.09402054" lon="-121.43504248">
+        <ele>798.03000000</ele>
+      </trkpt>
+      <trkpt lat="37.09401400" lon="-121.43519939">
+        <ele>797.55000000</ele>
+      </trkpt>
+      <trkpt lat="37.09403671" lon="-121.43522453">
+        <ele>796.59000000</ele>
+      </trkpt>
+      <trkpt lat="37.09403663" lon="-121.43521263">
+        <ele>796.59000000</ele>
+      </trkpt>
+      <trkpt lat="37.09403311" lon="-121.43520894">
+        <ele>797.07000000</ele>
+      </trkpt>
+      <trkpt lat="37.09405423" lon="-121.43520777">
+        <ele>797.55000000</ele>
+      </trkpt>
+      <trkpt lat="37.09404099" lon="-121.43526100">
+        <ele>798.03000000</ele>
+      </trkpt>
+      <trkpt lat="37.09399858" lon="-121.43549955">
+        <ele>798.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.09399338" lon="-121.43562259">
+        <ele>798.51000000</ele>
+      </trkpt>
+      <trkpt lat="37.09398282" lon="-121.43578864">
+        <ele>797.55000000</ele>
+      </trkpt>
+      <trkpt lat="37.09398860" lon="-121.43588034">
+        <ele>796.59000000</ele>
+      </trkpt>
+      <trkpt lat="37.09393647" lon="-121.43613481">
+        <ele>793.71000000</ele>
+      </trkpt>
+      <trkpt lat="37.09393496" lon="-121.43617286">
+        <ele>793.22000000</ele>
+      </trkpt>
+      <trkpt lat="37.09385533" lon="-121.43640219">
+        <ele>790.82000000</ele>
+      </trkpt>
+      <trkpt lat="37.09380252" lon="-121.43656514">
+        <ele>787.94000000</ele>
+      </trkpt>
+      <trkpt lat="37.09374553" lon="-121.43673521">
+        <ele>785.53000000</ele>
+      </trkpt>
+      <trkpt lat="37.09370169" lon="-121.43696831">
+        <ele>784.09000000</ele>
+      </trkpt>
+      <trkpt lat="37.09365433" lon="-121.43719839">
+        <ele>782.65000000</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

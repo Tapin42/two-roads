@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Coit Rd from Coyote Creek TH to Grizzly Gulch Tr</name>
+  </metadata>
+  <trk>
+    <name>Coit Rd from Coyote Creek TH to Grizzly Gulch Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.09949800" lon="-121.47256260">
+        <ele>270.26770020</ele>
+      </trkpt>
+      <trkpt lat="37.09968340" lon="-121.47261440">
+        <ele>269.30651860</ele>
+      </trkpt>
+      <trkpt lat="37.09980650" lon="-121.47262440">
+        <ele>269.30651860</ele>
+      </trkpt>
+      <trkpt lat="37.09983260" lon="-121.47262230">
+        <ele>279.88085940</ele>
+      </trkpt>
+      <trkpt lat="37.09985260" lon="-121.47263790">
+        <ele>282.28430180</ele>
+      </trkpt>
+      <trkpt lat="37.09986270" lon="-121.47262950">
+        <ele>283.72619630</ele>
+      </trkpt>
+      <trkpt lat="37.09997740" lon="-121.47258140">
+        <ele>284.20690920</ele>
+      </trkpt>
+      <trkpt lat="37.10008650" lon="-121.47252460">
+        <ele>283.24560550</ele>
+      </trkpt>
+      <trkpt lat="37.10011840" lon="-121.47248500">
+        <ele>282.76501460</ele>
+      </trkpt>
+      <trkpt lat="37.10016400" lon="-121.47249720">
+        <ele>281.80358890</ele>
+      </trkpt>
+      <trkpt lat="37.10035170" lon="-121.47239000">
+        <ele>280.36169430</ele>
+      </trkpt>
+      <trkpt lat="37.10044400" lon="-121.47231740">
+        <ele>279.40026860</ele>
+      </trkpt>
+      <trkpt lat="37.10045000" lon="-121.47230460">
+        <ele>278.91967770</ele>
+      </trkpt>
+      <trkpt lat="37.10053500" lon="-121.47220730">
+        <ele>278.91967770</ele>
+      </trkpt>
+      <trkpt lat="37.10065990" lon="-121.47212850">
+        <ele>279.88085940</ele>
+      </trkpt>
+      <trkpt lat="37.10068830" lon="-121.47212570">
+        <ele>279.88085940</ele>
+      </trkpt>
+      <trkpt lat="37.10083650" lon="-121.47206650">
+        <ele>278.91967770</ele>
+      </trkpt>
+      <trkpt lat="37.10086330" lon="-121.47205510">
+        <ele>278.91967770</ele>
+      </trkpt>
+      <trkpt lat="37.10100250" lon="-121.47203720">
+        <ele>279.40026860</ele>
+      </trkpt>
+      <trkpt lat="37.10118090" lon="-121.47203680">
+        <ele>278.91967770</ele>
+      </trkpt>
+      <trkpt lat="37.10119300" lon="-121.47203780">
+        <ele>278.91967770</ele>
+      </trkpt>
+      <trkpt lat="37.10133860" lon="-121.47206390">
+        <ele>278.43896480</ele>
+      </trkpt>
+      <trkpt lat="37.10137500" lon="-121.47206760">
+        <ele>278.43896480</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>

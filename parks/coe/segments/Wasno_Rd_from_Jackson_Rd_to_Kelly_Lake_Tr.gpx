@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx>
+  <metadata>
+    <name>Wasno Rd from Jackson Rd to Kelly Lake Tr</name>
+  </metadata>
+  <trk>
+    <name>Wasno Rd from Jackson Rd to Kelly Lake Tr</name>
+    <extensions>
+      <twr:mapYear>2006</twr:mapYear>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.11995310" lon="-121.44662590">
+        <ele>729.77783200</ele>
+      </trkpt>
+      <trkpt lat="37.11993770" lon="-121.44661420">
+        <ele>730.25854490</ele>
+      </trkpt>
+      <trkpt lat="37.11994050" lon="-121.44661290">
+        <ele>730.73925780</ele>
+      </trkpt>
+      <trkpt lat="37.11994190" lon="-121.44658270">
+        <ele>731.70043950</ele>
+      </trkpt>
+      <trkpt lat="37.11990900" lon="-121.44641900">
+        <ele>733.14257810</ele>
+      </trkpt>
+      <trkpt lat="37.11987950" lon="-121.44629150">
+        <ele>733.14257810</ele>
+      </trkpt>
+      <trkpt lat="37.11989400" lon="-121.44623210">
+        <ele>733.14257810</ele>
+      </trkpt>
+      <trkpt lat="37.11987910" lon="-121.44616530">
+        <ele>734.10400390</ele>
+      </trkpt>
+      <trkpt lat="37.11987470" lon="-121.44616190">
+        <ele>734.10400390</ele>
+      </trkpt>
+      <trkpt lat="37.11988570" lon="-121.44608080">
+        <ele>733.62329100</ele>
+      </trkpt>
+      <trkpt lat="37.11989080" lon="-121.44594670">
+        <ele>733.14257810</ele>
+      </trkpt>
+      <trkpt lat="37.11989390" lon="-121.44583960">
+        <ele>733.14257810</ele>
+      </trkpt>
+      <trkpt lat="37.11986510" lon="-121.44559660">
+        <ele>732.18139650</ele>
+      </trkpt>
+      <trkpt lat="37.11986180" lon="-121.44557850">
+        <ele>732.18139650</ele>
+      </trkpt>
+      <trkpt lat="37.11983620" lon="-121.44539300">
+        <ele>731.21997070</ele>
+      </trkpt>
+      <trkpt lat="37.11982230" lon="-121.44530040">
+        <ele>730.73925780</ele>
+      </trkpt>
+      <trkpt lat="37.11977280" lon="-121.44501310">
+        <ele>730.25854490</ele>
+      </trkpt>
+      <trkpt lat="37.11980170" lon="-121.44474430">
+        <ele>726.89404300</ele>
+      </trkpt>
+      <trkpt lat="37.11977570" lon="-121.44451130">
+        <ele>724.97143550</ele>
+      </trkpt>
+      <trkpt lat="37.11968270" lon="-121.44427760">
+        <ele>726.41333010</ele>
+      </trkpt>
+      <trkpt lat="37.11962500" lon="-121.44422580">
+        <ele>728.33593750</ele>
+      </trkpt>
+      <trkpt lat="37.11954100" lon="-121.44412080">
+        <ele>730.73925780</ele>
+      </trkpt>
+      <trkpt lat="37.11939270" lon="-121.44401960">
+        <ele>734.10400390</ele>
+      </trkpt>
+      <trkpt lat="37.11925690" lon="-121.44387210">
+        <ele>734.58471680</ele>
+      </trkpt>
+      <trkpt lat="37.11916050" lon="-121.44370560">
+        <ele>735.06542970</ele>
+      </trkpt>
+      <trkpt lat="37.11907410" lon="-121.44354470">
+        <ele>735.54589840</ele>
+      </trkpt>
+      <trkpt lat="37.11906420" lon="-121.44350790">
+        <ele>735.54589840</ele>
+      </trkpt>
+      <trkpt lat="37.11898530" lon="-121.44332960">
+        <ele>736.98779300</ele>
+      </trkpt>
+      <trkpt lat="37.11898650" lon="-121.44330730">
+        <ele>736.98779300</ele>
+      </trkpt>
+      <trkpt lat="37.11892590" lon="-121.44317250">
+        <ele>738.42993160</ele>
+      </trkpt>
+      <trkpt lat="37.11889250" lon="-121.44303450">
+        <ele>738.91064450</ele>
+      </trkpt>
+      <trkpt lat="37.11889230" lon="-121.44291320">
+        <ele>736.50732420</ele>
+      </trkpt>
+      <trkpt lat="37.11891650" lon="-121.44275130">
+        <ele>736.02661130</ele>
+      </trkpt>
+      <trkpt lat="37.11900990" lon="-121.44255220">
+        <ele>733.14257810</ele>
+      </trkpt>
+      <trkpt lat="37.11904350" lon="-121.44246130">
+        <ele>731.70043950</ele>
+      </trkpt>
+      <trkpt lat="37.11906410" lon="-121.44237950">
+        <ele>732.18139650</ele>
+      </trkpt>
+      <trkpt lat="37.11903100" lon="-121.44222120">
+        <ele>734.58471680</ele>
+      </trkpt>
+      <trkpt lat="37.11891850" lon="-121.44210960">
+        <ele>738.42993160</ele>
+      </trkpt>
+      <trkpt lat="37.11887750" lon="-121.44207790">
+        <ele>739.39111330</ele>
+      </trkpt>
+      <trkpt lat="37.11885750" lon="-121.44206740">
+        <ele>740.35253910</ele>
+      </trkpt>
+      <trkpt lat="37.11883690" lon="-121.44204220">
+        <ele>741.31372070</ele>
+      </trkpt>
+      <trkpt lat="37.11883580" lon="-121.44202850">
+        <ele>742.27514650</ele>
+      </trkpt>
+      <trkpt lat="37.11881120" lon="-121.44201400">
+        <ele>743.23632810</ele>
+      </trkpt>
+      <trkpt lat="37.11868760" lon="-121.44189630">
+        <ele>745.63964840</ele>
+      </trkpt>
+      <trkpt lat="37.11867360" lon="-121.44186010">
+        <ele>746.12036130</ele>
+      </trkpt>
+      <trkpt lat="37.11864670" lon="-121.44177210">
+        <ele>746.60107420</ele>
+      </trkpt>
+      <trkpt lat="37.11861490" lon="-121.44156170">
+        <ele>746.60107420</ele>
+      </trkpt>
+      <trkpt lat="37.11858100" lon="-121.44135140">
+        <ele>749.00439450</ele>
+      </trkpt>
+      <trkpt lat="37.11856580" lon="-121.44124630">
+        <ele>749.96582030</ele>
+      </trkpt>
+      <trkpt lat="37.11853060" lon="-121.44111910">
+        <ele>749.96582030</ele>
+      </trkpt>
+      <trkpt lat="37.11848520" lon="-121.44095140">
+        <ele>749.48510740</ele>
+      </trkpt>
+      <trkpt lat="37.11846530" lon="-121.44080210">
+        <ele>749.96582030</ele>
+      </trkpt>
+      <trkpt lat="37.11844290" lon="-121.44074900">
+        <ele>750.44653320</ele>
+      </trkpt>
+      <trkpt lat="37.11827520" lon="-121.44059610">
+        <ele>753.33032230</ele>
+      </trkpt>
+      <trkpt lat="37.11818350" lon="-121.44053710">
+        <ele>754.77221680</ele>
+      </trkpt>
+      <trkpt lat="37.11813460" lon="-121.44044660">
+        <ele>755.73364260</ele>
+      </trkpt>
+      <extensions>
+        <gpsm:color>008754ff</gpsm:color>
+      </extensions>
+    </trkseg>
+  </trk>
+</gpx>
