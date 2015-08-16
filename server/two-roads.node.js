@@ -74,7 +74,14 @@ var server = http.createServer(function (request, response) {
         status = respBlock.status;
       }
       console.log('Request for ' + request.url + ' returning status ' + status);
-      response.writeHead(status, {"Content-Type": "application/json"});
+      var headers = {
+        "Content-Type": "application/json",
+      };
+
+      if (request.headers.origin) {
+        headers["Access-Control-Allow-Origin"] = request.headers.origin;
+      }
+      response.writeHead(status, headers);
 
       if (typeof respBlock === 'object') {
         response.end(JSON.stringify(respBlock, null, 2));
