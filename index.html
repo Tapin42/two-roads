@@ -7,8 +7,10 @@
     </style>
   </head>
   <body>
-    <div id="error"></div>
-    <div id="parks"></div>
+    <div id="splash">
+      <div id="error"></div>
+      <div id="parks"></div>
+    </div>
     <div id="map"></div>
 
     <script type="text/javascript">
@@ -53,17 +55,20 @@ function loadPark(park) {
   })
 }
 
+function toggleMapVisbility(isVisible) {
+  if (isVisible) {
+    $('#splash').hide();
+    $('#map').show();
+  } else {
+    $('#map').hide();
+    $('#splash').show();
+  }
+}
+
 function initMap(park) {
-  $('#parks').hide();
-  $('#error').hide();
+  toggleMapVisibility(true);
 
-  $('#map').show();
   map = new google.maps.Map(document.getElementById('map'), park.start);
-
-  // northMap = new google.maps.KmlLayer({
-  //   url: 'overlays/CoeNorth.kmz'
-  // });
-  // northMap.setMap(map);
 
   park.maps.forEach(function (overlay) {
     var bounds = new google.maps.LatLngBounds(
@@ -74,15 +79,6 @@ function initMap(park) {
     var overlay = new google.maps.GroundOverlay(park.dir + '/' + overlay.url, bounds);
     overlay.setMap(map);
   })
-
-  // northMapBounds = new google.maps.LatLngBounds(
-  //   new google.maps.LatLng(37.1577, -121.564367),
-  //   new google.maps.LatLng(37.311783, -121.306583)
-  //   );
-
-  // northMap = new google.maps.GroundOverlay('overlays/CoeNorth.jpg', northMapBounds);
-  // northMap.setMap(map);
-
 }
 
     </script>
