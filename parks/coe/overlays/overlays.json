@@ -1,0 +1,20 @@
+{
+  "maps": [
+    {
+      "name": "Coe North",
+      "url": "coe/overlays/CoeNorth.jpg",
+      "bounds": [
+        37.1577, -121.564367,
+        37.311783, -121.306583
+      ]
+    },
+    {
+      "name": "Coe South",
+      "url": "coe/overlays/CoeSouth.jpg",
+      "bounds": [
+        37.0327, -121.5577167,
+        37.189233, -121.34095
+      ]
+    }
+  ]
+}

@@ -16,9 +16,10 @@
     <script type="text/javascript">
 
 var map;
+var server = 'http://localhost:8000/';
 
 function ready() {
-  $.ajax('http://localhost:8000/').done(function (data) {
+  $.ajax(server).done(function (data) {
     if (!data) {
       $('#error').html('Error downloading root manifest.');
       return;
@@ -45,7 +46,7 @@ function ready() {
 }
 
 function loadPark(park) {
-  $.ajax('http://localhost:8000/' + park).done(function (data) {
+  $.ajax(server + park).done(function (data) {
     if (!data) {
       $('#error').html('Error downloading ' + park + ' manifest.');
       return;
@@ -55,7 +56,7 @@ function loadPark(park) {
   })
 }
 
-function toggleMapVisbility(isVisible) {
+function toggleMapVisibility(isVisible) {
   if (isVisible) {
     $('#splash').hide();
     $('#map').show();
@@ -70,15 +71,28 @@ function initMap(park) {
 
   map = new google.maps.Map(document.getElementById('map'), park.start);
 
-  park.maps.forEach(function (overlay) {
-    var bounds = new google.maps.LatLngBounds(
-      new google.maps.LatLng(overlay.bounds[0], overlay.bounds[1]),
-      new google.maps.LatLng(overlay.bounds[2], overlay.bounds[3])
-      );
+  fetchOverlays(park, map);
+  fetchSegments(park, map);
+}
 
-    var overlay = new google.maps.GroundOverlay(park.dir + '/' + overlay.url, bounds);
-    overlay.setMap(map);
-  })
+function fetchOverlays(park, map) {
+    $.ajax(server + park.dir + '/overlays').then(function (data, textStatus, jqXHR) {
+      data.maps.forEach(function (overlay) {
+          var bounds = new google.maps.LatLngBounds(
+            new google.maps.LatLng(overlay.bounds[0], overlay.bounds[1]),
+            new google.maps.LatLng(overlay.bounds[2], overlay.bounds[3])
+            );
+
+          var overlay = new google.maps.GroundOverlay(server + overlay.url, bounds);
+          overlay.setMap(map);
+        });
+      });
+}
+
+function fetchSegments(park, map) {
+  $.ajax('http://localhost:8000/' + park.dir + '/segments').then(function (data) {
+    // debugger;
+  });
 }
 
     </script>
