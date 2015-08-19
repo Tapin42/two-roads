@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
   <metadata>
     <name>Grizzly Gulch Tr from Cullen Tr to Tower Tr</name>
   </metadata>

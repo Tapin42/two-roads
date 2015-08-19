@@ -16,6 +16,11 @@ function processData(err, data) {
     // First, build the entire GPX
     var newGpx = {
       gpx: {
+        $: {
+          'xmlns': "http://www.topografix.com/GPX/1/1",
+          'xmlns:gpsm': "http://www.gpsmaster.org/schema/gpsm/v1",
+          'xmlns:twr': "http:localhost/schema/two-roads/v1"
+        },
         metadata: {
           name: trk.name
         },
@@ -41,7 +46,7 @@ function writeGpx(fname, data) {
 }
 
 var parser = new xml2js.Parser();
-var inFile = process.argv[2] || (__dirname + '/../segments/coe/raw/incomplete.gpx');
+var inFile = process.argv[2] || (__dirname + '/../parks/coe/segments/raw/incomplete.gpx');
 var outDir = process.argv[3] || '/tmp/segments';
 
 console.log('Reading from ' + inFile);

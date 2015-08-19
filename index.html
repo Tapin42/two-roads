@@ -76,23 +76,58 @@ function initMap(park) {
 }
 
 function fetchOverlays(park, map) {
-    $.ajax(server + park.dir + '/overlays').then(function (data, textStatus, jqXHR) {
-      data.maps.forEach(function (overlay) {
-          var bounds = new google.maps.LatLngBounds(
-            new google.maps.LatLng(overlay.bounds[0], overlay.bounds[1]),
-            new google.maps.LatLng(overlay.bounds[2], overlay.bounds[3])
-            );
+  $.ajax(server + park.dir + '/overlays').then(function (data, textStatus, jqXHR) {
+    data.maps.forEach(function (overlay) {
+        var bounds = new google.maps.LatLngBounds(
+          new google.maps.LatLng(overlay.bounds[0], overlay.bounds[1]),
+          new google.maps.LatLng(overlay.bounds[2], overlay.bounds[3])
+          );
 
-          var overlay = new google.maps.GroundOverlay(server + overlay.url, bounds);
-          overlay.setMap(map);
-        });
+        var overlay = new google.maps.GroundOverlay(server + overlay.url, bounds);
+        overlay.setMap(map);
       });
+    });
 }
 
 function fetchSegments(park, map) {
-  $.ajax('http://localhost:8000/' + park.dir + '/segments').then(function (data) {
-    // debugger;
+  $.ajax(server + park.dir + '/segments').then(function (data) {
+    data.forEach(function (seg) {
+      fetchAndDisplaySegment(park, map, seg);
+    })
   });
+}
+
+function fetchAndDisplaySegment(park, map, segment) {
+  $.ajax(server + segment).then(function (gpx, textStatus, jqXHR) {
+      $gpx = $(gpx);
+      var coords = [];
+      $gpx.find('trkpt').each(function () {
+        coords.push({
+          lat: parseFloat($(this).attr('lat')),
+          lng: parseFloat($(this).attr('lon'))
+        });
+      });
+
+      var path = new google.maps.Polyline({
+          path: coords,
+          geodesic: true,
+          strokeColor: '#cc0000',
+          strokeOpacity: 0.5,
+          strokeWeight: 5
+        });
+
+      google.maps.event.addListener(path, 'click', displaySegName($gpx.find('metadata > name').text()));
+
+      path.setMap(map);
+    }, function (jqXHR, textStatus, errorThrown) {
+      console.log('Error! ' + errorThrown);
+    });
+}
+
+function displaySegName(name) {
+  return function () {
+    alert(name);
+  }
 }
 
     </script>
