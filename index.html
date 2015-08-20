@@ -3,22 +3,43 @@
   <head>
     <style type="text/css">
       html, body { height: 100%; margin: 0; padding: 0; }
-      #map { height: 100%; display: none;}
+      #mapDisplay { height: 100%; display: none; }
     </style>
+    <script src="https://www.google.com/jsapi"></script>
+    <script>
+      // Load the Visualization API and the line package.
+      google.load('visualization', '1', {packages: ['line']});
+    </script>
   </head>
   <body>
     <div id="splash">
       <div id="error"></div>
       <div id="parks"></div>
     </div>
-    <div id="map"></div>
+    <div id="mapDisplay">
+      <div id="map"></div>
+      <div id="elevation"></div>
+    </div>
 
     <script type="text/javascript">
 
 var map;
+var elevator;
 var server = 'http://localhost:8000/';
 
+function haversine() {
+  var radians = Array.prototype.map.call(arguments, function(deg) { return deg/180.0 * Math.PI; });
+  var lat1 = radians[0], lon1 = radians[1], lat2 = radians[2], lon2 = radians[3];
+  var R = 3959.87; // mi; km is 6372.8
+  var dLat = lat2 - lat1;
+  var dLon = lon2 - lon1;
+  var a = Math.sin(dLat / 2) * Math.sin(dLat /2) + Math.sin(dLon / 2) * Math.sin(dLon /2) * Math.cos(lat1) * Math.cos(lat2);
+  var c = 2 * Math.asin(Math.sqrt(a));
+  return R * c;
+}
+
 function ready() {
+
   $.ajax(server).done(function (data) {
     if (!data) {
       $('#error').html('Error downloading root manifest.');
@@ -58,10 +79,11 @@ function loadPark(park) {
 
 function toggleMapVisibility(isVisible) {
   if (isVisible) {
+    $('#map').height(($(window).height() * 0.8) + 'px');
     $('#splash').hide();
-    $('#map').show();
+    $('#mapDisplay').show();
   } else {
-    $('#map').hide();
+    $('#mapDisplay').hide();
     $('#splash').show();
   }
 }
@@ -70,6 +92,7 @@ function initMap(park) {
   toggleMapVisibility(true);
 
   map = new google.maps.Map(document.getElementById('map'), park.start);
+  elevator = new google.maps.ElevationService;
 
   fetchOverlays(park, map);
   fetchSegments(park, map);
@@ -116,7 +139,7 @@ function fetchAndDisplaySegment(park, map, segment) {
           strokeWeight: 5
         });
 
-      google.maps.event.addListener(path, 'click', displaySegName($gpx.find('metadata > name').text()));
+      google.maps.event.addListener(path, 'click', displaySegElevation(coords));
 
       path.setMap(map);
     }, function (jqXHR, textStatus, errorThrown) {
@@ -124,10 +147,79 @@ function fetchAndDisplaySegment(park, map, segment) {
     });
 }
 
-function displaySegName(name) {
+// function displaySegName(name) {
+//   return function () {
+//     alert(name);
+//   }
+// }
+
+function displaySegElevation(coords) {
   return function () {
-    alert(name);
+    var POINTS_PER_CALL = 256;
+    var nCalls = Math.ceil(coords.length / POINTS_PER_CALL);
+    var allData = [];
+    var finished = [];
+    var errStatus;
+
+    console.log('Path is ' + coords.length + ' elements long, so make ' + nCalls + ' calls');
+    for (var i=0; i<nCalls; i++) {
+      finished.push(false);
+    }
+
+    function elevatorCb(callIdx) {
+      return function (elevations, status) {
+        if (status !== google.maps.ElevationStatus.OK) {
+          errStatus = status;
+        } else {
+          allData[callIdx] = elevations;
+        }
+        finished[callIdx] = true;
+        if (finished.indexOf(false) === -1) {
+          var finalArray = [].concat.apply([], allData);
+          plotElevation(finalArray, status);
+        }
+      };
+    }
+
+    for (var i=0; i<nCalls; i++) {
+      elevator.getElevationForLocations({
+        'locations': coords.slice(i*POINTS_PER_CALL,(i+1)*POINTS_PER_CALL)
+      }, elevatorCb(i));
+    }
+  };
+}
+
+// Takes an array of ElevationResult objects, draws the path on the map
+// and plots the elevation profile on a Visualization API Material Line chart.
+function plotElevation(elevations, status) {
+  var elevsInFeet = elevations.map(function (x) { return x.elevation*3.28084; })
+  var chartDiv = document.getElementById('elevation');
+  if (status !== google.maps.ElevationStatus.OK) {
+    // Show the error code inside the chartDiv.
+    chartDiv.innerHTML = 'Cannot show elevation: request failed because ' +
+        status;
+    return;
   }
+  // Create a new chart in the elevation_chart DIV.
+  var chart = new google.charts.Line(chartDiv);
+
+  // Extract the data from which to populate the chart.
+  // Because the samples are equidistant, the 'Sample'
+  // column here does double duty as distance along the
+  // X axis.
+  var data = new google.visualization.DataTable();
+  data.addColumn('string', 'Sample');
+  data.addColumn('number', 'Elevation');
+  for (var i = 0; i < elevsInFeet.length; i++) {
+    data.addRow(['', elevsInFeet[i]]);
+  }
+
+  // Draw the chart using the data within its DIV.
+  chart.draw(data, google.charts.Line.convertOptions({
+    height: $(window).height()*0.2,
+    legend: 'none',
+    titleY: 'Elevation (m)'
+  }));
 }
 
     </script>
