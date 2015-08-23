@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Blue Tank Spring Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346963</twr:id>
+    <attrs>
+      <twr:highway>path</twr:highway>
+      <twr:name>Blue Tank Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Blue Tank Spring Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.132063" lon="-121.4611611"/>
+      <trkpt lat="37.1323452" lon="-121.4616117"/>
+      <trkpt lat="37.1330466" lon="-121.4615688"/>
+      <trkpt lat="37.1334914" lon="-121.461086"/>
+      <trkpt lat="37.1336624" lon="-121.4613435"/>
+      <trkpt lat="37.1341756" lon="-121.4613542"/>
+      <trkpt lat="37.13441" lon="-121.4605991"/>
+    </trkseg>
+  </trk>
+</gpx>

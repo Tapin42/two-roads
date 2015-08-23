@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Spring Road 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347147</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Coit Spring Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Spring Road 1</name>
+    <trkseg>
+      <trkpt lat="37.1350261" lon="-121.4779961"/>
+      <trkpt lat="37.1348187" lon="-121.4780301"/>
+      <trkpt lat="37.1346271" lon="-121.4780816"/>
+      <trkpt lat="37.1345039" lon="-121.4780816"/>
+      <trkpt lat="37.1344218" lon="-121.4779872"/>
+      <trkpt lat="37.1344218" lon="-121.4777984"/>
+      <trkpt lat="37.1344629" lon="-121.4775066"/>
+      <trkpt lat="37.1344902" lon="-121.4773607"/>
+      <trkpt lat="37.1346412" lon="-121.4770305"/>
+      <trkpt lat="37.1348422" lon="-121.4768374"/>
+      <trkpt lat="37.1352784" lon="-121.4763546"/>
+      <trkpt lat="37.1354071" lon="-121.476159"/>
+      <trkpt lat="37.1354687" lon="-121.4759273"/>
+      <trkpt lat="37.1355029" lon="-121.4756183"/>
+      <trkpt lat="37.1355166" lon="-121.4754209"/>
+      <trkpt lat="37.135585" lon="-121.4753007"/>
+      <trkpt lat="37.1356124" lon="-121.4751806"/>
+      <trkpt lat="37.1355713" lon="-121.4750261"/>
+      <trkpt lat="37.1355029" lon="-121.4750003"/>
+      <trkpt lat="37.1352142" lon="-121.4748418"/>
+      <trkpt lat="37.1350034" lon="-121.4746398"/>
+      <trkpt lat="37.1349213" lon="-121.4744596"/>
+      <trkpt lat="37.1349008" lon="-121.4743223"/>
+      <trkpt lat="37.1349555" lon="-121.4742278"/>
+      <trkpt lat="37.1350582" lon="-121.4742193"/>
+      <trkpt lat="37.1351471" lon="-121.4741764"/>
+      <trkpt lat="37.1351745" lon="-121.4740648"/>
+      <trkpt lat="37.1351403" lon="-121.4739274"/>
+      <trkpt lat="37.1350239" lon="-121.473833"/>
+      <trkpt lat="37.1348636" lon="-121.4737636"/>
+      <trkpt lat="37.1347913" lon="-121.4735841"/>
+      <trkpt lat="37.1347502" lon="-121.4732322"/>
+      <trkpt lat="37.1347571" lon="-121.4729404"/>
+      <trkpt lat="37.1347913" lon="-121.4727172"/>
+      <trkpt lat="37.1347665" lon="-121.4724334"/>
+      <trkpt lat="37.1347229" lon="-121.4721422"/>
+      <trkpt lat="37.1347494" lon="-121.4719399"/>
+      <trkpt lat="37.134846" lon="-121.4718246"/>
+      <trkpt lat="37.1349966" lon="-121.4717988"/>
+      <trkpt lat="37.1351061" lon="-121.4717559"/>
+      <trkpt lat="37.1351608" lon="-121.4716701"/>
+      <trkpt lat="37.1351266" lon="-121.4715156"/>
+      <trkpt lat="37.135065" lon="-121.471507"/>
+      <trkpt lat="37.1349008" lon="-121.471404"/>
+      <trkpt lat="37.1347623" lon="-121.471323"/>
+      <trkpt lat="37.134604" lon="-121.4712586"/>
+      <trkpt lat="37.1344013" lon="-121.4711465"/>
+      <trkpt lat="37.1342986" lon="-121.4710607"/>
+      <trkpt lat="37.134237" lon="-121.4709234"/>
+      <trkpt lat="37.1342234" lon="-121.470683"/>
+    </trkseg>
+  </trk>
+</gpx>

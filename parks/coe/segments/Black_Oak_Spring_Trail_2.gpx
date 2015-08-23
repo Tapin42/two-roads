@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Black Oak Spring Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346973</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:description>poor trail</twr:description>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Black Oak Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Black Oak Spring Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.2095683" lon="-121.4982831"/>
+      <trkpt lat="37.209566" lon="-121.4982057"/>
+      <trkpt lat="37.2096275" lon="-121.4979139"/>
+      <trkpt lat="37.209689" lon="-121.4976564"/>
+      <trkpt lat="37.2097232" lon="-121.497356"/>
+      <trkpt lat="37.2099488" lon="-121.49715"/>
+      <trkpt lat="37.2100787" lon="-121.4971414"/>
+      <trkpt lat="37.2102769" lon="-121.4971157"/>
+      <trkpt lat="37.2102974" lon="-121.497047"/>
+      <trkpt lat="37.2104751" lon="-121.4968582"/>
+      <trkpt lat="37.210482" lon="-121.4969955"/>
+      <trkpt lat="37.2105913" lon="-121.4972273"/>
+      <trkpt lat="37.2109605" lon="-121.4970728"/>
+      <trkpt lat="37.211186" lon="-121.4970728"/>
+      <trkpt lat="37.2112339" lon="-121.4970384"/>
+      <trkpt lat="37.2113501" lon="-121.497047"/>
+      <trkpt lat="37.2114868" lon="-121.4969698"/>
+      <trkpt lat="37.2115825" lon="-121.4969869"/>
+      <trkpt lat="37.2116167" lon="-121.4969526"/>
+      <trkpt lat="37.2116235" lon="-121.4968839"/>
+      <trkpt lat="37.211685" lon="-121.4968582"/>
+      <trkpt lat="37.2117466" lon="-121.4969097"/>
+      <trkpt lat="37.2118423" lon="-121.4968753"/>
+      <trkpt lat="37.2119995" lon="-121.4967294"/>
+      <trkpt lat="37.2121157" lon="-121.4967123"/>
+      <trkpt lat="37.212437" lon="-121.496738"/>
+      <trkpt lat="37.2125463" lon="-121.4967638"/>
+      <trkpt lat="37.2128198" lon="-121.4967123"/>
+      <trkpt lat="37.213059" lon="-121.4967552"/>
+      <trkpt lat="37.213141" lon="-121.4967981"/>
+      <trkpt lat="37.2133187" lon="-121.4967723"/>
+      <trkpt lat="37.2134828" lon="-121.4967723"/>
+      <trkpt lat="37.2133461" lon="-121.4966007"/>
+      <trkpt lat="37.213141" lon="-121.4964977"/>
+      <trkpt lat="37.2129838" lon="-121.4964977"/>
+      <trkpt lat="37.2128539" lon="-121.4964548"/>
+      <trkpt lat="37.2127377" lon="-121.4962917"/>
+      <trkpt lat="37.2127514" lon="-121.4962316"/>
+      <trkpt lat="37.2127992" lon="-121.4961029"/>
+      <trkpt lat="37.2129223" lon="-121.4954248"/>
+      <trkpt lat="37.2129291" lon="-121.4951673"/>
+      <trkpt lat="37.2129291" lon="-121.4949957"/>
+      <trkpt lat="37.2130522" lon="-121.4949098"/>
+      <trkpt lat="37.213223" lon="-121.4949098"/>
+      <trkpt lat="37.2132846" lon="-121.4950214"/>
+      <trkpt lat="37.2134349" lon="-121.4950729"/>
+      <trkpt lat="37.2136058" lon="-121.4950128"/>
+      <trkpt lat="37.2137357" lon="-121.4950557"/>
+      <trkpt lat="37.2138284" lon="-121.4949828"/>
+    </trkseg>
+  </trk>
+</gpx>

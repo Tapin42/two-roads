@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 30</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347007</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 30</name>
+    <trkseg>
+      <trkpt lat="37.1098251" lon="-121.3698248"/>
+      <trkpt lat="37.1098222" lon="-121.3696988"/>
+      <trkpt lat="37.1097538" lon="-121.3695186"/>
+      <trkpt lat="37.1097195" lon="-121.3692954"/>
+      <trkpt lat="37.1097264" lon="-121.3690551"/>
+      <trkpt lat="37.1097811" lon="-121.3688834"/>
+      <trkpt lat="37.1097675" lon="-121.368686"/>
+      <trkpt lat="37.1098496" lon="-121.3685487"/>
+      <trkpt lat="37.1098701" lon="-121.368377"/>
+      <trkpt lat="37.1097606" lon="-121.3681109"/>
+    </trkseg>
+  </trk>
+</gpx>

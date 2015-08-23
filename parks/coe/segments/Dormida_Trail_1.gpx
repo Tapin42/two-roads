@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Dormida Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347307</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:description>partially unmarked</twr:description>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Dormida Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Dormida Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.097236" lon="-121.3828876"/>
+      <trkpt lat="37.0973425" lon="-121.3825272"/>
+      <trkpt lat="37.0976848" lon="-121.3820873"/>
+      <trkpt lat="37.0980785" lon="-121.3819478"/>
+      <trkpt lat="37.0984037" lon="-121.381862"/>
+      <trkpt lat="37.0984293" lon="-121.3812826"/>
+      <trkpt lat="37.098532" lon="-121.381068"/>
+      <trkpt lat="37.0988058" lon="-121.3807462"/>
+      <trkpt lat="37.0988144" lon="-121.3801346"/>
+      <trkpt lat="37.0988743" lon="-121.3794158"/>
+      <trkpt lat="37.098977" lon="-121.3792012"/>
+      <trkpt lat="37.0990882" lon="-121.3787184"/>
+      <trkpt lat="37.0994134" lon="-121.3784609"/>
+      <trkpt lat="37.0998926" lon="-121.378536"/>
+      <trkpt lat="37.099944" lon="-121.3783751"/>
+      <trkpt lat="37.1002007" lon="-121.3779996"/>
+      <trkpt lat="37.1005857" lon="-121.3776992"/>
+      <trkpt lat="37.1007312" lon="-121.3776455"/>
+      <trkpt lat="37.1008425" lon="-121.3777743"/>
+      <trkpt lat="37.1018351" lon="-121.377903"/>
+      <trkpt lat="37.1022287" lon="-121.3777957"/>
+      <trkpt lat="37.1030074" lon="-121.3778816"/>
+      <trkpt lat="37.1035379" lon="-121.3775704"/>
+      <trkpt lat="37.1043679" lon="-121.3768087"/>
+      <trkpt lat="37.1048128" lon="-121.3765083"/>
+      <trkpt lat="37.1051636" lon="-121.3764868"/>
+      <trkpt lat="37.1053177" lon="-121.3763688"/>
+      <trkpt lat="37.1055145" lon="-121.3758324"/>
+      <trkpt lat="37.1056685" lon="-121.3756822"/>
+      <trkpt lat="37.1060364" lon="-121.3751779"/>
+      <trkpt lat="37.1063188" lon="-121.37462"/>
+      <trkpt lat="37.1069092" lon="-121.3743518"/>
+      <trkpt lat="37.1071915" lon="-121.3744054"/>
+      <trkpt lat="37.1076621" lon="-121.3738368"/>
+      <trkpt lat="37.1081755" lon="-121.3732896"/>
+      <trkpt lat="37.1082439" lon="-121.3730429"/>
+      <trkpt lat="37.1089199" lon="-121.3716696"/>
+      <trkpt lat="37.1096129" lon="-121.3708542"/>
+      <trkpt lat="37.1097926" lon="-121.3704572"/>
+      <trkpt lat="37.1098251" lon="-121.3698248"/>
+    </trkseg>
+  </trk>
+</gpx>

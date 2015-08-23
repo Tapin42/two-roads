@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 20</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347023</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 20</name>
+    <trkseg>
+      <trkpt lat="37.174463" lon="-121.3445049"/>
+      <trkpt lat="37.1737159" lon="-121.3444334"/>
+      <trkpt lat="37.17269" lon="-121.3440043"/>
+      <trkpt lat="37.1719377" lon="-121.3434249"/>
+      <trkpt lat="37.1710999" lon="-121.3434678"/>
+      <trkpt lat="37.1702279" lon="-121.3439613"/>
+      <trkpt lat="37.169903" lon="-121.3443261"/>
+      <trkpt lat="37.1696514" lon="-121.34455"/>
+    </trkseg>
+  </trk>
+</gpx>

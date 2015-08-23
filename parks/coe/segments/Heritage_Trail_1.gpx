@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Heritage Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347185</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Heritage Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Heritage Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1831722" lon="-121.4418229"/>
+      <trkpt lat="37.1828696" lon="-121.4409635"/>
+      <trkpt lat="37.1829247" lon="-121.4403299"/>
+      <trkpt lat="37.1829036" lon="-121.4397232"/>
+      <trkpt lat="37.1832058" lon="-121.4395121"/>
+      <trkpt lat="37.1832581" lon="-121.4389923"/>
+      <trkpt lat="37.1834458" lon="-121.438745"/>
+      <trkpt lat="37.1838447" lon="-121.4385665"/>
+      <trkpt lat="37.1847392" lon="-121.4381321"/>
+      <trkpt lat="37.1857089" lon="-121.4368176"/>
+      <trkpt lat="37.1861041" lon="-121.4364276"/>
+      <trkpt lat="37.1864002" lon="-121.4358233"/>
+      <trkpt lat="37.1869626" lon="-121.4353975"/>
+      <trkpt lat="37.1872437" lon="-121.4348353"/>
+      <trkpt lat="37.187346" lon="-121.4344008"/>
+      <trkpt lat="37.1878315" lon="-121.4336853"/>
+      <trkpt lat="37.1877549" lon="-121.4331486"/>
+      <trkpt lat="37.1880445" lon="-121.4327283"/>
+      <trkpt lat="37.1881893" lon="-121.432203"/>
+      <trkpt lat="37.1883394" lon="-121.4318308"/>
+      <trkpt lat="37.188633" lon="-121.4316691"/>
+      <trkpt lat="37.1888826" lon="-121.4315589"/>
+      <trkpt lat="37.1890573" lon="-121.4313344"/>
+      <trkpt lat="37.1891349" lon="-121.4307718"/>
+      <trkpt lat="37.1889049" lon="-121.4304396"/>
+      <trkpt lat="37.1887771" lon="-121.4299284"/>
+      <trkpt lat="37.1887516" lon="-121.4295707"/>
+      <trkpt lat="37.1890583" lon="-121.4292129"/>
+      <trkpt lat="37.189417" lon="-121.4284201"/>
+    </trkseg>
+  </trk>
+</gpx>

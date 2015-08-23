@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mississippi Lake Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347371</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Mississippi Lake Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mississippi Lake Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.2075592" lon="-121.41957"/>
+      <trkpt lat="37.2076754" lon="-121.4192781"/>
+      <trkpt lat="37.20786" lon="-121.4190206"/>
+      <trkpt lat="37.2080514" lon="-121.4186687"/>
+      <trkpt lat="37.2080787" lon="-121.4183941"/>
+      <trkpt lat="37.2080787" lon="-121.4181023"/>
+      <trkpt lat="37.2081398" lon="-121.4179049"/>
+    </trkseg>
+  </trk>
+</gpx>

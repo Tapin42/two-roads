@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Jamison Road 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>residential</twr:type>
+    <twr:id>-347241</twr:id>
+    <attrs>
+      <twr:highway>residential</twr:highway>
+      <twr:name>Jamison Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.name_base>Canada; Jamieson</twr:tiger.name_base>
+      <twr:tiger.name_type>Rd</twr:tiger.name_type>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+      <twr:tiger.separated>no</twr:tiger.separated>
+      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
+      <twr:tiger.tlid>123178803:123011209:122932700:122932701:122932698:122932765:122932766:122932768; 122932940:122932941:122932761</twr:tiger.tlid>
+      <twr:tiger.zip_left>95020</twr:tiger.zip_left>
+      <twr:tiger.zip_right>95020</twr:tiger.zip_right>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Jamison Road 1</name>
+    <trkseg>
+      <trkpt lat="37.0338195" lon="-121.4297092"/>
+      <trkpt lat="37.0338477" lon="-121.4291396"/>
+      <trkpt lat="37.0338195" lon="-121.4274776"/>
+    </trkseg>
+  </trk>
+</gpx>

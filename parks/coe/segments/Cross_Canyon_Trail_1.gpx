@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cross Canyon Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347525</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Cross Canyon Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cross Canyon Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1346112" lon="-121.4460993"/>
+      <trkpt lat="37.1343931" lon="-121.4459705"/>
+      <trkpt lat="37.1342679" lon="-121.4457532"/>
+      <trkpt lat="37.1341928" lon="-121.4451635"/>
+      <trkpt lat="37.1340012" lon="-121.4446399"/>
+      <trkpt lat="37.1340628" lon="-121.4445026"/>
+      <trkpt lat="37.1342201" lon="-121.4442265"/>
+      <trkpt lat="37.1342612" lon="-121.4440734"/>
+      <trkpt lat="37.1337839" lon="-121.4437706"/>
+      <trkpt lat="37.1338866" lon="-121.4434648"/>
+      <trkpt lat="37.1338224" lon="-121.4431698"/>
+      <trkpt lat="37.1336171" lon="-121.4429391"/>
+      <trkpt lat="37.1336428" lon="-121.4426762"/>
+      <trkpt lat="37.1343527" lon="-121.4421666"/>
+      <trkpt lat="37.134747" lon="-121.4418246"/>
+      <trkpt lat="37.1348616" lon="-121.4417535"/>
+      <trkpt lat="37.1348616" lon="-121.4416409"/>
+      <trkpt lat="37.1346777" lon="-121.4415765"/>
+      <trkpt lat="37.1345708" lon="-121.441437"/>
+      <trkpt lat="37.1345067" lon="-121.4413619"/>
+      <trkpt lat="37.1343481" lon="-121.4413509"/>
+      <trkpt lat="37.1340844" lon="-121.4412018"/>
+      <trkpt lat="37.133901" lon="-121.4410757"/>
+      <trkpt lat="37.1338233" lon="-121.4408805"/>
+      <trkpt lat="37.133967" lon="-121.4407174"/>
+      <trkpt lat="37.1343296" lon="-121.4402454"/>
+      <trkpt lat="37.1344767" lon="-121.4398063"/>
+      <trkpt lat="37.1345024" lon="-121.4391196"/>
+      <trkpt lat="37.1346307" lon="-121.4385832"/>
+      <trkpt lat="37.1347804" lon="-121.4384544"/>
+      <trkpt lat="37.1349386" lon="-121.4383847"/>
+      <trkpt lat="37.1351781" lon="-121.4383203"/>
+      <trkpt lat="37.1352337" lon="-121.4381862"/>
+      <trkpt lat="37.1351781" lon="-121.4380628"/>
+      <trkpt lat="37.1350113" lon="-121.4378965"/>
+      <trkpt lat="37.1349343" lon="-121.4377356"/>
+      <trkpt lat="37.1349328" lon="-121.4373842"/>
+      <trkpt lat="37.1347264" lon="-121.4372466"/>
+      <trkpt lat="37.1346233" lon="-121.4367078"/>
+      <trkpt lat="37.1349643" lon="-121.4360726"/>
+      <trkpt lat="37.1348616" lon="-121.4359117"/>
+      <trkpt lat="37.1346564" lon="-121.4357829"/>
+      <trkpt lat="37.1345837" lon="-121.4352841"/>
+      <trkpt lat="37.1345623" lon="-121.4347744"/>
+      <trkpt lat="37.134605" lon="-121.4345867"/>
+      <trkpt lat="37.1345366" lon="-121.4344848"/>
+      <trkpt lat="37.1341902" lon="-121.4346028"/>
+      <trkpt lat="37.1339336" lon="-121.4349246"/>
+      <trkpt lat="37.1338353" lon="-121.4349515"/>
+      <trkpt lat="37.1337925" lon="-121.4348925"/>
+      <trkpt lat="37.1338437" lon="-121.4347474"/>
+      <trkpt lat="37.1339507" lon="-121.4342809"/>
+      <trkpt lat="37.1342415" lon="-121.433841"/>
+      <trkpt lat="37.1343527" lon="-121.4330846"/>
+      <trkpt lat="37.1349819" lon="-121.4325942"/>
+      <trkpt lat="37.1352123" lon="-121.4324999"/>
+      <trkpt lat="37.1353278" lon="-121.432103"/>
+    </trkseg>
+  </trk>
+</gpx>

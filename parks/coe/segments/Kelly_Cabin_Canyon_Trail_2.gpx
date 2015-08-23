@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kelly Cabin Canyon Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347451</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Kelly Cabin Canyon Trail</twr:name>
+      <twr:surface>dirt</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kelly Cabin Canyon Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.1346112" lon="-121.4460993"/>
+      <trkpt lat="37.1343161" lon="-121.4463138"/>
+      <trkpt lat="37.1341109" lon="-121.4463299"/>
+      <trkpt lat="37.1339118" lon="-121.4460637"/>
+      <trkpt lat="37.1335316" lon="-121.44575"/>
+      <trkpt lat="37.1334213" lon="-121.4454894"/>
+      <trkpt lat="37.1334204" lon="-121.4453638"/>
+      <trkpt lat="37.1333301" lon="-121.445274"/>
+      <trkpt lat="37.1331638" lon="-121.445278"/>
+      <trkpt lat="37.1329927" lon="-121.4451439"/>
+      <trkpt lat="37.1328473" lon="-121.4448113"/>
+      <trkpt lat="37.1327964" lon="-121.4444157"/>
+      <trkpt lat="37.1327124" lon="-121.4438945"/>
+      <trkpt lat="37.1326996" lon="-121.4436263"/>
+      <trkpt lat="37.1325227" lon="-121.4429909"/>
+      <trkpt lat="37.1324068" lon="-121.4426923"/>
+      <trkpt lat="37.1320642" lon="-121.441961"/>
+      <trkpt lat="37.1317568" lon="-121.4415658"/>
+      <trkpt lat="37.1314659" lon="-121.4413834"/>
+      <trkpt lat="37.1311666" lon="-121.4413834"/>
+      <trkpt lat="37.1308691" lon="-121.4412284"/>
+      <trkpt lat="37.130602" lon="-121.4407504"/>
+      <trkpt lat="37.1305098" lon="-121.4404613"/>
+      <trkpt lat="37.1303773" lon="-121.4403057"/>
+      <trkpt lat="37.1302855" lon="-121.4400262"/>
+      <trkpt lat="37.1300546" lon="-121.439817"/>
+      <trkpt lat="37.1297058" lon="-121.4385408"/>
+      <trkpt lat="37.1297015" lon="-121.4383048"/>
+      <trkpt lat="37.1295133" lon="-121.4380365"/>
+      <trkpt lat="37.1293294" lon="-121.4376825"/>
+      <trkpt lat="37.1292107" lon="-121.437266"/>
+      <trkpt lat="37.129184" lon="-121.4368886"/>
+      <trkpt lat="37.1293337" lon="-121.4364487"/>
+      <trkpt lat="37.1294791" lon="-121.4359659"/>
+      <trkpt lat="37.1295818" lon="-121.435526"/>
+      <trkpt lat="37.129586" lon="-121.4353382"/>
+      <trkpt lat="37.1295347" lon="-121.4352095"/>
+      <trkpt lat="37.1296673" lon="-121.4351773"/>
+      <trkpt lat="37.1296587" lon="-121.4350807"/>
+      <trkpt lat="37.1292524" lon="-121.434775"/>
+      <trkpt lat="37.1291541" lon="-121.4345604"/>
+      <trkpt lat="37.1291712" lon="-121.4343405"/>
+      <trkpt lat="37.1290779" lon="-121.4344052"/>
+      <trkpt lat="37.1290001" lon="-121.4341473"/>
+      <trkpt lat="37.1287905" lon="-121.4339059"/>
+      <trkpt lat="37.1288119" lon="-121.433745"/>
+      <trkpt lat="37.1287092" lon="-121.433655"/>
+      <trkpt lat="37.1286323" lon="-121.4334178"/>
+      <trkpt lat="37.1280421" lon="-121.4327526"/>
+      <trkpt lat="37.1276357" lon="-121.4321035"/>
+      <trkpt lat="37.1273083" lon="-121.4318072"/>
+      <trkpt lat="37.1270797" lon="-121.4313471"/>
+      <trkpt lat="37.1269557" lon="-121.4311272"/>
+      <trkpt lat="37.1267547" lon="-121.4310252"/>
+      <trkpt lat="37.1265964" lon="-121.4307195"/>
+      <trkpt lat="37.1263297" lon="-121.4307601"/>
+      <trkpt lat="37.1261003" lon="-121.4306819"/>
+      <trkpt lat="37.1257823" lon="-121.4306742"/>
+      <trkpt lat="37.1255314" lon="-121.4306068"/>
+      <trkpt lat="37.1253775" lon="-121.430698"/>
+      <trkpt lat="37.12483" lon="-121.4311701"/>
+      <trkpt lat="37.1245092" lon="-121.4313739"/>
+      <trkpt lat="37.1243717" lon="-121.4313243"/>
+    </trkseg>
+  </trk>
+</gpx>

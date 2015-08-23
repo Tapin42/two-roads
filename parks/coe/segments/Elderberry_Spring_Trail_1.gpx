@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Elderberry Spring Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347471</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Elderberry Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Elderberry Spring Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1232744" lon="-121.456426"/>
+      <trkpt lat="37.1231932" lon="-121.4563402"/>
+      <trkpt lat="37.1231376" lon="-121.4560559"/>
+      <trkpt lat="37.1230836" lon="-121.4557925"/>
+      <trkpt lat="37.1230606" lon="-121.4556804"/>
+      <trkpt lat="37.1230991" lon="-121.4554497"/>
+      <trkpt lat="37.1230862" lon="-121.4553209"/>
+      <trkpt lat="37.1229793" lon="-121.4551171"/>
+      <trkpt lat="37.1229109" lon="-121.4549722"/>
+      <trkpt lat="37.1227158" lon="-121.4546921"/>
+      <trkpt lat="37.1223847" lon="-121.4545163"/>
+      <trkpt lat="37.1223591" lon="-121.4543339"/>
+      <trkpt lat="37.1221666" lon="-121.4541837"/>
+      <trkpt lat="37.1220811" lon="-121.4540978"/>
+      <trkpt lat="37.121833" lon="-121.4540227"/>
+      <trkpt lat="37.1217386" lon="-121.4538876"/>
+      <trkpt lat="37.1216961" lon="-121.453717"/>
+      <trkpt lat="37.1215977" lon="-121.4535346"/>
+      <trkpt lat="37.121247" lon="-121.4530786"/>
+      <trkpt lat="37.1210673" lon="-121.4527728"/>
+      <trkpt lat="37.1210502" lon="-121.4526173"/>
+      <trkpt lat="37.1210459" lon="-121.4521559"/>
+      <trkpt lat="37.1209775" lon="-121.451716"/>
+      <trkpt lat="37.1206695" lon="-121.4512011"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cordoza Ridge Road 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-353376</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Cordoza Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cordoza Ridge Road 1</name>
+    <trkseg>
+      <trkpt lat="37.1761053" lon="-121.5415638"/>
+      <trkpt lat="37.1758446" lon="-121.5414726"/>
+      <trkpt lat="37.1755924" lon="-121.5413975"/>
+      <trkpt lat="37.1751991" lon="-121.5413063"/>
+      <trkpt lat="37.1748914" lon="-121.5412849"/>
+      <trkpt lat="37.1747204" lon="-121.5412956"/>
+      <trkpt lat="37.1746221" lon="-121.5413278"/>
+      <trkpt lat="37.1743186" lon="-121.5413868"/>
+      <trkpt lat="37.1741519" lon="-121.5412259"/>
+      <trkpt lat="37.1739468" lon="-121.5412956"/>
+      <trkpt lat="37.1737074" lon="-121.541022"/>
+      <trkpt lat="37.173515" lon="-121.540727"/>
+      <trkpt lat="37.1731987" lon="-121.5406787"/>
+      <trkpt lat="37.1729337" lon="-121.5402978"/>
+      <trkpt lat="37.172455" lon="-121.5389567"/>
+      <trkpt lat="37.1723695" lon="-121.538372"/>
+      <trkpt lat="37.172502" lon="-121.5380126"/>
+      <trkpt lat="37.1727713" lon="-121.5375888"/>
+      <trkpt lat="37.1729337" lon="-121.537047"/>
+      <trkpt lat="37.1729081" lon="-121.5365535"/>
+      <trkpt lat="37.1728653" lon="-121.5363174"/>
+      <trkpt lat="37.1728568" lon="-121.5359205"/>
+      <trkpt lat="37.1730577" lon="-121.5351534"/>
+      <trkpt lat="37.1728867" lon="-121.5347671"/>
+      <trkpt lat="37.172673" lon="-121.5343809"/>
+      <trkpt lat="37.1726345" lon="-121.5338069"/>
+      <trkpt lat="37.1722583" lon="-121.5327126"/>
+      <trkpt lat="37.1719378" lon="-121.5320098"/>
+      <trkpt lat="37.1714462" lon="-121.5316128"/>
+      <trkpt lat="37.1708777" lon="-121.5311354"/>
+      <trkpt lat="37.1706041" lon="-121.5311032"/>
+      <trkpt lat="37.170493" lon="-121.5308779"/>
+      <trkpt lat="37.1703519" lon="-121.5304595"/>
+      <trkpt lat="37.1701852" lon="-121.530084"/>
+      <trkpt lat="37.1698774" lon="-121.5297085"/>
+      <trkpt lat="37.1696484" lon="-121.5295943"/>
+    </trkseg>
+  </trk>
+</gpx>

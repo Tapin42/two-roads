@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 12</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347353</twr:id>
+    <attrs>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 12</name>
+    <trkseg>
+      <trkpt lat="37.186632" lon="-121.5468486"/>
+      <trkpt lat="37.1867062" lon="-121.5469885"/>
+      <trkpt lat="37.1868001" lon="-121.5471469"/>
+      <trkpt lat="37.1868847" lon="-121.5472801"/>
+      <trkpt lat="37.186997" lon="-121.54734"/>
+      <trkpt lat="37.187077" lon="-121.5473516"/>
+      <trkpt lat="37.1871416" lon="-121.5473284"/>
+      <trkpt lat="37.1872555" lon="-121.5472106"/>
+      <trkpt lat="37.1873249" lon="-121.5470481"/>
+    </trkseg>
+  </trk>
+</gpx>

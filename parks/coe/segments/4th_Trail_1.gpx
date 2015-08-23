@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>4th Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347153</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>4th Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>4th Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1559466" lon="-121.4554757"/>
+      <trkpt lat="37.1553227" lon="-121.4564245"/>
+      <trkpt lat="37.154365" lon="-121.4571755"/>
+      <trkpt lat="37.1539033" lon="-121.4574545"/>
+      <trkpt lat="37.1537836" lon="-121.4581626"/>
+      <trkpt lat="37.1533731" lon="-121.4589994"/>
+      <trkpt lat="37.1528771" lon="-121.4600294"/>
+      <trkpt lat="37.1522443" lon="-121.4605229"/>
+      <trkpt lat="37.1520562" lon="-121.4609735"/>
+      <trkpt lat="37.1519365" lon="-121.46151"/>
+      <trkpt lat="37.1515431" lon="-121.4619821"/>
+      <trkpt lat="37.1512011" lon="-121.4622825"/>
+      <trkpt lat="37.1510301" lon="-121.4627331"/>
+      <trkpt lat="37.1505683" lon="-121.4626043"/>
+      <trkpt lat="37.1498158" lon="-121.4620893"/>
+      <trkpt lat="37.1493369" lon="-121.4620464"/>
+      <trkpt lat="37.1488409" lon="-121.4618104"/>
+      <trkpt lat="37.1483107" lon="-121.4619606"/>
+      <trkpt lat="37.1480541" lon="-121.4622395"/>
+      <trkpt lat="37.1480712" lon="-121.4625185"/>
+      <trkpt lat="37.1482765" lon="-121.462776"/>
+      <trkpt lat="37.147866" lon="-121.4636557"/>
+      <trkpt lat="37.1476265" lon="-121.4632266"/>
+      <trkpt lat="37.1474384" lon="-121.4630549"/>
+      <trkpt lat="37.1470792" lon="-121.4622181"/>
+      <trkpt lat="37.1469424" lon="-121.4615529"/>
+      <trkpt lat="37.1468227" lon="-121.4614349"/>
+      <trkpt lat="37.1467097" lon="-121.4613511"/>
+    </trkseg>
+  </trk>
+</gpx>

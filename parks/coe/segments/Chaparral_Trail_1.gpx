@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Chaparral Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347051</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Chaparral Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Chaparral Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.2468079" lon="-121.4196526"/>
+      <trkpt lat="37.2468006" lon="-121.4203773"/>
+      <trkpt lat="37.246634" lon="-121.4204643"/>
+      <trkpt lat="37.246595" lon="-121.421361"/>
+      <trkpt lat="37.2465366" lon="-121.4218674"/>
+      <trkpt lat="37.2463028" lon="-121.4224128"/>
+      <trkpt lat="37.2466924" lon="-121.4229582"/>
+      <trkpt lat="37.2465171" lon="-121.423153"/>
+      <trkpt lat="37.2470625" lon="-121.42364"/>
+      <trkpt lat="37.2473936" lon="-121.4243022"/>
+      <trkpt lat="37.2472768" lon="-121.4253151"/>
+      <trkpt lat="37.2472183" lon="-121.4256852"/>
+      <trkpt lat="37.2468093" lon="-121.4258216"/>
+      <trkpt lat="37.2465755" lon="-121.4259969"/>
+      <trkpt lat="37.246595" lon="-121.4265228"/>
+      <trkpt lat="37.2469067" lon="-121.4270487"/>
+      <trkpt lat="37.2471404" lon="-121.4278279"/>
+      <trkpt lat="37.2464781" lon="-121.4289771"/>
+      <trkpt lat="37.2459717" lon="-121.4292888"/>
+      <trkpt lat="37.2453289" lon="-121.4301263"/>
+      <trkpt lat="37.2452315" lon="-121.4310613"/>
+      <trkpt lat="37.244803" lon="-121.4318989"/>
+      <trkpt lat="37.244803" lon="-121.4332624"/>
+      <trkpt lat="37.2447056" lon="-121.4335935"/>
+      <trkpt lat="37.2448225" lon="-121.4347428"/>
+      <trkpt lat="37.244803" lon="-121.4351323"/>
+      <trkpt lat="37.2442381" lon="-121.4361452"/>
+      <trkpt lat="37.244316" lon="-121.4367685"/>
+      <trkpt lat="37.2440044" lon="-121.4376256"/>
+      <trkpt lat="37.2442576" lon="-121.4384437"/>
+      <trkpt lat="37.244355" lon="-121.4389891"/>
+      <trkpt lat="37.2441602" lon="-121.4397682"/>
+      <trkpt lat="37.2435174" lon="-121.4407811"/>
+      <trkpt lat="37.242972" lon="-121.4415992"/>
+      <trkpt lat="37.2420955" lon="-121.4417745"/>
+      <trkpt lat="37.2416669" lon="-121.4420278"/>
+      <trkpt lat="37.2413942" lon="-121.4427874"/>
+      <trkpt lat="37.2407904" lon="-121.4430796"/>
+      <trkpt lat="37.2405372" lon="-121.4438977"/>
+      <trkpt lat="37.2401086" lon="-121.4447158"/>
+      <trkpt lat="37.2398359" lon="-121.4451054"/>
+      <trkpt lat="37.2395438" lon="-121.4454365"/>
+    </trkseg>
+  </trk>
+</gpx>

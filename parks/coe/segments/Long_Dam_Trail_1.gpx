@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Long Dam Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346971</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Long Dam Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Long Dam Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.0733958" lon="-121.4077218"/>
+      <trkpt lat="37.0737863" lon="-121.4078811"/>
+      <trkpt lat="37.0746918" lon="-121.4081617"/>
+      <trkpt lat="37.0751452" lon="-121.4082102"/>
+      <trkpt lat="37.075912" lon="-121.4089222"/>
+      <trkpt lat="37.0766066" lon="-121.4091465"/>
+      <trkpt lat="37.0771855" lon="-121.4096385"/>
+      <trkpt lat="37.0781116" lon="-121.4090018"/>
+      <trkpt lat="37.0785457" lon="-121.4083651"/>
+      <trkpt lat="37.0786325" lon="-121.4079888"/>
+      <trkpt lat="37.0791246" lon="-121.4078441"/>
+      <trkpt lat="37.0798131" lon="-121.4081261"/>
+      <trkpt lat="37.0805138" lon="-121.4081914"/>
+      <trkpt lat="37.0810636" lon="-121.4081046"/>
+      <trkpt lat="37.0812084" lon="-121.4075257"/>
+      <trkpt lat="37.0815557" lon="-121.407194"/>
+      <trkpt lat="37.0817413" lon="-121.4068757"/>
+      <trkpt lat="37.0817565" lon="-121.4065021"/>
+      <trkpt lat="37.0815557" lon="-121.4063391"/>
+      <trkpt lat="37.0810058" lon="-121.4061076"/>
+      <trkpt lat="37.0810347" lon="-121.4052104"/>
+      <trkpt lat="37.0808709" lon="-121.4049867"/>
+      <trkpt lat="37.0804848" lon="-121.4050368"/>
+      <trkpt lat="37.0795869" lon="-121.40421"/>
+      <trkpt lat="37.0794333" lon="-121.4039073"/>
+      <trkpt lat="37.0796143" lon="-121.4032916"/>
+      <trkpt lat="37.0804117" lon="-121.4032656"/>
+      <trkpt lat="37.0810893" lon="-121.4033392"/>
+      <trkpt lat="37.0817256" lon="-121.4031839"/>
+    </trkseg>
+  </trk>
+</gpx>

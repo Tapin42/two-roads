@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cattle Duster Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347495</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Cattle Duster Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cattle Duster Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1319255" lon="-121.4657936"/>
+      <trkpt lat="37.1318327" lon="-121.4657333"/>
+      <trkpt lat="37.1317515" lon="-121.4656313"/>
+      <trkpt lat="37.1315491" lon="-121.4656702"/>
+      <trkpt lat="37.1314165" lon="-121.4656756"/>
+      <trkpt lat="37.1313152" lon="-121.465685"/>
+      <trkpt lat="37.13111" lon="-121.4656957"/>
+      <trkpt lat="37.1309416" lon="-121.4653463"/>
+      <trkpt lat="37.1308918" lon="-121.4651861"/>
+      <trkpt lat="37.1308705" lon="-121.4655884"/>
+      <trkpt lat="37.1308747" lon="-121.4659264"/>
+      <trkpt lat="37.130832" lon="-121.4661249"/>
+      <trkpt lat="37.1307021" lon="-121.4663419"/>
+      <trkpt lat="37.1305283" lon="-121.4664467"/>
+      <trkpt lat="37.1303957" lon="-121.4663824"/>
+      <trkpt lat="37.1302094" lon="-121.4661016"/>
+      <trkpt lat="37.130052" lon="-121.4659299"/>
+      <trkpt lat="37.1298483" lon="-121.4658298"/>
+      <trkpt lat="37.1298057" lon="-121.4655523"/>
+      <trkpt lat="37.1298868" lon="-121.4653578"/>
+      <trkpt lat="37.1300794" lon="-121.465372"/>
+      <trkpt lat="37.1301684" lon="-121.4653205"/>
+      <trkpt lat="37.1301889" lon="-121.465106"/>
+      <trkpt lat="37.1301562" lon="-121.4648911"/>
+      <trkpt lat="37.1301092" lon="-121.4646818"/>
+      <trkpt lat="37.1302075" lon="-121.4644297"/>
+      <trkpt lat="37.1302503" lon="-121.4642527"/>
+      <trkpt lat="37.1302118" lon="-121.4640918"/>
+      <trkpt lat="37.1301819" lon="-121.4636948"/>
+      <trkpt lat="37.1302888" lon="-121.4633676"/>
+      <trkpt lat="37.130401" lon="-121.4633035"/>
+      <trkpt lat="37.1304941" lon="-121.4632227"/>
+      <trkpt lat="37.1304556" lon="-121.4630618"/>
+      <trkpt lat="37.1303615" lon="-121.4629116"/>
+      <trkpt lat="37.1300726" lon="-121.4627285"/>
+      <trkpt lat="37.1299809" lon="-121.4626434"/>
+      <trkpt lat="37.1299082" lon="-121.4626863"/>
+      <trkpt lat="37.1298911" lon="-121.4628579"/>
+      <trkpt lat="37.1298269" lon="-121.4629009"/>
+      <trkpt lat="37.1296387" lon="-121.4627882"/>
+      <trkpt lat="37.1294362" lon="-121.462634"/>
+      <trkpt lat="37.1292752" lon="-121.4624878"/>
+      <trkpt lat="37.1292196" lon="-121.4624073"/>
+      <trkpt lat="37.1291009" lon="-121.4623594"/>
+      <trkpt lat="37.128964" lon="-121.4624366"/>
+      <trkpt lat="37.128834" lon="-121.4624881"/>
+      <trkpt lat="37.1287106" lon="-121.4625361"/>
+      <trkpt lat="37.1286721" lon="-121.4624395"/>
+      <trkpt lat="37.1286834" lon="-121.4622993"/>
+      <trkpt lat="37.1287534" lon="-121.4620908"/>
+      <trkpt lat="37.1287577" lon="-121.4619299"/>
+    </trkseg>
+  </trk>
+</gpx>

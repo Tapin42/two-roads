@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mudd Spring Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347277</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Mudd Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mudd Spring Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1604461" lon="-121.4373578"/>
+      <trkpt lat="37.1606635" lon="-121.4373676"/>
+      <trkpt lat="37.1607915" lon="-121.4372224"/>
+      <trkpt lat="37.1609025" lon="-121.4373505"/>
+      <trkpt lat="37.1609965" lon="-121.4369406"/>
+      <trkpt lat="37.1613636" lon="-121.4367015"/>
+      <trkpt lat="37.1616369" lon="-121.4362832"/>
+      <trkpt lat="37.1619699" lon="-121.4360868"/>
+      <trkpt lat="37.1621065" lon="-121.4358391"/>
+      <trkpt lat="37.1620809" lon="-121.43525"/>
+      <trkpt lat="37.1622687" lon="-121.4350109"/>
+      <trkpt lat="37.1623883" lon="-121.4346779"/>
+      <trkpt lat="37.1624053" lon="-121.434268"/>
+      <trkpt lat="37.1622943" lon="-121.4334483"/>
+      <trkpt lat="37.1625334" lon="-121.4332946"/>
+      <trkpt lat="37.1627042" lon="-121.4329189"/>
+      <trkpt lat="37.1628664" lon="-121.4324493"/>
+      <trkpt lat="37.1629689" lon="-121.4325005"/>
+      <trkpt lat="37.1632421" lon="-121.4323042"/>
+      <trkpt lat="37.1634385" lon="-121.4321846"/>
+      <trkpt lat="37.1636947" lon="-121.4313905"/>
+      <trkpt lat="37.163652" lon="-121.4311941"/>
+      <trkpt lat="37.1637203" lon="-121.4310917"/>
+      <trkpt lat="37.1638996" lon="-121.4308953"/>
+      <trkpt lat="37.1639423" lon="-121.4307416"/>
+      <trkpt lat="37.1641984" lon="-121.4304086"/>
+      <trkpt lat="37.164182" lon="-121.4299994"/>
+    </trkseg>
+  </trk>
+</gpx>

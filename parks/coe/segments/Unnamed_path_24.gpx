@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 24</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347111</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:created_by>Potlatch 0.10f</twr:created_by>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 24</name>
+    <trkseg>
+      <trkpt lat="37.1328963" lon="-121.4245021"/>
+      <trkpt lat="37.1332279" lon="-121.4241752"/>
+      <trkpt lat="37.133636" lon="-121.4246182"/>
+      <trkpt lat="37.1342073" lon="-121.4245016"/>
+      <trkpt lat="37.1345687" lon="-121.4245716"/>
+      <trkpt lat="37.135032" lon="-121.4246834"/>
+      <trkpt lat="37.1355113" lon="-121.4251108"/>
+      <trkpt lat="37.1358751" lon="-121.4250761"/>
+      <trkpt lat="37.1361003" lon="-121.4247701"/>
+      <trkpt lat="37.1362043" lon="-121.4243774"/>
+      <trkpt lat="37.1364988" lon="-121.4249317"/>
+      <trkpt lat="37.1366952" lon="-121.4249837"/>
+      <trkpt lat="37.1368107" lon="-121.4250761"/>
+      <trkpt lat="37.1368973" lon="-121.4250819"/>
+      <trkpt lat="37.13688" lon="-121.4252205"/>
+      <trkpt lat="37.1369262" lon="-121.4253937"/>
+      <trkpt lat="37.1369839" lon="-121.4254573"/>
+      <trkpt lat="37.1370879" lon="-121.4254342"/>
+      <trkpt lat="37.1371976" lon="-121.4254919"/>
+      <trkpt lat="37.1372264" lon="-121.4256074"/>
+      <trkpt lat="37.1373073" lon="-121.4257287"/>
+      <trkpt lat="37.1374805" lon="-121.4257691"/>
+      <trkpt lat="37.1375498" lon="-121.42585"/>
+      <trkpt lat="37.1375498" lon="-121.4259828"/>
+      <trkpt lat="37.137521" lon="-121.4261098"/>
+      <trkpt lat="37.1376596" lon="-121.4262369"/>
+      <trkpt lat="37.1377808" lon="-121.4263524"/>
+      <trkpt lat="37.1378121" lon="-121.4265994"/>
+    </trkseg>
+  </trk>
+</gpx>

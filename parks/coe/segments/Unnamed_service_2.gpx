@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed service 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>service</twr:type>
+    <twr:id>-347115</twr:id>
+    <attrs>
+      <twr:created_by>Potlatch 0.10f</twr:created_by>
+      <twr:highway>service</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed service 2</name>
+    <trkseg>
+      <trkpt lat="37.1873131" lon="-121.5470228"/>
+      <trkpt lat="37.186632" lon="-121.5468486"/>
+      <trkpt lat="37.1864953" lon="-121.5467714"/>
+      <trkpt lat="37.1862902" lon="-121.5463422"/>
+      <trkpt lat="37.1863449" lon="-121.5457328"/>
+      <trkpt lat="37.1863859" lon="-121.5453981"/>
+      <trkpt lat="37.186338" lon="-121.5450547"/>
+      <trkpt lat="37.1862286" lon="-121.5448917"/>
+      <trkpt lat="37.1860166" lon="-121.5447887"/>
+      <trkpt lat="37.1858594" lon="-121.5447715"/>
+      <trkpt lat="37.1857841" lon="-121.5448659"/>
+      <trkpt lat="37.1858115" lon="-121.5450462"/>
+      <trkpt lat="37.1858047" lon="-121.5452264"/>
+      <trkpt lat="37.1857363" lon="-121.5453036"/>
+      <trkpt lat="37.1856884" lon="-121.5453895"/>
+      <trkpt lat="37.1857158" lon="-121.5455354"/>
+      <trkpt lat="37.1858457" lon="-121.5455783"/>
+      <trkpt lat="37.1860235" lon="-121.5456556"/>
+      <trkpt lat="37.1861466" lon="-121.5457585"/>
+      <trkpt lat="37.1862355" lon="-121.5459388"/>
+      <trkpt lat="37.1862355" lon="-121.5460933"/>
+      <trkpt lat="37.1861807" lon="-121.5462306"/>
+      <trkpt lat="37.186126" lon="-121.5463765"/>
+      <trkpt lat="37.1861055" lon="-121.5465739"/>
+      <trkpt lat="37.186126" lon="-121.5467199"/>
+      <trkpt lat="37.1862833" lon="-121.5468743"/>
+      <trkpt lat="37.1864406" lon="-121.5469344"/>
+      <trkpt lat="37.186632" lon="-121.5468486"/>
+    </trkseg>
+  </trk>
+</gpx>

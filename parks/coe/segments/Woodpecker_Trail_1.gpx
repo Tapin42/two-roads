@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Woodpecker Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347321</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:motorcar>no</twr:motorcar>
+      <twr:name>Woodpecker Trail</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Woodpecker Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1630652" lon="-121.3916324"/>
+      <trkpt lat="37.1629617" lon="-121.3915013"/>
+      <trkpt lat="37.1629271" lon="-121.3910595"/>
+      <trkpt lat="37.1629202" lon="-121.3905279"/>
+      <trkpt lat="37.1630031" lon="-121.3900516"/>
+      <trkpt lat="37.1628857" lon="-121.3899618"/>
+      <trkpt lat="37.1627477" lon="-121.3899964"/>
+      <trkpt lat="37.1622092" lon="-121.3904727"/>
+      <trkpt lat="37.1616293" lon="-121.3907902"/>
+      <trkpt lat="37.1613808" lon="-121.3908316"/>
+      <trkpt lat="37.161298" lon="-121.3910664"/>
+      <trkpt lat="37.1613946" lon="-121.3915151"/>
+      <trkpt lat="37.161153" lon="-121.3918326"/>
+      <trkpt lat="37.1606974" lon="-121.3918395"/>
+      <trkpt lat="37.1602487" lon="-121.3919914"/>
+      <trkpt lat="37.1600899" lon="-121.3922261"/>
+      <trkpt lat="37.1600899" lon="-121.392302"/>
+      <trkpt lat="37.1598383" lon="-121.3925399"/>
+    </trkseg>
+  </trk>
+</gpx>

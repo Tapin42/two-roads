@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 23</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347167</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 23</name>
+    <trkseg>
+      <trkpt lat="37.1228443" lon="-121.4567396"/>
+      <trkpt lat="37.1229151" lon="-121.4565226"/>
+      <trkpt lat="37.1229194" lon="-121.4562543"/>
+      <trkpt lat="37.1230263" lon="-121.4559486"/>
+      <trkpt lat="37.1230836" lon="-121.4557925"/>
+    </trkseg>
+  </trk>
+</gpx>

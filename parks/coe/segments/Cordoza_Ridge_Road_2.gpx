@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cordoza Ridge Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-346951</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Cordoza Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cordoza Ridge Road 2</name>
+    <trkseg>
+      <trkpt lat="37.1696484" lon="-121.5295943"/>
+      <trkpt lat="37.1693065" lon="-121.5292595"/>
+      <trkpt lat="37.1690192" lon="-121.5288389"/>
+      <trkpt lat="37.1687046" lon="-121.5281351"/>
+      <trkpt lat="37.1682532" lon="-121.5279635"/>
+      <trkpt lat="37.167836" lon="-121.5274657"/>
+      <trkpt lat="37.1674872" lon="-121.5271567"/>
+      <trkpt lat="37.1671452" lon="-121.5269078"/>
+      <trkpt lat="37.1664407" lon="-121.5259121"/>
+      <trkpt lat="37.1661261" lon="-121.5255774"/>
+      <trkpt lat="37.1656473" lon="-121.5251911"/>
+      <trkpt lat="37.1654147" lon="-121.5248993"/>
+      <trkpt lat="37.1650249" lon="-121.5244788"/>
+      <trkpt lat="37.1645871" lon="-121.5242041"/>
+      <trkpt lat="37.1641972" lon="-121.5241612"/>
+      <trkpt lat="37.1638826" lon="-121.5240153"/>
+      <trkpt lat="37.16378" lon="-121.523732"/>
+      <trkpt lat="37.1635953" lon="-121.5234402"/>
+      <trkpt lat="37.1632328" lon="-121.523157"/>
+      <trkpt lat="37.1624051" lon="-121.5225991"/>
+      <trkpt lat="37.1619332" lon="-121.5225304"/>
+      <trkpt lat="37.1615912" lon="-121.5225647"/>
+      <trkpt lat="37.1610371" lon="-121.5222901"/>
+      <trkpt lat="37.1605583" lon="-121.52223"/>
+      <trkpt lat="37.1597854" lon="-121.5221098"/>
+      <trkpt lat="37.1595186" lon="-121.5222472"/>
+      <trkpt lat="37.1589577" lon="-121.5230797"/>
+      <trkpt lat="37.1589577" lon="-121.5239294"/>
+      <trkpt lat="37.1590808" lon="-121.5243071"/>
+      <trkpt lat="37.1591218" lon="-121.5249508"/>
+      <trkpt lat="37.1590534" lon="-121.5251311"/>
+      <trkpt lat="37.1587593" lon="-121.5255001"/>
+      <trkpt lat="37.1585746" lon="-121.5260065"/>
+      <trkpt lat="37.1580274" lon="-121.526264"/>
+      <trkpt lat="37.1577127" lon="-121.5263928"/>
+      <trkpt lat="37.1575075" lon="-121.5267103"/>
+      <trkpt lat="37.157316" lon="-121.5269507"/>
+      <trkpt lat="37.1570013" lon="-121.5270365"/>
+      <trkpt lat="37.1567756" lon="-121.527191"/>
+      <trkpt lat="37.1566798" lon="-121.5274571"/>
+      <trkpt lat="37.1567003" lon="-121.5278347"/>
+      <trkpt lat="37.1566456" lon="-121.5280665"/>
+      <trkpt lat="37.1564951" lon="-121.5281695"/>
+      <trkpt lat="37.156283" lon="-121.5281781"/>
+      <trkpt lat="37.1560231" lon="-121.5284355"/>
+      <trkpt lat="37.1558384" lon="-121.5288904"/>
+      <trkpt lat="37.1556811" lon="-121.5293368"/>
+      <trkpt lat="37.1555511" lon="-121.529414"/>
+      <trkpt lat="37.1551543" lon="-121.5294998"/>
+      <trkpt lat="37.154566" lon="-121.5297144"/>
+      <trkpt lat="37.1543813" lon="-121.5300234"/>
+      <trkpt lat="37.1544771" lon="-121.5303152"/>
+      <trkpt lat="37.1544976" lon="-121.5306328"/>
+      <trkpt lat="37.1544976" lon="-121.531019"/>
+      <trkpt lat="37.1543061" lon="-121.5313366"/>
+      <trkpt lat="37.1536083" lon="-121.5320404"/>
+      <trkpt lat="37.1533141" lon="-121.5326584"/>
+      <trkpt lat="37.1532594" lon="-121.5330618"/>
+      <trkpt lat="37.1532252" lon="-121.5335081"/>
+      <trkpt lat="37.1531158" lon="-121.5336626"/>
+      <trkpt lat="37.1529379" lon="-121.5336626"/>
+      <trkpt lat="37.1527806" lon="-121.533697"/>
+      <trkpt lat="37.1526643" lon="-121.5339545"/>
+      <trkpt lat="37.1526095" lon="-121.5341175"/>
+      <trkpt lat="37.1524864" lon="-121.5341519"/>
+    </trkseg>
+  </trk>
+</gpx>

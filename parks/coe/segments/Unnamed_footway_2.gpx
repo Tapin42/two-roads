@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed footway 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>footway</twr:type>
+    <twr:id>-347219</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>footway</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed footway 2</name>
+    <trkseg>
+      <trkpt lat="37.2028756" lon="-121.5470878"/>
+      <trkpt lat="37.2029776" lon="-121.5469199"/>
+      <trkpt lat="37.2030869" lon="-121.5467139"/>
+      <trkpt lat="37.2031827" lon="-121.5465251"/>
+      <trkpt lat="37.2031827" lon="-121.5464135"/>
+      <trkpt lat="37.203169" lon="-121.5461989"/>
+      <trkpt lat="37.2031553" lon="-121.5460874"/>
+    </trkseg>
+  </trk>
+</gpx>

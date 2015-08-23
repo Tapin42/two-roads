@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Walsh Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347531</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Walsh Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Walsh Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1288577" lon="-121.3936143"/>
+      <trkpt lat="37.1287037" lon="-121.3929921"/>
+      <trkpt lat="37.1281819" lon="-121.3932281"/>
+      <trkpt lat="37.1279852" lon="-121.3931959"/>
+      <trkpt lat="37.1278911" lon="-121.3928955"/>
+      <trkpt lat="37.1276858" lon="-121.3927453"/>
+      <trkpt lat="37.1271726" lon="-121.3926487"/>
+      <trkpt lat="37.1267106" lon="-121.3925844"/>
+      <trkpt lat="37.1268475" lon="-121.3921123"/>
+      <trkpt lat="37.1262059" lon="-121.3921445"/>
+      <trkpt lat="37.1263856" lon="-121.3914793"/>
+      <trkpt lat="37.1263343" lon="-121.3911252"/>
+      <trkpt lat="37.1259408" lon="-121.3911252"/>
+      <trkpt lat="37.1258125" lon="-121.3910609"/>
+      <trkpt lat="37.1258296" lon="-121.3908892"/>
+      <trkpt lat="37.1258296" lon="-121.3903206"/>
+      <trkpt lat="37.1254788" lon="-121.3904386"/>
+      <trkpt lat="37.1251367" lon="-121.3901167"/>
+      <trkpt lat="37.1246063" lon="-121.3896769"/>
+      <trkpt lat="37.1242213" lon="-121.389119"/>
+      <trkpt lat="37.1238535" lon="-121.3883036"/>
+      <trkpt lat="37.1235455" lon="-121.3877349"/>
+      <trkpt lat="37.1232461" lon="-121.3872736"/>
+      <trkpt lat="37.1229296" lon="-121.3871019"/>
+      <trkpt lat="37.1226559" lon="-121.387177"/>
+      <trkpt lat="37.1220143" lon="-121.3870054"/>
+      <trkpt lat="37.1214151" lon="-121.3866812"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Vasquez Road 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347543</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Vasquez Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Vasquez Road 1</name>
+    <trkseg>
+      <trkpt lat="37.0817256" lon="-121.4031839"/>
+      <trkpt lat="37.0814556" lon="-121.402854"/>
+      <trkpt lat="37.0811685" lon="-121.4022724"/>
+      <trkpt lat="37.0810594" lon="-121.4019279"/>
+      <trkpt lat="37.0810495" lon="-121.4014278"/>
+      <trkpt lat="37.0811807" lon="-121.4007117"/>
+      <trkpt lat="37.0806725" lon="-121.3991167"/>
+      <trkpt lat="37.0804123" lon="-121.3980031"/>
+      <trkpt lat="37.0806513" lon="-121.3969279"/>
+      <trkpt lat="37.0803327" lon="-121.3960518"/>
+      <trkpt lat="37.0807309" lon="-121.3948571"/>
+      <trkpt lat="37.0814079" lon="-121.3941005"/>
+      <trkpt lat="37.0823238" lon="-121.3937023"/>
+      <trkpt lat="37.0829609" lon="-121.3937023"/>
+      <trkpt lat="37.0836379" lon="-121.3933041"/>
+      <trkpt lat="37.0839963" lon="-121.3928262"/>
+      <trkpt lat="37.0837972" lon="-121.3922289"/>
+      <trkpt lat="37.0836379" lon="-121.3918306"/>
+      <trkpt lat="37.0841893" lon="-121.3911143"/>
+      <trkpt lat="37.0853745" lon="-121.3904678"/>
+      <trkpt lat="37.0854284" lon="-121.3893364"/>
+      <trkpt lat="37.0857452" lon="-121.3885325"/>
+      <trkpt lat="37.0859866" lon="-121.3879809"/>
+      <trkpt lat="37.0863141" lon="-121.3877223"/>
+      <trkpt lat="37.0869348" lon="-121.3868258"/>
+      <trkpt lat="37.0872968" lon="-121.3866361"/>
+      <trkpt lat="37.0872796" lon="-121.3861706"/>
+      <trkpt lat="37.0877163" lon="-121.3857398"/>
+      <trkpt lat="37.088286" lon="-121.3854274"/>
+      <trkpt lat="37.0886352" lon="-121.3851517"/>
+      <trkpt lat="37.0887455" lon="-121.3848944"/>
+      <trkpt lat="37.0885249" lon="-121.3843615"/>
+      <trkpt lat="37.0886536" lon="-121.3840307"/>
+      <trkpt lat="37.0886168" lon="-121.3836999"/>
+      <trkpt lat="37.0887271" lon="-121.3833691"/>
+      <trkpt lat="37.089091" lon="-121.3836521"/>
+      <trkpt lat="37.0896055" lon="-121.3837697"/>
+      <trkpt lat="37.0899878" lon="-121.3836374"/>
+      <trkpt lat="37.0902524" lon="-121.3831669"/>
+      <trkpt lat="37.0903407" lon="-121.3825494"/>
+      <trkpt lat="37.0905465" lon="-121.3823142"/>
+      <trkpt lat="37.0906788" lon="-121.3818878"/>
+      <trkpt lat="37.0910905" lon="-121.3811968"/>
+      <trkpt lat="37.0916639" lon="-121.3806969"/>
+      <trkpt lat="37.0923402" lon="-121.3805499"/>
+      <trkpt lat="37.0927665" lon="-121.3807263"/>
+      <trkpt lat="37.0929871" lon="-121.3810057"/>
+      <trkpt lat="37.0933693" lon="-121.3808586"/>
+      <trkpt lat="37.0936634" lon="-121.3810204"/>
+      <trkpt lat="37.0940015" lon="-121.3813144"/>
+      <trkpt lat="37.0936781" lon="-121.3819319"/>
+      <trkpt lat="37.0934723" lon="-121.3821083"/>
+      <trkpt lat="37.0933987" lon="-121.3824171"/>
+      <trkpt lat="37.0930312" lon="-121.3827846"/>
+      <trkpt lat="37.0930312" lon="-121.3829905"/>
+      <trkpt lat="37.0932811" lon="-121.3830787"/>
+      <trkpt lat="37.0935017" lon="-121.3833727"/>
+      <trkpt lat="37.0940309" lon="-121.3835198"/>
+      <trkpt lat="37.094472" lon="-121.3838138"/>
+      <trkpt lat="37.0950748" lon="-121.3842255"/>
+      <trkpt lat="37.0951483" lon="-121.3845342"/>
+      <trkpt lat="37.0954277" lon="-121.3847254"/>
+      <trkpt lat="37.0956923" lon="-121.3846665"/>
+      <trkpt lat="37.0960452" lon="-121.3847842"/>
+      <trkpt lat="37.0963539" lon="-121.3850047"/>
+    </trkseg>
+  </trk>
+</gpx>

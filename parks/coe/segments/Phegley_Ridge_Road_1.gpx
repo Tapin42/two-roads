@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Phegley Ridge Road 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347197</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Phegley Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Phegley Ridge Road 1</name>
+    <trkseg>
+      <trkpt lat="37.0654488" lon="-121.4289423"/>
+      <trkpt lat="37.0653096" lon="-121.4286022"/>
+      <trkpt lat="37.0653164" lon="-121.4273103"/>
+      <trkpt lat="37.0652584" lon="-121.4260155"/>
+      <trkpt lat="37.0653658" lon="-121.4254262"/>
+      <trkpt lat="37.0654488" lon="-121.4253488"/>
+      <trkpt lat="37.0658034" lon="-121.425225"/>
+      <trkpt lat="37.0661666" lon="-121.4248851"/>
+      <trkpt lat="37.0663469" lon="-121.4246124"/>
+      <trkpt lat="37.0665824" lon="-121.4238382"/>
+      <trkpt lat="37.0670734" lon="-121.4231292"/>
+      <trkpt lat="37.0671002" lon="-121.4225395"/>
+      <trkpt lat="37.0671621" lon="-121.4222904"/>
+      <trkpt lat="37.0673686" lon="-121.4218835"/>
+      <trkpt lat="37.0674219" lon="-121.421655"/>
+      <trkpt lat="37.0670352" lon="-121.4205876"/>
+      <trkpt lat="37.067029" lon="-121.4202174"/>
+      <trkpt lat="37.066841" lon="-121.4198711"/>
+      <trkpt lat="37.0667704" lon="-121.4195328"/>
+      <trkpt lat="37.0664669" lon="-121.4190795"/>
+      <trkpt lat="37.0663765" lon="-121.4188404"/>
+      <trkpt lat="37.0663522" lon="-121.4182502"/>
+      <trkpt lat="37.0662992" lon="-121.4179865"/>
+      <trkpt lat="37.0660784" lon="-121.4176765"/>
+      <trkpt lat="37.0658228" lon="-121.4174585"/>
+      <trkpt lat="37.0657523" lon="-121.4170649"/>
+      <trkpt lat="37.0656266" lon="-121.4168802"/>
+      <trkpt lat="37.0651957" lon="-121.4165039"/>
+      <trkpt lat="37.0651459" lon="-121.4163134"/>
+      <trkpt lat="37.0651505" lon="-121.4154704"/>
+      <trkpt lat="37.0650429" lon="-121.4153245"/>
+      <trkpt lat="37.0648987" lon="-121.4152637"/>
+      <trkpt lat="37.0646706" lon="-121.4149574"/>
+      <trkpt lat="37.0645919" lon="-121.4144803"/>
+      <trkpt lat="37.0645347" lon="-121.4143758"/>
+      <trkpt lat="37.0644459" lon="-121.4143142"/>
+      <trkpt lat="37.0639365" lon="-121.4142387"/>
+      <trkpt lat="37.0636779" lon="-121.4140704"/>
+      <trkpt lat="37.0635408" lon="-121.414047"/>
+      <trkpt lat="37.0632628" lon="-121.4141758"/>
+      <trkpt lat="37.0629814" lon="-121.4142208"/>
+      <trkpt lat="37.0628098" lon="-121.4141934"/>
+      <trkpt lat="37.0626077" lon="-121.4140773"/>
+      <trkpt lat="37.0622477" lon="-121.4136549"/>
+      <trkpt lat="37.0618789" lon="-121.413018"/>
+      <trkpt lat="37.0616609" lon="-121.4124986"/>
+      <trkpt lat="37.0604125" lon="-121.4109968"/>
+      <trkpt lat="37.0602014" lon="-121.4103917"/>
+      <trkpt lat="37.06" lon="-121.4100711"/>
+      <trkpt lat="37.0592447" lon="-121.4091273"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 32</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346975</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 32</name>
+    <trkseg>
+      <trkpt lat="37.1529199" lon="-121.4500427"/>
+      <trkpt lat="37.1531783" lon="-121.4497277"/>
+      <trkpt lat="37.1531985" lon="-121.4494031"/>
+      <trkpt lat="37.153279" lon="-121.449237"/>
+      <trkpt lat="37.1536212" lon="-121.4491187"/>
+      <trkpt lat="37.1540288" lon="-121.4490508"/>
+      <trkpt lat="37.1543733" lon="-121.4490921"/>
+      <trkpt lat="37.1546642" lon="-121.448989"/>
+      <trkpt lat="37.1551258" lon="-121.4488882"/>
+      <trkpt lat="37.1552754" lon="-121.4489258"/>
+      <trkpt lat="37.1554635" lon="-121.4488614"/>
+      <trkpt lat="37.1556003" lon="-121.4488185"/>
+      <trkpt lat="37.1556944" lon="-121.4488399"/>
+      <trkpt lat="37.15575" lon="-121.4488024"/>
+      <trkpt lat="37.1557756" lon="-121.4486736"/>
+      <trkpt lat="37.1561561" lon="-121.4482981"/>
+      <trkpt lat="37.1563015" lon="-121.4482928"/>
+      <trkpt lat="37.1564084" lon="-121.4482767"/>
+      <trkpt lat="37.1564426" lon="-121.4481855"/>
+      <trkpt lat="37.156558" lon="-121.4482123"/>
+      <trkpt lat="37.1566264" lon="-121.4483411"/>
+      <trkpt lat="37.1566393" lon="-121.4482445"/>
+      <trkpt lat="37.1565495" lon="-121.4480567"/>
+      <trkpt lat="37.1566093" lon="-121.4478851"/>
+      <trkpt lat="37.1566478" lon="-121.4480943"/>
+      <trkpt lat="37.156806" lon="-121.4481479"/>
+      <trkpt lat="37.1568573" lon="-121.4480782"/>
+      <trkpt lat="37.156853" lon="-121.4479924"/>
+      <trkpt lat="37.1568787" lon="-121.4477832"/>
+      <trkpt lat="37.1568316" lon="-121.44759"/>
+      <trkpt lat="37.1567974" lon="-121.4474398"/>
+      <trkpt lat="37.1567376" lon="-121.4473694"/>
+    </trkseg>
+  </trk>
+</gpx>

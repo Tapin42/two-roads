@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Rock Tower Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347025</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Rock Tower Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Rock Tower Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.120892" lon="-121.4593282"/>
+      <trkpt lat="37.1206903" lon="-121.4597268"/>
+      <trkpt lat="37.1204576" lon="-121.4599242"/>
+      <trkpt lat="37.1201838" lon="-121.4600101"/>
+      <trkpt lat="37.1200264" lon="-121.4600358"/>
+      <trkpt lat="37.1198759" lon="-121.4599414"/>
+      <trkpt lat="37.1198485" lon="-121.4596753"/>
+      <trkpt lat="37.1198074" lon="-121.4595637"/>
+      <trkpt lat="37.1196774" lon="-121.4595037"/>
+      <trkpt lat="37.1195473" lon="-121.4593492"/>
+      <trkpt lat="37.1195542" lon="-121.459126"/>
+      <trkpt lat="37.1196295" lon="-121.4589286"/>
+      <trkpt lat="37.1194584" lon="-121.4586711"/>
+      <trkpt lat="37.1194173" lon="-121.458508"/>
+      <trkpt lat="37.1192531" lon="-121.4583364"/>
+      <trkpt lat="37.1191572" lon="-121.4581819"/>
+      <trkpt lat="37.118993" lon="-121.4579244"/>
+      <trkpt lat="37.1187192" lon="-121.4577956"/>
+      <trkpt lat="37.1184181" lon="-121.4576926"/>
+      <trkpt lat="37.1181512" lon="-121.4578729"/>
+      <trkpt lat="37.1181512" lon="-121.4580531"/>
+      <trkpt lat="37.1181101" lon="-121.4582677"/>
+      <trkpt lat="37.1181238" lon="-121.4585338"/>
+      <trkpt lat="37.1179595" lon="-121.458508"/>
+      <trkpt lat="37.1176036" lon="-121.4583535"/>
+      <trkpt lat="37.1173709" lon="-121.4581733"/>
+      <trkpt lat="37.1172272" lon="-121.4581218"/>
+      <trkpt lat="37.1168439" lon="-121.4581647"/>
+      <trkpt lat="37.1165086" lon="-121.4581218"/>
+      <trkpt lat="37.1159953" lon="-121.4580789"/>
+      <trkpt lat="37.1156599" lon="-121.4580789"/>
+      <trkpt lat="37.1153382" lon="-121.4579587"/>
+      <trkpt lat="37.1149823" lon="-121.4578214"/>
+      <trkpt lat="37.1147359" lon="-121.4578557"/>
+      <trkpt lat="37.1145648" lon="-121.4578729"/>
+      <trkpt lat="37.1144484" lon="-121.4578128"/>
+      <trkpt lat="37.1143868" lon="-121.4576154"/>
+      <trkpt lat="37.1143595" lon="-121.457418"/>
+      <trkpt lat="37.1141952" lon="-121.4571605"/>
+      <trkpt lat="37.1140446" lon="-121.4568944"/>
+      <trkpt lat="37.1138393" lon="-121.4568944"/>
+      <trkpt lat="37.1135587" lon="-121.4568772"/>
+      <trkpt lat="37.1132438" lon="-121.4569373"/>
+      <trkpt lat="37.1130727" lon="-121.4569202"/>
+      <trkpt lat="37.1128742" lon="-121.4568343"/>
+      <trkpt lat="37.1127168" lon="-121.4567142"/>
+      <trkpt lat="37.1124841" lon="-121.4566455"/>
+      <trkpt lat="37.1122787" lon="-121.4567313"/>
+      <trkpt lat="37.1120528" lon="-121.4568429"/>
+      <trkpt lat="37.1117312" lon="-121.4568858"/>
+      <trkpt lat="37.1114368" lon="-121.4569631"/>
+      <trkpt lat="37.1111562" lon="-121.4572206"/>
+      <trkpt lat="37.1110058" lon="-121.4573768"/>
+    </trkseg>
+  </trk>
+</gpx>

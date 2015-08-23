@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 11</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347279</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 11</name>
+    <trkseg>
+      <trkpt lat="37.1691465" lon="-121.3149569"/>
+      <trkpt lat="37.1688619" lon="-121.3151538"/>
+      <trkpt lat="37.1686977" lon="-121.3153255"/>
+      <trkpt lat="37.1683968" lon="-121.3154027"/>
+      <trkpt lat="37.1681437" lon="-121.3151367"/>
+      <trkpt lat="37.167576" lon="-121.3150337"/>
+      <trkpt lat="37.1672614" lon="-121.3152997"/>
+      <trkpt lat="37.1670973" lon="-121.3154886"/>
+      <trkpt lat="37.1668647" lon="-121.3155315"/>
+      <trkpt lat="37.1668032" lon="-121.315686"/>
+      <trkpt lat="37.1668921" lon="-121.3159778"/>
+      <trkpt lat="37.1671109" lon="-121.3161838"/>
+      <trkpt lat="37.1674598" lon="-121.3159864"/>
+      <trkpt lat="37.1678223" lon="-121.315995"/>
+      <trkpt lat="37.1681369" lon="-121.3162181"/>
+      <trkpt lat="37.1683763" lon="-121.31651"/>
+    </trkseg>
+  </trk>
+</gpx>

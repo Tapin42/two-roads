@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Phoneline Road 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347333</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Phoneline Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Phoneline Road 1</name>
+    <trkseg>
+      <trkpt lat="37.1572413" lon="-121.4201979"/>
+      <trkpt lat="37.1572655" lon="-121.4203005"/>
+      <trkpt lat="37.1571886" lon="-121.4204024"/>
+      <trkpt lat="37.1571586" lon="-121.4208316"/>
+      <trkpt lat="37.1571714" lon="-121.4208959"/>
+      <trkpt lat="37.1570688" lon="-121.4214109"/>
+      <trkpt lat="37.1570646" lon="-121.421765"/>
+      <trkpt lat="37.1569791" lon="-121.4222531"/>
+      <trkpt lat="37.1569607" lon="-121.4224918"/>
+      <trkpt lat="37.1569179" lon="-121.4225777"/>
+      <trkpt lat="37.1569064" lon="-121.4230417"/>
+      <trkpt lat="37.1569064" lon="-121.4231275"/>
+      <trkpt lat="37.1567384" lon="-121.4234306"/>
+      <trkpt lat="37.1566742" lon="-121.4237257"/>
+      <trkpt lat="37.1567683" lon="-121.4238169"/>
+      <trkpt lat="37.1567768" lon="-121.4239563"/>
+      <trkpt lat="37.1568508" lon="-121.4240287"/>
+      <trkpt lat="37.1568508" lon="-121.4243882"/>
+      <trkpt lat="37.1566828" lon="-121.4247288"/>
+      <trkpt lat="37.1564092" lon="-121.4253403"/>
+      <trkpt lat="37.1562339" lon="-121.4253994"/>
+      <trkpt lat="37.1561069" lon="-121.4253859"/>
+      <trkpt lat="37.1559829" lon="-121.4252787"/>
+      <trkpt lat="37.1556792" lon="-121.4254405"/>
+    </trkseg>
+  </trk>
+</gpx>

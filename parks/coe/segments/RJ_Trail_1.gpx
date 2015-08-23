@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>RJ Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347447</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>RJ Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>RJ Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1138811" lon="-121.4393392"/>
+      <trkpt lat="37.1137487" lon="-121.4392144"/>
+      <trkpt lat="37.1136648" lon="-121.4390195"/>
+      <trkpt lat="37.1133705" lon="-121.4385388"/>
+      <trkpt lat="37.1131788" lon="-121.438144"/>
+      <trkpt lat="37.1129735" lon="-121.4377835"/>
+      <trkpt lat="37.112645" lon="-121.4376891"/>
+      <trkpt lat="37.1124122" lon="-121.437835"/>
+      <trkpt lat="37.1121864" lon="-121.4377663"/>
+      <trkpt lat="37.1120906" lon="-121.4381697"/>
+      <trkpt lat="37.1119537" lon="-121.4381354"/>
+      <trkpt lat="37.1118236" lon="-121.4380581"/>
+      <trkpt lat="37.1116867" lon="-121.4383757"/>
+      <trkpt lat="37.1114677" lon="-121.438513"/>
+      <trkpt lat="37.1112623" lon="-121.4387705"/>
+      <trkpt lat="37.1112007" lon="-121.4388907"/>
+      <trkpt lat="37.1112692" lon="-121.4391568"/>
+      <trkpt lat="37.1112897" lon="-121.4392512"/>
+      <trkpt lat="37.1109886" lon="-121.4391053"/>
+      <trkpt lat="37.1107695" lon="-121.4392769"/>
+      <trkpt lat="37.1105505" lon="-121.4393199"/>
+      <trkpt lat="37.1104273" lon="-121.4395859"/>
+      <trkpt lat="37.1103862" lon="-121.4398606"/>
+      <trkpt lat="37.1102767" lon="-121.4401009"/>
+      <trkpt lat="37.110174" lon="-121.4399979"/>
+      <trkpt lat="37.1100645" lon="-121.4400151"/>
+      <trkpt lat="37.1099654" lon="-121.440348"/>
+    </trkseg>
+  </trk>
+</gpx>

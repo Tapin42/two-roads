@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cougar Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347317</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Cougar Trail</twr:name>
+      <twr:surface>ground</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cougar Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1800871" lon="-121.4999198"/>
+      <trkpt lat="37.1804949" lon="-121.5008917"/>
+      <trkpt lat="37.1802969" lon="-121.5010896"/>
+      <trkpt lat="37.1801977" lon="-121.5013172"/>
+      <trkpt lat="37.1803111" lon="-121.5015739"/>
+      <trkpt lat="37.1803945" lon="-121.5017806"/>
+      <trkpt lat="37.1805578" lon="-121.501884"/>
+      <trkpt lat="37.1806378" lon="-121.502194"/>
+      <trkpt lat="37.1805312" lon="-121.502134"/>
+      <trkpt lat="37.1803478" lon="-121.502054"/>
+      <trkpt lat="37.1802278" lon="-121.5021173"/>
+      <trkpt lat="37.1801577" lon="-121.5021707"/>
+      <trkpt lat="37.1800844" lon="-121.502174"/>
+      <trkpt lat="37.1798877" lon="-121.501944"/>
+      <trkpt lat="37.1797943" lon="-121.5018606"/>
+      <trkpt lat="37.1795343" lon="-121.5017839"/>
+      <trkpt lat="37.1794187" lon="-121.5016795"/>
+      <trkpt lat="37.1793361" lon="-121.50173"/>
+      <trkpt lat="37.1793912" lon="-121.5019181"/>
+      <trkpt lat="37.1793453" lon="-121.502143"/>
+      <trkpt lat="37.1792214" lon="-121.5023953"/>
+      <trkpt lat="37.1791067" lon="-121.502377"/>
+      <trkpt lat="37.1790562" lon="-121.5020833"/>
+      <trkpt lat="37.1789598" lon="-121.5016749"/>
+      <trkpt lat="37.1786249" lon="-121.501808"/>
+      <trkpt lat="37.178478" lon="-121.5017529"/>
+      <trkpt lat="37.178423" lon="-121.5018264"/>
+      <trkpt lat="37.1784092" lon="-121.5019457"/>
+      <trkpt lat="37.1781798" lon="-121.5020053"/>
+      <trkpt lat="37.1781706" lon="-121.5021567"/>
+      <trkpt lat="37.178189" lon="-121.5023724"/>
+      <trkpt lat="37.1781293" lon="-121.5023907"/>
+      <trkpt lat="37.1780238" lon="-121.502221"/>
+      <trkpt lat="37.1777668" lon="-121.5020695"/>
+      <trkpt lat="37.1776429" lon="-121.5019502"/>
+      <trkpt lat="37.1775603" lon="-121.5019915"/>
+      <trkpt lat="37.1775603" lon="-121.5022072"/>
+      <trkpt lat="37.1776613" lon="-121.5025238"/>
+      <trkpt lat="37.1775649" lon="-121.5028129"/>
+      <trkpt lat="37.1773493" lon="-121.502923"/>
+      <trkpt lat="37.1773538" lon="-121.5026706"/>
+      <trkpt lat="37.1771795" lon="-121.502533"/>
+      <trkpt lat="37.1768262" lon="-121.5019594"/>
+      <trkpt lat="37.1767482" lon="-121.5018539"/>
+      <trkpt lat="37.1766793" lon="-121.5020145"/>
+      <trkpt lat="37.1765922" lon="-121.5019594"/>
+      <trkpt lat="37.1763857" lon="-121.5017392"/>
+      <trkpt lat="37.1762159" lon="-121.501808"/>
+      <trkpt lat="37.1759498" lon="-121.5016245"/>
+      <trkpt lat="37.1757754" lon="-121.501574"/>
+      <trkpt lat="37.1755551" lon="-121.501496"/>
+      <trkpt lat="37.1753074" lon="-121.501473"/>
+      <trkpt lat="37.175133" lon="-121.5016245"/>
+      <trkpt lat="37.1751757" lon="-121.501804"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kelly Cabin Canyon Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347547</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Kelly Cabin Canyon Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kelly Cabin Canyon Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1116935" lon="-121.4170124"/>
+      <trkpt lat="37.1114439" lon="-121.417326"/>
+      <trkpt lat="37.1112557" lon="-121.4177336"/>
+      <trkpt lat="37.1116236" lon="-121.417967"/>
+      <trkpt lat="37.1120001" lon="-121.4182138"/>
+      <trkpt lat="37.1124535" lon="-121.4186966"/>
+      <trkpt lat="37.1126674" lon="-121.4193081"/>
+      <trkpt lat="37.1128642" lon="-121.420381"/>
+      <trkpt lat="37.1130524" lon="-121.4206626"/>
+      <trkpt lat="37.1138909" lon="-121.4209845"/>
+      <trkpt lat="37.1143272" lon="-121.421242"/>
+      <trkpt lat="37.1147635" lon="-121.4215504"/>
+      <trkpt lat="37.1148833" lon="-121.4220225"/>
+      <trkpt lat="37.1149175" lon="-121.422229"/>
+      <trkpt lat="37.114909" lon="-121.4227762"/>
+      <trkpt lat="37.1150287" lon="-121.423023"/>
+      <trkpt lat="37.1153453" lon="-121.4234924"/>
+      <trkpt lat="37.1155335" lon="-121.4235809"/>
+      <trkpt lat="37.1160212" lon="-121.4238035"/>
+      <trkpt lat="37.1163035" lon="-121.4241066"/>
+      <trkpt lat="37.1168852" lon="-121.424179"/>
+      <trkpt lat="37.117159" lon="-121.4240932"/>
+      <trkpt lat="37.1176039" lon="-121.4242782"/>
+      <trkpt lat="37.1178948" lon="-121.4246108"/>
+      <trkpt lat="37.1180744" lon="-121.4246511"/>
+      <trkpt lat="37.1183496" lon="-121.4250831"/>
+    </trkseg>
+  </trk>
+</gpx>
