@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Poverty Flat Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89813</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Poverty Flat Road</twr:name>
+      <twr:surface>dirt</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Poverty Flat Road 8</name>
+    <trkseg>
+      <trkpt lat="37.1795863" lon="-121.4818254"/>
+      <trkpt lat="37.1797094" lon="-121.4816795"/>
+      <trkpt lat="37.1799283" lon="-121.4817139"/>
+      <trkpt lat="37.1801539" lon="-121.4817396"/>
+      <trkpt lat="37.1802907" lon="-121.4816795"/>
+      <trkpt lat="37.1804685" lon="-121.4816366"/>
+      <trkpt lat="37.1806121" lon="-121.4817053"/>
+      <trkpt lat="37.1808446" lon="-121.4818941"/>
+      <trkpt lat="37.1810771" lon="-121.4820057"/>
+      <trkpt lat="37.181378" lon="-121.4820057"/>
+      <trkpt lat="37.1816926" lon="-121.4819971"/>
+      <trkpt lat="37.1819251" lon="-121.4818512"/>
+      <trkpt lat="37.1823901" lon="-121.4818254"/>
+      <trkpt lat="37.1827046" lon="-121.4820229"/>
+      <trkpt lat="37.1829029" lon="-121.4820572"/>
+      <trkpt lat="37.183491" lon="-121.4823833"/>
+      <trkpt lat="37.1835799" lon="-121.482143"/>
+      <trkpt lat="37.1837098" lon="-121.4820057"/>
+      <trkpt lat="37.1838876" lon="-121.4819628"/>
+      <trkpt lat="37.184168" lon="-121.4818941"/>
+      <trkpt lat="37.1843321" lon="-121.4818083"/>
+      <trkpt lat="37.1844825" lon="-121.4817396"/>
+      <trkpt lat="37.1846125" lon="-121.4818083"/>
+      <trkpt lat="37.1848039" lon="-121.4819284"/>
+      <trkpt lat="37.184886" lon="-121.4820057"/>
+      <trkpt lat="37.1849749" lon="-121.482143"/>
+      <trkpt lat="37.1850843" lon="-121.4821258"/>
+      <trkpt lat="37.1852894" lon="-121.4820744"/>
+      <trkpt lat="37.1855151" lon="-121.4821344"/>
+      <trkpt lat="37.1856313" lon="-121.4820915"/>
+      <trkpt lat="37.1857271" lon="-121.4820658"/>
+      <trkpt lat="37.1857886" lon="-121.4821087"/>
+      <trkpt lat="37.1858843" lon="-121.4821859"/>
+      <trkpt lat="37.1860074" lon="-121.4821945"/>
+      <trkpt lat="37.1861168" lon="-121.4821688"/>
+      <trkpt lat="37.1862468" lon="-121.4822546"/>
+      <trkpt lat="37.1865408" lon="-121.4826065"/>
+      <trkpt lat="37.1866844" lon="-121.4828211"/>
+      <trkpt lat="37.1868827" lon="-121.482967"/>
+      <trkpt lat="37.1869511" lon="-121.4830957"/>
+      <trkpt lat="37.1870263" lon="-121.4832416"/>
+      <trkpt lat="37.1871357" lon="-121.4832159"/>
+      <trkpt lat="37.1871699" lon="-121.4829327"/>
+      <trkpt lat="37.1871562" lon="-121.4826237"/>
+      <trkpt lat="37.1872588" lon="-121.4824263"/>
+      <trkpt lat="37.1872998" lon="-121.4822975"/>
+      <trkpt lat="37.1871835" lon="-121.4820829"/>
+      <trkpt lat="37.187163" lon="-121.481834"/>
+      <trkpt lat="37.1870878" lon="-121.4817053"/>
+      <trkpt lat="37.1869305" lon="-121.4815851"/>
+      <trkpt lat="37.1869169" lon="-121.481362"/>
+      <trkpt lat="37.1869169" lon="-121.4811216"/>
+      <trkpt lat="37.186869" lon="-121.4809671"/>
+      <trkpt lat="37.1868485" lon="-121.4808212"/>
+      <trkpt lat="37.1869032" lon="-121.4807096"/>
+      <trkpt lat="37.1870399" lon="-121.4806839"/>
+      <trkpt lat="37.1872109" lon="-121.4807526"/>
+      <trkpt lat="37.1875118" lon="-121.4808985"/>
+      <trkpt lat="37.1878468" lon="-121.4809156"/>
+      <trkpt lat="37.1881819" lon="-121.4809156"/>
+      <trkpt lat="37.1885032" lon="-121.4808985"/>
+      <trkpt lat="37.1887084" lon="-121.4807611"/>
+    </trkseg>
+  </trk>
+</gpx>

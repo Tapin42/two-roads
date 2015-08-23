@@ -4,7 +4,7 @@
     <name>Unnamed track 21</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-346969</twr:id>
+    <twr:id>-89824</twr:id>
     <attrs>
       <twr:access>private</twr:access>
       <twr:highway>track</twr:highway>
@@ -13,8 +13,6 @@
   <trk>
     <name>Unnamed track 21</name>
     <trkseg>
-      <trkpt lat="37.1082628" lon="-121.4787549"/>
-      <trkpt lat="37.1086948" lon="-121.4788729"/>
       <trkpt lat="37.1088153" lon="-121.4788374"/>
       <trkpt lat="37.1090371" lon="-121.4788997"/>
       <trkpt lat="37.1091569" lon="-121.4788676"/>
@@ -73,19 +71,6 @@
       <trkpt lat="37.1083654" lon="-121.4795649"/>
       <trkpt lat="37.1082499" lon="-121.4796025"/>
       <trkpt lat="37.1082016" lon="-121.4795708"/>
-      <trkpt lat="37.1081601" lon="-121.4795435"/>
-      <trkpt lat="37.1080831" lon="-121.4795703"/>
-      <trkpt lat="37.1079975" lon="-121.4795649"/>
-      <trkpt lat="37.1079462" lon="-121.4794576"/>
-      <trkpt lat="37.1078392" lon="-121.4793825"/>
-      <trkpt lat="37.1077836" lon="-121.4792699"/>
-      <trkpt lat="37.1077237" lon="-121.4791948"/>
-      <trkpt lat="37.107651" lon="-121.4790607"/>
-      <trkpt lat="37.1076039" lon="-121.4789319"/>
-      <trkpt lat="37.1075954" lon="-121.4788461"/>
-      <trkpt lat="37.107959" lon="-121.4787603"/>
-      <trkpt lat="37.1080916" lon="-121.4787603"/>
-      <trkpt lat="37.1082628" lon="-121.4787549"/>
     </trkseg>
   </trk>
 </gpx>

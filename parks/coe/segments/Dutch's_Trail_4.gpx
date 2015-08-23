@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Dutch's Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89786</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Dutch's Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Dutch's Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.1687126" lon="-121.3708012"/>
+      <trkpt lat="37.1688478" lon="-121.3709026"/>
+      <trkpt lat="37.1692196" lon="-121.371342"/>
+      <trkpt lat="37.1701546" lon="-121.3721756"/>
+      <trkpt lat="37.1704813" lon="-121.3725587"/>
+      <trkpt lat="37.1706165" lon="-121.3729417"/>
+      <trkpt lat="37.1706503" lon="-121.3731895"/>
+      <trkpt lat="37.1707404" lon="-121.3732909"/>
+      <trkpt lat="37.1712023" lon="-121.3732346"/>
+      <trkpt lat="37.171484" lon="-121.3729868"/>
+      <trkpt lat="37.1717881" lon="-121.3729079"/>
+      <trkpt lat="37.1720135" lon="-121.3730205"/>
+      <trkpt lat="37.1728471" lon="-121.3737866"/>
+      <trkpt lat="37.1738159" lon="-121.3742936"/>
+      <trkpt lat="37.1742666" lon="-121.3747892"/>
+      <trkpt lat="37.1744356" lon="-121.3749695"/>
+      <trkpt lat="37.174751" lon="-121.3750146"/>
+      <trkpt lat="37.1749876" lon="-121.374992"/>
+      <trkpt lat="37.1752805" lon="-121.3751272"/>
+      <trkpt lat="37.1754626" lon="-121.3753872"/>
+    </trkseg>
+  </trk>
+</gpx>

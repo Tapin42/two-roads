@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Robison Creek Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89607</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Robison Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Robison Creek Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.2781733" lon="-121.3827854"/>
+      <trkpt lat="37.2779138" lon="-121.3833004"/>
+      <trkpt lat="37.2773674" lon="-121.383781"/>
+      <trkpt lat="37.2771352" lon="-121.3840385"/>
+      <trkpt lat="37.2768415" lon="-121.384502"/>
+      <trkpt lat="37.2764659" lon="-121.385429"/>
+      <trkpt lat="37.2760015" lon="-121.385901"/>
+      <trkpt lat="37.2755644" lon="-121.386416"/>
+      <trkpt lat="37.2750521" lon="-121.3867594"/>
+      <trkpt lat="37.2748267" lon="-121.3869482"/>
+      <trkpt lat="37.2748472" lon="-121.3878237"/>
+      <trkpt lat="37.2746901" lon="-121.3882356"/>
+      <trkpt lat="37.2743145" lon="-121.3890081"/>
+      <trkpt lat="37.2740959" lon="-121.3895403"/>
+      <trkpt lat="37.2734949" lon="-121.3901411"/>
+      <trkpt lat="37.273372" lon="-121.3910251"/>
+      <trkpt lat="37.2729827" lon="-121.3919092"/>
+      <trkpt lat="37.2725728" lon="-121.3924843"/>
+      <trkpt lat="37.2722996" lon="-121.3930851"/>
+      <trkpt lat="37.2720743" lon="-121.3937975"/>
+      <trkpt lat="37.2721289" lon="-121.3943725"/>
+      <trkpt lat="37.2720264" lon="-121.3945871"/>
+      <trkpt lat="37.2717532" lon="-121.3948017"/>
+      <trkpt lat="37.2715483" lon="-121.3949476"/>
+      <trkpt lat="37.2713434" lon="-121.39566"/>
+      <trkpt lat="37.2703394" lon="-121.39669"/>
+      <trkpt lat="37.2696359" lon="-121.3972908"/>
+      <trkpt lat="37.2690553" lon="-121.3972908"/>
+      <trkpt lat="37.2683312" lon="-121.3972564"/>
+      <trkpt lat="37.2680785" lon="-121.3975139"/>
+      <trkpt lat="37.2679624" lon="-121.3981319"/>
+      <trkpt lat="37.2676004" lon="-121.3984752"/>
+      <trkpt lat="37.2666099" lon="-121.3993164"/>
+      <trkpt lat="37.2659269" lon="-121.3998314"/>
+      <trkpt lat="37.2653258" lon="-121.4004322"/>
+      <trkpt lat="37.2651208" lon="-121.4010072"/>
+      <trkpt lat="37.2644788" lon="-121.4019514"/>
+      <trkpt lat="37.2640143" lon="-121.4022518"/>
+      <trkpt lat="37.2632629" lon="-121.4020801"/>
+      <trkpt lat="37.2627847" lon="-121.4018398"/>
+      <trkpt lat="37.2623202" lon="-121.4019514"/>
+      <trkpt lat="37.2614185" lon="-121.4022346"/>
+      <trkpt lat="37.2610086" lon="-121.4026123"/>
+      <trkpt lat="37.2603255" lon="-121.4033848"/>
+      <trkpt lat="37.2599293" lon="-121.4036422"/>
+      <trkpt lat="37.2597927" lon="-121.4039856"/>
+      <trkpt lat="37.2589934" lon="-121.4049125"/>
+      <trkpt lat="37.2588773" lon="-121.4060112"/>
+      <trkpt lat="37.2581736" lon="-121.4068008"/>
+      <trkpt lat="37.2579687" lon="-121.4075733"/>
+      <trkpt lat="37.2577501" lon="-121.407745"/>
+      <trkpt lat="37.2574632" lon="-121.407805"/>
+      <trkpt lat="37.2572855" lon="-121.4080883"/>
+      <trkpt lat="37.2572855" lon="-121.408835"/>
+      <trkpt lat="37.2570328" lon="-121.4098049"/>
+      <trkpt lat="37.2565751" lon="-121.4104658"/>
+      <trkpt lat="37.2561447" lon="-121.4108349"/>
+      <trkpt lat="37.2557553" lon="-121.4111524"/>
+      <trkpt lat="37.2555503" lon="-121.4116674"/>
+      <trkpt lat="37.2556665" lon="-121.4126974"/>
+      <trkpt lat="37.2560081" lon="-121.4141565"/>
+      <trkpt lat="37.2560422" lon="-121.415444"/>
+      <trkpt lat="37.2559876" lon="-121.4160963"/>
+      <trkpt lat="37.2557689" lon="-121.4166456"/>
+      <trkpt lat="37.255687" lon="-121.4172979"/>
+      <trkpt lat="37.2557826" lon="-121.4178301"/>
+    </trkseg>
+  </trk>
+</gpx>

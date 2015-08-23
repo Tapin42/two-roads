@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Bear Mountain Peak Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89647</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Bear Mountain Peak Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Bear Mountain Peak Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.2024673" lon="-121.4232706"/>
+      <trkpt lat="37.2031245" lon="-121.4227867"/>
+      <trkpt lat="37.2038252" lon="-121.4228296"/>
+      <trkpt lat="37.2044063" lon="-121.4229369"/>
+      <trkpt lat="37.2053292" lon="-121.4228082"/>
+      <trkpt lat="37.2058932" lon="-121.4233661"/>
+      <trkpt lat="37.2063888" lon="-121.4238596"/>
+      <trkpt lat="37.2071236" lon="-121.4237952"/>
+      <trkpt lat="37.2074142" lon="-121.4240313"/>
+      <trkpt lat="37.2074825" lon="-121.4250183"/>
+      <trkpt lat="37.2076363" lon="-121.4255548"/>
+      <trkpt lat="37.2079611" lon="-121.4258122"/>
+      <trkpt lat="37.2080123" lon="-121.4262199"/>
+      <trkpt lat="37.2078585" lon="-121.4269495"/>
+      <trkpt lat="37.2080123" lon="-121.4275074"/>
+      <trkpt lat="37.2083029" lon="-121.4280653"/>
+      <trkpt lat="37.2084738" lon="-121.4285159"/>
+      <trkpt lat="37.2089694" lon="-121.4289021"/>
+      <trkpt lat="37.2093966" lon="-121.4292455"/>
+      <trkpt lat="37.2094724" lon="-121.42997"/>
+    </trkseg>
+  </trk>
+</gpx>

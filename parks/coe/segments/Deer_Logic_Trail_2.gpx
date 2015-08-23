@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Deer Logic Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89746</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Deer Logic Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Deer Logic Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.1053955" lon="-121.4201958"/>
+      <trkpt lat="37.1056487" lon="-121.4199383"/>
+      <trkpt lat="37.1058062" lon="-121.419595"/>
+      <trkpt lat="37.1059198" lon="-121.4192295"/>
+    </trkseg>
+  </trk>
+</gpx>

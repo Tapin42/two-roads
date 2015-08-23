@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hunting Hollow Road 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89740</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>noi</twr:motor_vehicle>
+      <twr:name>Hunting Hollow Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Road 3</name>
+    <trkseg>
+      <trkpt lat="37.0757569" lon="-121.4634251"/>
+      <trkpt lat="37.0757123" lon="-121.4633085"/>
+      <trkpt lat="37.0755808" lon="-121.4630639"/>
+      <trkpt lat="37.075483" lon="-121.4628142"/>
+      <trkpt lat="37.0753882" lon="-121.4625536"/>
+      <trkpt lat="37.0751895" lon="-121.4623553"/>
+      <trkpt lat="37.0750492" lon="-121.4622245"/>
+      <trkpt lat="37.0748719" lon="-121.4616598"/>
+      <trkpt lat="37.0748089" lon="-121.4614582"/>
+      <trkpt lat="37.0746713" lon="-121.461269"/>
+      <trkpt lat="37.0744068" lon="-121.4608982"/>
+      <trkpt lat="37.0742356" lon="-121.460584"/>
+      <trkpt lat="37.0740068" lon="-121.4603025"/>
+      <trkpt lat="37.0738687" lon="-121.4599517"/>
+      <trkpt lat="37.0737715" lon="-121.4596514"/>
+      <trkpt lat="37.0736493" lon="-121.4592242"/>
+      <trkpt lat="37.0735306" lon="-121.458791"/>
+      <trkpt lat="37.0734741" lon="-121.4584577"/>
+      <trkpt lat="37.073491" lon="-121.4581974"/>
+      <trkpt lat="37.0735007" lon="-121.45804"/>
+      <trkpt lat="37.0734256" lon="-121.4578533"/>
+      <trkpt lat="37.0730615" lon="-121.4573536"/>
+      <trkpt lat="37.0727553" lon="-121.4568158"/>
+      <trkpt lat="37.0726946" lon="-121.4566446"/>
+      <trkpt lat="37.0727069" lon="-121.4563649"/>
+      <trkpt lat="37.0726771" lon="-121.456235"/>
+      <trkpt lat="37.0726526" lon="-121.4561045"/>
+    </trkseg>
+  </trk>
+</gpx>

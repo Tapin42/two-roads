@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89828</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>County Line Road</twr:name>
+      <twr:tracktype>grade2</twr:tracktype>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 7</name>
+    <trkseg>
+      <trkpt lat="37.1663225" lon="-121.4095302"/>
+      <trkpt lat="37.1660548" lon="-121.4093976"/>
+      <trkpt lat="37.1658428" lon="-121.4094663"/>
+      <trkpt lat="37.1655419" lon="-121.4096379"/>
+      <trkpt lat="37.1653161" lon="-121.4093976"/>
+      <trkpt lat="37.1649234" lon="-121.409285"/>
+      <trkpt lat="37.1645829" lon="-121.4090079"/>
+      <trkpt lat="37.1644201" lon="-121.4091401"/>
+      <trkpt lat="37.1642081" lon="-121.4092088"/>
+      <trkpt lat="37.1639121" lon="-121.4091399"/>
+      <trkpt lat="37.1636609" lon="-121.4088655"/>
+      <trkpt lat="37.1634147" lon="-121.4087968"/>
+      <trkpt lat="37.1632026" lon="-121.4088054"/>
+      <trkpt lat="37.1629539" lon="-121.4087807"/>
+      <trkpt lat="37.1626759" lon="-121.4086766"/>
+      <trkpt lat="37.1624092" lon="-121.4087195"/>
+      <trkpt lat="37.1621561" lon="-121.4088569"/>
+    </trkseg>
+  </trk>
+</gpx>

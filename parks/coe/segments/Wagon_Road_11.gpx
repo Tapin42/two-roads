@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 11</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89725</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Wagon Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 11</name>
+    <trkseg>
+      <trkpt lat="37.0470999" lon="-121.4253916"/>
+      <trkpt lat="37.0473119" lon="-121.4254586"/>
+      <trkpt lat="37.0476281" lon="-121.4257332"/>
+      <trkpt lat="37.0480413" lon="-121.425859"/>
+      <trkpt lat="37.0484433" lon="-121.4259161"/>
+      <trkpt lat="37.0487674" lon="-121.4260183"/>
+      <trkpt lat="37.0488913" lon="-121.4261139"/>
+    </trkseg>
+  </trk>
+</gpx>

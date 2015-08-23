@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 16</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89665</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>County Line Road</twr:name>
+      <twr:tracktype>grade2</twr:tracktype>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 16</name>
+    <trkseg>
+      <trkpt lat="37.1691465" lon="-121.3149569"/>
+      <trkpt lat="37.1691628" lon="-121.3147333"/>
+      <trkpt lat="37.169238" lon="-121.3145702"/>
+      <trkpt lat="37.1695253" lon="-121.3147247"/>
+      <trkpt lat="37.1697989" lon="-121.3148448"/>
+      <trkpt lat="37.1699904" lon="-121.3146903"/>
+      <trkpt lat="37.1705375" lon="-121.3140724"/>
+      <trkpt lat="37.1708727" lon="-121.3139694"/>
+      <trkpt lat="37.1711804" lon="-121.3138835"/>
+      <trkpt lat="37.1713788" lon="-121.3133857"/>
+      <trkpt lat="37.1713582" lon="-121.3130853"/>
+      <trkpt lat="37.1715566" lon="-121.3127677"/>
+      <trkpt lat="37.1715634" lon="-121.3123987"/>
+      <trkpt lat="37.1714745" lon="-121.3121498"/>
+      <trkpt lat="37.1710231" lon="-121.3116863"/>
+      <trkpt lat="37.1706538" lon="-121.3111884"/>
+      <trkpt lat="37.1702161" lon="-121.3108022"/>
+      <trkpt lat="37.1698673" lon="-121.310622"/>
+      <trkpt lat="37.1693953" lon="-121.3097551"/>
+      <trkpt lat="37.1693612" lon="-121.3091714"/>
+      <trkpt lat="37.1687935" lon="-121.3080814"/>
+      <trkpt lat="37.1687319" lon="-121.3076093"/>
+      <trkpt lat="37.1684447" lon="-121.3067253"/>
+      <trkpt lat="37.1685815" lon="-121.3060558"/>
+    </trkseg>
+  </trk>
+</gpx>

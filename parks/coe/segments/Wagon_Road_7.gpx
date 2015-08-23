@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89841</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Wagon Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 7</name>
+    <trkseg>
+      <trkpt lat="37.0924472" lon="-121.4184999"/>
+      <trkpt lat="37.0928968" lon="-121.4183628"/>
+      <trkpt lat="37.0934057" lon="-121.4184827"/>
+      <trkpt lat="37.0935769" lon="-121.4182081"/>
+      <trkpt lat="37.0938165" lon="-121.4168777"/>
+      <trkpt lat="37.0939808" lon="-121.4163026"/>
+      <trkpt lat="37.0939603" lon="-121.4156503"/>
+      <trkpt lat="37.0944121" lon="-121.4150495"/>
+      <trkpt lat="37.0947955" lon="-121.4147577"/>
+      <trkpt lat="37.0949846" lon="-121.4141997"/>
+      <trkpt lat="37.0953569" lon="-121.4139165"/>
+      <trkpt lat="37.0956992" lon="-121.4137964"/>
+      <trkpt lat="37.0965592" lon="-121.4130496"/>
+      <trkpt lat="37.0969452" lon="-121.4131355"/>
+      <trkpt lat="37.097356" lon="-121.4134016"/>
+      <trkpt lat="37.0976983" lon="-121.4135303"/>
+      <trkpt lat="37.0982665" lon="-121.4135475"/>
+      <trkpt lat="37.0987772" lon="-121.4136676"/>
+      <trkpt lat="37.0993344" lon="-121.4139251"/>
+      <trkpt lat="37.0997452" lon="-121.4141655"/>
+      <trkpt lat="37.100375" lon="-121.4142341"/>
+      <trkpt lat="37.1009637" lon="-121.4140281"/>
+      <trkpt lat="37.1016045" lon="-121.4139251"/>
+      <trkpt lat="37.1020316" lon="-121.4143886"/>
+      <trkpt lat="37.1028025" lon="-121.414852"/>
+      <trkpt lat="37.103168" lon="-121.4152126"/>
+      <trkpt lat="37.103443" lon="-121.415746"/>
+      <trkpt lat="37.1034555" lon="-121.4164743"/>
+      <trkpt lat="37.1038084" lon="-121.4168229"/>
+      <trkpt lat="37.1040921" lon="-121.4176588"/>
+      <trkpt lat="37.1047154" lon="-121.4187679"/>
+      <trkpt lat="37.1049683" lon="-121.4192552"/>
+      <trkpt lat="37.1053927" lon="-121.419238"/>
+      <trkpt lat="37.1059198" lon="-121.4192295"/>
+    </trkseg>
+  </trk>
+</gpx>

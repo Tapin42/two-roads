@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 14</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89722</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Wagon Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 14</name>
+    <trkseg>
+      <trkpt lat="37.0733958" lon="-121.4077218"/>
+      <trkpt lat="37.0738553" lon="-121.4083127"/>
+      <trkpt lat="37.0744357" lon="-121.4086941"/>
+      <trkpt lat="37.0751975" lon="-121.409068"/>
+      <trkpt lat="37.0754039" lon="-121.4093321"/>
+      <trkpt lat="37.0762273" lon="-121.4106769"/>
+      <trkpt lat="37.0762522" lon="-121.4110835"/>
+      <trkpt lat="37.07633" lon="-121.4113187"/>
+      <trkpt lat="37.0765054" lon="-121.4114627"/>
+      <trkpt lat="37.0767962" lon="-121.41149"/>
+      <trkpt lat="37.0774699" lon="-121.4117214"/>
+      <trkpt lat="37.0780188" lon="-121.4116714"/>
+      <trkpt lat="37.0782414" lon="-121.4117391"/>
+      <trkpt lat="37.0785477" lon="-121.4119591"/>
+      <trkpt lat="37.0792474" lon="-121.4123002"/>
+      <trkpt lat="37.0798402" lon="-121.4124658"/>
+      <trkpt lat="37.0800457" lon="-121.4126042"/>
+      <trkpt lat="37.0804292" lon="-121.4133338"/>
+    </trkseg>
+  </trk>
+</gpx>

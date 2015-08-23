@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Tie Down Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89659</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Tie Down Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Tie Down Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.1365534" lon="-121.3681281"/>
+      <trkpt lat="37.1367949" lon="-121.3683194"/>
+      <trkpt lat="37.1372121" lon="-121.3685578"/>
+      <trkpt lat="37.1375442" lon="-121.3688643"/>
+      <trkpt lat="37.1379869" lon="-121.3690175"/>
+      <trkpt lat="37.1385659" lon="-121.3694858"/>
+      <trkpt lat="37.138881" lon="-121.3693666"/>
+      <trkpt lat="37.139196" lon="-121.3692985"/>
+      <trkpt lat="37.1396047" lon="-121.3695029"/>
+      <trkpt lat="37.1397835" lon="-121.3695029"/>
+      <trkpt lat="37.1402262" lon="-121.3694348"/>
+      <trkpt lat="37.1405583" lon="-121.3696987"/>
+      <trkpt lat="37.1406945" lon="-121.3694858"/>
+      <trkpt lat="37.1408989" lon="-121.3693837"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Lyman Willson Ridge Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89964</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Lyman Willson Ridge Trail</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Lyman Willson Ridge Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.0753246" lon="-121.437808"/>
+      <trkpt lat="37.0748537" lon="-121.4381844"/>
+      <trkpt lat="37.0745459" lon="-121.438539"/>
+      <trkpt lat="37.0736853" lon="-121.439327"/>
+      <trkpt lat="37.0732744" lon="-121.4396435"/>
+      <trkpt lat="37.0729686" lon="-121.4401192"/>
+      <trkpt lat="37.0728762" lon="-121.4403501"/>
+      <trkpt lat="37.0727816" lon="-121.4408386"/>
+      <trkpt lat="37.0727223" lon="-121.4409633"/>
+      <trkpt lat="37.0726151" lon="-121.4410502"/>
+      <trkpt lat="37.0724673" lon="-121.441067"/>
+      <trkpt lat="37.0722284" lon="-121.440923"/>
+      <trkpt lat="37.0720118" lon="-121.440416"/>
+      <trkpt lat="37.0717844" lon="-121.4402601"/>
+      <trkpt lat="37.0714511" lon="-121.4402282"/>
+      <trkpt lat="37.071259" lon="-121.4402964"/>
+      <trkpt lat="37.0716054" lon="-121.4406543"/>
+      <trkpt lat="37.071599" lon="-121.4410267"/>
+      <trkpt lat="37.0716476" lon="-121.44133"/>
+      <trkpt lat="37.0719519" lon="-121.4421165"/>
+      <trkpt lat="37.0720172" lon="-121.4423971"/>
+      <trkpt lat="37.0718936" lon="-121.44279"/>
+      <trkpt lat="37.071962" lon="-121.443065"/>
+      <trkpt lat="37.0720931" lon="-121.4432591"/>
+      <trkpt lat="37.0723114" lon="-121.4434469"/>
+      <trkpt lat="37.0723846" lon="-121.4435882"/>
+      <trkpt lat="37.07229" lon="-121.4440262"/>
+      <trkpt lat="37.0720493" lon="-121.4458635"/>
+      <trkpt lat="37.0721107" lon="-121.4463348"/>
+      <trkpt lat="37.0720391" lon="-121.4467435"/>
+      <trkpt lat="37.0719511" lon="-121.4470265"/>
+      <trkpt lat="37.0718235" lon="-121.4472341"/>
+      <trkpt lat="37.0716694" lon="-121.447379"/>
+      <trkpt lat="37.0715025" lon="-121.44785"/>
+      <trkpt lat="37.071919" lon="-121.4495534"/>
+      <trkpt lat="37.072234" lon="-121.4502573"/>
+      <trkpt lat="37.072234" lon="-121.4507379"/>
+      <trkpt lat="37.0724075" lon="-121.4513752"/>
+      <trkpt lat="37.072511" lon="-121.4519872"/>
+      <trkpt lat="37.0725316" lon="-121.4524651"/>
+      <trkpt lat="37.0726631" lon="-121.4532517"/>
+      <trkpt lat="37.0727751" lon="-121.4536052"/>
+      <trkpt lat="37.072766" lon="-121.4538759"/>
+      <trkpt lat="37.0730267" lon="-121.4551508"/>
+      <trkpt lat="37.0729962" lon="-121.4554408"/>
+    </trkseg>
+  </trk>
+</gpx>

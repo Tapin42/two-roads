@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Creek Trail 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89859</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Pacheco Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Creek Trail 8</name>
+    <trkseg>
+      <trkpt lat="37.1604461" lon="-121.4373578"/>
+      <trkpt lat="37.1606577" lon="-121.4378295"/>
+      <trkpt lat="37.1609286" lon="-121.438041"/>
+      <trkpt lat="37.1613277" lon="-121.4381783"/>
+      <trkpt lat="37.1618781" lon="-121.439308"/>
+      <trkpt lat="37.162206" lon="-121.4396318"/>
+      <trkpt lat="37.1628594" lon="-121.4404962"/>
+      <trkpt lat="37.16321" lon="-121.4407317"/>
+      <trkpt lat="37.1633776" lon="-121.4406789"/>
+      <trkpt lat="37.1635541" lon="-121.4406017"/>
+      <trkpt lat="37.1639042" lon="-121.4406663"/>
+      <trkpt lat="37.1642048" lon="-121.4405067"/>
+      <trkpt lat="37.1645096" lon="-121.4405751"/>
+      <trkpt lat="37.1652264" lon="-121.4408023"/>
+      <trkpt lat="37.1660619" lon="-121.4406611"/>
+      <trkpt lat="37.1663782" lon="-121.4403051"/>
+    </trkseg>
+  </trk>
+</gpx>

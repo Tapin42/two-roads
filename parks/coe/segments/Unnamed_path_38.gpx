@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 38</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89577</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 38</name>
+    <trkseg>
+      <trkpt lat="37.0813994" lon="-121.4156288"/>
+      <trkpt lat="37.0815483" lon="-121.4158393"/>
+      <trkpt lat="37.0816586" lon="-121.4162087"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Ridge Road 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89897</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Pacheco Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Ridge Road 3</name>
+    <trkseg>
+      <trkpt lat="37.1572413" lon="-121.4201979"/>
+      <trkpt lat="37.1576222" lon="-121.420352"/>
+      <trkpt lat="37.1586414" lon="-121.4212018"/>
+      <trkpt lat="37.1589424" lon="-121.4212533"/>
+      <trkpt lat="37.1591887" lon="-121.4216824"/>
+      <trkpt lat="37.1595649" lon="-121.4217511"/>
+      <trkpt lat="37.1598385" lon="-121.422206"/>
+      <trkpt lat="37.1602421" lon="-121.4228411"/>
+      <trkpt lat="37.1608372" lon="-121.4230729"/>
+      <trkpt lat="37.1615554" lon="-121.4236308"/>
+      <trkpt lat="37.1620752" lon="-121.4242659"/>
+      <trkpt lat="37.162342" lon="-121.4243517"/>
+      <trkpt lat="37.1626703" lon="-121.4250384"/>
+      <trkpt lat="37.1629645" lon="-121.4253216"/>
+      <trkpt lat="37.1632859" lon="-121.4261971"/>
+      <trkpt lat="37.1632859" lon="-121.426446"/>
+      <trkpt lat="37.1634022" lon="-121.4267893"/>
+      <trkpt lat="37.1633338" lon="-121.4274674"/>
+      <trkpt lat="37.1634843" lon="-121.4278365"/>
+      <trkpt lat="37.1632449" lon="-121.4286089"/>
+      <trkpt lat="37.1632449" lon="-121.4287978"/>
+      <trkpt lat="37.1634022" lon="-121.4289523"/>
+      <trkpt lat="37.163539" lon="-121.4289866"/>
+      <trkpt lat="37.1636211" lon="-121.4292098"/>
+      <trkpt lat="37.1637237" lon="-121.4295188"/>
+      <trkpt lat="37.1638879" lon="-121.4298792"/>
+      <trkpt lat="37.164182" lon="-121.4299994"/>
+    </trkseg>
+  </trk>
+</gpx>

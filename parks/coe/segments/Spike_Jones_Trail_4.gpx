@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Spike Jones Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89565</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Spike Jones Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Spike Jones Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.1012972" lon="-121.4694936"/>
+      <trkpt lat="37.1016038" lon="-121.4693962"/>
+      <trkpt lat="37.1019361" lon="-121.4694403"/>
+      <trkpt lat="37.102232" lon="-121.4695125"/>
+      <trkpt lat="37.1024937" lon="-121.4696968"/>
+      <trkpt lat="37.1026477" lon="-121.4699543"/>
+      <trkpt lat="37.1024765" lon="-121.4702332"/>
+      <trkpt lat="37.102536" lon="-121.4704352"/>
+      <trkpt lat="37.1026477" lon="-121.4705444"/>
+      <trkpt lat="37.1026924" lon="-121.4707523"/>
+    </trkseg>
+  </trk>
+</gpx>

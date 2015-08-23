@@ -4,7 +4,7 @@
     <name>Coit Spring Trail 2</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347131</twr:id>
+    <twr:id>-89975</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -15,11 +15,18 @@
   <trk>
     <name>Coit Spring Trail 2</name>
     <trkseg>
-      <trkpt lat="37.130394" lon="-121.4571816"/>
-      <trkpt lat="37.1303217" lon="-121.4574036"/>
-      <trkpt lat="37.1302019" lon="-121.457527"/>
-      <trkpt lat="37.1300437" lon="-121.4576289"/>
-      <trkpt lat="37.129941" lon="-121.4578542"/>
+      <trkpt lat="37.1342234" lon="-121.470683"/>
+      <trkpt lat="37.134196" lon="-121.47058"/>
+      <trkpt lat="37.1341207" lon="-121.4703483"/>
+      <trkpt lat="37.1340455" lon="-121.4701509"/>
+      <trkpt lat="37.1340591" lon="-121.4700221"/>
+      <trkpt lat="37.1341755" lon="-121.4697132"/>
+      <trkpt lat="37.1342876" lon="-121.4695152"/>
+      <trkpt lat="37.1343389" lon="-121.469365"/>
+      <trkpt lat="37.1343328" lon="-121.4692325"/>
+      <trkpt lat="37.1342097" lon="-121.4690093"/>
+      <trkpt lat="37.1341002" lon="-121.4688205"/>
+      <trkpt lat="37.1340112" lon="-121.4687089"/>
     </trkseg>
   </trk>
 </gpx>

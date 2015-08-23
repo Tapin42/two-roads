@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>East Dunne Avenue 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>tertiary</twr:type>
+    <twr:id>-89651</twr:id>
+    <attrs>
+      <twr:highway>tertiary</twr:highway>
+      <twr:name>East Dunne Avenue</twr:name>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>East Dunne Avenue 5</name>
+    <trkseg>
+      <trkpt lat="37.1878192" lon="-121.5459138"/>
+      <trkpt lat="37.1878465" lon="-121.5458297"/>
+    </trkseg>
+  </trk>
+</gpx>

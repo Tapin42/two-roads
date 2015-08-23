@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Rock Tower Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89801</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Rock Tower Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Rock Tower Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.1232744" lon="-121.456426"/>
+      <trkpt lat="37.1234583" lon="-121.4564421"/>
+      <trkpt lat="37.1235524" lon="-121.4563938"/>
+      <trkpt lat="37.123638" lon="-121.4564689"/>
+      <trkpt lat="37.1238219" lon="-121.4565118"/>
+      <trkpt lat="37.1240272" lon="-121.456823"/>
+      <trkpt lat="37.124224" lon="-121.4568713"/>
+      <trkpt lat="37.1243352" lon="-121.4569839"/>
+    </trkseg>
+  </trk>
+</gpx>

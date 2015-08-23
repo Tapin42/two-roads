@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Ridge Road 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89893</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Pacheco Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Ridge Road 7</name>
+    <trkseg>
+      <trkpt lat="37.1823853" lon="-121.4315324"/>
+      <trkpt lat="37.1826064" lon="-121.4314757"/>
+      <trkpt lat="37.1828184" lon="-121.4312697"/>
+      <trkpt lat="37.1831125" lon="-121.4313298"/>
+      <trkpt lat="37.1833381" lon="-121.4312697"/>
+      <trkpt lat="37.183427" lon="-121.431038"/>
+      <trkpt lat="37.1834475" lon="-121.4305058"/>
+      <trkpt lat="37.1835706" lon="-121.4302655"/>
+      <trkpt lat="37.1838784" lon="-121.4301196"/>
+      <trkpt lat="37.1840014" lon="-121.4298792"/>
+      <trkpt lat="37.1842134" lon="-121.4296303"/>
+      <trkpt lat="37.1842066" lon="-121.4293986"/>
+      <trkpt lat="37.1841177" lon="-121.4290724"/>
+      <trkpt lat="37.1841177" lon="-121.4287634"/>
+      <trkpt lat="37.1842613" lon="-121.4285059"/>
+      <trkpt lat="37.1844254" lon="-121.4283686"/>
+      <trkpt lat="37.1844459" lon="-121.4281369"/>
+      <trkpt lat="37.1845075" lon="-121.4277163"/>
+      <trkpt lat="37.1846989" lon="-121.4274846"/>
+      <trkpt lat="37.1849451" lon="-121.4272614"/>
+      <trkpt lat="37.1855058" lon="-121.427064"/>
+      <trkpt lat="37.1859024" lon="-121.4273472"/>
+      <trkpt lat="37.1863742" lon="-121.427476"/>
+      <trkpt lat="37.1868666" lon="-121.4273301"/>
+      <trkpt lat="37.1875435" lon="-121.4272786"/>
+      <trkpt lat="37.1878717" lon="-121.4273301"/>
+      <trkpt lat="37.1882615" lon="-121.4277249"/>
+      <trkpt lat="37.1886034" lon="-121.4280854"/>
+      <trkpt lat="37.1888358" lon="-121.4281197"/>
+      <trkpt lat="37.1891025" lon="-121.4280425"/>
+      <trkpt lat="37.189417" lon="-121.4284201"/>
+    </trkseg>
+  </trk>
+</gpx>

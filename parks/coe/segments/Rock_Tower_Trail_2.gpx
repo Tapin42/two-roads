@@ -4,7 +4,7 @@
     <name>Rock Tower Trail 2</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-346965</twr:id>
+    <twr:id>-89803</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -25,30 +25,6 @@
       <trkpt lat="37.122278" lon="-121.4569459"/>
       <trkpt lat="37.1226202" lon="-121.456903"/>
       <trkpt lat="37.1228443" lon="-121.4567396"/>
-      <trkpt lat="37.1232744" lon="-121.456426"/>
-      <trkpt lat="37.1234583" lon="-121.4564421"/>
-      <trkpt lat="37.1235524" lon="-121.4563938"/>
-      <trkpt lat="37.123638" lon="-121.4564689"/>
-      <trkpt lat="37.1238219" lon="-121.4565118"/>
-      <trkpt lat="37.1240272" lon="-121.456823"/>
-      <trkpt lat="37.124224" lon="-121.4568713"/>
-      <trkpt lat="37.1243352" lon="-121.4569839"/>
-      <trkpt lat="37.1245373" lon="-121.457143"/>
-      <trkpt lat="37.1246431" lon="-121.4572843"/>
-      <trkpt lat="37.1248712" lon="-121.4574929"/>
-      <trkpt lat="37.1250938" lon="-121.4579381"/>
-      <trkpt lat="37.1251478" lon="-121.4581748"/>
-      <trkpt lat="37.1252676" lon="-121.4584216"/>
-      <trkpt lat="37.1255756" lon="-121.4587595"/>
-      <trkpt lat="37.1258407" lon="-121.4589473"/>
-      <trkpt lat="37.1259721" lon="-121.4590963"/>
-      <trkpt lat="37.1261829" lon="-121.4592477"/>
-      <trkpt lat="37.1262535" lon="-121.4592236"/>
-      <trkpt lat="37.1262941" lon="-121.4591243"/>
-      <trkpt lat="37.1263134" lon="-121.4587944"/>
-      <trkpt lat="37.1264331" lon="-121.4585825"/>
-      <trkpt lat="37.1265336" lon="-121.4585208"/>
-      <trkpt lat="37.1265956" lon="-121.4585342"/>
     </trkseg>
   </trk>
 </gpx>

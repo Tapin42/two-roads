@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Blue Ridge Road 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89990</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Blue Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Blue Ridge Road 4</name>
+    <trkseg>
+      <trkpt lat="37.2165603" lon="-121.5179521"/>
+      <trkpt lat="37.2163621" lon="-121.5178834"/>
+      <trkpt lat="37.2160886" lon="-121.5178061"/>
+      <trkpt lat="37.2158426" lon="-121.5177804"/>
+      <trkpt lat="37.2155897" lon="-121.5177461"/>
+      <trkpt lat="37.2154325" lon="-121.5176602"/>
+      <trkpt lat="37.2153026" lon="-121.5174628"/>
+      <trkpt lat="37.2151932" lon="-121.5172654"/>
+      <trkpt lat="37.2151796" lon="-121.5170337"/>
+      <trkpt lat="37.2152001" lon="-121.5168878"/>
+      <trkpt lat="37.2151522" lon="-121.5166646"/>
+      <trkpt lat="37.2150634" lon="-121.5162526"/>
+      <trkpt lat="37.2150497" lon="-121.5160552"/>
+      <trkpt lat="37.2149403" lon="-121.5158492"/>
+      <trkpt lat="37.2147694" lon="-121.515463"/>
+      <trkpt lat="37.2145849" lon="-121.5151282"/>
+      <trkpt lat="37.2144003" lon="-121.5149652"/>
+      <trkpt lat="37.2143388" lon="-121.5148278"/>
+      <trkpt lat="37.2142018" lon="-121.5146213"/>
+    </trkseg>
+  </trk>
+</gpx>

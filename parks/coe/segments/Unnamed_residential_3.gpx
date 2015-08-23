@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed residential 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>residential</twr:type>
+    <twr:id>-89616</twr:id>
+    <attrs>
+      <twr:highway>residential</twr:highway>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed residential 3</name>
+    <trkseg>
+      <trkpt lat="37.0369428" lon="-121.3122892"/>
+      <trkpt lat="37.0372398" lon="-121.3122492"/>
+      <trkpt lat="37.0381031" lon="-121.311348"/>
+      <trkpt lat="37.0388567" lon="-121.3105068"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -4,7 +4,7 @@
     <name>Wagon Road 4</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347311</twr:id>
+    <twr:id>-89981</twr:id>
     <attrs>
       <twr:highway>track</twr:highway>
       <twr:name>Wagon Road</twr:name>
@@ -20,18 +20,6 @@
   <trk>
     <name>Wagon Road 4</name>
     <trkseg>
-      <trkpt lat="37.1076242" lon="-121.4182939"/>
-      <trkpt lat="37.1077337" lon="-121.4182424"/>
-      <trkpt lat="37.1080965" lon="-121.4177446"/>
-      <trkpt lat="37.1083292" lon="-121.4173154"/>
-      <trkpt lat="37.1086966" lon="-121.4170608"/>
-      <trkpt lat="37.1088768" lon="-121.4167404"/>
-      <trkpt lat="37.1089658" lon="-121.41644"/>
-      <trkpt lat="37.1092191" lon="-121.4163627"/>
-      <trkpt lat="37.1094313" lon="-121.4165687"/>
-      <trkpt lat="37.1101363" lon="-121.4168863"/>
-      <trkpt lat="37.1106223" lon="-121.4171352"/>
-      <trkpt lat="37.1116935" lon="-121.4170124"/>
       <trkpt lat="37.1118201" lon="-121.4169979"/>
       <trkpt lat="37.1122445" lon="-121.4167232"/>
       <trkpt lat="37.1123813" lon="-121.4168949"/>
@@ -47,13 +35,6 @@
       <trkpt lat="37.1134559" lon="-121.4173927"/>
       <trkpt lat="37.1133875" lon="-121.4169635"/>
       <trkpt lat="37.113627" lon="-121.4160537"/>
-      <trkpt lat="37.1142817" lon="-121.415286"/>
-      <trkpt lat="37.1144872" lon="-121.4151333"/>
-      <trkpt lat="37.1147865" lon="-121.4148569"/>
-      <trkpt lat="37.1149491" lon="-121.4144707"/>
-      <trkpt lat="37.1157146" lon="-121.4136333"/>
-      <trkpt lat="37.1161252" lon="-121.4128952"/>
-      <trkpt lat="37.1165329" lon="-121.4122547"/>
     </trkseg>
   </trk>
 </gpx>

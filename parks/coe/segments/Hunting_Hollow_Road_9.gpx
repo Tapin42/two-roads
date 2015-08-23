@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hunting Hollow Road 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89734</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>noi</twr:motor_vehicle>
+      <twr:name>Hunting Hollow Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Road 9</name>
+    <trkseg>
+      <trkpt lat="37.0582807" lon="-121.4365296"/>
+      <trkpt lat="37.0580935" lon="-121.4361726"/>
+      <trkpt lat="37.0577792" lon="-121.4358944"/>
+      <trkpt lat="37.0577242" lon="-121.4357939"/>
+      <trkpt lat="37.0576246" lon="-121.4356174"/>
+      <trkpt lat="37.0574409" lon="-121.4352925"/>
+      <trkpt lat="37.0573309" lon="-121.4349589"/>
+      <trkpt lat="37.0572993" lon="-121.4347046"/>
+      <trkpt lat="37.0571008" lon="-121.4343305"/>
+      <trkpt lat="37.0568916" lon="-121.4340106"/>
+      <trkpt lat="37.0566405" lon="-121.4338484"/>
+      <trkpt lat="37.0565354" lon="-121.4337426"/>
+      <trkpt lat="37.0563606" lon="-121.4334072"/>
+      <trkpt lat="37.0561373" lon="-121.4331103"/>
+      <trkpt lat="37.0560154" lon="-121.4328821"/>
+      <trkpt lat="37.055945" lon="-121.4325658"/>
+      <trkpt lat="37.0559039" lon="-121.4324699"/>
+      <trkpt lat="37.0557852" lon="-121.4323829"/>
+      <trkpt lat="37.0551198" lon="-121.4321457"/>
+      <trkpt lat="37.0548853" lon="-121.4319094"/>
+      <trkpt lat="37.054796" lon="-121.4318771"/>
+      <trkpt lat="37.0546021" lon="-121.4318251"/>
+      <trkpt lat="37.0541949" lon="-121.4317394"/>
+      <trkpt lat="37.0541176" lon="-121.4316878"/>
+      <trkpt lat="37.0540311" lon="-121.4315981"/>
+      <trkpt lat="37.0537413" lon="-121.4312917"/>
+      <trkpt lat="37.0534563" lon="-121.4311846"/>
+      <trkpt lat="37.0532284" lon="-121.4311267"/>
+      <trkpt lat="37.0530156" lon="-121.4311152"/>
+      <trkpt lat="37.0527594" lon="-121.4310439"/>
+      <trkpt lat="37.0524831" lon="-121.4307955"/>
+      <trkpt lat="37.0523536" lon="-121.4306427"/>
+      <trkpt lat="37.0523149" lon="-121.4305335"/>
+      <trkpt lat="37.0522617" lon="-121.4303405"/>
+      <trkpt lat="37.0521886" lon="-121.4302023"/>
+      <trkpt lat="37.0521242" lon="-121.4301397"/>
+      <trkpt lat="37.0517954" lon="-121.4299246"/>
+      <trkpt lat="37.0516073" lon="-121.4298889"/>
+      <trkpt lat="37.0515664" lon="-121.429873"/>
+      <trkpt lat="37.0514245" lon="-121.4297381"/>
+      <trkpt lat="37.051175" lon="-121.4296147"/>
+      <trkpt lat="37.0509024" lon="-121.4294426"/>
+      <trkpt lat="37.0506524" lon="-121.4293933"/>
+    </trkseg>
+  </trk>
+</gpx>

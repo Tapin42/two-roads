@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Orestimba Creek Road 15</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89592</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Orestimba Creek Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Orestimba Creek Road 15</name>
+    <trkseg>
+      <trkpt lat="37.2278504" lon="-121.3634606"/>
+      <trkpt lat="37.2291109" lon="-121.3634761"/>
+      <trkpt lat="37.2301702" lon="-121.3631842"/>
+      <trkpt lat="37.2309424" lon="-121.3626006"/>
+      <trkpt lat="37.2323936" lon="-121.3605732"/>
+      <trkpt lat="37.2324483" lon="-121.3599107"/>
+      <trkpt lat="37.2330052" lon="-121.3588829"/>
+      <trkpt lat="37.2334682" lon="-121.358179"/>
+      <trkpt lat="37.233847" lon="-121.3582246"/>
+      <trkpt lat="37.234373" lon="-121.3578971"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Spring Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89974</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Coit Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Spring Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.1340112" lon="-121.4687089"/>
+      <trkpt lat="37.1339968" lon="-121.4684691"/>
+      <trkpt lat="37.1340595" lon="-121.4682963"/>
+      <trkpt lat="37.1339305" lon="-121.4682075"/>
+      <trkpt lat="37.1337615" lon="-121.4680722"/>
+      <trkpt lat="37.1335306" lon="-121.4678629"/>
+      <trkpt lat="37.1332569" lon="-121.4676966"/>
+    </trkseg>
+  </trk>
+</gpx>

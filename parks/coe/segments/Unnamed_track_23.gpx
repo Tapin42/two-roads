@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 23</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89633</twr:id>
+    <attrs>
+      <twr:access>private</twr:access>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 23</name>
+    <trkseg>
+      <trkpt lat="37.1082286" lon="-121.479455"/>
+      <trkpt lat="37.1082016" lon="-121.4795708"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Grizzly Gulch Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89771</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Grizzly Gulch Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Grizzly Gulch Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.102066" lon="-121.4717191"/>
+      <trkpt lat="37.1021003" lon="-121.4715561"/>
+      <trkpt lat="37.1023125" lon="-121.4715131"/>
+      <trkpt lat="37.1025041" lon="-121.4715303"/>
+      <trkpt lat="37.1026137" lon="-121.471496"/>
+      <trkpt lat="37.1028327" lon="-121.4713844"/>
+      <trkpt lat="37.1029217" lon="-121.4713243"/>
+      <trkpt lat="37.1030176" lon="-121.4711441"/>
+      <trkpt lat="37.1030499" lon="-121.4710594"/>
+      <trkpt lat="37.1029354" lon="-121.4709638"/>
+      <trkpt lat="37.1028738" lon="-121.4709467"/>
+      <trkpt lat="37.1027848" lon="-121.4708952"/>
+      <trkpt lat="37.1026924" lon="-121.4707523"/>
+    </trkseg>
+  </trk>
+</gpx>

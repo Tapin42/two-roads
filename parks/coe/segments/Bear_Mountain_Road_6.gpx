@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Bear Mountain Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89994</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Bear Mountain Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Bear Mountain Road 6</name>
+    <trkseg>
+      <trkpt lat="37.1964937" lon="-121.4675543"/>
+      <trkpt lat="37.1965757" lon="-121.4677689"/>
+      <trkpt lat="37.1966988" lon="-121.4680178"/>
+      <trkpt lat="37.1967193" lon="-121.4686616"/>
+      <trkpt lat="37.1964775" lon="-121.469034"/>
+    </trkseg>
+  </trk>
+</gpx>

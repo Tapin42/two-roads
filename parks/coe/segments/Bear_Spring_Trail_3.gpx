@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Bear Spring Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89663</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Bear Spring Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Bear Spring Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.218084" lon="-121.430855"/>
+      <trkpt lat="37.2179505" lon="-121.4308566"/>
+      <trkpt lat="37.2175315" lon="-121.4301056"/>
+      <trkpt lat="37.2174063" lon="-121.4296799"/>
+      <trkpt lat="37.2172161" lon="-121.4294613"/>
+      <trkpt lat="37.2170358" lon="-121.4293795"/>
+      <trkpt lat="37.2167678" lon="-121.4291639"/>
+      <trkpt lat="37.2158244" lon="-121.4289096"/>
+      <trkpt lat="37.2149302" lon="-121.4284584"/>
+      <trkpt lat="37.2145282" lon="-121.4282533"/>
+      <trkpt lat="37.2132501" lon="-121.4277915"/>
+      <trkpt lat="37.2118259" lon="-121.4270564"/>
+      <trkpt lat="37.2115387" lon="-121.4270219"/>
+      <trkpt lat="37.2108841" lon="-121.42662"/>
+      <trkpt lat="37.2103902" lon="-121.4262524"/>
+      <trkpt lat="37.2101261" lon="-121.4260457"/>
+      <trkpt lat="37.209793" lon="-121.4261261"/>
+      <trkpt lat="37.2094369" lon="-121.4255518"/>
+      <trkpt lat="37.2092647" lon="-121.4249431"/>
+      <trkpt lat="37.2090809" lon="-121.4245871"/>
+      <trkpt lat="37.2091383" lon="-121.4241621"/>
+      <trkpt lat="37.2091356" lon="-121.4238881"/>
+      <trkpt lat="37.2090269" lon="-121.4229311"/>
+      <trkpt lat="37.2089969" lon="-121.4227478"/>
+      <trkpt lat="37.2089258" lon="-121.4226356"/>
+      <trkpt lat="37.2085517" lon="-121.4222689"/>
+      <trkpt lat="37.2084534" lon="-121.422186"/>
+    </trkseg>
+  </trk>
+</gpx>

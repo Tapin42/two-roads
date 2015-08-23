@@ -4,7 +4,7 @@
     <name>Bowl Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347487</twr:id>
+    <twr:id>-89839</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -59,14 +59,6 @@
       <trkpt lat="37.0817147" lon="-121.4175868"/>
       <trkpt lat="37.0817609" lon="-121.4172626"/>
       <trkpt lat="37.0816543" lon="-121.4170226"/>
-      <trkpt lat="37.0816553" lon="-121.4169559"/>
-      <trkpt lat="37.0818162" lon="-121.4167291"/>
-      <trkpt lat="37.0819279" lon="-121.4165715"/>
-      <trkpt lat="37.0820219" lon="-121.4162617"/>
-      <trkpt lat="37.0820415" lon="-121.4162039"/>
-      <trkpt lat="37.0818343" lon="-121.4156348"/>
-      <trkpt lat="37.0818431" lon="-121.4151407"/>
-      <trkpt lat="37.0819733" lon="-121.4147002"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89672</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>County Line Road</twr:name>
+      <twr:tracktype>grade2</twr:tracktype>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 9</name>
+    <trkseg>
+      <trkpt lat="37.1628743" lon="-121.3982383"/>
+      <trkpt lat="37.1633469" lon="-121.3979185"/>
+      <trkpt lat="37.1637453" lon="-121.3978329"/>
+      <trkpt lat="37.1638676" lon="-121.3977176"/>
+      <trkpt lat="37.1639797" lon="-121.3973843"/>
+      <trkpt lat="37.1639542" lon="-121.3971987"/>
+      <trkpt lat="37.1637899" lon="-121.3969948"/>
+      <trkpt lat="37.1636966" lon="-121.3967615"/>
+      <trkpt lat="37.1628273" lon="-121.3957169"/>
+      <trkpt lat="37.1626769" lon="-121.3956763"/>
+      <trkpt lat="37.1623779" lon="-121.3957983"/>
+      <trkpt lat="37.1620418" lon="-121.395386"/>
+      <trkpt lat="37.1621351" lon="-121.3949976"/>
+      <trkpt lat="37.161669" lon="-121.3944693"/>
+    </trkseg>
+  </trk>
+</gpx>

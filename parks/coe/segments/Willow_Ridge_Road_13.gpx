@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willow Ridge Road 13</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89925</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Willow Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+      <twr:tiger.separated>no</twr:tiger.separated>
+      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
+      <twr:tiger.tlid>122933594:123000904</twr:tiger.tlid>
+      <twr:tiger.upload_uuid>bulk_upload.pl-9f300d22-5de3-4867-bd5e-8c2a200c22ad</twr:tiger.upload_uuid>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willow Ridge Road 13</name>
+    <trkseg>
+      <trkpt lat="37.1529199" lon="-121.4500427"/>
+      <trkpt lat="37.1529452" lon="-121.4501328"/>
+      <trkpt lat="37.1530136" lon="-121.4501864"/>
+      <trkpt lat="37.1533782" lon="-121.4503517"/>
+      <trkpt lat="37.153604" lon="-121.4509697"/>
+      <trkpt lat="37.1534828" lon="-121.4513817"/>
+      <trkpt lat="37.1534945" lon="-121.4518108"/>
+    </trkseg>
+  </trk>
+</gpx>

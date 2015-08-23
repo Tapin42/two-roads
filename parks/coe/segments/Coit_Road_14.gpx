@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Road 14</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89708</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Coit Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Road 14</name>
+    <trkseg>
+      <trkpt lat="37.1239957" lon="-121.4808645"/>
+      <trkpt lat="37.124383" lon="-121.4809055"/>
+      <trkpt lat="37.1246431" lon="-121.4809312"/>
+      <trkpt lat="37.1248758" lon="-121.4811029"/>
+      <trkpt lat="37.1251974" lon="-121.4812402"/>
+      <trkpt lat="37.1256491" lon="-121.4812059"/>
+      <trkpt lat="37.1260323" lon="-121.481163"/>
+      <trkpt lat="37.1263608" lon="-121.4810943"/>
+      <trkpt lat="37.1266345" lon="-121.4810171"/>
+      <trkpt lat="37.1270451" lon="-121.4809827"/>
+      <trkpt lat="37.127401" lon="-121.4810256"/>
+      <trkpt lat="37.1276952" lon="-121.4811716"/>
+      <trkpt lat="37.1279142" lon="-121.4813346"/>
+      <trkpt lat="37.1281948" lon="-121.4813775"/>
+      <trkpt lat="37.1283795" lon="-121.481429"/>
+      <trkpt lat="37.1284822" lon="-121.4815835"/>
+      <trkpt lat="37.1285575" lon="-121.4817809"/>
+      <trkpt lat="37.1290228" lon="-121.4821157"/>
+      <trkpt lat="37.1294858" lon="-121.4826519"/>
+      <trkpt lat="37.1297851" lon="-121.482786"/>
+      <trkpt lat="37.1299691" lon="-121.4829094"/>
+      <trkpt lat="37.1301273" lon="-121.483022"/>
+      <trkpt lat="37.1302599" lon="-121.4830488"/>
+      <trkpt lat="37.1304267" lon="-121.482904"/>
+      <trkpt lat="37.1305764" lon="-121.4827109"/>
+      <trkpt lat="37.1307945" lon="-121.4825285"/>
+      <trkpt lat="37.1310141" lon="-121.4823732"/>
+      <trkpt lat="37.1311067" lon="-121.4822603"/>
+      <trkpt lat="37.1311578" lon="-121.4821243"/>
+      <trkpt lat="37.1315136" lon="-121.4818668"/>
+      <trkpt lat="37.1317189" lon="-121.4818067"/>
+      <trkpt lat="37.1320268" lon="-121.4818067"/>
+      <trkpt lat="37.1321979" lon="-121.4816865"/>
+      <trkpt lat="37.1324648" lon="-121.4814119"/>
+      <trkpt lat="37.1327575" lon="-121.4812571"/>
+      <trkpt lat="37.1329286" lon="-121.4811391"/>
+      <trkpt lat="37.1330464" lon="-121.4810943"/>
+      <trkpt lat="37.1331627" lon="-121.4810771"/>
+      <trkpt lat="37.1332023" lon="-121.4809782"/>
+      <trkpt lat="37.1331491" lon="-121.4809141"/>
+      <trkpt lat="37.1330396" lon="-121.4808111"/>
+      <trkpt lat="37.1328617" lon="-121.4807252"/>
+      <trkpt lat="37.1327019" lon="-121.4807099"/>
+      <trkpt lat="37.1325693" lon="-121.4807636"/>
+      <trkpt lat="37.1323769" lon="-121.4809031"/>
+      <trkpt lat="37.1321973" lon="-121.4809406"/>
+      <trkpt lat="37.1320005" lon="-121.4808977"/>
+      <trkpt lat="37.1317439" lon="-121.4808441"/>
+      <trkpt lat="37.1315729" lon="-121.4807797"/>
+      <trkpt lat="37.1314589" lon="-121.4806566"/>
+      <trkpt lat="37.1314247" lon="-121.4804248"/>
+      <trkpt lat="37.1314384" lon="-121.4801416"/>
+      <trkpt lat="37.1314617" lon="-121.4798302"/>
+      <trkpt lat="37.1316584" lon="-121.4795781"/>
+      <trkpt lat="37.1318722" lon="-121.4794279"/>
+      <trkpt lat="37.1320405" lon="-121.4792318"/>
+      <trkpt lat="37.1322253" lon="-121.4791202"/>
+      <trkpt lat="37.1324511" lon="-121.4792146"/>
+      <trkpt lat="37.1327522" lon="-121.4793434"/>
+      <trkpt lat="37.1332536" lon="-121.479519"/>
+      <trkpt lat="37.1335573" lon="-121.4794439"/>
+      <trkpt lat="37.1337797" lon="-121.4793688"/>
+      <trkpt lat="37.1339428" lon="-121.4790859"/>
+      <trkpt lat="37.1342501" lon="-121.4786983"/>
+      <trkpt lat="37.1346521" lon="-121.478414"/>
+      <trkpt lat="37.1348507" lon="-121.4782697"/>
+      <trkpt lat="37.1349145" lon="-121.4781589"/>
+      <trkpt lat="37.1350261" lon="-121.4779961"/>
+    </trkseg>
+  </trk>
+</gpx>

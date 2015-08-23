@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Creek Trail 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89858</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Pacheco Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Creek Trail 9</name>
+    <trkseg>
+      <trkpt lat="37.1663782" lon="-121.4403051"/>
+      <trkpt lat="37.1668274" lon="-121.4400011"/>
+      <trkpt lat="37.1671957" lon="-121.439826"/>
+      <trkpt lat="37.1675637" lon="-121.4398619"/>
+      <trkpt lat="37.1681425" lon="-121.4399024"/>
+      <trkpt lat="37.1683556" lon="-121.439707"/>
+      <trkpt lat="37.1686572" lon="-121.4396457"/>
+      <trkpt lat="37.1688431" lon="-121.4397704"/>
+      <trkpt lat="37.1691563" lon="-121.4397404"/>
+      <trkpt lat="37.1693561" lon="-121.4397908"/>
+    </trkseg>
+  </trk>
+</gpx>

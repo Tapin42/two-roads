@@ -4,7 +4,7 @@
     <name>Rooster Comb Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347151</twr:id>
+    <twr:id>-89704</twr:id>
     <attrs>
       <twr:access>yes</twr:access>
       <twr:bicycle>no</twr:bicycle>
@@ -111,20 +111,6 @@
       <trkpt lat="37.2521183" lon="-121.3519166"/>
       <trkpt lat="37.2523301" lon="-121.3516441"/>
       <trkpt lat="37.2523189" lon="-121.3513971"/>
-      <trkpt lat="37.2526212" lon="-121.3513127"/>
-      <trkpt lat="37.2532361" lon="-121.3513771"/>
-      <trkpt lat="37.2534411" lon="-121.3520423"/>
-      <trkpt lat="37.2538681" lon="-121.3523212"/>
-      <trkpt lat="37.2539705" lon="-121.3516989"/>
-      <trkpt lat="37.2542096" lon="-121.35142"/>
-      <trkpt lat="37.2547049" lon="-121.3519135"/>
-      <trkpt lat="37.2549782" lon="-121.3521925"/>
-      <trkpt lat="37.2552856" lon="-121.3513556"/>
-      <trkpt lat="37.2553027" lon="-121.3509694"/>
-      <trkpt lat="37.2556785" lon="-121.3505188"/>
-      <trkpt lat="37.2558151" lon="-121.3500038"/>
-      <trkpt lat="37.2566861" lon="-121.3494244"/>
-      <trkpt lat="37.2568742" lon="-121.3490832"/>
     </trkseg>
   </trk>
 </gpx>

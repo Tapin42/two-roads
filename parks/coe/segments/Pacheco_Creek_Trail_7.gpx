@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Creek Trail 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89860</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Pacheco Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Creek Trail 7</name>
+    <trkseg>
+      <trkpt lat="37.1556792" lon="-121.4254405"/>
+      <trkpt lat="37.1558912" lon="-121.4257232"/>
+      <trkpt lat="37.1561986" lon="-121.4258969"/>
+      <trkpt lat="37.1566903" lon="-121.4257897"/>
+      <trkpt lat="37.1569888" lon="-121.4257678"/>
+      <trkpt lat="37.1572339" lon="-121.4257277"/>
+      <trkpt lat="37.1574075" lon="-121.4258672"/>
+      <trkpt lat="37.1575547" lon="-121.4261406"/>
+      <trkpt lat="37.1577305" lon="-121.4262569"/>
+      <trkpt lat="37.1578241" lon="-121.4267132"/>
+      <trkpt lat="37.1574853" lon="-121.4279655"/>
+      <trkpt lat="37.1573844" lon="-121.4285607"/>
+      <trkpt lat="37.1574475" lon="-121.429246"/>
+      <trkpt lat="37.1577179" lon="-121.4296899"/>
+      <trkpt lat="37.1578417" lon="-121.4301397"/>
+      <trkpt lat="37.1580721" lon="-121.4303057"/>
+      <trkpt lat="37.1580294" lon="-121.4305723"/>
+      <trkpt lat="37.1581619" lon="-121.4318432"/>
+      <trkpt lat="37.1582544" lon="-121.4325456"/>
+      <trkpt lat="37.158655" lon="-121.4334486"/>
+      <trkpt lat="37.1586367" lon="-121.4343132"/>
+      <trkpt lat="37.1588344" lon="-121.4348336"/>
+      <trkpt lat="37.1592867" lon="-121.4352641"/>
+      <trkpt lat="37.1599693" lon="-121.435639"/>
+      <trkpt lat="37.1602869" lon="-121.4364627"/>
+      <trkpt lat="37.1603354" lon="-121.4369233"/>
+      <trkpt lat="37.1604461" lon="-121.4373578"/>
+    </trkseg>
+  </trk>
+</gpx>

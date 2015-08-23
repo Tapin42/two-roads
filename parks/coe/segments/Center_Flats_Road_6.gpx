@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Center Flats Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89950</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Center Flats Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Center Flats Road 6</name>
+    <trkseg>
+      <trkpt lat="37.1198445" lon="-121.3838938"/>
+      <trkpt lat="37.1197239" lon="-121.3837925"/>
+      <trkpt lat="37.119278" lon="-121.3834536"/>
+      <trkpt lat="37.1188581" lon="-121.3830652"/>
+      <trkpt lat="37.1184824" lon="-121.3828742"/>
+      <trkpt lat="37.1181182" lon="-121.3824008"/>
+      <trkpt lat="37.1178065" lon="-121.3822305"/>
+      <trkpt lat="37.1167895" lon="-121.3819478"/>
+      <trkpt lat="37.115959" lon="-121.3811778"/>
+      <trkpt lat="37.1156419" lon="-121.3808003"/>
+      <trkpt lat="37.1145213" lon="-121.3802135"/>
+      <trkpt lat="37.1138451" lon="-121.38"/>
+      <trkpt lat="37.1129727" lon="-121.3794625"/>
+      <trkpt lat="37.1124252" lon="-121.3788831"/>
+      <trkpt lat="37.1119274" lon="-121.3780975"/>
+      <trkpt lat="37.1118519" lon="-121.377896"/>
+      <trkpt lat="37.1118368" lon="-121.3777049"/>
+      <trkpt lat="37.1118776" lon="-121.3771558"/>
+      <trkpt lat="37.1117835" lon="-121.3764155"/>
+      <trkpt lat="37.1118947" lon="-121.3756001"/>
+      <trkpt lat="37.1118006" lon="-121.3752031"/>
+      <trkpt lat="37.1115801" lon="-121.3744887"/>
+      <trkpt lat="37.1113728" lon="-121.3731968"/>
+      <trkpt lat="37.1112872" lon="-121.3726389"/>
+      <trkpt lat="37.1112872" lon="-121.3721561"/>
+      <trkpt lat="37.1108838" lon="-121.3713382"/>
+      <trkpt lat="37.1106969" lon="-121.3709116"/>
+      <trkpt lat="37.1107731" lon="-121.370364"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -4,7 +4,7 @@
     <name>Coit Ridge Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347045</twr:id>
+    <twr:id>-89562</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -37,10 +37,6 @@
       <trkpt lat="37.1459605" lon="-121.4238486"/>
       <trkpt lat="37.1462363" lon="-121.4234624"/>
       <trkpt lat="37.1468617" lon="-121.4231865"/>
-      <trkpt lat="37.1470456" lon="-121.4229106"/>
-      <trkpt lat="37.1470613" lon="-121.4225794"/>
-      <trkpt lat="37.1476158" lon="-121.4221381"/>
-      <trkpt lat="37.1480388" lon="-121.4221381"/>
     </trkseg>
   </trk>
 </gpx>

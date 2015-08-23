@@ -4,7 +4,7 @@
     <name>Robison Mountain Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347407</twr:id>
+    <twr:id>-89706</twr:id>
     <attrs>
       <twr:bicycle>no</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -45,11 +45,6 @@
       <trkpt lat="37.2527015" lon="-121.3524271"/>
       <trkpt lat="37.2527288" lon="-121.3519378"/>
       <trkpt lat="37.2523189" lon="-121.3513971"/>
-      <trkpt lat="37.2518612" lon="-121.3512254"/>
-      <trkpt lat="37.2514307" lon="-121.3511825"/>
-      <trkpt lat="37.2511096" lon="-121.3509422"/>
-      <trkpt lat="37.2509935" lon="-121.3506504"/>
-      <trkpt lat="37.2510409" lon="-121.350345"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wasno Road 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89888</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Wasno Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wasno Road 4</name>
+    <trkseg>
+      <trkpt lat="37.1199851" lon="-121.4466199"/>
+      <trkpt lat="37.1199253" lon="-121.4463892"/>
+      <trkpt lat="37.1198825" lon="-121.4462122"/>
+      <trkpt lat="37.1198611" lon="-121.4457294"/>
+      <trkpt lat="37.1197927" lon="-121.4452573"/>
+      <trkpt lat="37.1197755" lon="-121.444694"/>
+      <trkpt lat="37.1196928" lon="-121.4442689"/>
+      <trkpt lat="37.1193991" lon="-121.4439591"/>
+      <trkpt lat="37.1192323" lon="-121.443766"/>
+      <trkpt lat="37.1190477" lon="-121.4434766"/>
+      <trkpt lat="37.1189108" lon="-121.4429874"/>
+      <trkpt lat="37.1190272" lon="-121.442378"/>
+      <trkpt lat="37.1189177" lon="-121.4420862"/>
+      <trkpt lat="37.1186662" lon="-121.441754"/>
+      <trkpt lat="37.1184591" lon="-121.4408502"/>
+      <trkpt lat="37.1183906" lon="-121.4406701"/>
+      <trkpt lat="37.1181031" lon="-121.4404384"/>
+    </trkseg>
+  </trk>
+</gpx>

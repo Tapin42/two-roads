@@ -4,7 +4,7 @@
     <name>Unnamed path 10</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347403</twr:id>
+    <twr:id>-347373</twr:id>
     <attrs>
       <twr:highway>path</twr:highway>
     </attrs>
@@ -12,8 +12,11 @@
   <trk>
     <name>Unnamed path 10</name>
     <trkseg>
-      <trkpt lat="37.1733289" lon="-121.4949774"/>
-      <trkpt lat="37.1731224" lon="-121.4949495"/>
+      <trkpt lat="37.0941291" lon="-121.4334703"/>
+      <trkpt lat="37.0940769" lon="-121.4337129"/>
+      <trkpt lat="37.0939333" lon="-121.4339906"/>
+      <trkpt lat="37.093918" lon="-121.4342798"/>
+      <trkpt lat="37.0940059" lon="-121.4345934"/>
     </trkseg>
   </trk>
 </gpx>

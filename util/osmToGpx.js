@@ -99,26 +99,35 @@ function splitWays(nodes, ways) {
       })
 
       oldWay.nodes.forEach(function (node) {
-          if (splitNodes.length > 0) {
-            curNodes.push(node);
-            if (splitNodes.indexOf(node.id) > -1) {
-              // console.log('We found a split point, and it is ' + curNodes.length + ' nodes into ' + oldWay.name);
+          curNodes.push(node);
+          if (splitNodes.indexOf(node.id) > -1) {
+            // console.log('We found a split point, and it is ' + curNodes.length + ' nodes into ' + oldWay.name);
 
-              // Cheesy deep copy
-              var newWay = JSON.parse(JSON.stringify(newWayTemplate));
-              extend(newWay, {
-                id: nextAvailableId,
-                nodes: curNodes.slice(0)
-              });
-              nextAvailableId += 1;
-              curNodes = [node];
-              newWays[newWay.id] = newWay;
+            // Cheesy deep copy
+            var newWay = JSON.parse(JSON.stringify(newWayTemplate));
+            extend(newWay, {
+              id: nextAvailableId,
+              nodes: curNodes.slice(0)
+            });
+            nextAvailableId += 1;
+            curNodes = [node];
+            newWays[newWay.id] = newWay;
 
-              splitNodes.splice(splitNodes.indexOf(node.id), 1);
-              // console.log('There are now ' + splitNodes.length + ' more split points for ' + oldWay.name);
-            }
+            splitNodes.splice(splitNodes.indexOf(node.id), 1);
+            // console.log('There are now ' + splitNodes.length + ' more split points for ' + oldWay.name);
           }
         });
+
+      if (curNodes.length > 1) {
+        // We have one last new way to generate
+        var newWay = JSON.parse(JSON.stringify(newWayTemplate));
+        extend(newWay, {
+          id: nextAvailableId,
+          nodes: curNodes.slice(0)
+        });
+        nextAvailableId += 1;
+        newWays[newWay.id] = newWay;
+      }
 
       delete ways[wayId];
       extend(ways, newWays);

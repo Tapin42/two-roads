@@ -4,78 +4,23 @@
     <name>County Line Road 4</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347003</twr:id>
+    <twr:id>-89831</twr:id>
     <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>track</twr:highway>
-      <twr:motor_vehicle>no</twr:motor_vehicle>
       <twr:name>County Line Road</twr:name>
       <twr:tracktype>grade2</twr:tracktype>
+      <twr:twor.map>2013</twr:twor.map>
     </attrs>
   </metadata>
   <trk>
     <name>County Line Road 4</name>
     <trkseg>
-      <trkpt lat="37.1621561" lon="-121.4088569"/>
-      <trkpt lat="37.1619638" lon="-121.4088647"/>
-      <trkpt lat="37.1618004" lon="-121.4086251"/>
-      <trkpt lat="37.1614527" lon="-121.4085383"/>
-      <trkpt lat="37.1613151" lon="-121.4084047"/>
-      <trkpt lat="37.1612395" lon="-121.4079728"/>
-      <trkpt lat="37.1613968" lon="-121.4078355"/>
-      <trkpt lat="37.1614721" lon="-121.4074922"/>
-      <trkpt lat="37.1613421" lon="-121.407166"/>
-      <trkpt lat="37.1612737" lon="-121.4067454"/>
-      <trkpt lat="37.161089" lon="-121.406282"/>
-      <trkpt lat="37.1611027" lon="-121.40593"/>
-      <trkpt lat="37.1613011" lon="-121.4057069"/>
-      <trkpt lat="37.1612737" lon="-121.4055524"/>
-      <trkpt lat="37.1611369" lon="-121.4055438"/>
-      <trkpt lat="37.1610001" lon="-121.4056811"/>
-      <trkpt lat="37.1607128" lon="-121.4057241"/>
-      <trkpt lat="37.1604392" lon="-121.4056382"/>
-      <trkpt lat="37.1603708" lon="-121.4054494"/>
-      <trkpt lat="37.1605213" lon="-121.4052005"/>
-      <trkpt lat="37.1606923" lon="-121.4049945"/>
-      <trkpt lat="37.1607675" lon="-121.4046083"/>
-      <trkpt lat="37.1608975" lon="-121.4042649"/>
-      <trkpt lat="37.1608565" lon="-121.4038787"/>
-      <trkpt lat="37.1609317" lon="-121.4035096"/>
-      <trkpt lat="37.1609591" lon="-121.4029689"/>
-      <trkpt lat="37.1610411" lon="-121.40272"/>
-      <trkpt lat="37.1614037" lon="-121.4022565"/>
-      <trkpt lat="37.1618551" lon="-121.4020162"/>
-      <trkpt lat="37.1621561" lon="-121.4021707"/>
-      <trkpt lat="37.1623134" lon="-121.402102"/>
-      <trkpt lat="37.1623134" lon="-121.4019046"/>
-      <trkpt lat="37.1622564" lon="-121.4017061"/>
-      <trkpt lat="37.1618984" lon="-121.4016251"/>
-      <trkpt lat="37.1617315" lon="-121.4015254"/>
-      <trkpt lat="37.1617778" lon="-121.4013725"/>
-      <trkpt lat="37.1621634" lon="-121.4012558"/>
-      <trkpt lat="37.1623195" lon="-121.4011244"/>
-      <trkpt lat="37.1626258" lon="-121.4011603"/>
-      <trkpt lat="37.1628469" lon="-121.4011235"/>
-      <trkpt lat="37.1628606" lon="-121.4009862"/>
-      <trkpt lat="37.1628" lon="-121.4009377"/>
-      <trkpt lat="37.1626726" lon="-121.4009672"/>
-      <trkpt lat="37.1625546" lon="-121.400895"/>
-      <trkpt lat="37.162546" lon="-121.40066"/>
-      <trkpt lat="37.1625245" lon="-121.4004108"/>
-      <trkpt lat="37.1626957" lon="-121.3999091"/>
-      <trkpt lat="37.1628016" lon="-121.3997213"/>
-      <trkpt lat="37.1631088" lon="-121.3997015"/>
-      <trkpt lat="37.1632566" lon="-121.3993922"/>
-      <trkpt lat="37.1633436" lon="-121.3991389"/>
-      <trkpt lat="37.1634059" lon="-121.3988621"/>
-      <trkpt lat="37.1633256" lon="-121.3986569"/>
-      <trkpt lat="37.1631504" lon="-121.3986364"/>
-      <trkpt lat="37.1627544" lon="-121.3986834"/>
-      <trkpt lat="37.1626167" lon="-121.3987321"/>
-      <trkpt lat="37.1625045" lon="-121.3987513"/>
-      <trkpt lat="37.1624522" lon="-121.3986672"/>
-      <trkpt lat="37.162522" lon="-121.3986013"/>
-      <trkpt lat="37.1627065" lon="-121.3984698"/>
-      <trkpt lat="37.1628743" lon="-121.3982383"/>
+      <trkpt lat="37.1989842" lon="-121.4143826"/>
+      <trkpt lat="37.1981782" lon="-121.4140684"/>
+      <trkpt lat="37.1979667" lon="-121.4133809"/>
+      <trkpt lat="37.1974378" lon="-121.4130636"/>
     </trkseg>
   </trk>
 </gpx>

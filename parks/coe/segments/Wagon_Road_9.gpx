@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89727</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Wagon Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 9</name>
+    <trkseg>
+      <trkpt lat="37.0338195" lon="-121.4297092"/>
+      <trkpt lat="37.0340661" lon="-121.4290985"/>
+      <trkpt lat="37.0342717" lon="-121.4284583"/>
+      <trkpt lat="37.0343574" lon="-121.4282598"/>
+      <trkpt lat="37.0343831" lon="-121.4279058"/>
+      <trkpt lat="37.034473" lon="-121.4276912"/>
+      <trkpt lat="37.0347085" lon="-121.4276429"/>
+      <trkpt lat="37.0348884" lon="-121.4276322"/>
+      <trkpt lat="37.0350425" lon="-121.4273264"/>
+      <trkpt lat="37.0352352" lon="-121.4271226"/>
+      <trkpt lat="37.0354879" lon="-121.4269348"/>
+      <trkpt lat="37.0355397" lon="-121.426822"/>
+      <trkpt lat="37.0355864" lon="-121.4267202"/>
+      <trkpt lat="37.0355478" lon="-121.4263769"/>
+      <trkpt lat="37.0359276" lon="-121.425594"/>
+      <trkpt lat="37.0361902" lon="-121.425363"/>
+      <trkpt lat="37.0364" lon="-121.4252343"/>
+      <trkpt lat="37.0365113" lon="-121.4249929"/>
+      <trkpt lat="37.0366299" lon="-121.4247357"/>
+      <trkpt lat="37.0369181" lon="-121.4245906"/>
+      <trkpt lat="37.0371537" lon="-121.4246227"/>
+      <trkpt lat="37.0375891" lon="-121.4246928"/>
+      <trkpt lat="37.0377946" lon="-121.4246284"/>
+      <trkpt lat="37.0378803" lon="-121.4243709"/>
+      <trkpt lat="37.0379439" lon="-121.4241284"/>
+    </trkseg>
+  </trk>
+</gpx>

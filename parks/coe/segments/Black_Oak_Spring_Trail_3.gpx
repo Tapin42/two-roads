@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Black Oak Spring Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89755</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Black Oak Spring Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Black Oak Spring Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.2095683" lon="-121.4982831"/>
+      <trkpt lat="37.2096756" lon="-121.4982448"/>
+      <trkpt lat="37.2097062" lon="-121.4980073"/>
+      <trkpt lat="37.2102118" lon="-121.4982984"/>
+      <trkpt lat="37.2106918" lon="-121.4980219"/>
+      <trkpt lat="37.2113007" lon="-121.4978762"/>
+      <trkpt lat="37.2114596" lon="-121.4980219"/>
+      <trkpt lat="37.2113802" lon="-121.4983528"/>
+      <trkpt lat="37.2122671" lon="-121.4985249"/>
+      <trkpt lat="37.2128627" lon="-121.4982601"/>
+      <trkpt lat="37.2134054" lon="-121.4982337"/>
+      <trkpt lat="37.213604" lon="-121.4983528"/>
+      <trkpt lat="37.2139879" lon="-121.4980483"/>
+      <trkpt lat="37.2142734" lon="-121.4980297"/>
+      <trkpt lat="37.2147292" lon="-121.498141"/>
+    </trkseg>
+  </trk>
+</gpx>

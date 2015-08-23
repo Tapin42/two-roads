@@ -4,20 +4,35 @@
     <name>Unnamed track 5</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347399</twr:id>
+    <twr:id>-347381</twr:id>
     <attrs>
+      <twr:created_by>Potlatch 0.10f</twr:created_by>
       <twr:highway>track</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed track 5</name>
     <trkseg>
-      <trkpt lat="37.1746571" lon="-121.5174979"/>
-      <trkpt lat="37.1742489" lon="-121.5174331"/>
-      <trkpt lat="37.1738433" lon="-121.5176528"/>
-      <trkpt lat="37.1734884" lon="-121.5178387"/>
-      <trkpt lat="37.1732281" lon="-121.5178586"/>
-      <trkpt lat="37.1730152" lon="-121.5176359"/>
+      <trkpt lat="37.1962439" lon="-121.4630372"/>
+      <trkpt lat="37.1959913" lon="-121.462798"/>
+      <trkpt lat="37.1957657" lon="-121.4624633"/>
+      <trkpt lat="37.1955742" lon="-121.4620771"/>
+      <trkpt lat="37.1954375" lon="-121.4618367"/>
+      <trkpt lat="37.1952392" lon="-121.4614162"/>
+      <trkpt lat="37.1950888" lon="-121.4612703"/>
+      <trkpt lat="37.1947811" lon="-121.4611501"/>
+      <trkpt lat="37.1944803" lon="-121.4610557"/>
+      <trkpt lat="37.1942" lon="-121.4608325"/>
+      <trkpt lat="37.1940632" lon="-121.4605149"/>
+      <trkpt lat="37.1938923" lon="-121.4603004"/>
+      <trkpt lat="37.1937761" lon="-121.4600944"/>
+      <trkpt lat="37.1936325" lon="-121.4599399"/>
+      <trkpt lat="37.193359" lon="-121.4597339"/>
+      <trkpt lat="37.1932359" lon="-121.4595966"/>
+      <trkpt lat="37.1932086" lon="-121.4594592"/>
+      <trkpt lat="37.1931334" lon="-121.4594421"/>
+      <trkpt lat="37.1930035" lon="-121.4594592"/>
+      <trkpt lat="37.192771" lon="-121.4592961"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Anza Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89579</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Anza Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Anza Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.112792" lon="-121.4715518"/>
+      <trkpt lat="37.1130521" lon="-121.4715175"/>
+      <trkpt lat="37.1132917" lon="-121.4715368"/>
+      <trkpt lat="37.113497" lon="-121.4715862"/>
+      <trkpt lat="37.1136955" lon="-121.4716291"/>
+      <trkpt lat="37.1139077" lon="-121.471878"/>
+      <trkpt lat="37.114027" lon="-121.4721626"/>
+      <trkpt lat="37.1142294" lon="-121.4724016"/>
+      <trkpt lat="37.1144552" lon="-121.4727535"/>
+      <trkpt lat="37.1146332" lon="-121.4729423"/>
+      <trkpt lat="37.1147222" lon="-121.4730882"/>
+      <trkpt lat="37.1147701" lon="-121.4733285"/>
+      <trkpt lat="37.1148385" lon="-121.4736118"/>
+      <trkpt lat="37.1149754" lon="-121.4738435"/>
+      <trkpt lat="37.1151876" lon="-121.4740152"/>
+      <trkpt lat="37.1153861" lon="-121.4740409"/>
+      <trkpt lat="37.1155298" lon="-121.4740152"/>
+      <trkpt lat="37.1156872" lon="-121.4739379"/>
+      <trkpt lat="37.1158446" lon="-121.4739809"/>
+    </trkseg>
+  </trk>
+</gpx>

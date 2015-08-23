@@ -4,7 +4,7 @@
     <name>Pacheco Creek Trail 2</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347099</twr:id>
+    <twr:id>-89901</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -15,17 +15,24 @@
   <trk>
     <name>Pacheco Creek Trail 2</name>
     <trkseg>
-      <trkpt lat="37.1831722" lon="-121.4418229"/>
-      <trkpt lat="37.1838444" lon="-121.4414654"/>
-      <trkpt lat="37.1843731" lon="-121.4408521"/>
-      <trkpt lat="37.1844577" lon="-121.4403023"/>
-      <trkpt lat="37.1847749" lon="-121.4396467"/>
-      <trkpt lat="37.1861073" lon="-121.4390334"/>
-      <trkpt lat="37.1864668" lon="-121.438695"/>
-      <trkpt lat="37.1870801" lon="-121.4384835"/>
-      <trkpt lat="37.1875454" lon="-121.4382086"/>
-      <trkpt lat="37.1881375" lon="-121.4384835"/>
-      <trkpt lat="37.1887147" lon="-121.4384323"/>
+      <trkpt lat="37.1693561" lon="-121.4397908"/>
+      <trkpt lat="37.1694734" lon="-121.4397452"/>
+      <trkpt lat="37.1696865" lon="-121.4399287"/>
+      <trkpt lat="37.1700187" lon="-121.4400194"/>
+      <trkpt lat="37.1705904" lon="-121.4402386"/>
+      <trkpt lat="37.1709089" lon="-121.4401722"/>
+      <trkpt lat="37.1712055" lon="-121.4401867"/>
+      <trkpt lat="37.1714392" lon="-121.4400733"/>
+      <trkpt lat="37.1716635" lon="-121.4400295"/>
+      <trkpt lat="37.1718849" lon="-121.4401173"/>
+      <trkpt lat="37.1720339" lon="-121.440081"/>
+      <trkpt lat="37.1721384" lon="-121.4402892"/>
+      <trkpt lat="37.172262" lon="-121.4403404"/>
+      <trkpt lat="37.1724928" lon="-121.4402953"/>
+      <trkpt lat="37.1728253" lon="-121.4400499"/>
+      <trkpt lat="37.173187" lon="-121.4399349"/>
+      <trkpt lat="37.1734928" lon="-121.4399129"/>
+      <trkpt lat="37.1738356" lon="-121.4400684"/>
     </trkseg>
   </trk>
 </gpx>

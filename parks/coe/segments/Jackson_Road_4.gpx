@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Jackson Road 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89794</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Jackson Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Jackson Road 4</name>
+    <trkseg>
+      <trkpt lat="37.1206695" lon="-121.4512011"/>
+      <trkpt lat="37.1206481" lon="-121.4502516"/>
+      <trkpt lat="37.1203231" lon="-121.4494308"/>
+      <trkpt lat="37.1199647" lon="-121.4491754"/>
+      <trkpt lat="37.119684" lon="-121.4490077"/>
+      <trkpt lat="37.1194651" lon="-121.448832"/>
+      <trkpt lat="37.1192153" lon="-121.4487558"/>
+      <trkpt lat="37.1187832" lon="-121.4484813"/>
+      <trkpt lat="37.1185864" lon="-121.4482238"/>
+      <trkpt lat="37.1184495" lon="-121.4478912"/>
+      <trkpt lat="37.1182271" lon="-121.4475533"/>
+      <trkpt lat="37.1180826" lon="-121.4472527"/>
+      <trkpt lat="37.1178362" lon="-121.4469609"/>
+      <trkpt lat="37.1178636" lon="-121.4468408"/>
+      <trkpt lat="37.1181758" lon="-121.4468505"/>
+      <trkpt lat="37.1183358" lon="-121.4467549"/>
+      <trkpt lat="37.1185138" lon="-121.4466948"/>
+      <trkpt lat="37.1190527" lon="-121.4468934"/>
+      <trkpt lat="37.119424" lon="-121.446918"/>
+      <trkpt lat="37.1199851" lon="-121.4466199"/>
+    </trkseg>
+  </trk>
+</gpx>

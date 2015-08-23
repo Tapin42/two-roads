@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Lyman Willson Ridge Trail 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89854</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Lyman Willson Ridge Trail</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Lyman Willson Ridge Trail 6</name>
+    <trkseg>
+      <trkpt lat="37.080624" lon="-121.4274865"/>
+      <trkpt lat="37.0804328" lon="-121.4276419"/>
+    </trkseg>
+  </trk>
+</gpx>

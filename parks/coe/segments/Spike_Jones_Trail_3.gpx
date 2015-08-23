@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Spike Jones Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89566</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Spike Jones Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Spike Jones Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.0978809" lon="-121.4634937"/>
+      <trkpt lat="37.0981429" lon="-121.4635671"/>
+      <trkpt lat="37.0983435" lon="-121.4624497"/>
+      <trkpt lat="37.0984676" lon="-121.4622778"/>
+      <trkpt lat="37.0984485" lon="-121.4620104"/>
+      <trkpt lat="37.098544" lon="-121.4617335"/>
+      <trkpt lat="37.0987446" lon="-121.4614756"/>
+      <trkpt lat="37.0987446" lon="-121.4611414"/>
+      <trkpt lat="37.0989451" lon="-121.4606925"/>
+      <trkpt lat="37.0992794" lon="-121.4609599"/>
+      <trkpt lat="37.0995086" lon="-121.4619054"/>
+      <trkpt lat="37.0996423" lon="-121.462125"/>
+      <trkpt lat="37.1001389" lon="-121.4626885"/>
+      <trkpt lat="37.1000243" lon="-121.463357"/>
+      <trkpt lat="37.0998428" lon="-121.4636053"/>
+      <trkpt lat="37.1000243" lon="-121.4640828"/>
+      <trkpt lat="37.1001675" lon="-121.4643884"/>
+      <trkpt lat="37.1005735" lon="-121.4648252"/>
+      <trkpt lat="37.100729" lon="-121.465393"/>
+      <trkpt lat="37.1010129" lon="-121.4660419"/>
+      <trkpt lat="37.1013779" lon="-121.4665286"/>
+      <trkpt lat="37.1015469" lon="-121.4670423"/>
+      <trkpt lat="37.1015874" lon="-121.4674343"/>
+      <trkpt lat="37.1015807" lon="-121.4681711"/>
+      <trkpt lat="37.1014185" lon="-121.468651"/>
+      <trkpt lat="37.10129" lon="-121.4692796"/>
+      <trkpt lat="37.1012972" lon="-121.4694936"/>
+    </trkseg>
+  </trk>
+</gpx>

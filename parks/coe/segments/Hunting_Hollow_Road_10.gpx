@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hunting Hollow Road 10</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89733</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>noi</twr:motor_vehicle>
+      <twr:name>Hunting Hollow Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hunting Hollow Road 10</name>
+    <trkseg>
+      <trkpt lat="37.0506524" lon="-121.4293933"/>
+      <trkpt lat="37.0505341" lon="-121.4293806"/>
+      <trkpt lat="37.0505018" lon="-121.4293738"/>
+      <trkpt lat="37.0503387" lon="-121.4293135"/>
+      <trkpt lat="37.050115" lon="-121.4290735"/>
+      <trkpt lat="37.0498507" lon="-121.4288628"/>
+      <trkpt lat="37.0497462" lon="-121.4286738"/>
+      <trkpt lat="37.0496363" lon="-121.4281631"/>
+      <trkpt lat="37.0494692" lon="-121.4275947"/>
+      <trkpt lat="37.0494482" lon="-121.4275003"/>
+      <trkpt lat="37.0493156" lon="-121.4271661"/>
+      <trkpt lat="37.0492195" lon="-121.4266311"/>
+      <trkpt lat="37.0491293" lon="-121.4264323"/>
+      <trkpt lat="37.0488913" lon="-121.4261139"/>
+    </trkseg>
+  </trk>
+</gpx>

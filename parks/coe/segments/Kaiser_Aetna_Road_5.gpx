@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kaiser Aetna Road 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89875</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Kaiser Aetna Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kaiser Aetna Road 5</name>
+    <trkseg>
+      <trkpt lat="37.1306319" lon="-121.3751022"/>
+      <trkpt lat="37.1304663" lon="-121.3749644"/>
+      <trkpt lat="37.1302786" lon="-121.3748229"/>
+      <trkpt lat="37.1301486" lon="-121.3745912"/>
+    </trkseg>
+  </trk>
+</gpx>

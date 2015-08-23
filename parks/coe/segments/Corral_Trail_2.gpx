@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Corral Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>footway</twr:type>
+    <twr:id>-89719</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:highway>footway</twr:highway>
+      <twr:name>Corral Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Corral Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.1852823" lon="-121.5396867"/>
+      <trkpt lat="37.1854327" lon="-121.540133"/>
+      <trkpt lat="37.185631" lon="-121.5406222"/>
+      <trkpt lat="37.1857473" lon="-121.54106"/>
+      <trkpt lat="37.185761" lon="-121.5412231"/>
+      <trkpt lat="37.1857199" lon="-121.5414891"/>
+      <trkpt lat="37.185884" lon="-121.5417209"/>
+      <trkpt lat="37.186055" lon="-121.5419011"/>
+      <trkpt lat="37.1861507" lon="-121.5419698"/>
+      <trkpt lat="37.1862875" lon="-121.5419869"/>
+      <trkpt lat="37.186349" lon="-121.542047"/>
+      <trkpt lat="37.1864311" lon="-121.5421929"/>
+      <trkpt lat="37.1865268" lon="-121.5422874"/>
+      <trkpt lat="37.1867073" lon="-121.5424038"/>
+      <trkpt lat="37.1866294" lon="-121.5426135"/>
+      <trkpt lat="37.186665" lon="-121.5427635"/>
+      <trkpt lat="37.1867015" lon="-121.5428432"/>
+      <trkpt lat="37.1869053" lon="-121.5429518"/>
+      <trkpt lat="37.1867842" lon="-121.543128"/>
+      <trkpt lat="37.1867593" lon="-121.5433345"/>
+      <trkpt lat="37.1868755" lon="-121.5436091"/>
+      <trkpt lat="37.1870191" lon="-121.5438752"/>
+      <trkpt lat="37.1873296" lon="-121.5440876"/>
+      <trkpt lat="37.1872503" lon="-121.5441363"/>
+      <trkpt lat="37.1871801" lon="-121.544195"/>
+      <trkpt lat="37.1871532" lon="-121.5443547"/>
+      <trkpt lat="37.1871901" lon="-121.5446906"/>
+      <trkpt lat="37.1873863" lon="-121.5449526"/>
+      <trkpt lat="37.1877368" lon="-121.5450681"/>
+      <trkpt lat="37.1877401" lon="-121.5451143"/>
+      <trkpt lat="37.1874651" lon="-121.545136"/>
+      <trkpt lat="37.1872882" lon="-121.5451867"/>
+      <trkpt lat="37.1871491" lon="-121.5453773"/>
+      <trkpt lat="37.1869371" lon="-121.5457206"/>
+      <trkpt lat="37.1867798" lon="-121.5460124"/>
+      <trkpt lat="37.1867319" lon="-121.5462184"/>
+      <trkpt lat="37.1867388" lon="-121.5463815"/>
+      <trkpt lat="37.1868208" lon="-121.546536"/>
+      <trkpt lat="37.1869713" lon="-121.5466218"/>
+      <trkpt lat="37.1869849" lon="-121.5467162"/>
+      <trkpt lat="37.1869029" lon="-121.5467763"/>
+      <trkpt lat="37.1867114" lon="-121.5467591"/>
+      <trkpt lat="37.186632" lon="-121.5468486"/>
+    </trkseg>
+  </trk>
+</gpx>

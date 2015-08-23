@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89829</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>County Line Road</twr:name>
+      <twr:tracktype>grade2</twr:tracktype>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 6</name>
+    <trkseg>
+      <trkpt lat="37.1713075" lon="-121.4092088"/>
+      <trkpt lat="37.1712844" lon="-121.408917"/>
+      <trkpt lat="37.1711065" lon="-121.4089227"/>
+      <trkpt lat="37.1709568" lon="-121.4092079"/>
+      <trkpt lat="37.1701391" lon="-121.40965"/>
+      <trkpt lat="37.1696125" lon="-121.4094508"/>
+      <trkpt lat="37.1693754" lon="-121.4095992"/>
+      <trkpt lat="37.1692024" lon="-121.4098392"/>
+      <trkpt lat="37.1688331" lon="-121.4098828"/>
+      <trkpt lat="37.1679296" lon="-121.4094279"/>
+      <trkpt lat="37.1670651" lon="-121.4096184"/>
+      <trkpt lat="37.1663225" lon="-121.4095302"/>
+    </trkseg>
+  </trk>
+</gpx>

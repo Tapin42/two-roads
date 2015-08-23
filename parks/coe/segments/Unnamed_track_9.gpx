@@ -4,31 +4,30 @@
     <name>Unnamed track 9</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347293</twr:id>
+    <twr:id>-347279</twr:id>
     <attrs>
-      <twr:created_by>Potlatch 0.10f</twr:created_by>
       <twr:highway>track</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed track 9</name>
     <trkseg>
-      <trkpt lat="37.176365" lon="-121.5190162"/>
-      <trkpt lat="37.1762562" lon="-121.5190474"/>
-      <trkpt lat="37.1761331" lon="-121.5190731"/>
-      <trkpt lat="37.1760305" lon="-121.5190988"/>
-      <trkpt lat="37.1758937" lon="-121.5191761"/>
-      <trkpt lat="37.1757501" lon="-121.5191933"/>
-      <trkpt lat="37.1756133" lon="-121.5191503"/>
-      <trkpt lat="37.1755108" lon="-121.519116"/>
-      <trkpt lat="37.1753671" lon="-121.5190044"/>
-      <trkpt lat="37.175275" lon="-121.5188833"/>
-      <trkpt lat="37.1752145" lon="-121.518713"/>
-      <trkpt lat="37.1752321" lon="-121.5185646"/>
-      <trkpt lat="37.1752577" lon="-121.518438"/>
-      <trkpt lat="37.1752851" lon="-121.518292"/>
-      <trkpt lat="37.1753398" lon="-121.5181719"/>
-      <trkpt lat="37.175388" lon="-121.5180173"/>
+      <trkpt lat="37.1691465" lon="-121.3149569"/>
+      <trkpt lat="37.1688619" lon="-121.3151538"/>
+      <trkpt lat="37.1686977" lon="-121.3153255"/>
+      <trkpt lat="37.1683968" lon="-121.3154027"/>
+      <trkpt lat="37.1681437" lon="-121.3151367"/>
+      <trkpt lat="37.167576" lon="-121.3150337"/>
+      <trkpt lat="37.1672614" lon="-121.3152997"/>
+      <trkpt lat="37.1670973" lon="-121.3154886"/>
+      <trkpt lat="37.1668647" lon="-121.3155315"/>
+      <trkpt lat="37.1668032" lon="-121.315686"/>
+      <trkpt lat="37.1668921" lon="-121.3159778"/>
+      <trkpt lat="37.1671109" lon="-121.3161838"/>
+      <trkpt lat="37.1674598" lon="-121.3159864"/>
+      <trkpt lat="37.1678223" lon="-121.315995"/>
+      <trkpt lat="37.1681369" lon="-121.3162181"/>
+      <trkpt lat="37.1683763" lon="-121.31651"/>
     </trkseg>
   </trk>
 </gpx>

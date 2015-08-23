@@ -4,7 +4,7 @@
     <name>Creekside Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347109</twr:id>
+    <twr:id>-89702</twr:id>
     <attrs>
       <twr:highway>path</twr:highway>
       <twr:name>Creekside Trail</twr:name>
@@ -29,10 +29,6 @@
       <trkpt lat="37.1738033" lon="-121.4949344"/>
       <trkpt lat="37.1734768" lon="-121.4949076"/>
       <trkpt lat="37.1733289" lon="-121.4949774"/>
-      <trkpt lat="37.1732469" lon="-121.4952178"/>
-      <trkpt lat="37.173021" lon="-121.4953307"/>
-      <trkpt lat="37.1729862" lon="-121.4954611"/>
-      <trkpt lat="37.1726926" lon="-121.4955715"/>
     </trkseg>
   </trk>
 </gpx>

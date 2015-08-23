@@ -4,7 +4,7 @@
     <name>Unnamed track 4</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347429</twr:id>
+    <twr:id>-347399</twr:id>
     <attrs>
       <twr:highway>track</twr:highway>
     </attrs>
@@ -12,12 +12,12 @@
   <trk>
     <name>Unnamed track 4</name>
     <trkseg>
-      <trkpt lat="37.0379439" lon="-121.4241284"/>
-      <trkpt lat="37.0364514" lon="-121.4224072"/>
-      <trkpt lat="37.0364385" lon="-121.4222892"/>
-      <trkpt lat="37.0364471" lon="-121.4218172"/>
-      <trkpt lat="37.0363614" lon="-121.4217761"/>
-      <trkpt lat="37.0358004" lon="-121.4216956"/>
+      <trkpt lat="37.1746571" lon="-121.5174979"/>
+      <trkpt lat="37.1742489" lon="-121.5174331"/>
+      <trkpt lat="37.1738433" lon="-121.5176528"/>
+      <trkpt lat="37.1734884" lon="-121.5178387"/>
+      <trkpt lat="37.1732281" lon="-121.5178586"/>
+      <trkpt lat="37.1730152" lon="-121.5176359"/>
     </trkseg>
   </trk>
 </gpx>

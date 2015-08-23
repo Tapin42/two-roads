@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Manzanita Point Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89946</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Manzanita Point Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Manzanita Point Road 2</name>
+    <trkseg>
+      <trkpt lat="37.187402" lon="-121.5425596"/>
+      <trkpt lat="37.1872926" lon="-121.5425019"/>
+      <trkpt lat="37.1872242" lon="-121.5422849"/>
+      <trkpt lat="37.1871764" lon="-121.5421218"/>
+      <trkpt lat="37.187067" lon="-121.5420213"/>
+      <trkpt lat="37.1869508" lon="-121.5419869"/>
+      <trkpt lat="37.1868619" lon="-121.5418668"/>
+      <trkpt lat="37.1868003" lon="-121.5416584"/>
+      <trkpt lat="37.1866909" lon="-121.5414695"/>
+      <trkpt lat="37.1866157" lon="-121.5414266"/>
+      <trkpt lat="37.1864379" lon="-121.541315"/>
+      <trkpt lat="37.1863079" lon="-121.541152"/>
+      <trkpt lat="37.1862259" lon="-121.541006"/>
+      <trkpt lat="37.1861507" lon="-121.5407829"/>
+      <trkpt lat="37.1861073" lon="-121.5404432"/>
+      <trkpt lat="37.1860231" lon="-121.5401954"/>
+      <trkpt lat="37.1854303" lon="-121.5392846"/>
+    </trkseg>
+  </trk>
+</gpx>

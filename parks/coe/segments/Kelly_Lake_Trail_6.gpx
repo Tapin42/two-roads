@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kelly Lake Trail 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89976</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Kelly Lake Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kelly Lake Trail 6</name>
+    <trkseg>
+      <trkpt lat="37.1212348" lon="-121.4197555"/>
+      <trkpt lat="37.1213746" lon="-121.4197959"/>
+      <trkpt lat="37.1215799" lon="-121.4200363"/>
+      <trkpt lat="37.1217442" lon="-121.4202423"/>
+      <trkpt lat="37.1220453" lon="-121.4202337"/>
+      <trkpt lat="37.1223806" lon="-121.4199161"/>
+      <trkpt lat="37.1226202" lon="-121.41959"/>
+      <trkpt lat="37.1230445" lon="-121.4194355"/>
+      <trkpt lat="37.123373" lon="-121.4192638"/>
+      <trkpt lat="37.1236193" lon="-121.4190492"/>
+      <trkpt lat="37.1237386" lon="-121.4187385"/>
+    </trkseg>
+  </trk>
+</gpx>

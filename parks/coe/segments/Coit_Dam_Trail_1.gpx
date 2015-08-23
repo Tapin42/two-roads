@@ -4,7 +4,7 @@
     <name>Coit Dam Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347493</twr:id>
+    <twr:id>-89851</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -21,22 +21,6 @@
       <trkpt lat="37.1387221" lon="-121.4258784"/>
       <trkpt lat="37.1392205" lon="-121.4254511"/>
       <trkpt lat="37.1396702" lon="-121.4248602"/>
-      <trkpt lat="37.1393391" lon="-121.4241429"/>
-      <trkpt lat="37.1387874" lon="-121.4238302"/>
-      <trkpt lat="37.1388241" lon="-121.4229658"/>
-      <trkpt lat="37.1383827" lon="-121.4225059"/>
-      <trkpt lat="37.1381988" lon="-121.4220093"/>
-      <trkpt lat="37.1378126" lon="-121.421899"/>
-      <trkpt lat="37.1375183" lon="-121.4214944"/>
-      <trkpt lat="37.1370401" lon="-121.4208506"/>
-      <trkpt lat="37.136102" lon="-121.4200413"/>
-      <trkpt lat="37.1355319" lon="-121.4196735"/>
-      <trkpt lat="37.1352376" lon="-121.4191401"/>
-      <trkpt lat="37.134741" lon="-121.4188458"/>
-      <trkpt lat="37.1345387" lon="-121.4183492"/>
-      <trkpt lat="37.1341708" lon="-121.4171721"/>
-      <trkpt lat="37.1335087" lon="-121.4170066"/>
-      <trkpt lat="37.1332311" lon="-121.4166206"/>
     </trkseg>
   </trk>
 </gpx>

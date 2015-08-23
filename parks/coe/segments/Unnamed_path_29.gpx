@@ -4,27 +4,30 @@
     <name>Unnamed path 29</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347037</twr:id>
+    <twr:id>-89784</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
-      <twr:horse>yes</twr:horse>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 29</name>
     <trkseg>
-      <trkpt lat="37.1077337" lon="-121.4182424"/>
-      <trkpt lat="37.108135" lon="-121.4183246"/>
-      <trkpt lat="37.1086909" lon="-121.418232"/>
-      <trkpt lat="37.1088364" lon="-121.4180603"/>
-      <trkpt lat="37.109093" lon="-121.4177599"/>
-      <trkpt lat="37.1094952" lon="-121.4178028"/>
-      <trkpt lat="37.109769" lon="-121.4177813"/>
-      <trkpt lat="37.1102823" lon="-121.4177277"/>
-      <trkpt lat="37.1110096" lon="-121.4173307"/>
-      <trkpt lat="37.1116935" lon="-121.4170124"/>
+      <trkpt lat="37.1447362" lon="-121.3571427"/>
+      <trkpt lat="37.1450824" lon="-121.3574075"/>
+      <trkpt lat="37.1453065" lon="-121.3578557"/>
+      <trkpt lat="37.145999" lon="-121.357652"/>
+      <trkpt lat="37.146936" lon="-121.3583241"/>
+      <trkpt lat="37.1476286" lon="-121.358426"/>
+      <trkpt lat="37.1487081" lon="-121.3585075"/>
+      <trkpt lat="37.1487285" lon="-121.3589556"/>
+      <trkpt lat="37.1491359" lon="-121.3598722"/>
+      <trkpt lat="37.1496247" lon="-121.3596074"/>
+      <trkpt lat="37.1498692" lon="-121.3597703"/>
+      <trkpt lat="37.1496044" lon="-121.3600963"/>
+      <trkpt lat="37.1497266" lon="-121.3607684"/>
+      <trkpt lat="37.1500117" lon="-121.3615425"/>
     </trkseg>
   </trk>
 </gpx>

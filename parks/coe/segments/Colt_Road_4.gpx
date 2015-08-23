@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Colt Road 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89709</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Colt Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Colt Road 4</name>
+    <trkseg>
+      <trkpt lat="37.1123061" lon="-121.4760751"/>
+      <trkpt lat="37.1124703" lon="-121.4762554"/>
+      <trkpt lat="37.1126551" lon="-121.4763412"/>
+      <trkpt lat="37.1128605" lon="-121.4764184"/>
+      <trkpt lat="37.1132027" lon="-121.47653"/>
+      <trkpt lat="37.113497" lon="-121.4766502"/>
+      <trkpt lat="37.1137845" lon="-121.476736"/>
+      <trkpt lat="37.114024" lon="-121.4769506"/>
+      <trkpt lat="37.1143047" lon="-121.4771909"/>
+      <trkpt lat="37.1145784" lon="-121.4772682"/>
+      <trkpt lat="37.1147906" lon="-121.4773798"/>
+      <trkpt lat="37.1149617" lon="-121.4775857"/>
+      <trkpt lat="37.1151739" lon="-121.4778347"/>
+      <trkpt lat="37.115434" lon="-121.4779892"/>
+      <trkpt lat="37.1157488" lon="-121.4781522"/>
+      <trkpt lat="37.1160568" lon="-121.4782209"/>
+      <trkpt lat="37.1163237" lon="-121.4784526"/>
+      <trkpt lat="37.1165222" lon="-121.4788475"/>
+      <trkpt lat="37.1167275" lon="-121.4792079"/>
+      <trkpt lat="37.116837" lon="-121.4794483"/>
+      <trkpt lat="37.1170424" lon="-121.4797916"/>
+      <trkpt lat="37.1171656" lon="-121.4800663"/>
+      <trkpt lat="37.1173024" lon="-121.4803237"/>
+      <trkpt lat="37.1175283" lon="-121.4805383"/>
+      <trkpt lat="37.1178294" lon="-121.4807701"/>
+      <trkpt lat="37.1181648" lon="-121.4807786"/>
+      <trkpt lat="37.1184454" lon="-121.4806413"/>
+      <trkpt lat="37.1187397" lon="-121.4805812"/>
+      <trkpt lat="37.1191298" lon="-121.4806585"/>
+      <trkpt lat="37.1193762" lon="-121.4806671"/>
+      <trkpt lat="37.1195815" lon="-121.4805469"/>
+      <trkpt lat="37.1198211" lon="-121.4804267"/>
+      <trkpt lat="37.1201427" lon="-121.4802722"/>
+      <trkpt lat="37.1204165" lon="-121.4801435"/>
+      <trkpt lat="37.1208819" lon="-121.4801263"/>
+      <trkpt lat="37.1212035" lon="-121.4800834"/>
+      <trkpt lat="37.1215799" lon="-121.480092"/>
+      <trkpt lat="37.1219016" lon="-121.4801263"/>
+      <trkpt lat="37.1222917" lon="-121.4802551"/>
+      <trkpt lat="37.122716" lon="-121.4803667"/>
+      <trkpt lat="37.1229897" lon="-121.4805212"/>
+      <trkpt lat="37.1233182" lon="-121.4806671"/>
+      <trkpt lat="37.1236946" lon="-121.4807701"/>
+      <trkpt lat="37.1239957" lon="-121.4808645"/>
+    </trkseg>
+  </trk>
+</gpx>

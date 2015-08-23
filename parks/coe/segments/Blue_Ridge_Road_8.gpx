@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Blue Ridge Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89986</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Blue Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Blue Ridge Road 8</name>
+    <trkseg>
+      <trkpt lat="37.1887084" lon="-121.4807611"/>
+      <trkpt lat="37.1888402" lon="-121.4804752"/>
+      <trkpt lat="37.188765" lon="-121.4798572"/>
+      <trkpt lat="37.1886625" lon="-121.4791191"/>
+      <trkpt lat="37.1885667" lon="-121.4788187"/>
+      <trkpt lat="37.1884573" lon="-121.4786213"/>
+      <trkpt lat="37.18843" lon="-121.4780205"/>
+      <trkpt lat="37.1887582" lon="-121.4771707"/>
+      <trkpt lat="37.1887582" lon="-121.476733"/>
+      <trkpt lat="37.1889496" lon="-121.4764068"/>
+      <trkpt lat="37.1889633" lon="-121.4761579"/>
+      <trkpt lat="37.1888949" lon="-121.4759348"/>
+      <trkpt lat="37.1887445" lon="-121.4757374"/>
+      <trkpt lat="37.1886898" lon="-121.4754455"/>
+      <trkpt lat="37.1885325" lon="-121.4749477"/>
+      <trkpt lat="37.1885394" lon="-121.4745357"/>
+      <trkpt lat="37.1887445" lon="-121.4741409"/>
+      <trkpt lat="37.1889428" lon="-121.4739263"/>
+      <trkpt lat="37.1889428" lon="-121.4735229"/>
+      <trkpt lat="37.1890249" lon="-121.4732912"/>
+      <trkpt lat="37.1890249" lon="-121.4728878"/>
+      <trkpt lat="37.1891069" lon="-121.4726475"/>
+      <trkpt lat="37.1891069" lon="-121.471978"/>
+      <trkpt lat="37.189189" lon="-121.4717205"/>
+      <trkpt lat="37.1895445" lon="-121.4714802"/>
+      <trkpt lat="37.1896539" lon="-121.4712742"/>
+      <trkpt lat="37.1896334" lon="-121.471051"/>
+      <trkpt lat="37.189524" lon="-121.4709823"/>
+      <trkpt lat="37.1892847" lon="-121.471051"/>
+      <trkpt lat="37.1890454" lon="-121.471154"/>
+      <trkpt lat="37.1888334" lon="-121.4710939"/>
+      <trkpt lat="37.1887514" lon="-121.4710253"/>
+      <trkpt lat="37.1887924" lon="-121.4709308"/>
+      <trkpt lat="37.1890727" lon="-121.4706733"/>
+      <trkpt lat="37.1893189" lon="-121.47033"/>
+      <trkpt lat="37.189442" lon="-121.470021"/>
+      <trkpt lat="37.1897086" lon="-121.4700554"/>
+      <trkpt lat="37.1899958" lon="-121.4699009"/>
+      <trkpt lat="37.1903924" lon="-121.4699352"/>
+      <trkpt lat="37.1907206" lon="-121.4699009"/>
+      <trkpt lat="37.1910214" lon="-121.4700897"/>
+      <trkpt lat="37.1912334" lon="-121.4702699"/>
+      <trkpt lat="37.1912949" lon="-121.4701755"/>
+      <trkpt lat="37.1912881" lon="-121.4699524"/>
+      <trkpt lat="37.191165" lon="-121.469712"/>
+      <trkpt lat="37.1910283" lon="-121.4694631"/>
+      <trkpt lat="37.1909599" lon="-121.4692142"/>
+      <trkpt lat="37.1910146" lon="-121.4690767"/>
+    </trkseg>
+  </trk>
+</gpx>

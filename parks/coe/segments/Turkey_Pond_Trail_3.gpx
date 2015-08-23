@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Turkey Pond Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89684</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Turkey Pond Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Turkey Pond Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.1651021" lon="-121.4034635"/>
+      <trkpt lat="37.16473" lon="-121.4027981"/>
+      <trkpt lat="37.1644465" lon="-121.4016077"/>
+      <trkpt lat="37.1644286" lon="-121.4012252"/>
+      <trkpt lat="37.1642594" lon="-121.4006988"/>
+      <trkpt lat="37.1638975" lon="-121.3999388"/>
+      <trkpt lat="37.1634632" lon="-121.3998664"/>
+      <trkpt lat="37.1632566" lon="-121.3993922"/>
+    </trkseg>
+  </trk>
+</gpx>

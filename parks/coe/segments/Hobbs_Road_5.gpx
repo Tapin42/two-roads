@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hobbs Road 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89958</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Hobbs Road</twr:name>
+      <twr:surface>dirt</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hobbs Road 5</name>
+    <trkseg>
+      <trkpt lat="37.2123702" lon="-121.5325175"/>
+      <trkpt lat="37.2124796" lon="-121.5327407"/>
+      <trkpt lat="37.2125548" lon="-121.5330325"/>
+      <trkpt lat="37.2127188" lon="-121.5332814"/>
+      <trkpt lat="37.2130127" lon="-121.5339252"/>
+      <trkpt lat="37.2132656" lon="-121.5341311"/>
+      <trkpt lat="37.2134229" lon="-121.5342771"/>
+      <trkpt lat="37.2135732" lon="-121.5343715"/>
+      <trkpt lat="37.2136894" lon="-121.53432"/>
+    </trkseg>
+  </trk>
+</gpx>

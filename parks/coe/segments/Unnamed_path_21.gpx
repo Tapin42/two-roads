@@ -4,22 +4,25 @@
     <name>Unnamed path 21</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347179</twr:id>
+    <twr:id>-347089</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
-      <twr:horse>yes</twr:horse>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 21</name>
     <trkseg>
-      <trkpt lat="37.1512723" lon="-121.4433297"/>
-      <trkpt lat="37.1510028" lon="-121.4429221"/>
-      <trkpt lat="37.150948" lon="-121.4426476"/>
-      <trkpt lat="37.1509648" lon="-121.442391"/>
-      <trkpt lat="37.1510077" lon="-121.4422446"/>
+      <trkpt lat="37.1267246" lon="-121.448799"/>
+      <trkpt lat="37.126544" lon="-121.4492806"/>
+      <trkpt lat="37.1263986" lon="-121.44942"/>
+      <trkpt lat="37.126065" lon="-121.4494522"/>
+      <trkpt lat="37.1256116" lon="-121.4492484"/>
+      <trkpt lat="37.1253464" lon="-121.4490553"/>
+      <trkpt lat="37.1250837" lon="-121.4489426"/>
+      <trkpt lat="37.1249254" lon="-121.4487817"/>
+      <trkpt lat="37.1245704" lon="-121.4487173"/>
     </trkseg>
   </trk>
 </gpx>

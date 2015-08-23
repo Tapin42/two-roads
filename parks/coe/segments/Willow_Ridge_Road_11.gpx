@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willow Ridge Road 11</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89927</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Willow Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+      <twr:tiger.separated>no</twr:tiger.separated>
+      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
+      <twr:tiger.tlid>122933594:123000904</twr:tiger.tlid>
+      <twr:tiger.upload_uuid>bulk_upload.pl-9f300d22-5de3-4867-bd5e-8c2a200c22ad</twr:tiger.upload_uuid>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willow Ridge Road 11</name>
+    <trkseg>
+      <trkpt lat="37.1422159" lon="-121.4386144"/>
+      <trkpt lat="37.1424347" lon="-121.4389676"/>
+      <trkpt lat="37.1427169" lon="-121.4390748"/>
+      <trkpt lat="37.1430333" lon="-121.4394182"/>
+      <trkpt lat="37.1435088" lon="-121.439662"/>
+      <trkpt lat="37.1439655" lon="-121.4396059"/>
+      <trkpt lat="37.1440931" lon="-121.4396336"/>
+      <trkpt lat="37.1441879" lon="-121.4399278"/>
+      <trkpt lat="37.1443247" lon="-121.4405715"/>
+      <trkpt lat="37.1442941" lon="-121.4409532"/>
+      <trkpt lat="37.1443571" lon="-121.4411468"/>
+      <trkpt lat="37.1446148" lon="-121.4413127"/>
+      <trkpt lat="37.1450949" lon="-121.4414102"/>
+      <trkpt lat="37.1452488" lon="-121.4415282"/>
+      <trkpt lat="37.1453258" lon="-121.4417321"/>
+      <trkpt lat="37.1453375" lon="-121.441892"/>
+      <trkpt lat="37.1454327" lon="-121.4419949"/>
+      <trkpt lat="37.1455256" lon="-121.441951"/>
+      <trkpt lat="37.1457693" lon="-121.4418598"/>
+      <trkpt lat="37.1459444" lon="-121.4419365"/>
+      <trkpt lat="37.1461328" lon="-121.4421495"/>
+      <trkpt lat="37.1465123" lon="-121.4422884"/>
+      <trkpt lat="37.1467229" lon="-121.4423534"/>
+      <trkpt lat="37.1470319" lon="-121.442231"/>
+      <trkpt lat="37.1471773" lon="-121.4422685"/>
+      <trkpt lat="37.1472745" lon="-121.4424285"/>
+      <trkpt lat="37.1474637" lon="-121.4426494"/>
+      <trkpt lat="37.1475385" lon="-121.4427519"/>
+      <trkpt lat="37.1476165" lon="-121.4431366"/>
+      <trkpt lat="37.1478132" lon="-121.4434423"/>
+      <trkpt lat="37.1482415" lon="-121.443994"/>
+      <trkpt lat="37.1485669" lon="-121.4442373"/>
+      <trkpt lat="37.1489952" lon="-121.4444017"/>
+      <trkpt lat="37.1491955" lon="-121.4445001"/>
+      <trkpt lat="37.1494404" lon="-121.444889"/>
+      <trkpt lat="37.1497385" lon="-121.4453638"/>
+      <trkpt lat="37.149948" lon="-121.4455837"/>
+      <trkpt lat="37.1502943" lon="-121.4458037"/>
+      <trkpt lat="37.1506193" lon="-121.4460558"/>
+      <trkpt lat="37.1507334" lon="-121.4463567"/>
+      <trkpt lat="37.1510628" lon="-121.4465161"/>
+      <trkpt lat="37.1512191" lon="-121.4464941"/>
+      <trkpt lat="37.1513279" lon="-121.4463981"/>
+      <trkpt lat="37.1513833" lon="-121.4461679"/>
+      <trkpt lat="37.1514562" lon="-121.4459904"/>
+    </trkseg>
+  </trk>
+</gpx>

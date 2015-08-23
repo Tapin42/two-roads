@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kelly Lake Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89978</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Kelly Lake Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kelly Lake Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.1191983" lon="-121.4262504"/>
+      <trkpt lat="37.1191093" lon="-121.4261131"/>
+      <trkpt lat="37.1190545" lon="-121.4257783"/>
+      <trkpt lat="37.1188287" lon="-121.4255037"/>
+      <trkpt lat="37.1185275" lon="-121.4253921"/>
+      <trkpt lat="37.1183496" lon="-121.4250831"/>
+    </trkseg>
+  </trk>
+</gpx>

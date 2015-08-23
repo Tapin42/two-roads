@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Ridge Road 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89827</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Pacheco Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Ridge Road 9</name>
+    <trkseg>
+      <trkpt lat="37.1516683" lon="-121.414713"/>
+      <trkpt lat="37.1506602" lon="-121.413751"/>
+      <trkpt lat="37.1500588" lon="-121.4132975"/>
+      <trkpt lat="37.1497236" lon="-121.4128834"/>
+      <trkpt lat="37.1490153" lon="-121.4130281"/>
+      <trkpt lat="37.1487881" lon="-121.4129903"/>
+      <trkpt lat="37.1484379" lon="-121.4125265"/>
+      <trkpt lat="37.1481634" lon="-121.4120248"/>
+      <trkpt lat="37.1481066" lon="-121.4116273"/>
+      <trkpt lat="37.1478984" lon="-121.4114948"/>
+      <trkpt lat="37.1471128" lon="-121.4117409"/>
+      <trkpt lat="37.1467437" lon="-121.41158"/>
+      <trkpt lat="37.1464881" lon="-121.4116746"/>
+      <trkpt lat="37.1460616" lon="-121.4111354"/>
+      <trkpt lat="37.1454205" lon="-121.4097157"/>
+      <trkpt lat="37.1450541" lon="-121.4089601"/>
+      <trkpt lat="37.1449626" lon="-121.4084334"/>
+      <trkpt lat="37.1445962" lon="-121.4077007"/>
+      <trkpt lat="37.1445275" lon="-121.4068535"/>
+      <trkpt lat="37.143978" lon="-121.4056628"/>
+      <trkpt lat="37.1440924" lon="-121.4046782"/>
+      <trkpt lat="37.1438864" lon="-121.4040829"/>
+      <trkpt lat="37.1436803" lon="-121.4033044"/>
+      <trkpt lat="37.1427415" lon="-121.4030296"/>
+      <trkpt lat="37.142169" lon="-121.4025487"/>
+      <trkpt lat="37.1408868" lon="-121.4013351"/>
+      <trkpt lat="37.1406578" lon="-121.4010375"/>
+      <trkpt lat="37.1396045" lon="-121.401152"/>
+      <trkpt lat="37.1393966" lon="-121.4010918"/>
+      <trkpt lat="37.138826" lon="-121.4008085"/>
+      <trkpt lat="37.1385741" lon="-121.400694"/>
+      <trkpt lat="37.1382077" lon="-121.4006711"/>
+      <trkpt lat="37.1376124" lon="-121.400465"/>
+      <trkpt lat="37.1372071" lon="-121.4000404"/>
+      <trkpt lat="37.1369712" lon="-121.3996636"/>
+      <trkpt lat="37.1371315" lon="-121.399343"/>
+      <trkpt lat="37.1369248" lon="-121.3988817"/>
+      <trkpt lat="37.1366049" lon="-121.3985187"/>
+      <trkpt lat="37.1360867" lon="-121.3983452"/>
+      <trkpt lat="37.1355058" lon="-121.3976028"/>
+      <trkpt lat="37.1351623" lon="-121.3968472"/>
+      <trkpt lat="37.1348189" lon="-121.3958855"/>
+      <trkpt lat="37.1344296" lon="-121.3950383"/>
+      <trkpt lat="37.1338114" lon="-121.3944887"/>
+      <trkpt lat="37.1334908" lon="-121.3940995"/>
+    </trkseg>
+  </trk>
+</gpx>

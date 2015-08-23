@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kaiser Aetna Road 14</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89866</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Kaiser Aetna Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kaiser Aetna Road 14</name>
+    <trkseg>
+      <trkpt lat="37.1087786" lon="-121.3542875"/>
+      <trkpt lat="37.1084318" lon="-121.3534466"/>
+      <trkpt lat="37.1083908" lon="-121.3531805"/>
+      <trkpt lat="37.1084318" lon="-121.3527171"/>
+      <trkpt lat="37.1088425" lon="-121.3519017"/>
+      <trkpt lat="37.1093901" lon="-121.3510434"/>
+      <trkpt lat="37.1094334" lon="-121.3493156"/>
+      <trkpt lat="37.1093581" lon="-121.3488521"/>
+      <trkpt lat="37.1090479" lon="-121.3484684"/>
+      <trkpt lat="37.1083223" lon="-121.3480908"/>
+      <trkpt lat="37.1078225" lon="-121.3474519"/>
+      <trkpt lat="37.1074051" lon="-121.3461081"/>
+      <trkpt lat="37.1068917" lon="-121.345636"/>
+      <trkpt lat="37.1058102" lon="-121.3456875"/>
+      <trkpt lat="37.1053721" lon="-121.3454987"/>
+      <trkpt lat="37.1050367" lon="-121.3452412"/>
+      <trkpt lat="37.1045301" lon="-121.3447348"/>
+      <trkpt lat="37.1035718" lon="-121.3434044"/>
+      <trkpt lat="37.1032043" lon="-121.3431787"/>
+      <trkpt lat="37.1027799" lon="-121.3426123"/>
+      <trkpt lat="37.1026819" lon="-121.3418595"/>
+      <trkpt lat="37.1026769" lon="-121.3413351"/>
+      <trkpt lat="37.1021685" lon="-121.3404004"/>
+      <trkpt lat="37.1022711" lon="-121.339585"/>
+      <trkpt lat="37.1025586" lon="-121.3391043"/>
+      <trkpt lat="37.102675" lon="-121.3386923"/>
+      <trkpt lat="37.1025376" lon="-121.3381553"/>
+      <trkpt lat="37.1019631" lon="-121.3368813"/>
+      <trkpt lat="37.101618" lon="-121.3363685"/>
+      <trkpt lat="37.1010389" lon="-121.335508"/>
+      <trkpt lat="37.1001832" lon="-121.3350789"/>
+      <trkpt lat="37.099143" lon="-121.333943"/>
+      <trkpt lat="37.0956307" lon="-121.3354651"/>
+      <trkpt lat="37.0939534" lon="-121.3352505"/>
+      <trkpt lat="37.0929264" lon="-121.334993"/>
+      <trkpt lat="37.0923787" lon="-121.3342188"/>
+      <trkpt lat="37.0912833" lon="-121.3342635"/>
+      <trkpt lat="37.0900511" lon="-121.3332784"/>
+      <trkpt lat="37.088716" lon="-121.3310211"/>
+      <trkpt lat="37.0883805" lon="-121.3306778"/>
+      <trkpt lat="37.0880313" lon="-121.3306434"/>
+      <trkpt lat="37.0876479" lon="-121.3308838"/>
+      <trkpt lat="37.087374" lon="-121.3319223"/>
+      <trkpt lat="37.0871001" lon="-121.3324631"/>
+      <trkpt lat="37.0868531" lon="-121.3326514"/>
+      <trkpt lat="37.0864497" lon="-121.332609"/>
+      <trkpt lat="37.0857239" lon="-121.3319052"/>
+      <trkpt lat="37.0851898" lon="-121.3312958"/>
+      <trkpt lat="37.0847105" lon="-121.330549"/>
+      <trkpt lat="37.0846831" lon="-121.3298538"/>
+      <trkpt lat="37.0845804" lon="-121.329253"/>
+      <trkpt lat="37.0843956" lon="-121.3287981"/>
+      <trkpt lat="37.0841491" lon="-121.3282745"/>
+      <trkpt lat="37.0840121" lon="-121.327442"/>
+      <trkpt lat="37.0838242" lon="-121.3267627"/>
+      <trkpt lat="37.083539" lon="-121.326629"/>
+      <trkpt lat="37.0832042" lon="-121.3264721"/>
+      <trkpt lat="37.0827522" lon="-121.3267553"/>
+      <trkpt lat="37.0823072" lon="-121.3274248"/>
+      <trkpt lat="37.0819237" lon="-121.3277853"/>
+      <trkpt lat="37.0807733" lon="-121.3273905"/>
+      <trkpt lat="37.0798352" lon="-121.3269441"/>
+      <trkpt lat="37.0793997" lon="-121.3263323"/>
+      <trkpt lat="37.0788492" lon="-121.3261202"/>
+      <trkpt lat="37.0783972" lon="-121.3257683"/>
+      <trkpt lat="37.0782192" lon="-121.325176"/>
+      <trkpt lat="37.0779363" lon="-121.32454"/>
+      <trkpt lat="37.0773769" lon="-121.324292"/>
+      <trkpt lat="37.0768291" lon="-121.323674"/>
+      <trkpt lat="37.0753431" lon="-121.3220518"/>
+      <trkpt lat="37.0747063" lon="-121.3220003"/>
+      <trkpt lat="37.0742269" lon="-121.3220604"/>
+      <trkpt lat="37.0737407" lon="-121.3219745"/>
+      <trkpt lat="37.073097" lon="-121.3222664"/>
+      <trkpt lat="37.0725149" lon="-121.322232"/>
+      <trkpt lat="37.0715435" lon="-121.3227927"/>
+    </trkseg>
+  </trk>
+</gpx>

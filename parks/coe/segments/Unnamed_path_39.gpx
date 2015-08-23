@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 39</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89576</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 39</name>
+    <trkseg>
+      <trkpt lat="37.0816586" lon="-121.4162087"/>
+      <trkpt lat="37.0817334" lon="-121.4162182"/>
+      <trkpt lat="37.0818645" lon="-121.4162971"/>
+      <trkpt lat="37.0819699" lon="-121.4162956"/>
+      <trkpt lat="37.0820219" lon="-121.4162617"/>
+    </trkseg>
+  </trk>
+</gpx>

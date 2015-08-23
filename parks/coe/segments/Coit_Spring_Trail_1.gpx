@@ -4,7 +4,7 @@
     <name>Coit Spring Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347545</twr:id>
+    <twr:id>-347131</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -15,37 +15,11 @@
   <trk>
     <name>Coit Spring Trail 1</name>
     <trkseg>
-      <trkpt lat="37.1342234" lon="-121.470683"/>
-      <trkpt lat="37.134196" lon="-121.47058"/>
-      <trkpt lat="37.1341207" lon="-121.4703483"/>
-      <trkpt lat="37.1340455" lon="-121.4701509"/>
-      <trkpt lat="37.1340591" lon="-121.4700221"/>
-      <trkpt lat="37.1341755" lon="-121.4697132"/>
-      <trkpt lat="37.1342876" lon="-121.4695152"/>
-      <trkpt lat="37.1343389" lon="-121.469365"/>
-      <trkpt lat="37.1343328" lon="-121.4692325"/>
-      <trkpt lat="37.1342097" lon="-121.4690093"/>
-      <trkpt lat="37.1341002" lon="-121.4688205"/>
-      <trkpt lat="37.1340112" lon="-121.4687089"/>
-      <trkpt lat="37.1339968" lon="-121.4684691"/>
-      <trkpt lat="37.1340595" lon="-121.4682963"/>
-      <trkpt lat="37.1339305" lon="-121.4682075"/>
-      <trkpt lat="37.1337615" lon="-121.4680722"/>
-      <trkpt lat="37.1335306" lon="-121.4678629"/>
-      <trkpt lat="37.1332569" lon="-121.4676966"/>
-      <trkpt lat="37.1334392" lon="-121.4672174"/>
-      <trkpt lat="37.1335282" lon="-121.4669427"/>
-      <trkpt lat="37.1335487" lon="-121.4667196"/>
-      <trkpt lat="37.1334871" lon="-121.4665479"/>
-      <trkpt lat="37.1332955" lon="-121.4664707"/>
-      <trkpt lat="37.1330218" lon="-121.4663591"/>
-      <trkpt lat="37.1327344" lon="-121.4662218"/>
-      <trkpt lat="37.1325634" lon="-121.4661445"/>
-      <trkpt lat="37.1324515" lon="-121.4659384"/>
-      <trkpt lat="37.1323232" lon="-121.4657346"/>
-      <trkpt lat="37.1322248" lon="-121.4655951"/>
-      <trkpt lat="37.1321051" lon="-121.4657614"/>
-      <trkpt lat="37.1319255" lon="-121.4657936"/>
+      <trkpt lat="37.130394" lon="-121.4571816"/>
+      <trkpt lat="37.1303217" lon="-121.4574036"/>
+      <trkpt lat="37.1302019" lon="-121.457527"/>
+      <trkpt lat="37.1300437" lon="-121.4576289"/>
+      <trkpt lat="37.129941" lon="-121.4578542"/>
     </trkseg>
   </trk>
 </gpx>

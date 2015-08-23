@@ -4,37 +4,24 @@
     <name>Unnamed track 15</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347169</twr:id>
+    <twr:id>-347067</twr:id>
     <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>track</twr:highway>
+      <twr:horse>yes</twr:horse>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed track 15</name>
     <trkseg>
-      <trkpt lat="37.2018389" lon="-121.4321082"/>
-      <trkpt lat="37.2016138" lon="-121.4324512"/>
-      <trkpt lat="37.2011216" lon="-121.4326315"/>
-      <trkpt lat="37.2007114" lon="-121.4327516"/>
-      <trkpt lat="37.2000687" lon="-121.4327345"/>
-      <trkpt lat="37.1996722" lon="-121.4333095"/>
-      <trkpt lat="37.1992483" lon="-121.4338932"/>
-      <trkpt lat="37.1988723" lon="-121.4349661"/>
-      <trkpt lat="37.1985988" lon="-121.4354811"/>
-      <trkpt lat="37.198551" lon="-121.4369402"/>
-      <trkpt lat="37.1984279" lon="-121.4379101"/>
-      <trkpt lat="37.198551" lon="-121.4383135"/>
-      <trkpt lat="37.1987151" lon="-121.4396267"/>
-      <trkpt lat="37.1987014" lon="-121.4400301"/>
-      <trkpt lat="37.1984416" lon="-121.440485"/>
-      <trkpt lat="37.1980998" lon="-121.4414291"/>
-      <trkpt lat="37.1975391" lon="-121.4424934"/>
-      <trkpt lat="37.1972793" lon="-121.4431629"/>
-      <trkpt lat="37.1969443" lon="-121.4443216"/>
-      <trkpt lat="37.1965615" lon="-121.445343"/>
-      <trkpt lat="37.1962196" lon="-121.4461927"/>
-      <trkpt lat="37.1958094" lon="-121.4466391"/>
-      <trkpt lat="37.1955974" lon="-121.4472227"/>
+      <trkpt lat="37.0813994" lon="-121.4156288"/>
+      <trkpt lat="37.0811472" lon="-121.4154801"/>
+      <trkpt lat="37.0806853" lon="-121.4148176"/>
+      <trkpt lat="37.0807208" lon="-121.414439"/>
+      <trkpt lat="37.0805743" lon="-121.4140826"/>
+      <trkpt lat="37.080521" lon="-121.4136818"/>
+      <trkpt lat="37.0804292" lon="-121.4133338"/>
     </trkseg>
   </trk>
 </gpx>

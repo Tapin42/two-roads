@@ -4,44 +4,25 @@
     <name>Unnamed track 19</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347049</twr:id>
+    <twr:id>-89906</twr:id>
     <attrs>
+      <twr:access>private</twr:access>
       <twr:highway>track</twr:highway>
+      <twr:surface>unpaved</twr:surface>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.separated>no</twr:tiger.separated>
+      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
+      <twr:tiger.tlid>122996724:123000794:122932894</twr:tiger.tlid>
+      <twr:tiger.upload_uuid>bulk_upload.pl-9f300d22-5de3-4867-bd5e-8c2a200c22ad</twr:tiger.upload_uuid>
+      <twr:tracktype>grade2</twr:tracktype>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed track 19</name>
     <trkseg>
-      <trkpt lat="37.1609001" lon="-121.3504959"/>
-      <trkpt lat="37.1612421" lon="-121.3502384"/>
-      <trkpt lat="37.1618304" lon="-121.3502384"/>
-      <trkpt lat="37.1623776" lon="-121.3499637"/>
-      <trkpt lat="37.1627196" lon="-121.3497663"/>
-      <trkpt lat="37.1630069" lon="-121.3498779"/>
-      <trkpt lat="37.1632805" lon="-121.3501526"/>
-      <trkpt lat="37.1655034" lon="-121.3496805"/>
-      <trkpt lat="37.1663037" lon="-121.3495947"/>
-      <trkpt lat="37.1671108" lon="-121.3495947"/>
-      <trkpt lat="37.1675212" lon="-121.3496805"/>
-      <trkpt lat="37.1678289" lon="-121.3498951"/>
-      <trkpt lat="37.1680683" lon="-121.3498951"/>
-      <trkpt lat="37.1688207" lon="-121.3491913"/>
-      <trkpt lat="37.1692174" lon="-121.3483501"/>
-      <trkpt lat="37.1695388" lon="-121.3481098"/>
-      <trkpt lat="37.1696756" lon="-121.3478523"/>
-      <trkpt lat="37.1700176" lon="-121.3477064"/>
-      <trkpt lat="37.1704279" lon="-121.3477321"/>
-      <trkpt lat="37.1712487" lon="-121.3475948"/>
-      <trkpt lat="37.1717958" lon="-121.347303"/>
-      <trkpt lat="37.1720694" lon="-121.3469597"/>
-      <trkpt lat="37.1722061" lon="-121.3465906"/>
-      <trkpt lat="37.1725276" lon="-121.3462473"/>
-      <trkpt lat="37.173403" lon="-121.3457065"/>
-      <trkpt lat="37.1737313" lon="-121.345346"/>
-      <trkpt lat="37.173827" lon="-121.3449169"/>
-      <trkpt lat="37.174463" lon="-121.3445049"/>
-      <trkpt lat="37.1749896" lon="-121.3444706"/>
-      <trkpt lat="37.175444" lon="-121.3441662"/>
+      <trkpt lat="37.070917" lon="-121.3227839"/>
+      <trkpt lat="37.0715435" lon="-121.3227927"/>
     </trkseg>
   </trk>
 </gpx>

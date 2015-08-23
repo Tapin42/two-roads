@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kaiser Aetna Road 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89873</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Kaiser Aetna Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kaiser Aetna Road 7</name>
+    <trkseg>
+      <trkpt lat="37.127948" lon="-121.3714625"/>
+      <trkpt lat="37.127729" lon="-121.3714368"/>
+      <trkpt lat="37.1273449" lon="-121.3714802"/>
+      <trkpt lat="37.1269942" lon="-121.3714587"/>
+      <trkpt lat="37.1267718" lon="-121.3713085"/>
+      <trkpt lat="37.126509" lon="-121.3707292"/>
+      <trkpt lat="37.1265657" lon="-121.3709218"/>
+      <trkpt lat="37.1265383" lon="-121.3707415"/>
+      <trkpt lat="37.1265793" lon="-121.3704755"/>
+      <trkpt lat="37.1266546" lon="-121.3702609"/>
+      <trkpt lat="37.126822" lon="-121.369985"/>
+      <trkpt lat="37.1268697" lon="-121.369694"/>
+      <trkpt lat="37.1265364" lon="-121.3690984"/>
+      <trkpt lat="37.1262615" lon="-121.3690827"/>
+    </trkseg>
+  </trk>
+</gpx>

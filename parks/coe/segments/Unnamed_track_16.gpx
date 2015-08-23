@@ -4,25 +4,22 @@
     <name>Unnamed track 16</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347091</twr:id>
+    <twr:id>-347023</twr:id>
     <attrs>
-      <twr:bicycle>yes</twr:bicycle>
       <twr:highway>track</twr:highway>
-      <twr:twor.map>2013</twr:twor.map>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed track 16</name>
     <trkseg>
-      <trkpt lat="37.1847079" lon="-121.5348949"/>
-      <trkpt lat="37.1847495" lon="-121.5347973"/>
-      <trkpt lat="37.1848863" lon="-121.5346943"/>
-      <trkpt lat="37.1850162" lon="-121.5345999"/>
-      <trkpt lat="37.1851256" lon="-121.5344797"/>
-      <trkpt lat="37.1852761" lon="-121.5344282"/>
-      <trkpt lat="37.1854538" lon="-121.534411"/>
-      <trkpt lat="37.185618" lon="-121.5344282"/>
-      <trkpt lat="37.1857274" lon="-121.5344797"/>
+      <trkpt lat="37.174463" lon="-121.3445049"/>
+      <trkpt lat="37.1737159" lon="-121.3444334"/>
+      <trkpt lat="37.17269" lon="-121.3440043"/>
+      <trkpt lat="37.1719377" lon="-121.3434249"/>
+      <trkpt lat="37.1710999" lon="-121.3434678"/>
+      <trkpt lat="37.1702279" lon="-121.3439613"/>
+      <trkpt lat="37.169903" lon="-121.3443261"/>
+      <trkpt lat="37.1696514" lon="-121.34455"/>
     </trkseg>
   </trk>
 </gpx>

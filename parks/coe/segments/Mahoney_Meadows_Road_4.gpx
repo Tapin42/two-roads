@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mahoney Meadows Road 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89913</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Mahoney Meadows Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mahoney Meadows Road 4</name>
+    <trkseg>
+      <trkpt lat="37.1739784" lon="-121.4812206"/>
+      <trkpt lat="37.1738348" lon="-121.4811777"/>
+      <trkpt lat="37.1736091" lon="-121.4810318"/>
+      <trkpt lat="37.1734039" lon="-121.4809545"/>
+      <trkpt lat="37.1732056" lon="-121.4808429"/>
+      <trkpt lat="37.1730483" lon="-121.4807314"/>
+      <trkpt lat="37.1728021" lon="-121.4807228"/>
+      <trkpt lat="37.1726311" lon="-121.4806369"/>
+      <trkpt lat="37.1724533" lon="-121.4805168"/>
+      <trkpt lat="37.1722983" lon="-121.48049"/>
+      <trkpt lat="37.1721455" lon="-121.4805425"/>
+      <trkpt lat="37.171888" lon="-121.4805651"/>
+      <trkpt lat="37.1716229" lon="-121.4805705"/>
+      <trkpt lat="37.1714135" lon="-121.4806724"/>
+      <trkpt lat="37.1712085" lon="-121.480697"/>
+      <trkpt lat="37.1710512" lon="-121.480697"/>
+      <trkpt lat="37.1708324" lon="-121.4806884"/>
+      <trkpt lat="37.1706484" lon="-121.4806939"/>
+      <trkpt lat="37.1704494" lon="-121.4807228"/>
+    </trkseg>
+  </trk>
+</gpx>

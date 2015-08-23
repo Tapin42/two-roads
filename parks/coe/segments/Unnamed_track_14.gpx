@@ -4,24 +4,22 @@
     <name>Unnamed track 14</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347203</twr:id>
+    <twr:id>-347085</twr:id>
     <attrs>
       <twr:highway>track</twr:highway>
-      <twr:source>Yahoo</twr:source>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed track 14</name>
     <trkseg>
-      <trkpt lat="37.1121773" lon="-121.3585997"/>
-      <trkpt lat="37.1123342" lon="-121.3584068"/>
-      <trkpt lat="37.112373" lon="-121.3581608"/>
-      <trkpt lat="37.1123013" lon="-121.357851"/>
-      <trkpt lat="37.1121313" lon="-121.3570535"/>
-      <trkpt lat="37.112199" lon="-121.3569132"/>
-      <trkpt lat="37.1124218" lon="-121.3569838"/>
-      <trkpt lat="37.1128331" lon="-121.3571761"/>
-      <trkpt lat="37.1130653" lon="-121.3572425"/>
+      <trkpt lat="37.1567376" lon="-121.4473694"/>
+      <trkpt lat="37.1558676" lon="-121.4465637"/>
+      <trkpt lat="37.154862" lon="-121.4456972"/>
+      <trkpt lat="37.153933" lon="-121.4449941"/>
+      <trkpt lat="37.1521878" lon="-121.4432992"/>
+      <trkpt lat="37.1513604" lon="-121.4425637"/>
+      <trkpt lat="37.1511747" lon="-121.4425134"/>
+      <trkpt lat="37.150948" lon="-121.4426476"/>
     </trkseg>
   </trk>
 </gpx>

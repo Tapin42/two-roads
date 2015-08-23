@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hobbs Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89957</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Hobbs Road</twr:name>
+      <twr:surface>dirt</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hobbs Road 6</name>
+    <trkseg>
+      <trkpt lat="37.2136894" lon="-121.53432"/>
+      <trkpt lat="37.2136689" lon="-121.5342084"/>
+      <trkpt lat="37.2135391" lon="-121.5339252"/>
+      <trkpt lat="37.2133887" lon="-121.533599"/>
+      <trkpt lat="37.2132862" lon="-121.5332643"/>
+      <trkpt lat="37.2133067" lon="-121.5329982"/>
+      <trkpt lat="37.2133818" lon="-121.5329124"/>
+      <trkpt lat="37.2135801" lon="-121.532878"/>
+      <trkpt lat="37.2137031" lon="-121.5330668"/>
+      <trkpt lat="37.2139218" lon="-121.5333501"/>
+      <trkpt lat="37.2141748" lon="-121.5336848"/>
+      <trkpt lat="37.2143115" lon="-121.5337449"/>
+      <trkpt lat="37.2144277" lon="-121.5338651"/>
+      <trkpt lat="37.214537" lon="-121.5338479"/>
+      <trkpt lat="37.2145712" lon="-121.5337449"/>
+      <trkpt lat="37.2145097" lon="-121.5336505"/>
+      <trkpt lat="37.2144823" lon="-121.5335217"/>
+      <trkpt lat="37.2145712" lon="-121.5334359"/>
+      <trkpt lat="37.2146737" lon="-121.533496"/>
+      <trkpt lat="37.2148104" lon="-121.5335046"/>
+      <trkpt lat="37.2149608" lon="-121.5334788"/>
+      <trkpt lat="37.2150634" lon="-121.5335389"/>
+      <trkpt lat="37.2150702" lon="-121.5334531"/>
+      <trkpt lat="37.214995" lon="-121.5333329"/>
+      <trkpt lat="37.2148651" lon="-121.5331269"/>
+      <trkpt lat="37.2147353" lon="-121.5330497"/>
+      <trkpt lat="37.2147148" lon="-121.5329124"/>
+      <trkpt lat="37.2148036" lon="-121.5327836"/>
+      <trkpt lat="37.2149472" lon="-121.5327321"/>
+      <trkpt lat="37.2151112" lon="-121.5326892"/>
+      <trkpt lat="37.2152342" lon="-121.5326205"/>
+    </trkseg>
+  </trk>
+</gpx>

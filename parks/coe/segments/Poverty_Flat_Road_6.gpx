@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Poverty Flat Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89815</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Poverty Flat Road</twr:name>
+      <twr:surface>dirt</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Poverty Flat Road 6</name>
+    <trkseg>
+      <trkpt lat="37.1792649" lon="-121.4855591"/>
+      <trkpt lat="37.1791965" lon="-121.4854475"/>
+      <trkpt lat="37.1790871" lon="-121.4853702"/>
+      <trkpt lat="37.1790119" lon="-121.4852243"/>
+      <trkpt lat="37.1789777" lon="-121.4850441"/>
+      <trkpt lat="37.1789161" lon="-121.4848038"/>
+      <trkpt lat="37.1787931" lon="-121.4846407"/>
+      <trkpt lat="37.1786973" lon="-121.4844862"/>
+      <trkpt lat="37.1785537" lon="-121.4844175"/>
+      <trkpt lat="37.1783964" lon="-121.484366"/>
+      <trkpt lat="37.1783349" lon="-121.4842716"/>
+      <trkpt lat="37.1783759" lon="-121.48416"/>
+      <trkpt lat="37.1785947" lon="-121.4839884"/>
+      <trkpt lat="37.1787931" lon="-121.4837395"/>
+      <trkpt lat="37.1788614" lon="-121.4833876"/>
+      <trkpt lat="37.1788751" lon="-121.4831472"/>
+      <trkpt lat="37.1789503" lon="-121.4828039"/>
+    </trkseg>
+  </trk>
+</gpx>

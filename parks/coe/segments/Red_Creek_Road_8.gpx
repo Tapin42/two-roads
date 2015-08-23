@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Red Creek Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89609</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:name>Red Creek Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Stanislaus, CA</twr:tiger.county>
+      <twr:tiger.name_base>Red Creek</twr:tiger.name_base>
+      <twr:tiger.name_type>Rd</twr:tiger.name_type>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Red Creek Road 8</name>
+    <trkseg>
+      <trkpt lat="37.2801431" lon="-121.4329425"/>
+      <trkpt lat="37.2797061" lon="-121.4328824"/>
+      <trkpt lat="37.2790368" lon="-121.4331829"/>
+      <trkpt lat="37.2788046" lon="-121.4334489"/>
+      <trkpt lat="37.2786885" lon="-121.433612"/>
+      <trkpt lat="37.2787158" lon="-121.433715"/>
+      <trkpt lat="37.2788933" lon="-121.4335605"/>
+      <trkpt lat="37.2790504" lon="-121.4336378"/>
+      <trkpt lat="37.2791597" lon="-121.4335433"/>
+      <trkpt lat="37.279228" lon="-121.4333631"/>
+      <trkpt lat="37.279527" lon="-121.433337"/>
+      <trkpt lat="37.279788" lon="-121.4335519"/>
+      <trkpt lat="37.2799109" lon="-121.4338695"/>
+      <trkpt lat="37.2799163" lon="-121.4339979"/>
+      <trkpt lat="37.2796924" lon="-121.4337064"/>
+      <trkpt lat="37.2795353" lon="-121.4336034"/>
+      <trkpt lat="37.2793851" lon="-121.4338008"/>
+      <trkpt lat="37.2792143" lon="-121.4342386"/>
+      <trkpt lat="37.2792553" lon="-121.4343244"/>
+      <trkpt lat="37.2794534" lon="-121.4340326"/>
+      <trkpt lat="37.2795831" lon="-121.4341184"/>
+      <trkpt lat="37.2795831" lon="-121.4345647"/>
+      <trkpt lat="37.279766" lon="-121.4348648"/>
+    </trkseg>
+  </trk>
+</gpx>

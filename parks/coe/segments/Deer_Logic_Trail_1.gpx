@@ -4,7 +4,7 @@
     <name>Deer Logic Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347439</twr:id>
+    <twr:id>-89747</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -36,9 +36,6 @@
       <trkpt lat="37.1048684" lon="-121.4201357"/>
       <trkpt lat="37.1051011" lon="-121.4203074"/>
       <trkpt lat="37.1053955" lon="-121.4201958"/>
-      <trkpt lat="37.1056487" lon="-121.4199383"/>
-      <trkpt lat="37.1058062" lon="-121.419595"/>
-      <trkpt lat="37.1059198" lon="-121.4192295"/>
     </trkseg>
   </trk>
 </gpx>

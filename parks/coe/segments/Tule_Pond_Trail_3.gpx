@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Tule Pond Trail 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89749</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Tule Pond Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Tule Pond Trail 3</name>
+    <trkseg>
+      <trkpt lat="37.1033727" lon="-121.4223219"/>
+      <trkpt lat="37.1035447" lon="-121.4222377"/>
+      <trkpt lat="37.1040717" lon="-121.4220832"/>
+      <trkpt lat="37.1044619" lon="-121.4218858"/>
+      <trkpt lat="37.1045557" lon="-121.4217865"/>
+    </trkseg>
+  </trk>
+</gpx>

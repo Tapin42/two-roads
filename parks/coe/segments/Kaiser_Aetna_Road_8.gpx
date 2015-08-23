@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Kaiser Aetna Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89872</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Kaiser Aetna Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Kaiser Aetna Road 8</name>
+    <trkseg>
+      <trkpt lat="37.1262615" lon="-121.3690827"/>
+      <trkpt lat="37.1259752" lon="-121.369167"/>
+      <trkpt lat="37.1256283" lon="-121.3693862"/>
+      <trkpt lat="37.1253696" lon="-121.3694125"/>
+      <trkpt lat="37.1249624" lon="-121.3692529"/>
+      <trkpt lat="37.1247257" lon="-121.3689431"/>
+      <trkpt lat="37.1247776" lon="-121.3684546"/>
+      <trkpt lat="37.1246573" lon="-121.3678861"/>
+      <trkpt lat="37.1245081" lon="-121.3676592"/>
+      <trkpt lat="37.1240376" lon="-121.3674086"/>
+      <trkpt lat="37.1236029" lon="-121.3675469"/>
+      <trkpt lat="37.1232036" lon="-121.3676221"/>
+      <trkpt lat="37.1229021" lon="-121.3675318"/>
+      <trkpt lat="37.1223979" lon="-121.3671289"/>
+      <trkpt lat="37.1221582" lon="-121.3665773"/>
+      <trkpt lat="37.1221428" lon="-121.3659655"/>
+      <trkpt lat="37.1219745" lon="-121.3653224"/>
+      <trkpt lat="37.1217471" lon="-121.3651345"/>
+      <trkpt lat="37.1214789" lon="-121.3650209"/>
+      <trkpt lat="37.1211964" lon="-121.3651423"/>
+      <trkpt lat="37.1209498" lon="-121.365354"/>
+      <trkpt lat="37.1205346" lon="-121.3662488"/>
+      <trkpt lat="37.1201336" lon="-121.3668028"/>
+      <trkpt lat="37.1196928" lon="-121.3671071"/>
+      <trkpt lat="37.119323" lon="-121.3671731"/>
+      <trkpt lat="37.1189399" lon="-121.3671071"/>
+      <trkpt lat="37.1187582" lon="-121.367005"/>
+    </trkseg>
+  </trk>
+</gpx>

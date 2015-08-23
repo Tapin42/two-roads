@@ -4,28 +4,38 @@
     <name>Unnamed path 28</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347059</twr:id>
+    <twr:id>-89785</twr:id>
     <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 28</name>
     <trkseg>
-      <trkpt lat="37.1777999" lon="-121.5212033"/>
-      <trkpt lat="37.1777212" lon="-121.521074"/>
-      <trkpt lat="37.1775319" lon="-121.5209272"/>
-      <trkpt lat="37.1774073" lon="-121.5207921"/>
-      <trkpt lat="37.1772165" lon="-121.5205854"/>
-      <trkpt lat="37.1771441" lon="-121.5204966"/>
-      <trkpt lat="37.1770364" lon="-121.5203904"/>
-      <trkpt lat="37.1769872" lon="-121.5202996"/>
-      <trkpt lat="37.1769687" lon="-121.5201567"/>
-      <trkpt lat="37.1769795" lon="-121.5200138"/>
-      <trkpt lat="37.1769672" lon="-121.5199269"/>
-      <trkpt lat="37.1769256" lon="-121.5198323"/>
-      <trkpt lat="37.1769179" lon="-121.5197029"/>
-      <trkpt lat="37.1769189" lon="-121.5195999"/>
+      <trkpt lat="37.144806" lon="-121.3647854"/>
+      <trkpt lat="37.1443695" lon="-121.3642923"/>
+      <trkpt lat="37.1441455" lon="-121.3639256"/>
+      <trkpt lat="37.1442066" lon="-121.3633146"/>
+      <trkpt lat="37.1438603" lon="-121.3627646"/>
+      <trkpt lat="37.1439825" lon="-121.3623368"/>
+      <trkpt lat="37.1436973" lon="-121.362072"/>
+      <trkpt lat="37.1437177" lon="-121.3618072"/>
+      <trkpt lat="37.144064" lon="-121.3618072"/>
+      <trkpt lat="37.1443288" lon="-121.3610536"/>
+      <trkpt lat="37.1439214" lon="-121.3609314"/>
+      <trkpt lat="37.1441251" lon="-121.3607481"/>
+      <trkpt lat="37.1444714" lon="-121.3607277"/>
+      <trkpt lat="37.1445936" lon="-121.3604222"/>
+      <trkpt lat="37.1443084" lon="-121.3600963"/>
+      <trkpt lat="37.1441251" lon="-121.3594852"/>
+      <trkpt lat="37.1439825" lon="-121.3590574"/>
+      <trkpt lat="37.1443492" lon="-121.358426"/>
+      <trkpt lat="37.1448584" lon="-121.3580797"/>
+      <trkpt lat="37.1447565" lon="-121.3578149"/>
+      <trkpt lat="37.1445121" lon="-121.3575298"/>
+      <trkpt lat="37.1447362" lon="-121.3571427"/>
     </trkseg>
   </trk>
 </gpx>

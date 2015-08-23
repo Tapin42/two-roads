@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 19</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89601</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>County Line Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 19</name>
+    <trkseg>
+      <trkpt lat="37.3042131" lon="-121.4644955"/>
+      <trkpt lat="37.3024007" lon="-121.4634158"/>
+      <trkpt lat="37.301001" lon="-121.4628322"/>
+      <trkpt lat="37.299895" lon="-121.4621455"/>
+      <trkpt lat="37.2988674" lon="-121.4623307"/>
+      <trkpt lat="37.2976179" lon="-121.4623135"/>
+      <trkpt lat="37.2973106" lon="-121.4624851"/>
+      <trkpt lat="37.2954534" lon="-121.4623822"/>
+      <trkpt lat="37.2942722" lon="-121.4622963"/>
+      <trkpt lat="37.2934323" lon="-121.4627856"/>
+      <trkpt lat="37.2926526" lon="-121.46236"/>
+      <trkpt lat="37.2923603" lon="-121.4620388"/>
+      <trkpt lat="37.291804" lon="-121.4617524"/>
+      <trkpt lat="37.2914323" lon="-121.461561"/>
+      <trkpt lat="37.2904961" lon="-121.4617298"/>
+      <trkpt lat="37.2900263" lon="-121.4613969"/>
+      <trkpt lat="37.289745" lon="-121.4602707"/>
+      <trkpt lat="37.2889119" lon="-121.4591378"/>
+      <trkpt lat="37.2883315" lon="-121.4588974"/>
+      <trkpt lat="37.2875598" lon="-121.4584683"/>
+      <trkpt lat="37.2874232" lon="-121.4588803"/>
+    </trkseg>
+  </trk>
+</gpx>

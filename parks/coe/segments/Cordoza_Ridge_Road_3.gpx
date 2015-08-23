@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cordoza Ridge Road 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89570</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Cordoza Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cordoza Ridge Road 3</name>
+    <trkseg>
+      <trkpt lat="37.1567756" lon="-121.527191"/>
+      <trkpt lat="37.1566798" lon="-121.5274571"/>
+      <trkpt lat="37.1567003" lon="-121.5278347"/>
+      <trkpt lat="37.1566456" lon="-121.5280665"/>
+      <trkpt lat="37.1564951" lon="-121.5281695"/>
+      <trkpt lat="37.156283" lon="-121.5281781"/>
+      <trkpt lat="37.1560231" lon="-121.5284355"/>
+      <trkpt lat="37.1558384" lon="-121.5288904"/>
+      <trkpt lat="37.1556811" lon="-121.5293368"/>
+      <trkpt lat="37.1555511" lon="-121.529414"/>
+      <trkpt lat="37.1551543" lon="-121.5294998"/>
+      <trkpt lat="37.154566" lon="-121.5297144"/>
+      <trkpt lat="37.1543813" lon="-121.5300234"/>
+      <trkpt lat="37.1544771" lon="-121.5303152"/>
+      <trkpt lat="37.1544976" lon="-121.5306328"/>
+      <trkpt lat="37.1544976" lon="-121.531019"/>
+      <trkpt lat="37.1543061" lon="-121.5313366"/>
+      <trkpt lat="37.1536083" lon="-121.5320404"/>
+      <trkpt lat="37.1533141" lon="-121.5326584"/>
+      <trkpt lat="37.1532594" lon="-121.5330618"/>
+      <trkpt lat="37.1532252" lon="-121.5335081"/>
+      <trkpt lat="37.1531158" lon="-121.5336626"/>
+      <trkpt lat="37.1529379" lon="-121.5336626"/>
+      <trkpt lat="37.1527806" lon="-121.533697"/>
+      <trkpt lat="37.1526643" lon="-121.5339545"/>
+      <trkpt lat="37.1526095" lon="-121.5341175"/>
+      <trkpt lat="37.1524864" lon="-121.5341519"/>
+    </trkseg>
+  </trk>
+</gpx>

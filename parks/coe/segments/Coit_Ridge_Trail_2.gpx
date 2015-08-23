@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Ridge Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89561</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Coit Ridge Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Ridge Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.1468617" lon="-121.4231865"/>
+      <trkpt lat="37.1470456" lon="-121.4229106"/>
+      <trkpt lat="37.1470613" lon="-121.4225794"/>
+      <trkpt lat="37.1476158" lon="-121.4221381"/>
+      <trkpt lat="37.1480388" lon="-121.4221381"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>McCalister Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89623</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>McCalister Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>McCalister Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.2018389" lon="-121.4321082"/>
+      <trkpt lat="37.2020088" lon="-121.4320782"/>
+      <trkpt lat="37.2024184" lon="-121.4316086"/>
+      <trkpt lat="37.2031478" lon="-121.4317585"/>
+      <trkpt lat="37.2034875" lon="-121.4316685"/>
+      <trkpt lat="37.2041969" lon="-121.4317884"/>
+      <trkpt lat="37.2045366" lon="-121.4315187"/>
+      <trkpt lat="37.2046665" lon="-121.4313888"/>
+      <trkpt lat="37.2050562" lon="-121.4319183"/>
+      <trkpt lat="37.2054758" lon="-121.4319683"/>
+      <trkpt lat="37.2057656" lon="-121.4318084"/>
+      <trkpt lat="37.2069745" lon="-121.4314987"/>
+      <trkpt lat="37.2074142" lon="-121.4312489"/>
+      <trkpt lat="37.207594" lon="-121.4309192"/>
+      <trkpt lat="37.2078638" lon="-121.4307293"/>
+      <trkpt lat="37.2081735" lon="-121.4306694"/>
+      <trkpt lat="37.2082734" lon="-121.4309292"/>
+      <trkpt lat="37.2086631" lon="-121.4310491"/>
+      <trkpt lat="37.2094724" lon="-121.42997"/>
+    </trkseg>
+  </trk>
+</gpx>

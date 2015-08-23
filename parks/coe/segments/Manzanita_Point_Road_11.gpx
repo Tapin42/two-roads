@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Manzanita Point Road 11</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89937</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Manzanita Point Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Manzanita Point Road 11</name>
+    <trkseg>
+      <trkpt lat="37.176365" lon="-121.5190162"/>
+      <trkpt lat="37.176194" lon="-121.5187931"/>
+      <trkpt lat="37.1760104" lon="-121.5185565"/>
+      <trkpt lat="37.1757582" lon="-121.5183794"/>
+      <trkpt lat="37.1755274" lon="-121.5181756"/>
+      <trkpt lat="37.175388" lon="-121.5180173"/>
+    </trkseg>
+  </trk>
+</gpx>

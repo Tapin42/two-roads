@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cross Canyon Trail 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89804</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Cross Canyon Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cross Canyon Trail 6</name>
+    <trkseg>
+      <trkpt lat="37.1383318" lon="-121.4457828"/>
+      <trkpt lat="37.1378785" lon="-121.445713"/>
+      <trkpt lat="37.1375045" lon="-121.4455497"/>
+      <trkpt lat="37.1372257" lon="-121.4455468"/>
+      <trkpt lat="37.1370119" lon="-121.4454295"/>
+      <trkpt lat="37.1368408" lon="-121.4453866"/>
+      <trkpt lat="37.1365723" lon="-121.4455301"/>
+      <trkpt lat="37.1363429" lon="-121.4458219"/>
+      <trkpt lat="37.1360792" lon="-121.4459481"/>
+      <trkpt lat="37.1357582" lon="-121.4460627"/>
+      <trkpt lat="37.135458" lon="-121.4460295"/>
+      <trkpt lat="37.1352912" lon="-121.44611"/>
+      <trkpt lat="37.1350969" lon="-121.4463187"/>
+      <trkpt lat="37.1350199" lon="-121.4463777"/>
+      <trkpt lat="37.1349213" lon="-121.4463264"/>
+      <trkpt lat="37.1346649" lon="-121.4460987"/>
+      <trkpt lat="37.1346112" lon="-121.4460993"/>
+    </trkseg>
+  </trk>
+</gpx>

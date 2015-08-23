@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 15</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89721</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Wagon Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 15</name>
+    <trkseg>
+      <trkpt lat="37.0804292" lon="-121.4133338"/>
+      <trkpt lat="37.0815607" lon="-121.4145184"/>
+      <trkpt lat="37.0819733" lon="-121.4147002"/>
+    </trkseg>
+  </trk>
+</gpx>

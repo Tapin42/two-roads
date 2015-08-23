@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mahoney Meadows Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89911</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Mahoney Meadows Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mahoney Meadows Road 6</name>
+    <trkseg>
+      <trkpt lat="37.1625623" lon="-121.4822608"/>
+      <trkpt lat="37.16234" lon="-121.4821911"/>
+      <trkpt lat="37.1618338" lon="-121.4819692"/>
+      <trkpt lat="37.1616491" lon="-121.4819091"/>
+      <trkpt lat="37.160972" lon="-121.4813941"/>
+      <trkpt lat="37.1603905" lon="-121.4808276"/>
+      <trkpt lat="37.1601169" lon="-121.4806646"/>
+      <trkpt lat="37.1597792" lon="-121.4806407"/>
+      <trkpt lat="37.1596339" lon="-121.4806568"/>
+      <trkpt lat="37.1592491" lon="-121.4808607"/>
+      <trkpt lat="37.158518" lon="-121.4811665"/>
+      <trkpt lat="37.1580819" lon="-121.4813006"/>
+      <trkpt lat="37.1578981" lon="-121.4814347"/>
+      <trkpt lat="37.1576715" lon="-121.4817619"/>
+      <trkpt lat="37.1575604" lon="-121.4819497"/>
+      <trkpt lat="37.1573876" lon="-121.4820722"/>
+      <trkpt lat="37.1572234" lon="-121.4821237"/>
+      <trkpt lat="37.1570473" lon="-121.4821964"/>
+      <trkpt lat="37.1567438" lon="-121.482175"/>
+      <trkpt lat="37.1565531" lon="-121.4821237"/>
+      <trkpt lat="37.1564162" lon="-121.4819949"/>
+      <trkpt lat="37.1563068" lon="-121.4818662"/>
+      <trkpt lat="37.1561623" lon="-121.4818156"/>
+      <trkpt lat="37.1558485" lon="-121.4817975"/>
+      <trkpt lat="37.1556749" lon="-121.4817834"/>
+      <trkpt lat="37.1550251" lon="-121.4818799"/>
+      <trkpt lat="37.1548113" lon="-121.4818477"/>
+      <trkpt lat="37.1545462" lon="-121.4816224"/>
+      <trkpt lat="37.1542409" lon="-121.4814542"/>
+      <trkpt lat="37.1540972" lon="-121.4813426"/>
+      <trkpt lat="37.1539946" lon="-121.4811795"/>
+      <trkpt lat="37.153892" lon="-121.4810109"/>
+      <trkpt lat="37.1536663" lon="-121.480759"/>
+      <trkpt lat="37.153461" lon="-121.4805272"/>
+      <trkpt lat="37.1533174" lon="-121.4799522"/>
+      <trkpt lat="37.1532037" lon="-121.4796966"/>
+      <trkpt lat="37.1529617" lon="-121.4793256"/>
+      <trkpt lat="37.1527975" lon="-121.4791282"/>
+      <trkpt lat="37.1525375" lon="-121.479008"/>
+      <trkpt lat="37.152346" lon="-121.4788707"/>
+      <trkpt lat="37.1521271" lon="-121.4786304"/>
+    </trkseg>
+  </trk>
+</gpx>

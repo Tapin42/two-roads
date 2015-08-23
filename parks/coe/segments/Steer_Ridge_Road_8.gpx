@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Steer Ridge Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89758</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Steer Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Steer Ridge Road 8</name>
+    <trkseg>
+      <trkpt lat="37.0941291" lon="-121.4334703"/>
+      <trkpt lat="37.0938394" lon="-121.433115"/>
+      <trkpt lat="37.0937323" lon="-121.4329112"/>
+      <trkpt lat="37.0935836" lon="-121.4325851"/>
+      <trkpt lat="37.0935174" lon="-121.4321603"/>
+    </trkseg>
+  </trk>
+</gpx>

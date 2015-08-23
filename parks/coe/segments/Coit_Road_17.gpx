@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Road 17</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89682</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Coit Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Road 17</name>
+    <trkseg>
+      <trkpt lat="37.1480388" lon="-121.4221381"/>
+      <trkpt lat="37.1483174" lon="-121.4222569"/>
+      <trkpt lat="37.148729" lon="-121.4221741"/>
+      <trkpt lat="37.1490883" lon="-121.4214778"/>
+      <trkpt lat="37.1493947" lon="-121.4211691"/>
+      <trkpt lat="37.1497618" lon="-121.4204999"/>
+      <trkpt lat="37.149886" lon="-121.4200267"/>
+      <trkpt lat="37.1500444" lon="-121.4195795"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Center Flats Road 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89953</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Center Flats Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Center Flats Road 3</name>
+    <trkseg>
+      <trkpt lat="37.1126368" lon="-121.4046905"/>
+      <trkpt lat="37.1120829" lon="-121.4045465"/>
+      <trkpt lat="37.1116103" lon="-121.4043555"/>
+      <trkpt lat="37.1114966" lon="-121.4042398"/>
+      <trkpt lat="37.111407" lon="-121.4039349"/>
+      <trkpt lat="37.1112872" lon="-121.4031946"/>
+      <trkpt lat="37.1109022" lon="-121.4023149"/>
+      <trkpt lat="37.1108867" lon="-121.4020184"/>
+      <trkpt lat="37.1109762" lon="-121.4017735"/>
+      <trkpt lat="37.111027" lon="-121.4015818"/>
+      <trkpt lat="37.1112626" lon="-121.4013018"/>
+      <trkpt lat="37.1112857" lon="-121.4011332"/>
+      <trkpt lat="37.1112274" lon="-121.4008558"/>
+      <trkpt lat="37.11133" lon="-121.4002228"/>
+      <trkpt lat="37.1112177" lon="-121.3992519"/>
+      <trkpt lat="37.1109762" lon="-121.398965"/>
+      <trkpt lat="37.1109154" lon="-121.3983702"/>
+      <trkpt lat="37.110795" lon="-121.3982402"/>
+      <trkpt lat="37.1103757" lon="-121.3978481"/>
+      <trkpt lat="37.1100853" lon="-121.3975154"/>
+      <trkpt lat="37.1098413" lon="-121.3969826"/>
+      <trkpt lat="37.1097697" lon="-121.3967029"/>
+      <trkpt lat="37.1098286" lon="-121.3963829"/>
+      <trkpt lat="37.1098755" lon="-121.3960385"/>
+      <trkpt lat="37.1101664" lon="-121.3958883"/>
+      <trkpt lat="37.1105635" lon="-121.395404"/>
+      <trkpt lat="37.1109621" lon="-121.3949764"/>
+      <trkpt lat="37.1111592" lon="-121.3946914"/>
+      <trkpt lat="37.1112538" lon="-121.3944722"/>
+      <trkpt lat="37.1116214" lon="-121.3943161"/>
+      <trkpt lat="37.1117658" lon="-121.3941238"/>
+      <trkpt lat="37.1118672" lon="-121.3940443"/>
+      <trkpt lat="37.1119849" lon="-121.3940442"/>
+      <trkpt lat="37.1121205" lon="-121.39411"/>
+      <trkpt lat="37.1123434" lon="-121.3943895"/>
+      <trkpt lat="37.1124648" lon="-121.3944814"/>
+      <trkpt lat="37.1125711" lon="-121.3944521"/>
+      <trkpt lat="37.1127421" lon="-121.3942913"/>
+      <trkpt lat="37.1130738" lon="-121.3938565"/>
+      <trkpt lat="37.1134591" lon="-121.3935549"/>
+      <trkpt lat="37.1134775" lon="-121.3932919"/>
+      <trkpt lat="37.1135288" lon="-121.3930237"/>
+      <trkpt lat="37.113588" lon="-121.392741"/>
+      <trkpt lat="37.1140422" lon="-121.3919401"/>
+      <trkpt lat="37.1142352" lon="-121.3914657"/>
+      <trkpt lat="37.1143846" lon="-121.3908007"/>
+      <trkpt lat="37.1145987" lon="-121.3906561"/>
+      <trkpt lat="37.1149733" lon="-121.3905804"/>
+      <trkpt lat="37.1152218" lon="-121.3903549"/>
+      <trkpt lat="37.1155935" lon="-121.3900497"/>
+      <trkpt lat="37.1156748" lon="-121.3898971"/>
+      <trkpt lat="37.1157004" lon="-121.3896287"/>
+      <trkpt lat="37.1156078" lon="-121.389097"/>
+      <trkpt lat="37.1155973" lon="-121.3888155"/>
+      <trkpt lat="37.1156506" lon="-121.3885498"/>
+      <trkpt lat="37.1156934" lon="-121.3879168"/>
+      <trkpt lat="37.1157478" lon="-121.3877592"/>
+      <trkpt lat="37.1158586" lon="-121.3876656"/>
+    </trkseg>
+  </trk>
+</gpx>

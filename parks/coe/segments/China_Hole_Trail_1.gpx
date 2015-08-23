@@ -4,7 +4,7 @@
     <name>China Hole Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347507</twr:id>
+    <twr:id>-89865</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -156,15 +156,6 @@
       <trkpt lat="37.1723406" lon="-121.4951501"/>
       <trkpt lat="37.1722673" lon="-121.495245"/>
       <trkpt lat="37.1722716" lon="-121.4953786"/>
-      <trkpt lat="37.172256" lon="-121.4955122"/>
-      <trkpt lat="37.1721701" lon="-121.4957035"/>
-      <trkpt lat="37.1720889" lon="-121.4958483"/>
-      <trkpt lat="37.1719564" lon="-121.4959234"/>
-      <trkpt lat="37.1719564" lon="-121.4960361"/>
-      <trkpt lat="37.1720461" lon="-121.4959878"/>
-      <trkpt lat="37.1721487" lon="-121.495961"/>
-      <trkpt lat="37.1722299" lon="-121.4959932"/>
-      <trkpt lat="37.1723528" lon="-121.4960487"/>
     </trkseg>
   </trk>
 </gpx>

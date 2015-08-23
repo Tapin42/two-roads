@@ -4,7 +4,7 @@
     <name>Steer Ridge Road 2</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347019</twr:id>
+    <twr:id>-89856</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -18,7 +18,6 @@
   <trk>
     <name>Steer Ridge Road 2</name>
     <trkseg>
-      <trkpt lat="37.0856604" lon="-121.4240134"/>
       <trkpt lat="37.0854923" lon="-121.4235482"/>
       <trkpt lat="37.0854056" lon="-121.4232017"/>
       <trkpt lat="37.0854498" lon="-121.4229914"/>

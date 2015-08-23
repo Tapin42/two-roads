@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Bear Mountain Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89998</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Bear Mountain Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Bear Mountain Road 2</name>
+    <trkseg>
+      <trkpt lat="37.22792" lon="-121.442774"/>
+      <trkpt lat="37.2278099" lon="-121.442848"/>
+      <trkpt lat="37.2277205" lon="-121.443135"/>
+      <trkpt lat="37.227587" lon="-121.4433766"/>
+      <trkpt lat="37.2274772" lon="-121.4435123"/>
+      <trkpt lat="37.2270047" lon="-121.4437963"/>
+      <trkpt lat="37.2269704" lon="-121.4439153"/>
+      <trkpt lat="37.2269839" lon="-121.4439998"/>
+      <trkpt lat="37.2271547" lon="-121.4443137"/>
+      <trkpt lat="37.2272211" lon="-121.4447445"/>
+      <trkpt lat="37.2272169" lon="-121.4448726"/>
+      <trkpt lat="37.2271541" lon="-121.4449719"/>
+      <trkpt lat="37.227011" lon="-121.4451543"/>
+      <trkpt lat="37.2269341" lon="-121.445283"/>
+      <trkpt lat="37.2268986" lon="-121.4453926"/>
+    </trkseg>
+  </trk>
+</gpx>

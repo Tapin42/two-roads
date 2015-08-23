@@ -4,51 +4,28 @@
     <name>Unnamed path 5</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347463</twr:id>
+    <twr:id>-347455</twr:id>
     <attrs>
-      <twr:bicycle>yes</twr:bicycle>
-      <twr:foot>yes</twr:foot>
+      <twr:foot>permissive</twr:foot>
       <twr:highway>path</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 5</name>
     <trkseg>
-      <trkpt lat="37.144806" lon="-121.3647854"/>
-      <trkpt lat="37.1443695" lon="-121.3642923"/>
-      <trkpt lat="37.1441455" lon="-121.3639256"/>
-      <trkpt lat="37.1442066" lon="-121.3633146"/>
-      <trkpt lat="37.1438603" lon="-121.3627646"/>
-      <trkpt lat="37.1439825" lon="-121.3623368"/>
-      <trkpt lat="37.1436973" lon="-121.362072"/>
-      <trkpt lat="37.1437177" lon="-121.3618072"/>
-      <trkpt lat="37.144064" lon="-121.3618072"/>
-      <trkpt lat="37.1443288" lon="-121.3610536"/>
-      <trkpt lat="37.1439214" lon="-121.3609314"/>
-      <trkpt lat="37.1441251" lon="-121.3607481"/>
-      <trkpt lat="37.1444714" lon="-121.3607277"/>
-      <trkpt lat="37.1445936" lon="-121.3604222"/>
-      <trkpt lat="37.1443084" lon="-121.3600963"/>
-      <trkpt lat="37.1441251" lon="-121.3594852"/>
-      <trkpt lat="37.1439825" lon="-121.3590574"/>
-      <trkpt lat="37.1443492" lon="-121.358426"/>
-      <trkpt lat="37.1448584" lon="-121.3580797"/>
-      <trkpt lat="37.1447565" lon="-121.3578149"/>
-      <trkpt lat="37.1445121" lon="-121.3575298"/>
-      <trkpt lat="37.1447362" lon="-121.3571427"/>
-      <trkpt lat="37.1450824" lon="-121.3574075"/>
-      <trkpt lat="37.1453065" lon="-121.3578557"/>
-      <trkpt lat="37.145999" lon="-121.357652"/>
-      <trkpt lat="37.146936" lon="-121.3583241"/>
-      <trkpt lat="37.1476286" lon="-121.358426"/>
-      <trkpt lat="37.1487081" lon="-121.3585075"/>
-      <trkpt lat="37.1487285" lon="-121.3589556"/>
-      <trkpt lat="37.1491359" lon="-121.3598722"/>
-      <trkpt lat="37.1496247" lon="-121.3596074"/>
-      <trkpt lat="37.1498692" lon="-121.3597703"/>
-      <trkpt lat="37.1496044" lon="-121.3600963"/>
-      <trkpt lat="37.1497266" lon="-121.3607684"/>
-      <trkpt lat="37.1500117" lon="-121.3615425"/>
+      <trkpt lat="37.1126368" lon="-121.4046905"/>
+      <trkpt lat="37.1123909" lon="-121.4049005"/>
+      <trkpt lat="37.1125022" lon="-121.4054155"/>
+      <trkpt lat="37.1125877" lon="-121.4059841"/>
+      <trkpt lat="37.1127931" lon="-121.4062846"/>
+      <trkpt lat="37.1129984" lon="-121.4065313"/>
+      <trkpt lat="37.1129556" lon="-121.4068746"/>
+      <trkpt lat="37.1127674" lon="-121.4070463"/>
+      <trkpt lat="37.1122968" lon="-121.407175"/>
+      <trkpt lat="37.1116979" lon="-121.4074218"/>
+      <trkpt lat="37.1114498" lon="-121.4075506"/>
+      <trkpt lat="37.1110049" lon="-121.4076257"/>
+      <trkpt lat="37.1107996" lon="-121.407808"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Live Oak Spring Trail 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89920</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Live Oak Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Live Oak Spring Trail 6</name>
+    <trkseg>
+      <trkpt lat="37.1401236" lon="-121.4159941"/>
+      <trkpt lat="37.1401493" lon="-121.4161497"/>
+      <trkpt lat="37.140269" lon="-121.4163106"/>
+      <trkpt lat="37.1404571" lon="-121.4163267"/>
+      <trkpt lat="37.1405769" lon="-121.4163911"/>
+      <trkpt lat="37.1409104" lon="-121.4167398"/>
+      <trkpt lat="37.1408848" lon="-121.4170617"/>
+      <trkpt lat="37.1410088" lon="-121.417287"/>
+      <trkpt lat="37.1411585" lon="-121.4174264"/>
+      <trkpt lat="37.1413081" lon="-121.4174801"/>
+      <trkpt lat="37.1415433" lon="-121.4177"/>
+    </trkseg>
+  </trk>
+</gpx>

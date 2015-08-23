@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Blue Ridge Road 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89985</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Blue Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Blue Ridge Road 9</name>
+    <trkseg>
+      <trkpt lat="37.1910146" lon="-121.4690767"/>
+      <trkpt lat="37.1912334" lon="-121.4689224"/>
+      <trkpt lat="37.1916915" lon="-121.4688108"/>
+      <trkpt lat="37.1921906" lon="-121.4686821"/>
+      <trkpt lat="37.1927308" lon="-121.468622"/>
+      <trkpt lat="37.1931479" lon="-121.4687422"/>
+      <trkpt lat="37.1936265" lon="-121.4688022"/>
+      <trkpt lat="37.1940846" lon="-121.4692486"/>
+      <trkpt lat="37.1945632" lon="-121.4695318"/>
+      <trkpt lat="37.1949255" lon="-121.4695146"/>
+      <trkpt lat="37.195199" lon="-121.4693001"/>
+      <trkpt lat="37.1954793" lon="-121.4691627"/>
+      <trkpt lat="37.195787" lon="-121.4691713"/>
+      <trkpt lat="37.1960605" lon="-121.4690597"/>
+      <trkpt lat="37.1964775" lon="-121.469034"/>
+    </trkseg>
+  </trk>
+</gpx>

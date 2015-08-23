@@ -4,21 +4,20 @@
     <name>Unnamed path 13</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347323</twr:id>
+    <twr:id>-347315</twr:id>
     <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 13</name>
     <trkseg>
-      <trkpt lat="37.0650015" lon="-121.4459731"/>
-      <trkpt lat="37.0648748" lon="-121.445743"/>
-      <trkpt lat="37.0647787" lon="-121.4456063"/>
-      <trkpt lat="37.0643837" lon="-121.4451562"/>
-      <trkpt lat="37.0641405" lon="-121.4449645"/>
-      <trkpt lat="37.0637913" lon="-121.4443598"/>
-      <trkpt lat="37.0635476" lon="-121.4431923"/>
+      <trkpt lat="37.1447362" lon="-121.3571427"/>
+      <trkpt lat="37.1445121" lon="-121.3565928"/>
+      <trkpt lat="37.1444103" lon="-121.3561039"/>
+      <trkpt lat="37.1441455" lon="-121.3556354"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Tule Pond Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89748</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Tule Pond Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Tule Pond Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.1045557" lon="-121.4217865"/>
+      <trkpt lat="37.10477" lon="-121.4215597"/>
+      <trkpt lat="37.1049685" lon="-121.4213709"/>
+      <trkpt lat="37.1052491" lon="-121.4213108"/>
+      <trkpt lat="37.1056667" lon="-121.4214653"/>
+      <trkpt lat="37.1060021" lon="-121.4213794"/>
+      <trkpt lat="37.1063717" lon="-121.4214309"/>
+      <trkpt lat="37.1066935" lon="-121.4214739"/>
+      <trkpt lat="37.1069604" lon="-121.4214653"/>
+      <trkpt lat="37.1071863" lon="-121.4215511"/>
+      <trkpt lat="37.1075003" lon="-121.4218814"/>
+    </trkseg>
+  </trk>
+</gpx>

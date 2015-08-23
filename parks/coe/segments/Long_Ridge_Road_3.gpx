@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Long Ridge Road 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89593</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Long Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Long Ridge Road 3</name>
+    <trkseg>
+      <trkpt lat="37.22054" lon="-121.3515814"/>
+      <trkpt lat="37.2213324" lon="-121.3520617"/>
+      <trkpt lat="37.2216205" lon="-121.3526139"/>
+      <trkpt lat="37.2214524" lon="-121.3529741"/>
+      <trkpt lat="37.2217646" lon="-121.3536704"/>
+      <trkpt lat="37.2217166" lon="-121.3539346"/>
+      <trkpt lat="37.2214765" lon="-121.3543187"/>
+      <trkpt lat="37.2216712" lon="-121.3545251"/>
+      <trkpt lat="37.22226" lon="-121.3537739"/>
+      <trkpt lat="37.2225914" lon="-121.3533644"/>
+      <trkpt lat="37.2229107" lon="-121.3533644"/>
+      <trkpt lat="37.2232985" lon="-121.3531249"/>
+      <trkpt lat="37.2242337" lon="-121.3529538"/>
+      <trkpt lat="37.2246899" lon="-121.3526915"/>
+      <trkpt lat="37.2249408" lon="-121.3527029"/>
+      <trkpt lat="37.2250549" lon="-121.3527942"/>
+      <trkpt lat="37.2250777" lon="-121.3534329"/>
+      <trkpt lat="37.2250777" lon="-121.3537864"/>
+      <trkpt lat="37.225226" lon="-121.3541286"/>
+      <trkpt lat="37.2251803" lon="-121.3544593"/>
+      <trkpt lat="37.2248952" lon="-121.354619"/>
+      <trkpt lat="37.224496" lon="-121.3548015"/>
+      <trkpt lat="37.2239486" lon="-121.3559648"/>
+      <trkpt lat="37.2232857" lon="-121.3579459"/>
+      <trkpt lat="37.222843" lon="-121.3595124"/>
+      <trkpt lat="37.2226386" lon="-121.3609541"/>
+      <trkpt lat="37.2229111" lon="-121.3618169"/>
+      <trkpt lat="37.2235695" lon="-121.3626909"/>
+      <trkpt lat="37.2237852" lon="-121.3634061"/>
+      <trkpt lat="37.2241711" lon="-121.3640759"/>
+      <trkpt lat="37.2240463" lon="-121.3645527"/>
+      <trkpt lat="37.2239555" lon="-121.3647683"/>
+      <trkpt lat="37.2240917" lon="-121.3650067"/>
+    </trkseg>
+  </trk>
+</gpx>

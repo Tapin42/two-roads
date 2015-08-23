@@ -4,22 +4,34 @@
     <name>Unnamed path 8</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347417</twr:id>
+    <twr:id>-347405</twr:id>
     <attrs>
-      <twr:bicycle>yes</twr:bicycle>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 8</name>
     <trkseg>
-      <trkpt lat="37.1007402" lon="-121.4719625"/>
-      <trkpt lat="37.1009626" lon="-121.4718391"/>
-      <trkpt lat="37.1013092" lon="-121.4718069"/>
-      <trkpt lat="37.1015959" lon="-121.4717211"/>
-      <trkpt lat="37.1017199" lon="-121.4716192"/>
-      <trkpt lat="37.1019253" lon="-121.4716514"/>
-      <trkpt lat="37.102066" lon="-121.4717191"/>
+      <trkpt lat="37.262204" lon="-121.4217751"/>
+      <trkpt lat="37.2618625" lon="-121.4222472"/>
+      <trkpt lat="37.2612135" lon="-121.422376"/>
+      <trkpt lat="37.2605167" lon="-121.4219296"/>
+      <trkpt lat="37.2601547" lon="-121.421861"/>
+      <trkpt lat="37.2598814" lon="-121.4225047"/>
+      <trkpt lat="37.2595877" lon="-121.4227193"/>
+      <trkpt lat="37.2586723" lon="-121.4224189"/>
+      <trkpt lat="37.2580848" lon="-121.422273"/>
+      <trkpt lat="37.2579003" lon="-121.421964"/>
+      <trkpt lat="37.2576271" lon="-121.4214318"/>
+      <trkpt lat="37.2569918" lon="-121.4210885"/>
+      <trkpt lat="37.2567048" lon="-121.4204877"/>
+      <trkpt lat="37.2564452" lon="-121.4195607"/>
+      <trkpt lat="37.2562608" lon="-121.4191573"/>
+      <trkpt lat="37.2563633" lon="-121.4187539"/>
+      <trkpt lat="37.25609" lon="-121.4182733"/>
+      <trkpt lat="37.2557826" lon="-121.4178301"/>
     </trkseg>
   </trk>
 </gpx>

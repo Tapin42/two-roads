@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 12</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89724</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Wagon Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 12</name>
+    <trkseg>
+      <trkpt lat="37.0488913" lon="-121.4261139"/>
+      <trkpt lat="37.0489665" lon="-121.4260382"/>
+      <trkpt lat="37.0490646" lon="-121.4259609"/>
+      <trkpt lat="37.049112" lon="-121.4258382"/>
+      <trkpt lat="37.0491205" lon="-121.42559"/>
+      <trkpt lat="37.0491856" lon="-121.425497"/>
+      <trkpt lat="37.049277" lon="-121.4254833"/>
+      <trkpt lat="37.0494568" lon="-121.425612"/>
+      <trkpt lat="37.0496505" lon="-121.4261601"/>
+      <trkpt lat="37.0497042" lon="-121.4264367"/>
+      <trkpt lat="37.0498423" lon="-121.4266399"/>
+      <trkpt lat="37.0503131" lon="-121.4268351"/>
+      <trkpt lat="37.0507848" lon="-121.4273702"/>
+      <trkpt lat="37.0509309" lon="-121.427375"/>
+      <trkpt lat="37.0512058" lon="-121.427175"/>
+      <trkpt lat="37.0512892" lon="-121.4272106"/>
+      <trkpt lat="37.0516488" lon="-121.4276183"/>
+      <trkpt lat="37.0517857" lon="-121.4275514"/>
+      <trkpt lat="37.0519571" lon="-121.4266313"/>
+      <trkpt lat="37.0519304" lon="-121.4262945"/>
+      <trkpt lat="37.0517549" lon="-121.4258116"/>
+      <trkpt lat="37.051743" lon="-121.425491"/>
+      <trkpt lat="37.0517858" lon="-121.4252794"/>
+      <trkpt lat="37.0520817" lon="-121.4245473"/>
+      <trkpt lat="37.0524958" lon="-121.4238294"/>
+      <trkpt lat="37.0525224" lon="-121.4234223"/>
+      <trkpt lat="37.0527033" lon="-121.422627"/>
+      <trkpt lat="37.0528546" lon="-121.4222191"/>
+      <trkpt lat="37.0528957" lon="-121.4218035"/>
+      <trkpt lat="37.0529795" lon="-121.4216009"/>
+      <trkpt lat="37.0532591" lon="-121.4211913"/>
+      <trkpt lat="37.0540292" lon="-121.4193801"/>
+      <trkpt lat="37.0545976" lon="-121.4186917"/>
+      <trkpt lat="37.0550251" lon="-121.4183785"/>
+      <trkpt lat="37.0551264" lon="-121.4181424"/>
+      <trkpt lat="37.0551765" lon="-121.4171577"/>
+      <trkpt lat="37.0553276" lon="-121.4167425"/>
+      <trkpt lat="37.0553572" lon="-121.4162274"/>
+      <trkpt lat="37.0554505" lon="-121.415881"/>
+      <trkpt lat="37.0565023" lon="-121.4142559"/>
+      <trkpt lat="37.0566661" lon="-121.4133717"/>
+      <trkpt lat="37.0568963" lon="-121.412972"/>
+      <trkpt lat="37.056995" lon="-121.4126753"/>
+      <trkpt lat="37.0571035" lon="-121.4126052"/>
+      <trkpt lat="37.0572816" lon="-121.4121274"/>
+      <trkpt lat="37.0575573" lon="-121.4118058"/>
+      <trkpt lat="37.0578177" lon="-121.4115711"/>
+      <trkpt lat="37.0581624" lon="-121.4114803"/>
+      <trkpt lat="37.0583424" lon="-121.4113816"/>
+      <trkpt lat="37.0585265" lon="-121.4111962"/>
+      <trkpt lat="37.0589209" lon="-121.4104008"/>
+      <trkpt lat="37.0587887" lon="-121.4095121"/>
+      <trkpt lat="37.058803" lon="-121.4093736"/>
+      <trkpt lat="37.0589672" lon="-121.40921"/>
+      <trkpt lat="37.0592447" lon="-121.4091273"/>
+    </trkseg>
+  </trk>
+</gpx>

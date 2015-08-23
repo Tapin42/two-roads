@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Manzanita Point Road 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89942</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Manzanita Point Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Manzanita Point Road 6</name>
+    <trkseg>
+      <trkpt lat="37.1847079" lon="-121.5348949"/>
+      <trkpt lat="37.1846121" lon="-121.5348005"/>
+      <trkpt lat="37.1844617" lon="-121.5346975"/>
+      <trkpt lat="37.1842702" lon="-121.5345945"/>
+      <trkpt lat="37.1841225" lon="-121.5345371"/>
+      <trkpt lat="37.1839818" lon="-121.5344034"/>
+      <trkpt lat="37.1839271" lon="-121.5341717"/>
+      <trkpt lat="37.1839476" lon="-121.5339914"/>
+      <trkpt lat="37.1840241" lon="-121.5337791"/>
+      <trkpt lat="37.1841061" lon="-121.5335645"/>
+      <trkpt lat="37.1841677" lon="-121.5333499"/>
+      <trkpt lat="37.1841471" lon="-121.5330667"/>
+      <trkpt lat="37.1841129" lon="-121.5326376"/>
+      <trkpt lat="37.1840719" lon="-121.5323028"/>
+      <trkpt lat="37.1840856" lon="-121.5319337"/>
+      <trkpt lat="37.1840582" lon="-121.5315818"/>
+      <trkpt lat="37.1839146" lon="-121.5312471"/>
+      <trkpt lat="37.1837505" lon="-121.5311183"/>
+      <trkpt lat="37.183518" lon="-121.5309038"/>
+      <trkpt lat="37.1832924" lon="-121.5306978"/>
+      <trkpt lat="37.183053" lon="-121.530406"/>
+      <trkpt lat="37.1828342" lon="-121.5301399"/>
+      <trkpt lat="37.1826427" lon="-121.5298996"/>
+      <trkpt lat="37.1824102" lon="-121.5296077"/>
+      <trkpt lat="37.1822598" lon="-121.5293846"/>
+      <trkpt lat="37.1821154" lon="-121.529027"/>
+      <trkpt lat="37.182007" lon="-121.5285829"/>
+      <trkpt lat="37.1818988" lon="-121.5282666"/>
+      <trkpt lat="37.1816867" lon="-121.5279733"/>
+      <trkpt lat="37.1815582" lon="-121.527617"/>
+      <trkpt lat="37.1813982" lon="-121.5271186"/>
+      <trkpt lat="37.1812682" lon="-121.5267925"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Middle Ridge Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89744</twr:id>
+    <attrs>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Middle Ridge Trail</twr:name>
+      <twr:surface>ground</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Middle Ridge Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.2071927" lon="-121.5421309"/>
+      <trkpt lat="37.2070753" lon="-121.54198"/>
+      <trkpt lat="37.2069755" lon="-121.5417897"/>
+      <trkpt lat="37.2067533" lon="-121.5413981"/>
+      <trkpt lat="37.2066663" lon="-121.5409732"/>
+      <trkpt lat="37.2059372" lon="-121.5399712"/>
+      <trkpt lat="37.2058731" lon="-121.5397942"/>
+      <trkpt lat="37.2058774" lon="-121.539703"/>
+      <trkpt lat="37.2057962" lon="-121.5392738"/>
+      <trkpt lat="37.205698" lon="-121.5391022"/>
+      <trkpt lat="37.2057193" lon="-121.5389252"/>
+      <trkpt lat="37.2056192" lon="-121.5387785"/>
+      <trkpt lat="37.2054672" lon="-121.5386086"/>
+      <trkpt lat="37.2053401" lon="-121.538526"/>
+      <trkpt lat="37.2050182" lon="-121.5382867"/>
+      <trkpt lat="37.2046426" lon="-121.5384048"/>
+      <trkpt lat="37.2046512" lon="-121.5381741"/>
+      <trkpt lat="37.2046762" lon="-121.537999"/>
+      <trkpt lat="37.2045932" lon="-121.5377675"/>
+      <trkpt lat="37.2042068" lon="-121.5375143"/>
+      <trkpt lat="37.2041256" lon="-121.5373856"/>
+      <trkpt lat="37.2041" lon="-121.5372836"/>
+      <trkpt lat="37.204025" lon="-121.5371963"/>
+      <trkpt lat="37.2032884" lon="-121.5366289"/>
+      <trkpt lat="37.2031341" lon="-121.5363154"/>
+      <trkpt lat="37.2030495" lon="-121.5359769"/>
+      <trkpt lat="37.2028865" lon="-121.5357977"/>
+      <trkpt lat="37.2028106" lon="-121.5356484"/>
+      <trkpt lat="37.2026264" lon="-121.5354842"/>
+      <trkpt lat="37.2025063" lon="-121.5352881"/>
+      <trkpt lat="37.2024422" lon="-121.5349501"/>
+      <trkpt lat="37.202314" lon="-121.5347141"/>
+      <trkpt lat="37.2022531" lon="-121.5344887"/>
+      <trkpt lat="37.2021884" lon="-121.5340607"/>
+      <trkpt lat="37.2019893" lon="-121.5337123"/>
+      <trkpt lat="37.2019465" lon="-121.5334642"/>
+      <trkpt lat="37.2020149" lon="-121.5332067"/>
+      <trkpt lat="37.2019495" lon="-121.5329109"/>
+      <trkpt lat="37.2019764" lon="-121.5327883"/>
+      <trkpt lat="37.20184" lon="-121.5324779"/>
+      <trkpt lat="37.201835" lon="-121.5322291"/>
+      <trkpt lat="37.2017156" lon="-121.5321594"/>
+      <trkpt lat="37.2015115" lon="-121.5321544"/>
+      <trkpt lat="37.2010735" lon="-121.5319951"/>
+      <trkpt lat="37.2008826" lon="-121.5317797"/>
+      <trkpt lat="37.2006647" lon="-121.5314525"/>
+      <trkpt lat="37.2006689" lon="-121.5312755"/>
+      <trkpt lat="37.2006091" lon="-121.5311628"/>
+      <trkpt lat="37.2002274" lon="-121.5309847"/>
+      <trkpt lat="37.2000366" lon="-121.5307659"/>
+      <trkpt lat="37.1995413" lon="-121.5304566"/>
+      <trkpt lat="37.1987237" lon="-121.5304787"/>
+      <trkpt lat="37.1985358" lon="-121.5306444"/>
+      <trkpt lat="37.1983259" lon="-121.530545"/>
+      <trkpt lat="37.198138" lon="-121.5305339"/>
+      <trkpt lat="37.1978065" lon="-121.5304013"/>
+      <trkpt lat="37.1976518" lon="-121.5301362"/>
+      <trkpt lat="37.197618" lon="-121.529752"/>
+      <trkpt lat="37.1974557" lon="-121.5295428"/>
+      <trkpt lat="37.1973531" lon="-121.5291512"/>
+      <trkpt lat="37.1972209" lon="-121.528998"/>
+      <trkpt lat="37.1971767" lon="-121.5282135"/>
+      <trkpt lat="37.197101" lon="-121.5280837"/>
+      <trkpt lat="37.1967749" lon="-121.5278187"/>
+    </trkseg>
+  </trk>
+</gpx>

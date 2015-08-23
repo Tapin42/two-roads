@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Grizzly Gulch Trail 6</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89767</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Grizzly Gulch Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Grizzly Gulch Trail 6</name>
+    <trkseg>
+      <trkpt lat="37.1101003" lon="-121.4446261"/>
+      <trkpt lat="37.1102323" lon="-121.4446481"/>
+      <trkpt lat="37.1100954" lon="-121.4446224"/>
+      <trkpt lat="37.1100475" lon="-121.4445451"/>
+      <trkpt lat="37.1100954" lon="-121.4442962"/>
+      <trkpt lat="37.1102939" lon="-121.4440731"/>
+      <trkpt lat="37.1104513" lon="-121.4438757"/>
+      <trkpt lat="37.1105814" lon="-121.4435581"/>
+      <trkpt lat="37.1106841" lon="-121.4433263"/>
+      <trkpt lat="37.1107183" lon="-121.4431118"/>
+      <trkpt lat="37.1107799" lon="-121.4429144"/>
+      <trkpt lat="37.1108757" lon="-121.4427684"/>
+      <trkpt lat="37.1109852" lon="-121.4426569"/>
+      <trkpt lat="37.11104" lon="-121.4425195"/>
+      <trkpt lat="37.1109921" lon="-121.442305"/>
+      <trkpt lat="37.1108757" lon="-121.4421505"/>
+      <trkpt lat="37.1107046" lon="-121.4419445"/>
+      <trkpt lat="37.1105335" lon="-121.4417299"/>
+      <trkpt lat="37.1104308" lon="-121.4416269"/>
+      <trkpt lat="37.1103008" lon="-121.4413866"/>
+      <trkpt lat="37.1101844" lon="-121.4410776"/>
+      <trkpt lat="37.1101981" lon="-121.440966"/>
+      <trkpt lat="37.1102528" lon="-121.4407943"/>
+      <trkpt lat="37.1102939" lon="-121.4406141"/>
+      <trkpt lat="37.1102186" lon="-121.4405111"/>
+      <trkpt lat="37.1100543" lon="-121.4404253"/>
+      <trkpt lat="37.1099654" lon="-121.440348"/>
+    </trkseg>
+  </trk>
+</gpx>

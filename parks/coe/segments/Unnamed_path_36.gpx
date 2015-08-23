@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 36</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89618</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 36</name>
+    <trkseg>
+      <trkpt lat="37.1475952" lon="-121.4777268"/>
+      <trkpt lat="37.1474029" lon="-121.4776407"/>
+      <trkpt lat="37.1471566" lon="-121.4775978"/>
+      <trkpt lat="37.1468967" lon="-121.4776493"/>
+      <trkpt lat="37.1467256" lon="-121.4776664"/>
+      <trkpt lat="37.1465478" lon="-121.4776149"/>
+      <trkpt lat="37.1464698" lon="-121.4775577"/>
+    </trkseg>
+  </trk>
+</gpx>

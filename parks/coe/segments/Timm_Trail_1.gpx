@@ -4,7 +4,7 @@
     <name>Timm Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-346941</twr:id>
+    <twr:id>-89558</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -66,12 +66,6 @@
       <trkpt lat="37.0990283" lon="-121.4693533"/>
       <trkpt lat="37.0992078" lon="-121.4695144"/>
       <trkpt lat="37.0995244" lon="-121.4699221"/>
-      <trkpt lat="37.1001063" lon="-121.470362"/>
-      <trkpt lat="37.1003886" lon="-121.4705229"/>
-      <trkpt lat="37.1006197" lon="-121.4704693"/>
-      <trkpt lat="37.1010475" lon="-121.4699972"/>
-      <trkpt lat="37.1012187" lon="-121.4697504"/>
-      <trkpt lat="37.1012972" lon="-121.4694936"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Rock House Ridge Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89753</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Rock House Ridge Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Rock House Ridge Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.2147292" lon="-121.498141"/>
+      <trkpt lat="37.2148086" lon="-121.4975188"/>
+      <trkpt lat="37.2146233" lon="-121.4971879"/>
+      <trkpt lat="37.2144379" lon="-121.4962613"/>
+      <trkpt lat="37.2142262" lon="-121.4958907"/>
+      <trkpt lat="37.214041" lon="-121.4957294"/>
+      <trkpt lat="37.2140546" lon="-121.4954891"/>
+      <trkpt lat="37.2139931" lon="-121.4952144"/>
+      <trkpt lat="37.2138284" lon="-121.4949828"/>
+    </trkseg>
+  </trk>
+</gpx>

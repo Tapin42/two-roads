@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89830</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>County Line Road</twr:name>
+      <twr:tracktype>grade2</twr:tracktype>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 5</name>
+    <trkseg>
+      <trkpt lat="37.1974378" lon="-121.4130636"/>
+      <trkpt lat="37.1966446" lon="-121.4129314"/>
+      <trkpt lat="37.1957455" lon="-121.4124554"/>
+      <trkpt lat="37.1954018" lon="-121.4125083"/>
+      <trkpt lat="37.1950316" lon="-121.4127992"/>
+      <trkpt lat="37.1946614" lon="-121.4124554"/>
+      <trkpt lat="37.1941325" lon="-121.4119266"/>
+      <trkpt lat="37.1934186" lon="-121.4120852"/>
+      <trkpt lat="37.1924931" lon="-121.4119001"/>
+      <trkpt lat="37.1919643" lon="-121.4122439"/>
+      <trkpt lat="37.1913561" lon="-121.4121381"/>
+      <trkpt lat="37.1904835" lon="-121.4122174"/>
+      <trkpt lat="37.1892936" lon="-121.4127992"/>
+      <trkpt lat="37.1881037" lon="-121.4128785"/>
+      <trkpt lat="37.1874162" lon="-121.4127992"/>
+      <trkpt lat="37.1871518" lon="-121.4123232"/>
+      <trkpt lat="37.186808" lon="-121.4110275"/>
+      <trkpt lat="37.1856446" lon="-121.4101021"/>
+      <trkpt lat="37.1850628" lon="-121.4103136"/>
+      <trkpt lat="37.1846133" lon="-121.4100227"/>
+      <trkpt lat="37.1842431" lon="-121.4098905"/>
+      <trkpt lat="37.1836349" lon="-121.4104722"/>
+      <trkpt lat="37.1835292" lon="-121.4109482"/>
+      <trkpt lat="37.1828945" lon="-121.4115564"/>
+      <trkpt lat="37.1824186" lon="-121.4115299"/>
+      <trkpt lat="37.1813345" lon="-121.4120588"/>
+      <trkpt lat="37.1803637" lon="-121.411984"/>
+      <trkpt lat="37.1795628" lon="-121.412191"/>
+      <trkpt lat="37.1788489" lon="-121.4119001"/>
+      <trkpt lat="37.1781614" lon="-121.4117679"/>
+      <trkpt lat="37.1777912" lon="-121.4122968"/>
+      <trkpt lat="37.1774474" lon="-121.4120323"/>
+      <trkpt lat="37.1765748" lon="-121.412191"/>
+      <trkpt lat="37.1759931" lon="-121.4119001"/>
+      <trkpt lat="37.1755185" lon="-121.4121615"/>
+      <trkpt lat="37.175424" lon="-121.4122917"/>
+      <trkpt lat="37.175265" lon="-121.4123171"/>
+      <trkpt lat="37.1751526" lon="-121.412045"/>
+      <trkpt lat="37.1750799" lon="-121.4112008"/>
+      <trkpt lat="37.1748825" lon="-121.4109482"/>
+      <trkpt lat="37.1741003" lon="-121.410602"/>
+      <trkpt lat="37.1729853" lon="-121.4099401"/>
+      <trkpt lat="37.1718697" lon="-121.4098575"/>
+      <trkpt lat="37.1713075" lon="-121.4092088"/>
+    </trkseg>
+  </trk>
+</gpx>

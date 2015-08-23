@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hobbs Road 11</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89638</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Hobbs Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hobbs Road 11</name>
+    <trkseg>
+      <trkpt lat="37.1932065" lon="-121.5429833"/>
+      <trkpt lat="37.1934012" lon="-121.5430291"/>
+      <trkpt lat="37.19362" lon="-121.543072"/>
+      <trkpt lat="37.1937499" lon="-121.5432094"/>
+      <trkpt lat="37.1939687" lon="-121.5432437"/>
+      <trkpt lat="37.194167" lon="-121.5432351"/>
+      <trkpt lat="37.1944337" lon="-121.5433295"/>
+      <trkpt lat="37.194673" lon="-121.5434926"/>
+      <trkpt lat="37.1948507" lon="-121.5436643"/>
+      <trkpt lat="37.1950285" lon="-121.5437158"/>
+      <trkpt lat="37.1953088" lon="-121.5436214"/>
+      <trkpt lat="37.1954866" lon="-121.543484"/>
+      <trkpt lat="37.1957601" lon="-121.5434583"/>
+      <trkpt lat="37.1960746" lon="-121.5436214"/>
+      <trkpt lat="37.1963617" lon="-121.5437329"/>
+      <trkpt lat="37.1966352" lon="-121.5438874"/>
+      <trkpt lat="37.1969224" lon="-121.5440076"/>
+      <trkpt lat="37.1972095" lon="-121.5440934"/>
+      <trkpt lat="37.1976334" lon="-121.5441964"/>
+      <trkpt lat="37.1979" lon="-121.5442908"/>
+      <trkpt lat="37.1980163" lon="-121.5445226"/>
+      <trkpt lat="37.1982419" lon="-121.5446428"/>
+      <trkpt lat="37.1985154" lon="-121.5447457"/>
+      <trkpt lat="37.1986794" lon="-121.5448316"/>
+      <trkpt lat="37.1988504" lon="-121.5450204"/>
+      <trkpt lat="37.1991375" lon="-121.5451577"/>
+      <trkpt lat="37.1992742" lon="-121.5451148"/>
+      <trkpt lat="37.1994588" lon="-121.5450204"/>
+      <trkpt lat="37.1997528" lon="-121.545029"/>
+      <trkpt lat="37.1999921" lon="-121.5450462"/>
+      <trkpt lat="37.200245" lon="-121.5451148"/>
+      <trkpt lat="37.200416" lon="-121.5452178"/>
+      <trkpt lat="37.2005595" lon="-121.5454496"/>
+      <trkpt lat="37.2007031" lon="-121.5457242"/>
+      <trkpt lat="37.200792" lon="-121.5459989"/>
+      <trkpt lat="37.2008877" lon="-121.5462135"/>
+      <trkpt lat="37.2010039" lon="-121.546222"/>
+      <trkpt lat="37.2010449" lon="-121.5460332"/>
+      <trkpt lat="37.201127" lon="-121.5457757"/>
+      <trkpt lat="37.2012364" lon="-121.5456556"/>
+      <trkpt lat="37.2013731" lon="-121.5456041"/>
+      <trkpt lat="37.2014414" lon="-121.545441"/>
+      <trkpt lat="37.2015577" lon="-121.5453036"/>
+      <trkpt lat="37.2016895" lon="-121.5453152"/>
+      <trkpt lat="37.2016758" lon="-121.545504"/>
+      <trkpt lat="37.2016279" lon="-121.5458817"/>
+      <trkpt lat="37.2015459" lon="-121.5461907"/>
+      <trkpt lat="37.2015459" lon="-121.5465597"/>
+      <trkpt lat="37.2015303" lon="-121.5468143"/>
+    </trkseg>
+  </trk>
+</gpx>

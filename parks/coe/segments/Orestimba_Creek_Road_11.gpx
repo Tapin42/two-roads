@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Orestimba Creek Road 11</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89642</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Orestimba Creek Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Orestimba Creek Road 11</name>
+    <trkseg>
+      <trkpt lat="37.2820866" lon="-121.3547445"/>
+      <trkpt lat="37.2821822" lon="-121.3543154"/>
+      <trkpt lat="37.2829061" lon="-121.3539291"/>
+      <trkpt lat="37.2833158" lon="-121.3534742"/>
+      <trkpt lat="37.2840807" lon="-121.3521009"/>
+      <trkpt lat="37.2839441" lon="-121.3517404"/>
+      <trkpt lat="37.2841148" lon="-121.3514658"/>
+      <trkpt lat="37.2846065" lon="-121.3513113"/>
+      <trkpt lat="37.2853099" lon="-121.3510366"/>
+      <trkpt lat="37.2858357" lon="-121.3501955"/>
+      <trkpt lat="37.2861977" lon="-121.3489509"/>
+      <trkpt lat="37.2863342" lon="-121.3481527"/>
+      <trkpt lat="37.2864025" lon="-121.3474661"/>
+      <trkpt lat="37.2864503" lon="-121.3471227"/>
+      <trkpt lat="37.2867644" lon="-121.3466593"/>
+      <trkpt lat="37.2873244" lon="-121.3469339"/>
+      <trkpt lat="37.2876112" lon="-121.3469167"/>
+      <trkpt lat="37.2879253" lon="-121.3465906"/>
+      <trkpt lat="37.2877683" lon="-121.3460069"/>
+      <trkpt lat="37.2874063" lon="-121.3454319"/>
+      <trkpt lat="37.2874268" lon="-121.3450285"/>
+      <trkpt lat="37.2878024" lon="-121.344462"/>
+      <trkpt lat="37.2878707" lon="-121.3438268"/>
+      <trkpt lat="37.2883829" lon="-121.34193"/>
+      <trkpt lat="37.2887789" lon="-121.3407541"/>
+      <trkpt lat="37.2887789" lon="-121.3403249"/>
+      <trkpt lat="37.2889974" lon="-121.3400074"/>
+    </trkseg>
+  </trk>
+</gpx>

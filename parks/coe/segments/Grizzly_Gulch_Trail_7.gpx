@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Grizzly Gulch Trail 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89766</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Grizzly Gulch Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Grizzly Gulch Trail 7</name>
+    <trkseg>
+      <trkpt lat="37.1099654" lon="-121.440348"/>
+      <trkpt lat="37.109938" lon="-121.4401935"/>
+      <trkpt lat="37.1099517" lon="-121.4400819"/>
+      <trkpt lat="37.1098695" lon="-121.4399875"/>
+      <trkpt lat="37.1098079" lon="-121.4399274"/>
+      <trkpt lat="37.1097463" lon="-121.4397644"/>
+      <trkpt lat="37.1097326" lon="-121.4395155"/>
+      <trkpt lat="37.1097463" lon="-121.4393867"/>
+      <trkpt lat="37.1096642" lon="-121.4393009"/>
+      <trkpt lat="37.1095273" lon="-121.4392236"/>
+      <trkpt lat="37.1094178" lon="-121.4391636"/>
+      <trkpt lat="37.1093356" lon="-121.4390005"/>
+      <trkpt lat="37.1092946" lon="-121.4387516"/>
+      <trkpt lat="37.1092946" lon="-121.4386486"/>
+      <trkpt lat="37.1092124" lon="-121.4385284"/>
+      <trkpt lat="37.108966" lon="-121.4383653"/>
+      <trkpt lat="37.1087333" lon="-121.4382795"/>
+      <trkpt lat="37.1086032" lon="-121.4380392"/>
+      <trkpt lat="37.1084869" lon="-121.4378074"/>
+      <trkpt lat="37.1083842" lon="-121.4376787"/>
+      <trkpt lat="37.1082678" lon="-121.4376358"/>
+      <trkpt lat="37.1081652" lon="-121.4374469"/>
+      <trkpt lat="37.1082268" lon="-121.4372753"/>
+      <trkpt lat="37.1083294" lon="-121.4371208"/>
+      <trkpt lat="37.10835" lon="-121.4370178"/>
+      <trkpt lat="37.1082336" lon="-121.4368805"/>
+      <trkpt lat="37.108083" lon="-121.4368805"/>
+      <trkpt lat="37.1078982" lon="-121.4368375"/>
+      <trkpt lat="37.1078161" lon="-121.4367603"/>
+      <trkpt lat="37.1078161" lon="-121.4365886"/>
+      <trkpt lat="37.1077613" lon="-121.4363311"/>
+      <trkpt lat="37.1076244" lon="-121.4361509"/>
+      <trkpt lat="37.1074396" lon="-121.4359535"/>
+      <trkpt lat="37.1073711" lon="-121.435799"/>
+      <trkpt lat="37.1073027" lon="-121.4354471"/>
+      <trkpt lat="37.1073027" lon="-121.435181"/>
+      <trkpt lat="37.1072958" lon="-121.4349493"/>
+      <trkpt lat="37.1072548" lon="-121.4346231"/>
+      <trkpt lat="37.1071932" lon="-121.4344429"/>
+      <trkpt lat="37.1070631" lon="-121.4343055"/>
+      <trkpt lat="37.1068783" lon="-121.4341339"/>
+      <trkpt lat="37.1067688" lon="-121.4339193"/>
+      <trkpt lat="37.1066798" lon="-121.433679"/>
+      <trkpt lat="37.1065566" lon="-121.4334301"/>
+      <trkpt lat="37.1063991" lon="-121.4331983"/>
+      <trkpt lat="37.1062554" lon="-121.4330524"/>
+      <trkpt lat="37.1061595" lon="-121.432855"/>
+      <trkpt lat="37.1060843" lon="-121.4326061"/>
+      <trkpt lat="37.1060295" lon="-121.4323572"/>
+      <trkpt lat="37.1059131" lon="-121.4321769"/>
+      <trkpt lat="37.1056941" lon="-121.4319967"/>
+      <trkpt lat="37.1055572" lon="-121.4317049"/>
+      <trkpt lat="37.1054545" lon="-121.4314474"/>
+      <trkpt lat="37.105386" lon="-121.4311212"/>
+      <trkpt lat="37.1053518" lon="-121.4309152"/>
+      <trkpt lat="37.1052012" lon="-121.4307436"/>
+      <trkpt lat="37.1048658" lon="-121.4304517"/>
+      <trkpt lat="37.1047084" lon="-121.4301599"/>
+      <trkpt lat="37.1045851" lon="-121.4297222"/>
+      <trkpt lat="37.1044756" lon="-121.4293531"/>
+    </trkseg>
+  </trk>
+</gpx>

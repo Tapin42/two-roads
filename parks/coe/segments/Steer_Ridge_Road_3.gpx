@@ -3,84 +3,22 @@
   <metadata>
     <name>Steer Ridge Road 3</name>
     <twr:source>osm</twr:source>
-    <twr:type>track</twr:type>
-    <twr:id>-346997</twr:id>
+    <twr:type>path</twr:type>
+    <twr:id>-89783</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
-      <twr:highway>track</twr:highway>
-      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:highway>path</twr:highway>
       <twr:name>Steer Ridge Road</twr:name>
-      <twr:surface>unpaved</twr:surface>
     </attrs>
   </metadata>
   <trk>
     <name>Steer Ridge Road 3</name>
     <trkseg>
-      <trkpt lat="37.0949404" lon="-121.4510631"/>
-      <trkpt lat="37.0948258" lon="-121.4506191"/>
-      <trkpt lat="37.094767" lon="-121.4503426"/>
-      <trkpt lat="37.0947401" lon="-121.4498206"/>
-      <trkpt lat="37.094853" lon="-121.4497188"/>
-      <trkpt lat="37.09523" lon="-121.4499119"/>
-      <trkpt lat="37.0957196" lon="-121.4500375"/>
-      <trkpt lat="37.0958868" lon="-121.449779"/>
-      <trkpt lat="37.0959413" lon="-121.4494906"/>
-      <trkpt lat="37.0958661" lon="-121.448861"/>
-      <trkpt lat="37.0958956" lon="-121.4484506"/>
-      <trkpt lat="37.0959918" lon="-121.4481453"/>
-      <trkpt lat="37.0962172" lon="-121.4479328"/>
-      <trkpt lat="37.0962408" lon="-121.4476147"/>
-      <trkpt lat="37.0961175" lon="-121.4472432"/>
-      <trkpt lat="37.0961963" lon="-121.4468317"/>
-      <trkpt lat="37.0961951" lon="-121.4462954"/>
-      <trkpt lat="37.0963496" lon="-121.4455891"/>
-      <trkpt lat="37.0961442" lon="-121.444999"/>
-      <trkpt lat="37.0957349" lon="-121.444472"/>
-      <trkpt lat="37.0956904" lon="-121.4432716"/>
-      <trkpt lat="37.0954762" lon="-121.4420682"/>
-      <trkpt lat="37.0952593" lon="-121.4415913"/>
-      <trkpt lat="37.0951852" lon="-121.4412101"/>
-      <trkpt lat="37.0952452" lon="-121.440652"/>
-      <trkpt lat="37.0952195" lon="-121.440255"/>
-      <trkpt lat="37.0944732" lon="-121.4393062"/>
-      <trkpt lat="37.0941346" lon="-121.4389941"/>
-      <trkpt lat="37.0938658" lon="-121.4384073"/>
-      <trkpt lat="37.0937662" lon="-121.4377769"/>
-      <trkpt lat="37.0935971" lon="-121.437243"/>
-      <trkpt lat="37.0939705" lon="-121.4360404"/>
-      <trkpt lat="37.0940059" lon="-121.4345934"/>
-      <trkpt lat="37.0942327" lon="-121.4340456"/>
-      <trkpt lat="37.0941291" lon="-121.4334703"/>
-      <trkpt lat="37.0938394" lon="-121.433115"/>
-      <trkpt lat="37.0937323" lon="-121.4329112"/>
-      <trkpt lat="37.0935836" lon="-121.4325851"/>
-      <trkpt lat="37.0935174" lon="-121.4321603"/>
-      <trkpt lat="37.0934089" lon="-121.4317156"/>
-      <trkpt lat="37.0932848" lon="-121.4316063"/>
-      <trkpt lat="37.0928945" lon="-121.4315559"/>
-      <trkpt lat="37.0927948" lon="-121.43137"/>
-      <trkpt lat="37.09261" lon="-121.4307099"/>
-      <trkpt lat="37.0921163" lon="-121.4300165"/>
-      <trkpt lat="37.091939" lon="-121.4294739"/>
-      <trkpt lat="37.0911448" lon="-121.4285727"/>
-      <trkpt lat="37.0909736" lon="-121.4282894"/>
-      <trkpt lat="37.0907477" lon="-121.4282379"/>
-      <trkpt lat="37.0903878" lon="-121.4284302"/>
-      <trkpt lat="37.0902411" lon="-121.4284353"/>
-      <trkpt lat="37.0900513" lon="-121.4283829"/>
-      <trkpt lat="37.0896317" lon="-121.4280663"/>
-      <trkpt lat="37.089529" lon="-121.427783"/>
-      <trkpt lat="37.0890429" lon="-121.4272423"/>
-      <trkpt lat="37.0886732" lon="-121.4260578"/>
-      <trkpt lat="37.0881289" lon="-121.4257806"/>
-      <trkpt lat="37.0874881" lon="-121.4253055"/>
-      <trkpt lat="37.0873454" lon="-121.4250988"/>
-      <trkpt lat="37.0869258" lon="-121.4247614"/>
-      <trkpt lat="37.0863492" lon="-121.4245964"/>
-      <trkpt lat="37.0861278" lon="-121.4242831"/>
-      <trkpt lat="37.0857487" lon="-121.4241368"/>
-      <trkpt lat="37.0856604" lon="-121.4240134"/>
+      <trkpt lat="37.0916721" lon="-121.4565125"/>
+      <trkpt lat="37.0918045" lon="-121.4562418"/>
+      <trkpt lat="37.0918227" lon="-121.4560003"/>
+      <trkpt lat="37.0920192" lon="-121.4557489"/>
     </trkseg>
   </trk>
 </gpx>

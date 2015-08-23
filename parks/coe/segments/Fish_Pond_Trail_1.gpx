@@ -4,7 +4,7 @@
     <name>Fish Pond Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347093</twr:id>
+    <twr:id>-89626</twr:id>
     <attrs>
       <twr:highway>path</twr:highway>
       <twr:name>Fish Pond Trail</twr:name>
@@ -15,11 +15,6 @@
     <trkseg>
       <trkpt lat="37.0650884" lon="-121.4461022"/>
       <trkpt lat="37.0650015" lon="-121.4459731"/>
-      <trkpt lat="37.064902" lon="-121.4460035"/>
-      <trkpt lat="37.06479" lon="-121.4459872"/>
-      <trkpt lat="37.0645835" lon="-121.4459861"/>
-      <trkpt lat="37.0645231" lon="-121.4462712"/>
-      <trkpt lat="37.0644067" lon="-121.4465287"/>
     </trkseg>
   </trk>
 </gpx>

@@ -4,28 +4,36 @@
     <name>Unnamed path 15</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347313</twr:id>
+    <twr:id>-347255</twr:id>
     <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 15</name>
     <trkseg>
-      <trkpt lat="37.1475952" lon="-121.4777268"/>
-      <trkpt lat="37.1474584" lon="-121.4779628"/>
-      <trkpt lat="37.1474156" lon="-121.478274"/>
-      <trkpt lat="37.1472703" lon="-121.4788426"/>
-      <trkpt lat="37.1469367" lon="-121.479261"/>
-      <trkpt lat="37.1466973" lon="-121.479422"/>
-      <trkpt lat="37.1463296" lon="-121.4791001"/>
-      <trkpt lat="37.1459049" lon="-121.4789241"/>
-      <trkpt lat="37.1457596" lon="-121.4785647"/>
-      <trkpt lat="37.1456612" lon="-121.4785015"/>
-      <trkpt lat="37.145577" lon="-121.4783276"/>
-      <trkpt lat="37.1451836" lon="-121.4777268"/>
-      <trkpt lat="37.1449612" lon="-121.4774693"/>
-      <trkpt lat="37.1450412" lon="-121.4773255"/>
+      <trkpt lat="37.1033727" lon="-121.4223219"/>
+      <trkpt lat="37.1033737" lon="-121.4225397"/>
+      <trkpt lat="37.1032111" lon="-121.4227329"/>
+      <trkpt lat="37.1033994" lon="-121.422808"/>
+      <trkpt lat="37.1037246" lon="-121.4226792"/>
+      <trkpt lat="37.1038957" lon="-121.4228831"/>
+      <trkpt lat="37.1039984" lon="-121.4239989"/>
+      <trkpt lat="37.1040839" lon="-121.4243529"/>
+      <trkpt lat="37.1038016" lon="-121.4246641"/>
+      <trkpt lat="37.1036732" lon="-121.4244173"/>
+      <trkpt lat="37.1033652" lon="-121.4240847"/>
+      <trkpt lat="37.1032111" lon="-121.4247177"/>
+      <trkpt lat="37.1029459" lon="-121.425222"/>
+      <trkpt lat="37.1027919" lon="-121.425222"/>
+      <trkpt lat="37.1027491" lon="-121.4254043"/>
+      <trkpt lat="37.1029544" lon="-121.425576"/>
+      <trkpt lat="37.102809" lon="-121.4261983"/>
+      <trkpt lat="37.1026464" lon="-121.4260052"/>
+      <trkpt lat="37.1025739" lon="-121.4261676"/>
     </trkseg>
   </trk>
 </gpx>

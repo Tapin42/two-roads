@@ -4,28 +4,21 @@
     <name>Unnamed path 18</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347211</twr:id>
+    <twr:id>-347167</twr:id>
     <attrs>
-      <twr:foot>permissive</twr:foot>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>path</twr:highway>
     </attrs>
   </metadata>
   <trk>
     <name>Unnamed path 18</name>
     <trkseg>
-      <trkpt lat="37.1299441" lon="-121.4142863"/>
-      <trkpt lat="37.1296972" lon="-121.4144707"/>
-      <trkpt lat="37.1292952" lon="-121.414417"/>
-      <trkpt lat="37.1290985" lon="-121.4145779"/>
-      <trkpt lat="37.1289103" lon="-121.4146852"/>
-      <trkpt lat="37.1286066" lon="-121.4147872"/>
-      <trkpt lat="37.1283971" lon="-121.4149856"/>
-      <trkpt lat="37.1282003" lon="-121.4150607"/>
-      <trkpt lat="37.1280285" lon="-121.4149861"/>
-      <trkpt lat="37.1276657" lon="-121.4148944"/>
-      <trkpt lat="37.1273834" lon="-121.4149266"/>
-      <trkpt lat="37.1271097" lon="-121.4150393"/>
-      <trkpt lat="37.126821" lon="-121.4149347"/>
+      <trkpt lat="37.1228443" lon="-121.4567396"/>
+      <trkpt lat="37.1229151" lon="-121.4565226"/>
+      <trkpt lat="37.1229194" lon="-121.4562543"/>
+      <trkpt lat="37.1230263" lon="-121.4559486"/>
+      <trkpt lat="37.1230836" lon="-121.4557925"/>
     </trkseg>
   </trk>
 </gpx>

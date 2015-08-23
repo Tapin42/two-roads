@@ -4,7 +4,7 @@
     <name>Unnamed path 20</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347187</twr:id>
+    <twr:id>-347107</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:highway>path</twr:highway>
@@ -14,20 +14,11 @@
   <trk>
     <name>Unnamed path 20</name>
     <trkseg>
-      <trkpt lat="37.0816543" lon="-121.4170226"/>
-      <trkpt lat="37.0815228" lon="-121.4168499"/>
-      <trkpt lat="37.0815456" lon="-121.4167154"/>
-      <trkpt lat="37.0814169" lon="-121.4165247"/>
-      <trkpt lat="37.0813619" lon="-121.4164138"/>
-      <trkpt lat="37.0813529" lon="-121.4161761"/>
-      <trkpt lat="37.0814373" lon="-121.4158448"/>
-      <trkpt lat="37.0813994" lon="-121.4156288"/>
-      <trkpt lat="37.0815483" lon="-121.4158393"/>
-      <trkpt lat="37.0816586" lon="-121.4162087"/>
-      <trkpt lat="37.0817334" lon="-121.4162182"/>
-      <trkpt lat="37.0818645" lon="-121.4162971"/>
-      <trkpt lat="37.0819699" lon="-121.4162956"/>
-      <trkpt lat="37.0820219" lon="-121.4162617"/>
+      <trkpt lat="37.1133705" lon="-121.4385388"/>
+      <trkpt lat="37.1137247" lon="-121.4383264"/>
+      <trkpt lat="37.1140755" lon="-121.438144"/>
+      <trkpt lat="37.1143578" lon="-121.4380152"/>
+      <trkpt lat="37.114512" lon="-121.4378691"/>
     </trkseg>
   </trk>
 </gpx>

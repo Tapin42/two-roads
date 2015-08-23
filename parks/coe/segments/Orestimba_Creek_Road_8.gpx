@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Orestimba Creek Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89645</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Orestimba Creek Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Orestimba Creek Road 8</name>
+    <trkseg>
+      <trkpt lat="37.25471" lon="-121.3499809"/>
+      <trkpt lat="37.2552907" lon="-121.3495775"/>
+      <trkpt lat="37.2565546" lon="-121.3491483"/>
+      <trkpt lat="37.2568742" lon="-121.3490832"/>
+    </trkseg>
+  </trk>
+</gpx>

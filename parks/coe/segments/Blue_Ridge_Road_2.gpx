@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Blue Ridge Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89992</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Blue Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Blue Ridge Road 2</name>
+    <trkseg>
+      <trkpt lat="37.2231882" lon="-121.5269447"/>
+      <trkpt lat="37.2231609" lon="-121.5267988"/>
+      <trkpt lat="37.2230056" lon="-121.5265265"/>
+      <trkpt lat="37.2228552" lon="-121.5261403"/>
+      <trkpt lat="37.2227595" lon="-121.525488"/>
+      <trkpt lat="37.2226297" lon="-121.5250503"/>
+      <trkpt lat="37.2225545" lon="-121.524767"/>
+    </trkseg>
+  </trk>
+</gpx>

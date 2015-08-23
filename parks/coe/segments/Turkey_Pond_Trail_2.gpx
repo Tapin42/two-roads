@@ -4,7 +4,7 @@
     <name>Turkey Pond Trail 2</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347325</twr:id>
+    <twr:id>-89685</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -26,13 +26,6 @@
       <trkpt lat="37.1662379" lon="-121.4051614"/>
       <trkpt lat="37.1657243" lon="-121.4045504"/>
       <trkpt lat="37.1651021" lon="-121.4034635"/>
-      <trkpt lat="37.16473" lon="-121.4027981"/>
-      <trkpt lat="37.1644465" lon="-121.4016077"/>
-      <trkpt lat="37.1644286" lon="-121.4012252"/>
-      <trkpt lat="37.1642594" lon="-121.4006988"/>
-      <trkpt lat="37.1638975" lon="-121.3999388"/>
-      <trkpt lat="37.1634632" lon="-121.3998664"/>
-      <trkpt lat="37.1632566" lon="-121.3993922"/>
     </trkseg>
   </trk>
 </gpx>

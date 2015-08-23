@@ -4,7 +4,7 @@
     <name>Coit Dam Road 1</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347005</twr:id>
+    <twr:id>-89560</twr:id>
     <attrs>
       <twr:highway>track</twr:highway>
       <twr:name>Coit Dam Road</twr:name>
@@ -26,12 +26,6 @@
       <trkpt lat="37.13734" lon="-121.4291057"/>
       <trkpt lat="37.1374084" lon="-121.4289769"/>
       <trkpt lat="37.1377505" lon="-121.4287795"/>
-      <trkpt lat="37.1382979" lon="-121.4276551"/>
-      <trkpt lat="37.1382979" lon="-121.4274921"/>
-      <trkpt lat="37.138161" lon="-121.4273204"/>
-      <trkpt lat="37.138161" lon="-121.4269942"/>
-      <trkpt lat="37.1379079" lon="-121.4267711"/>
-      <trkpt lat="37.1378121" lon="-121.4265994"/>
     </trkseg>
   </trk>
 </gpx>

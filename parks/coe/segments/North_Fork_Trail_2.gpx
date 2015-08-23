@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>North Fork Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89881</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>North Fork Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>North Fork Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.1295741" lon="-121.3704238"/>
+      <trkpt lat="37.1298276" lon="-121.3709402"/>
+    </trkseg>
+  </trk>
+</gpx>

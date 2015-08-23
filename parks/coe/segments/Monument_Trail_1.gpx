@@ -4,7 +4,7 @@
     <name>Monument Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>footway</twr:type>
-    <twr:id>-347181</twr:id>
+    <twr:id>-89635</twr:id>
     <attrs>
       <twr:bicycle>no</twr:bicycle>
       <twr:highway>footway</twr:highway>
@@ -55,15 +55,6 @@
       <trkpt lat="37.1913576" lon="-121.5448882"/>
       <trkpt lat="37.1914703" lon="-121.5447596"/>
       <trkpt lat="37.1916719" lon="-121.5446569"/>
-      <trkpt lat="37.1917785" lon="-121.5446406"/>
-      <trkpt lat="37.1920434" lon="-121.5445334"/>
-      <trkpt lat="37.1922913" lon="-121.5445119"/>
-      <trkpt lat="37.1926844" lon="-121.5442866"/>
-      <trkpt lat="37.1928041" lon="-121.5441364"/>
-      <trkpt lat="37.1928468" lon="-121.5437394"/>
-      <trkpt lat="37.192787" lon="-121.5433532"/>
-      <trkpt lat="37.1929579" lon="-121.5431279"/>
-      <trkpt lat="37.1932065" lon="-121.5429833"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Orestimba Creek Road 14</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89629</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Orestimba Creek Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Orestimba Creek Road 14</name>
+    <trkseg>
+      <trkpt lat="37.1713526" lon="-121.3955169"/>
+      <trkpt lat="37.1715426" lon="-121.3952265"/>
+      <trkpt lat="37.1716909" lon="-121.3950684"/>
+      <trkpt lat="37.1718974" lon="-121.3950257"/>
+      <trkpt lat="37.172161" lon="-121.395064"/>
+      <trkpt lat="37.1723681" lon="-121.3951496"/>
+      <trkpt lat="37.1728045" lon="-121.3953914"/>
+      <trkpt lat="37.1730206" lon="-121.3953102"/>
+      <trkpt lat="37.1731862" lon="-121.3953684"/>
+      <trkpt lat="37.1733781" lon="-121.3952514"/>
+      <trkpt lat="37.1734626" lon="-121.3951093"/>
+      <trkpt lat="37.1736227" lon="-121.3950545"/>
+      <trkpt lat="37.173925" lon="-121.3951446"/>
+      <trkpt lat="37.1741041" lon="-121.3950281"/>
+      <trkpt lat="37.1741678" lon="-121.3948743"/>
+      <trkpt lat="37.1744498" lon="-121.3945687"/>
+      <trkpt lat="37.1746683" lon="-121.3944774"/>
+      <trkpt lat="37.1749081" lon="-121.3944512"/>
+    </trkseg>
+  </trk>
+</gpx>

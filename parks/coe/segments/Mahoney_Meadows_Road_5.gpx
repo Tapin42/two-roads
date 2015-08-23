@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mahoney Meadows Road 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89912</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Mahoney Meadows Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mahoney Meadows Road 5</name>
+    <trkseg>
+      <trkpt lat="37.1704494" lon="-121.4807228"/>
+      <trkpt lat="37.1702648" lon="-121.4804607"/>
+      <trkpt lat="37.1699502" lon="-121.4799715"/>
+      <trkpt lat="37.1697793" lon="-121.4797827"/>
+      <trkpt lat="37.1693142" lon="-121.4797054"/>
+      <trkpt lat="37.1688764" lon="-121.4795595"/>
+      <trkpt lat="37.1684387" lon="-121.4793621"/>
+      <trkpt lat="37.1677137" lon="-121.4790789"/>
+      <trkpt lat="37.1674059" lon="-121.4791304"/>
+      <trkpt lat="37.1671255" lon="-121.4789244"/>
+      <trkpt lat="37.1668041" lon="-121.4786669"/>
+      <trkpt lat="37.1666741" lon="-121.4784008"/>
+      <trkpt lat="37.1665715" lon="-121.4783665"/>
+      <trkpt lat="37.1663937" lon="-121.4784523"/>
+      <trkpt lat="37.1662022" lon="-121.478624"/>
+      <trkpt lat="37.166038" lon="-121.4790531"/>
+      <trkpt lat="37.1659628" lon="-121.4792076"/>
+      <trkpt lat="37.1658328" lon="-121.4792505"/>
+      <trkpt lat="37.1655866" lon="-121.4792505"/>
+      <trkpt lat="37.1654293" lon="-121.4794136"/>
+      <trkpt lat="37.1651146" lon="-121.4797741"/>
+      <trkpt lat="37.1647726" lon="-121.4799457"/>
+      <trkpt lat="37.1646085" lon="-121.4799286"/>
+      <trkpt lat="37.1643896" lon="-121.4798599"/>
+      <trkpt lat="37.1642665" lon="-121.4798685"/>
+      <trkpt lat="37.1638014" lon="-121.4801689"/>
+      <trkpt lat="37.1636577" lon="-121.4806238"/>
+      <trkpt lat="37.163391" lon="-121.4808899"/>
+      <trkpt lat="37.1629943" lon="-121.4813705"/>
+      <trkpt lat="37.1626865" lon="-121.4819542"/>
+      <trkpt lat="37.1625623" lon="-121.4822608"/>
+    </trkseg>
+  </trk>
+</gpx>

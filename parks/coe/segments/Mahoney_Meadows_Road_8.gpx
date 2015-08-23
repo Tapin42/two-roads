@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mahoney Meadows Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89909</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Mahoney Meadows Road</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mahoney Meadows Road 8</name>
+    <trkseg>
+      <trkpt lat="37.1464698" lon="-121.4775577"/>
+      <trkpt lat="37.1463051" lon="-121.4776776"/>
+      <trkpt lat="37.1461358" lon="-121.4777601"/>
+      <trkpt lat="37.1457767" lon="-121.4777386"/>
+      <trkpt lat="37.1453405" lon="-121.4776045"/>
+      <trkpt lat="37.1450412" lon="-121.4773255"/>
+    </trkseg>
+  </trk>
+</gpx>

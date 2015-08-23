@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Grizzly Gulch Trail 4</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89769</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Grizzly Gulch Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Grizzly Gulch Trail 4</name>
+    <trkseg>
+      <trkpt lat="37.105919" lon="-121.4614637"/>
+      <trkpt lat="37.1058926" lon="-121.461325"/>
+      <trkpt lat="37.1058104" lon="-121.4611362"/>
+      <trkpt lat="37.1057215" lon="-121.4609731"/>
+      <trkpt lat="37.1057351" lon="-121.4607242"/>
+      <trkpt lat="37.1057649" lon="-121.4605936"/>
+      <trkpt lat="37.1057899" lon="-121.4604839"/>
+      <trkpt lat="37.1058994" lon="-121.4604496"/>
+      <trkpt lat="37.1062075" lon="-121.4603552"/>
+      <trkpt lat="37.1064813" lon="-121.4603294"/>
+      <trkpt lat="37.1067414" lon="-121.4601492"/>
+      <trkpt lat="37.1069741" lon="-121.4599603"/>
+      <trkpt lat="37.1072685" lon="-121.4597286"/>
+      <trkpt lat="37.1074943" lon="-121.4595913"/>
+      <trkpt lat="37.1076792" lon="-121.4593938"/>
+      <trkpt lat="37.1077887" lon="-121.4592222"/>
+      <trkpt lat="37.1078914" lon="-121.4589561"/>
+      <trkpt lat="37.1080488" lon="-121.4587587"/>
+      <trkpt lat="37.1082404" lon="-121.4586042"/>
+      <trkpt lat="37.1085006" lon="-121.4583467"/>
+      <trkpt lat="37.1087744" lon="-121.4581836"/>
+      <trkpt lat="37.109055" lon="-121.4580721"/>
+      <trkpt lat="37.1094452" lon="-121.4580721"/>
+      <trkpt lat="37.1100772" lon="-121.458318"/>
+      <trkpt lat="37.109938" lon="-121.4579004"/>
+      <trkpt lat="37.1101776" lon="-121.4577631"/>
+      <trkpt lat="37.1103213" lon="-121.4576858"/>
+      <trkpt lat="37.1105266" lon="-121.4577373"/>
+      <trkpt lat="37.1106909" lon="-121.4577716"/>
+      <trkpt lat="37.1108073" lon="-121.4577116"/>
+      <trkpt lat="37.1109579" lon="-121.4574369"/>
+      <trkpt lat="37.1110058" lon="-121.4573768"/>
+    </trkseg>
+  </trk>
+</gpx>

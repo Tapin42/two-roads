@@ -3,53 +3,23 @@
   <metadata>
     <name>Vasquez Road 3</name>
     <twr:source>osm</twr:source>
-    <twr:type>track</twr:type>
-    <twr:id>-347269</twr:id>
+    <twr:type>path</twr:type>
+    <twr:id>-89791</twr:id>
     <attrs>
-      <twr:foot>yes</twr:foot>
-      <twr:highway>track</twr:highway>
-      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
       <twr:name>Vasquez Road</twr:name>
     </attrs>
   </metadata>
   <trk>
     <name>Vasquez Road 3</name>
     <trkseg>
-      <trkpt lat="37.0819733" lon="-121.4147002"/>
-      <trkpt lat="37.0827436" lon="-121.4145097"/>
-      <trkpt lat="37.0833667" lon="-121.414441"/>
-      <trkpt lat="37.0847019" lon="-121.4135484"/>
-      <trkpt lat="37.0848058" lon="-121.4132205"/>
-      <trkpt lat="37.0851762" lon="-121.4131494"/>
-      <trkpt lat="37.0854526" lon="-121.4128559"/>
-      <trkpt lat="37.0858818" lon="-121.4129089"/>
-      <trkpt lat="37.08622" lon="-121.4133247"/>
-      <trkpt lat="37.086285" lon="-121.4132961"/>
-      <trkpt lat="37.0861972" lon="-121.4129945"/>
-      <trkpt lat="37.0862904" lon="-121.4126128"/>
-      <trkpt lat="37.0866654" lon="-121.4122241"/>
-      <trkpt lat="37.0866944" lon="-121.4120721"/>
-      <trkpt lat="37.0860644" lon="-121.4108876"/>
-      <trkpt lat="37.08596" lon="-121.4106089"/>
-      <trkpt lat="37.0859686" lon="-121.4100551"/>
-      <trkpt lat="37.0854566" lon="-121.409257"/>
-      <trkpt lat="37.0852575" lon="-121.4090612"/>
-      <trkpt lat="37.0851274" lon="-121.4087392"/>
-      <trkpt lat="37.0849285" lon="-121.4084189"/>
-      <trkpt lat="37.084832" lon="-121.4080123"/>
-      <trkpt lat="37.0850374" lon="-121.4074115"/>
-      <trkpt lat="37.0848799" lon="-121.4071454"/>
-      <trkpt lat="37.0845602" lon="-121.4068434"/>
-      <trkpt lat="37.0844609" lon="-121.4065056"/>
-      <trkpt lat="37.0843184" lon="-121.4063214"/>
-      <trkpt lat="37.0837472" lon="-121.4062028"/>
-      <trkpt lat="37.0832571" lon="-121.4060125"/>
-      <trkpt lat="37.0828558" lon="-121.4056189"/>
-      <trkpt lat="37.0823777" lon="-121.4048295"/>
-      <trkpt lat="37.0821457" lon="-121.404276"/>
-      <trkpt lat="37.082115" lon="-121.4037152"/>
-      <trkpt lat="37.0820246" lon="-121.4034633"/>
-      <trkpt lat="37.0817256" lon="-121.4031839"/>
+      <trkpt lat="37.0963539" lon="-121.3850047"/>
+      <trkpt lat="37.0962657" lon="-121.3843137"/>
+      <trkpt lat="37.0970743" lon="-121.3832992"/>
+      <trkpt lat="37.0971478" lon="-121.3830346"/>
+      <trkpt lat="37.097236" lon="-121.3828876"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Timm Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89557</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Timm Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Timm Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.0995244" lon="-121.4699221"/>
+      <trkpt lat="37.1001063" lon="-121.470362"/>
+      <trkpt lat="37.1003886" lon="-121.4705229"/>
+      <trkpt lat="37.1006197" lon="-121.4704693"/>
+      <trkpt lat="37.1010475" lon="-121.4699972"/>
+      <trkpt lat="37.1012187" lon="-121.4697504"/>
+      <trkpt lat="37.1012972" lon="-121.4694936"/>
+    </trkseg>
+  </trk>
+</gpx>

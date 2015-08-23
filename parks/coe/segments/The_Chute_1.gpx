@@ -4,7 +4,7 @@
     <name>The Chute 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-346981</twr:id>
+    <twr:id>-89714</twr:id>
     <attrs>
       <twr:access>permissive</twr:access>
       <twr:bicycle>yes</twr:bicycle>
@@ -26,7 +26,6 @@
       <trkpt lat="37.1003123" lon="-121.471646"/>
       <trkpt lat="37.1004963" lon="-121.4718552"/>
       <trkpt lat="37.1007402" lon="-121.4719625"/>
-      <trkpt lat="37.100783" lon="-121.472129"/>
     </trkseg>
   </trk>
 </gpx>

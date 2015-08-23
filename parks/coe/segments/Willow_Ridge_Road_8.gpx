@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willow Ridge Road 8</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89930</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Willow Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+      <twr:tiger.separated>no</twr:tiger.separated>
+      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
+      <twr:tiger.tlid>122933594:123000904</twr:tiger.tlid>
+      <twr:tiger.upload_uuid>bulk_upload.pl-9f300d22-5de3-4867-bd5e-8c2a200c22ad</twr:tiger.upload_uuid>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willow Ridge Road 8</name>
+    <trkseg>
+      <trkpt lat="37.13045" lon="-121.427753"/>
+      <trkpt lat="37.1311685" lon="-121.4283109"/>
+      <trkpt lat="37.1317074" lon="-121.4282679"/>
+      <trkpt lat="37.1322291" lon="-121.4283001"/>
+      <trkpt lat="37.1327936" lon="-121.4281821"/>
+      <trkpt lat="37.1333325" lon="-121.4285147"/>
+      <trkpt lat="37.1343418" lon="-121.4287185"/>
+      <trkpt lat="37.1350313" lon="-121.4290018"/>
+      <trkpt lat="37.1351682" lon="-121.4293794"/>
+      <trkpt lat="37.1347508" lon="-121.4301862"/>
+      <trkpt lat="37.1348876" lon="-121.4313535"/>
+      <trkpt lat="37.1353278" lon="-121.432103"/>
+    </trkseg>
+  </trk>
+</gpx>

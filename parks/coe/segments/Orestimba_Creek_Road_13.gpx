@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Orestimba Creek Road 13</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89630</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Orestimba Creek Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Orestimba Creek Road 13</name>
+    <trkseg>
+      <trkpt lat="37.1688522" lon="-121.3954059"/>
+      <trkpt lat="37.1689653" lon="-121.3955357"/>
+      <trkpt lat="37.1692105" lon="-121.3956141"/>
+      <trkpt lat="37.1697203" lon="-121.3955553"/>
+      <trkpt lat="37.170093" lon="-121.3956435"/>
+      <trkpt lat="37.170697" lon="-121.39562"/>
+      <trkpt lat="37.1713526" lon="-121.3955169"/>
+    </trkseg>
+  </trk>
+</gpx>

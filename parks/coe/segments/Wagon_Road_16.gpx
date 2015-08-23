@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wagon Road 16</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89696</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Wagon Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+      <twr:tiger.separated>no</twr:tiger.separated>
+      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
+      <twr:tiger.tlid>122932867:122996733:123000782:123000903; 122932851:122930926:122932865:123000465:123000233</twr:tiger.tlid>
+      <twr:tiger.upload_uuid>bulk_upload.pl-9f300d22-5de3-4867-bd5e-8c2a200c22ad</twr:tiger.upload_uuid>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wagon Road 16</name>
+    <trkseg>
+      <trkpt lat="37.1165329" lon="-121.4122547"/>
+      <trkpt lat="37.1167095" lon="-121.4121716"/>
+      <trkpt lat="37.1169608" lon="-121.4117897"/>
+      <trkpt lat="37.117336" lon="-121.4115631"/>
+      <trkpt lat="37.117579" lon="-121.4113444"/>
+      <trkpt lat="37.118069" lon="-121.4112644"/>
+      <trkpt lat="37.1183712" lon="-121.4109516"/>
+      <trkpt lat="37.1185765" lon="-121.410855"/>
+      <trkpt lat="37.118892" lon="-121.410855"/>
+      <trkpt lat="37.1191668" lon="-121.4106941"/>
+      <trkpt lat="37.1194104" lon="-121.4104061"/>
+      <trkpt lat="37.1196886" lon="-121.4102971"/>
+      <trkpt lat="37.1198597" lon="-121.4102864"/>
+    </trkseg>
+  </trk>
+</gpx>

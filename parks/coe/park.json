@@ -6,5 +6,19 @@
       "lng": -121.41683
     },
     "zoom": 11
+  },
+  "trailheads": {
+    "Coe Ranch Headquarters": {
+      "lat": 37.186632,
+      "lng": -121.5468486
+    },
+    "Hunting Hollow Parking Lot": {},
+    "Coyote Creek Trailhead": {},
+    "Kickham Ranch Gate": {},
+    "Bell Station Gate": {},
+    "Dowdy Ranch Visitors Center": {
+      "lat": 37.112199,
+      "lng": -121.3569132
+    },
   }
 }

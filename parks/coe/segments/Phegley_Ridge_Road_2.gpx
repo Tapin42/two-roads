@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Phegley Ridge Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89649</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Phegley Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Phegley Ridge Road 2</name>
+    <trkseg>
+      <trkpt lat="37.0629814" lon="-121.4142208"/>
+      <trkpt lat="37.0628098" lon="-121.4141934"/>
+      <trkpt lat="37.0626077" lon="-121.4140773"/>
+      <trkpt lat="37.0622477" lon="-121.4136549"/>
+      <trkpt lat="37.0618789" lon="-121.413018"/>
+      <trkpt lat="37.0616609" lon="-121.4124986"/>
+      <trkpt lat="37.0604125" lon="-121.4109968"/>
+      <trkpt lat="37.0602014" lon="-121.4103917"/>
+      <trkpt lat="37.06" lon="-121.4100711"/>
+      <trkpt lat="37.0592447" lon="-121.4091273"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Red Creek Road 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89612</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:name>Red Creek Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Stanislaus, CA</twr:tiger.county>
+      <twr:tiger.name_base>Red Creek</twr:tiger.name_base>
+      <twr:tiger.name_type>Rd</twr:tiger.name_type>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Red Creek Road 5</name>
+    <trkseg>
+      <trkpt lat="37.2267378" lon="-121.3958318"/>
+      <trkpt lat="37.2269184" lon="-121.3965615"/>
+      <trkpt lat="37.2278068" lon="-121.3974498"/>
+      <trkpt lat="37.2291691" lon="-121.3988857"/>
+      <trkpt lat="37.2305171" lon="-121.4021432"/>
+      <trkpt lat="37.2304609" lon="-121.4036596"/>
+      <trkpt lat="37.2306294" lon="-121.4050637"/>
+      <trkpt lat="37.231528" lon="-121.4061308"/>
+      <trkpt lat="37.2324266" lon="-121.4072541"/>
+      <trkpt lat="37.2324266" lon="-121.4084336"/>
+      <trkpt lat="37.2334376" lon="-121.4095007"/>
+      <trkpt lat="37.2343924" lon="-121.4103431"/>
+      <trkpt lat="37.2357403" lon="-121.4105116"/>
+      <trkpt lat="37.2375937" lon="-121.4112979"/>
+      <trkpt lat="37.237706" lon="-121.4125335"/>
+      <trkpt lat="37.238043" lon="-121.4133198"/>
+      <trkpt lat="37.239258" lon="-121.4141027"/>
+      <trkpt lat="37.2400097" lon="-121.4146863"/>
+      <trkpt lat="37.2411321" lon="-121.4149486"/>
+      <trkpt lat="37.2432416" lon="-121.4158365"/>
+      <trkpt lat="37.2446287" lon="-121.4159738"/>
+      <trkpt lat="37.24523" lon="-121.416506"/>
+      <trkpt lat="37.2456574" lon="-121.4170287"/>
+      <trkpt lat="37.2459102" lon="-121.4175694"/>
+    </trkseg>
+  </trk>
+</gpx>

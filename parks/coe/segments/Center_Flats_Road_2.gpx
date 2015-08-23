@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Center Flats Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89954</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Center Flats Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Center Flats Road 2</name>
+    <trkseg>
+      <trkpt lat="37.1159163" lon="-121.4060927"/>
+      <trkpt lat="37.1157627" lon="-121.4058654"/>
+      <trkpt lat="37.1154003" lon="-121.4057446"/>
+      <trkpt lat="37.1146604" lon="-121.4051256"/>
+      <trkpt lat="37.1141192" lon="-121.4049971"/>
+      <trkpt lat="37.1136337" lon="-121.4046424"/>
+      <trkpt lat="37.1132807" lon="-121.4045679"/>
+      <trkpt lat="37.1127845" lon="-121.4047289"/>
+      <trkpt lat="37.1126368" lon="-121.4046905"/>
+    </trkseg>
+  </trk>
+</gpx>

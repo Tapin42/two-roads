@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Steer Ridge Road 5</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89761</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Steer Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Steer Ridge Road 5</name>
+    <trkseg>
+      <trkpt lat="37.0949404" lon="-121.4510631"/>
+      <trkpt lat="37.0948258" lon="-121.4506191"/>
+      <trkpt lat="37.094767" lon="-121.4503426"/>
+      <trkpt lat="37.0947401" lon="-121.4498206"/>
+      <trkpt lat="37.094853" lon="-121.4497188"/>
+      <trkpt lat="37.09523" lon="-121.4499119"/>
+      <trkpt lat="37.0957196" lon="-121.4500375"/>
+      <trkpt lat="37.0958868" lon="-121.449779"/>
+      <trkpt lat="37.0959413" lon="-121.4494906"/>
+      <trkpt lat="37.0958661" lon="-121.448861"/>
+      <trkpt lat="37.0958956" lon="-121.4484506"/>
+      <trkpt lat="37.0959918" lon="-121.4481453"/>
+      <trkpt lat="37.0962172" lon="-121.4479328"/>
+      <trkpt lat="37.0962408" lon="-121.4476147"/>
+      <trkpt lat="37.0961175" lon="-121.4472432"/>
+      <trkpt lat="37.0961963" lon="-121.4468317"/>
+      <trkpt lat="37.0961951" lon="-121.4462954"/>
+      <trkpt lat="37.0963496" lon="-121.4455891"/>
+      <trkpt lat="37.0961442" lon="-121.444999"/>
+      <trkpt lat="37.0957349" lon="-121.444472"/>
+      <trkpt lat="37.0956904" lon="-121.4432716"/>
+      <trkpt lat="37.0954762" lon="-121.4420682"/>
+      <trkpt lat="37.0952593" lon="-121.4415913"/>
+      <trkpt lat="37.0951852" lon="-121.4412101"/>
+      <trkpt lat="37.0952452" lon="-121.440652"/>
+      <trkpt lat="37.0952195" lon="-121.440255"/>
+      <trkpt lat="37.0944732" lon="-121.4393062"/>
+      <trkpt lat="37.0941346" lon="-121.4389941"/>
+      <trkpt lat="37.0938658" lon="-121.4384073"/>
+      <trkpt lat="37.0937662" lon="-121.4377769"/>
+      <trkpt lat="37.0935971" lon="-121.437243"/>
+    </trkseg>
+  </trk>
+</gpx>

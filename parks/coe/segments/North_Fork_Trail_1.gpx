@@ -4,7 +4,7 @@
     <name>North Fork Trail 1</name>
     <twr:source>osm</twr:source>
     <twr:type>path</twr:type>
-    <twr:id>-347509</twr:id>
+    <twr:id>-89882</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
@@ -48,26 +48,6 @@
       <trkpt lat="37.1292865" lon="-121.3697088"/>
       <trkpt lat="37.1294896" lon="-121.3701582"/>
       <trkpt lat="37.1295741" lon="-121.3704238"/>
-      <trkpt lat="37.1298276" lon="-121.3709402"/>
-      <trkpt lat="37.1299844" lon="-121.3712438"/>
-      <trkpt lat="37.1300255" lon="-121.3713296"/>
-      <trkpt lat="37.1300818" lon="-121.3716"/>
-      <trkpt lat="37.1302718" lon="-121.371733"/>
-      <trkpt lat="37.1302369" lon="-121.3722061"/>
-      <trkpt lat="37.130265" lon="-121.372351"/>
-      <trkpt lat="37.1303402" lon="-121.3725226"/>
-      <trkpt lat="37.1304497" lon="-121.3727372"/>
-      <trkpt lat="37.1303745" lon="-121.3728476"/>
-      <trkpt lat="37.1302855" lon="-121.3729518"/>
-      <trkpt lat="37.1302376" lon="-121.3730634"/>
-      <trkpt lat="37.1301418" lon="-121.3732093"/>
-      <trkpt lat="37.1299912" lon="-121.3734153"/>
-      <trkpt lat="37.1299365" lon="-121.3735955"/>
-      <trkpt lat="37.1299639" lon="-121.3737672"/>
-      <trkpt lat="37.1300528" lon="-121.373956"/>
-      <trkpt lat="37.1302087" lon="-121.3742358"/>
-      <trkpt lat="37.1302651" lon="-121.3744754"/>
-      <trkpt lat="37.1301486" lon="-121.3745912"/>
     </trkseg>
   </trk>
 </gpx>

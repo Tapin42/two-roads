@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>County Line Road 20</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89600</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>County Line Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>County Line Road 20</name>
+    <trkseg>
+      <trkpt lat="37.2874232" lon="-121.4588803"/>
+      <trkpt lat="37.2874437" lon="-121.4601506"/>
+      <trkpt lat="37.2872389" lon="-121.4603222"/>
+      <trkpt lat="37.2868974" lon="-121.4597815"/>
+      <trkpt lat="37.2863963" lon="-121.4595057"/>
+      <trkpt lat="37.2862487" lon="-121.4592922"/>
+      <trkpt lat="37.285839" lon="-121.4593952"/>
+      <trkpt lat="37.2851219" lon="-121.4591378"/>
+    </trkseg>
+  </trk>
+</gpx>

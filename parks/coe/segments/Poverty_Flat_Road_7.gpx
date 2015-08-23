@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Poverty Flat Road 7</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89814</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Poverty Flat Road</twr:name>
+      <twr:surface>dirt</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Poverty Flat Road 7</name>
+    <trkseg>
+      <trkpt lat="37.1789503" lon="-121.4828039"/>
+      <trkpt lat="37.1790392" lon="-121.4825464"/>
+      <trkpt lat="37.1792102" lon="-121.4823233"/>
+      <trkpt lat="37.1794496" lon="-121.4821516"/>
+      <trkpt lat="37.1795179" lon="-121.4820057"/>
+      <trkpt lat="37.1795863" lon="-121.4818254"/>
+    </trkseg>
+  </trk>
+</gpx>

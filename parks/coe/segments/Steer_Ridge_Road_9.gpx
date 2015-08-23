@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Steer Ridge Road 9</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89757</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Steer Ridge Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Steer Ridge Road 9</name>
+    <trkseg>
+      <trkpt lat="37.0935174" lon="-121.4321603"/>
+      <trkpt lat="37.0934089" lon="-121.4317156"/>
+      <trkpt lat="37.0932848" lon="-121.4316063"/>
+      <trkpt lat="37.0928945" lon="-121.4315559"/>
+      <trkpt lat="37.0927948" lon="-121.43137"/>
+      <trkpt lat="37.09261" lon="-121.4307099"/>
+      <trkpt lat="37.0921163" lon="-121.4300165"/>
+      <trkpt lat="37.091939" lon="-121.4294739"/>
+      <trkpt lat="37.0911448" lon="-121.4285727"/>
+      <trkpt lat="37.0909736" lon="-121.4282894"/>
+      <trkpt lat="37.0907477" lon="-121.4282379"/>
+      <trkpt lat="37.0903878" lon="-121.4284302"/>
+      <trkpt lat="37.0902411" lon="-121.4284353"/>
+      <trkpt lat="37.0900513" lon="-121.4283829"/>
+      <trkpt lat="37.0896317" lon="-121.4280663"/>
+      <trkpt lat="37.089529" lon="-121.427783"/>
+      <trkpt lat="37.0890429" lon="-121.4272423"/>
+      <trkpt lat="37.0886732" lon="-121.4260578"/>
+      <trkpt lat="37.0881289" lon="-121.4257806"/>
+      <trkpt lat="37.0874881" lon="-121.4253055"/>
+      <trkpt lat="37.0873454" lon="-121.4250988"/>
+      <trkpt lat="37.0869258" lon="-121.4247614"/>
+      <trkpt lat="37.0863492" lon="-121.4245964"/>
+      <trkpt lat="37.0861278" lon="-121.4242831"/>
+      <trkpt lat="37.0857487" lon="-121.4241368"/>
+      <trkpt lat="37.0856604" lon="-121.4240134"/>
+    </trkseg>
+  </trk>
+</gpx>

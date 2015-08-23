@@ -4,54 +4,29 @@
     <name>Orestimba Creek Road 4</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-347137</twr:id>
+    <twr:id>-89903</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>track</twr:highway>
-      <twr:motor_vehicle>no</twr:motor_vehicle>
       <twr:name>Orestimba Creek Road</twr:name>
     </attrs>
   </metadata>
   <trk>
     <name>Orestimba Creek Road 4</name>
     <trkseg>
-      <trkpt lat="37.1916154" lon="-121.3871134"/>
-      <trkpt lat="37.1917349" lon="-121.387078"/>
-      <trkpt lat="37.1918554" lon="-121.3870057"/>
-      <trkpt lat="37.1920072" lon="-121.3868085"/>
-      <trkpt lat="37.1921486" lon="-121.3865784"/>
-      <trkpt lat="37.192268" lon="-121.3862475"/>
-      <trkpt lat="37.1926543" lon="-121.3859129"/>
-      <trkpt lat="37.1937163" lon="-121.3851973"/>
-      <trkpt lat="37.1944089" lon="-121.3842507"/>
-      <trkpt lat="37.1952631" lon="-121.3844585"/>
-      <trkpt lat="37.1962119" lon="-121.3842215"/>
-      <trkpt lat="37.1964642" lon="-121.3841381"/>
-      <trkpt lat="37.1965328" lon="-121.3837428"/>
-      <trkpt lat="37.1964866" lon="-121.3824038"/>
-      <trkpt lat="37.1968099" lon="-121.3817112"/>
-      <trkpt lat="37.1983566" lon="-121.3816881"/>
-      <trkpt lat="37.1992801" lon="-121.3812033"/>
-      <trkpt lat="37.2002728" lon="-121.3796796"/>
-      <trkpt lat="37.2014733" lon="-121.3785715"/>
-      <trkpt lat="37.2021197" lon="-121.3769324"/>
-      <trkpt lat="37.2020966" lon="-121.3756164"/>
-      <trkpt lat="37.202743" lon="-121.374162"/>
-      <trkpt lat="37.2033664" lon="-121.3736541"/>
-      <trkpt lat="37.2044052" lon="-121.3739542"/>
-      <trkpt lat="37.2048901" lon="-121.3735618"/>
-      <trkpt lat="37.2051902" lon="-121.3724305"/>
-      <trkpt lat="37.2059059" lon="-121.3702142"/>
-      <trkpt lat="37.2068293" lon="-121.3682288"/>
-      <trkpt lat="37.2074757" lon="-121.3676517"/>
-      <trkpt lat="37.2084454" lon="-121.367467"/>
-      <trkpt lat="37.209175" lon="-121.3666095"/>
-      <trkpt lat="37.2105" lon="-121.3658509"/>
-      <trkpt lat="37.2119776" lon="-121.3656431"/>
-      <trkpt lat="37.2130164" lon="-121.3656662"/>
-      <trkpt lat="37.2143431" lon="-121.3660734"/>
-      <trkpt lat="37.2146337" lon="-121.3665338"/>
-      <trkpt lat="37.2146963" lon="-121.366399"/>
+      <trkpt lat="37.214755" lon="-121.36515"/>
+      <trkpt lat="37.2158897" lon="-121.3646365"/>
+      <trkpt lat="37.2170038" lon="-121.3645078"/>
+      <trkpt lat="37.2177762" lon="-121.3639585"/>
+      <trkpt lat="37.218986" lon="-121.3641902"/>
+      <trkpt lat="37.2198404" lon="-121.3639585"/>
+      <trkpt lat="37.2207152" lon="-121.3643104"/>
+      <trkpt lat="37.2208382" lon="-121.3648511"/>
+      <trkpt lat="37.2216584" lon="-121.3649026"/>
+      <trkpt lat="37.2227793" lon="-121.3654347"/>
+      <trkpt lat="37.2237088" lon="-121.3652287"/>
+      <trkpt lat="37.2240917" lon="-121.3650067"/>
     </trkseg>
   </trk>
 </gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 28</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89563</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 28</name>
+    <trkseg>
+      <trkpt lat="37.174463" lon="-121.3445049"/>
+      <trkpt lat="37.1749896" lon="-121.3444706"/>
+      <trkpt lat="37.175444" lon="-121.3441662"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Long Ridge Road 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89594</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Long Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Long Ridge Road 2</name>
+    <trkseg>
+      <trkpt lat="37.2124482" lon="-121.3421209"/>
+      <trkpt lat="37.2129284" lon="-121.3419288"/>
+      <trkpt lat="37.2134086" lon="-121.3424331"/>
+      <trkpt lat="37.2137448" lon="-121.3424811"/>
+      <trkpt lat="37.2155937" lon="-121.3440418"/>
+      <trkpt lat="37.216386" lon="-121.344402"/>
+      <trkpt lat="37.2169623" lon="-121.3447862"/>
+      <trkpt lat="37.2170343" lon="-121.3452664"/>
+      <trkpt lat="37.2177787" lon="-121.3459868"/>
+      <trkpt lat="37.2187151" lon="-121.3482438"/>
+      <trkpt lat="37.2196756" lon="-121.3493964"/>
+      <trkpt lat="37.2199397" lon="-121.3504049"/>
+      <trkpt lat="37.2199397" lon="-121.3511252"/>
+      <trkpt lat="37.2202038" lon="-121.3515574"/>
+      <trkpt lat="37.22054" lon="-121.3515814"/>
+    </trkseg>
+  </trk>
+</gpx>

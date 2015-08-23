@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wilson Peak Trail 2</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-89731</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Wilson Peak Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wilson Peak Trail 2</name>
+    <trkseg>
+      <trkpt lat="37.0946907" lon="-121.4343022"/>
+      <trkpt lat="37.0951232" lon="-121.4343531"/>
+      <trkpt lat="37.0954539" lon="-121.4346329"/>
+      <trkpt lat="37.0955643" lon="-121.4346213"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Road 16</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89683</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Coit Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Road 16</name>
+    <trkseg>
+      <trkpt lat="37.1450363" lon="-121.419497"/>
+      <trkpt lat="37.1456635" lon="-121.4193395"/>
+      <trkpt lat="37.1459082" lon="-121.418948"/>
+      <trkpt lat="37.1463727" lon="-121.4187983"/>
+      <trkpt lat="37.1464766" lon="-121.4184331"/>
+      <trkpt lat="37.1466893" lon="-121.4184361"/>
+      <trkpt lat="37.1472446" lon="-121.4189913"/>
+      <trkpt lat="37.1478322" lon="-121.4191946"/>
+      <trkpt lat="37.1486089" lon="-121.4201182"/>
+      <trkpt lat="37.1486938" lon="-121.4210994"/>
+      <trkpt lat="37.1485056" lon="-121.4216828"/>
+      <trkpt lat="37.1482723" lon="-121.4218145"/>
+      <trkpt lat="37.1480068" lon="-121.4217205"/>
+      <trkpt lat="37.1477622" lon="-121.421824"/>
+      <trkpt lat="37.1480388" lon="-121.4221381"/>
+    </trkseg>
+  </trk>
+</gpx>
