@@ -145,6 +145,7 @@ function fetchAndDisplaySegment(park, map, segment) {
 
       var path = new google.maps.Polyline({
           path: coords,
+          name: $gpx.find('metadata > name').text(),
           geodesic: true,
           strokeColor: getSegColor($gpx.find('metadata > source').text()),
           strokeOpacity: 0.5,
@@ -196,7 +197,7 @@ function displaySegElevation(coords, path) {
         finished[callIdx] = true;
         if (finished.indexOf(false) === -1) {
           var finalArray = [].concat.apply([], allData);
-          plotElevation(coords, finalArray, status);
+          plotElevation(path, coords, finalArray, status);
         }
       };
     }
@@ -211,7 +212,7 @@ function displaySegElevation(coords, path) {
 
 // Takes an array of ElevationResult objects, draws the path on the map
 // and plots the elevation profile on a Visualization API Material Line chart.
-function plotElevation(coords, elevations, status) {
+function plotElevation(path, coords, elevations, status) {
   var elevsInFeet = elevations.map(function (x) { return x.elevation*3.28084; })
   var chartDiv = document.getElementById('elevation');
   if (status !== google.maps.ElevationStatus.OK) {
@@ -240,14 +241,14 @@ function plotElevation(coords, elevations, status) {
   // Draw the chart using the data within its DIV.
   chart.draw(data, {
     height: $(window).height()*0.18,
-    //legend: 'none',
+    title: path.name,   // This doesn't do anything
     legend: {
       position: 'none'
     },
     vAxis: {
-      format: 'none',
+      format: 'none',   // This doesn't do anything
       gridlines: {
-        count: 4
+        count: 4        // This doesn't do anything
       }
     }
   });
