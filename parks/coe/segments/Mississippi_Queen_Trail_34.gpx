@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mississippi Queen Trail 34</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347491</twr:id>
+    <attrs>
+      <twr:access>yes</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Mississippi Queen Trail</twr:name>
+      <twr:surface>unpaved</twr:surface>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mississippi Queen Trail 34</name>
+    <trkseg>
+      <trkpt lat="37.1950326" lon="-121.425468"/>
+      <trkpt lat="37.1954288" lon="-121.425408"/>
+      <trkpt lat="37.1956211" lon="-121.4248984"/>
+      <trkpt lat="37.1957749" lon="-121.424818"/>
+      <trkpt lat="37.1959458" lon="-121.4248394"/>
+      <trkpt lat="37.1961595" lon="-121.4249413"/>
+      <trkpt lat="37.1963048" lon="-121.4251291"/>
+      <trkpt lat="37.1965697" lon="-121.4251559"/>
+      <trkpt lat="37.1966722" lon="-121.424995"/>
+      <trkpt lat="37.1971679" lon="-121.4249306"/>
+      <trkpt lat="37.19745" lon="-121.4249306"/>
+      <trkpt lat="37.1976892" lon="-121.4248662"/>
+      <trkpt lat="37.197779" lon="-121.4247268"/>
+      <trkpt lat="37.1978815" lon="-121.4247214"/>
+      <trkpt lat="37.1981165" lon="-121.4245444"/>
+      <trkpt lat="37.1980909" lon="-121.4244317"/>
+      <trkpt lat="37.1981123" lon="-121.4243673"/>
+      <trkpt lat="37.1982869" lon="-121.4241587"/>
+    </trkseg>
+  </trk>
+</gpx>

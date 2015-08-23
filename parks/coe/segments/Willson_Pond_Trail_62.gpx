@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willson Pond Trail 62</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347431</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Willson Pond Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willson Pond Trail 62</name>
+    <trkseg>
+      <trkpt lat="37.0980486" lon="-121.4356759"/>
+      <trkpt lat="37.0980465" lon="-121.4357982"/>
+      <trkpt lat="37.0977898" lon="-121.4361093"/>
+      <trkpt lat="37.097302" lon="-121.4361951"/>
+      <trkpt lat="37.0972164" lon="-121.4363346"/>
+      <trkpt lat="37.0971908" lon="-121.4367852"/>
+      <trkpt lat="37.0970367" lon="-121.4370642"/>
+      <trkpt lat="37.0968485" lon="-121.4373431"/>
+      <trkpt lat="37.0968057" lon="-121.4374182"/>
+      <trkpt lat="37.0965404" lon="-121.4374933"/>
+      <trkpt lat="37.0962238" lon="-121.4375577"/>
+      <trkpt lat="37.0960184" lon="-121.437665"/>
+      <trkpt lat="37.0958729" lon="-121.4377401"/>
+      <trkpt lat="37.0956761" lon="-121.4376972"/>
+      <trkpt lat="37.0956076" lon="-121.4375899"/>
+      <trkpt lat="37.0956761" lon="-121.4373538"/>
+      <trkpt lat="37.0958986" lon="-121.4370427"/>
+      <trkpt lat="37.0962066" lon="-121.4368174"/>
+      <trkpt lat="37.0963864" lon="-121.4362488"/>
+      <trkpt lat="37.0964035" lon="-121.4357338"/>
+      <trkpt lat="37.0963093" lon="-121.4354656"/>
+      <trkpt lat="37.0965905" lon="-121.4348858"/>
+    </trkseg>
+  </trk>
+</gpx>

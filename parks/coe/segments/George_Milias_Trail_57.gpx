@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>George Milias Trail 57</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347441</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>George Milias Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>George Milias Trail 57</name>
+    <trkseg>
+      <trkpt lat="37.1422159" lon="-121.4386144"/>
+      <trkpt lat="37.1417969" lon="-121.4389206"/>
+      <trkpt lat="37.1413668" lon="-121.439143"/>
+      <trkpt lat="37.140993" lon="-121.4392532"/>
+      <trkpt lat="37.1406594" lon="-121.4392532"/>
+      <trkpt lat="37.1403362" lon="-121.4394166"/>
+      <trkpt lat="37.1400112" lon="-121.4397223"/>
+      <trkpt lat="37.1395322" lon="-121.4396794"/>
+      <trkpt lat="37.1393227" lon="-121.4394863"/>
+      <trkpt lat="37.1392585" lon="-121.4396312"/>
+      <trkpt lat="37.1392568" lon="-121.4399935"/>
+      <trkpt lat="37.1394039" lon="-121.4403661"/>
+      <trkpt lat="37.1393851" lon="-121.4407767"/>
+      <trkpt lat="37.1394766" lon="-121.440924"/>
+      <trkpt lat="37.1395647" lon="-121.4412917"/>
+      <trkpt lat="37.1394895" lon="-121.4413639"/>
+      <trkpt lat="37.1391687" lon="-121.4412244"/>
+      <trkpt lat="37.138972" lon="-121.4412888"/>
+      <trkpt lat="37.1388095" lon="-121.4417608"/>
+      <trkpt lat="37.1387967" lon="-121.4421685"/>
+      <trkpt lat="37.1386898" lon="-121.4423241"/>
+      <trkpt lat="37.1384785" lon="-121.4423646"/>
+      <trkpt lat="37.1382305" lon="-121.4422895"/>
+      <trkpt lat="37.1380184" lon="-121.4423992"/>
+      <trkpt lat="37.1379457" lon="-121.4429142"/>
+      <trkpt lat="37.1377276" lon="-121.4433004"/>
+      <trkpt lat="37.1377746" lon="-121.4434882"/>
+      <trkpt lat="37.1381339" lon="-121.4438851"/>
+      <trkpt lat="37.1383306" lon="-121.4442231"/>
+      <trkpt lat="37.1384546" lon="-121.4446844"/>
+      <trkpt lat="37.1386153" lon="-121.4448322"/>
+      <trkpt lat="37.1389464" lon="-121.444781"/>
+      <trkpt lat="37.1391559" lon="-121.4450331"/>
+      <trkpt lat="37.1391174" lon="-121.4452316"/>
+      <trkpt lat="37.1390233" lon="-121.4454569"/>
+      <trkpt lat="37.1388779" lon="-121.4455588"/>
+      <trkpt lat="37.1385829" lon="-121.4454569"/>
+      <trkpt lat="37.1384802" lon="-121.4455857"/>
+      <trkpt lat="37.1383318" lon="-121.4457828"/>
+    </trkseg>
+  </trk>
+</gpx>

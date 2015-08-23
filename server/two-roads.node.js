@@ -228,19 +228,27 @@ function fetchParkSegments(park, path) {
 
           // console.log('Reading file ' + fname);
           fs.readFile(path + '/' + fname, {encoding: 'utf8'}, function (err, xmlData) {
-              if (err) {
-                DD.reject('Error reading ' + fname + ': ' + err);
-              } else {
-                // console.log('Have the data for ' + fname + ', about to parse');
-                var parser = new xml2js.Parser();
-                parser.parseString(xmlData, function (err, xml) {
-                    if (err) {
-                      DD.reject('Error parsing GPX ' + fname + ': ' + err);
-                    } else {
-                      // console.log('Resolving ' + fname + ' with ' + xml.gpx.metadata[0].name[0]);
-                      DD.resolve(xml.gpx.metadata[0].name[0]);
-                    }
-                  });
+              try {
+                if (err) {
+                  DD.reject('Error reading ' + fname + ': ' + err);
+                } else {
+                  //console.log('Have the data for ' + fname + ', about to parse');
+                  var parser = new xml2js.Parser();
+                  parser.parseString(xmlData, function (err, xml) {
+                      try {
+                        if (err) {
+                          DD.reject('Error parsing GPX ' + fname + ': ' + err);
+                        } else {
+                          //console.log('Resolving ' + fname + ' with ' + xml.gpx.metadata[0].name[0]);
+                          DD.resolve(xml.gpx.metadata[0].name[0]);
+                        }
+                      } catch (e) {
+                        DD.reject('Exception thrown trying to parseString on ' + fname + ': ' + err);
+                      }
+                    });
+                }
+              } catch (e) {
+                DD.reject('Exception thrown trying to readFile on ' + fname + ': ' + err);
               }
             });
 
@@ -249,15 +257,19 @@ function fetchParkSegments(park, path) {
 
         details = [];
 
+        //console.log('There are a total of ' + gpxFnames.length + ' files that we expect to see.');
         gpxFnames.forEach(function (fname) {
             readName(fname).then(function (trkName) {
                 details.push(park + '/segments/' + fname);
                 if (details.length === gpxFnames.length) {
                   fs.writeFile(path + '/.details.json', JSON.stringify(details, null, 2), {encoding: 'utf8'}, function () {});
+                  //console.log('Finished with all details, size is ' + details.length);
                   D.resolve(details);
                 } else {
-                  console.log('Details is now ' + details.length + ' long.');
+                  //console.log('Details is now ' + details.length + ' long.');
                 }
+              }, function (whoops) {
+                console.log('Error in reading ' + fname + ': ' + whoops);
               });
           });
       } else {

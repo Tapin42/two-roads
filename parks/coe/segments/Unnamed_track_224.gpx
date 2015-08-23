@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 224</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347091</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 224</name>
+    <trkseg>
+      <trkpt lat="37.1847079" lon="-121.5348949"/>
+      <trkpt lat="37.1847495" lon="-121.5347973"/>
+      <trkpt lat="37.1848863" lon="-121.5346943"/>
+      <trkpt lat="37.1850162" lon="-121.5345999"/>
+      <trkpt lat="37.1851256" lon="-121.5344797"/>
+      <trkpt lat="37.1852761" lon="-121.5344282"/>
+      <trkpt lat="37.1854538" lon="-121.534411"/>
+      <trkpt lat="37.185618" lon="-121.5344282"/>
+      <trkpt lat="37.1857274" lon="-121.5344797"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>The Chute 277</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346981</twr:id>
+    <attrs>
+      <twr:access>permissive</twr:access>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:name>The Chute</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>The Chute 277</name>
+    <trkseg>
+      <trkpt lat="37.0995244" lon="-121.4699221"/>
+      <trkpt lat="37.0997304" lon="-121.47038"/>
+      <trkpt lat="37.0999358" lon="-121.4707931"/>
+      <trkpt lat="37.1000299" lon="-121.4710237"/>
+      <trkpt lat="37.1000128" lon="-121.4712383"/>
+      <trkpt lat="37.0999358" lon="-121.4713885"/>
+      <trkpt lat="37.1000128" lon="-121.471764"/>
+      <trkpt lat="37.1001711" lon="-121.4717318"/>
+      <trkpt lat="37.1003123" lon="-121.471646"/>
+      <trkpt lat="37.1004963" lon="-121.4718552"/>
+      <trkpt lat="37.1007402" lon="-121.4719625"/>
+      <trkpt lat="37.100783" lon="-121.472129"/>
+    </trkseg>
+  </trk>
+</gpx>

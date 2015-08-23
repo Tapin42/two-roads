@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Yellowjacket Trail 294</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346943</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Yellowjacket Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Yellowjacket Trail 294</name>
+    <trkseg>
+      <trkpt lat="37.1365534" lon="-121.3681281"/>
+      <trkpt lat="37.136485" lon="-121.3678878"/>
+      <trkpt lat="37.1364544" lon="-121.3677144"/>
+      <trkpt lat="37.1365534" lon="-121.3675359"/>
+      <trkpt lat="37.1366683" lon="-121.3673174"/>
+      <trkpt lat="37.1366971" lon="-121.367184"/>
+      <trkpt lat="37.1366902" lon="-121.3670295"/>
+      <trkpt lat="37.1366834" lon="-121.3669179"/>
+      <trkpt lat="37.1366855" lon="-121.3667803"/>
+      <trkpt lat="37.1367245" lon="-121.3666089"/>
+      <trkpt lat="37.1366902" lon="-121.3664715"/>
+      <trkpt lat="37.1366512" lon="-121.3663679"/>
+      <trkpt lat="37.1365229" lon="-121.3662821"/>
+      <trkpt lat="37.1364837" lon="-121.366096"/>
+      <trkpt lat="37.1365602" lon="-121.3660338"/>
+      <trkpt lat="37.1366521" lon="-121.3660054"/>
+      <trkpt lat="37.136788" lon="-121.3659227"/>
+      <trkpt lat="37.1370564" lon="-121.3658801"/>
+      <trkpt lat="37.1372171" lon="-121.3658364"/>
+      <trkpt lat="37.1377041" lon="-121.3658894"/>
+      <trkpt lat="37.1379356" lon="-121.3659909"/>
+      <trkpt lat="37.1380382" lon="-121.3661282"/>
+      <trkpt lat="37.1382078" lon="-121.3662123"/>
+      <trkpt lat="37.138366" lon="-121.366266"/>
+      <trkpt lat="37.1385029" lon="-121.3663465"/>
+      <trkpt lat="37.1386054" lon="-121.3664058"/>
+      <trkpt lat="37.1387838" lon="-121.3663964"/>
+      <trkpt lat="37.1388866" lon="-121.3662913"/>
+      <trkpt lat="37.1389715" lon="-121.3661241"/>
+    </trkseg>
+  </trk>
+</gpx>

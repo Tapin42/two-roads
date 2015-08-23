@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Coit Dam Road 265</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347005</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Coit Dam Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Coit Dam Road 265</name>
+    <trkseg>
+      <trkpt lat="37.1363456" lon="-121.4332348"/>
+      <trkpt lat="37.1363615" lon="-121.4328221"/>
+      <trkpt lat="37.136512" lon="-121.4322385"/>
+      <trkpt lat="37.136731" lon="-121.4316291"/>
+      <trkpt lat="37.1371278" lon="-121.4311828"/>
+      <trkpt lat="37.1371963" lon="-121.4310369"/>
+      <trkpt lat="37.1371757" lon="-121.4307794"/>
+      <trkpt lat="37.1371278" lon="-121.4302901"/>
+      <trkpt lat="37.1372784" lon="-121.4296378"/>
+      <trkpt lat="37.1373058" lon="-121.4294147"/>
+      <trkpt lat="37.13734" lon="-121.4291057"/>
+      <trkpt lat="37.1374084" lon="-121.4289769"/>
+      <trkpt lat="37.1377505" lon="-121.4287795"/>
+      <trkpt lat="37.1382979" lon="-121.4276551"/>
+      <trkpt lat="37.1382979" lon="-121.4274921"/>
+      <trkpt lat="37.138161" lon="-121.4273204"/>
+      <trkpt lat="37.138161" lon="-121.4269942"/>
+      <trkpt lat="37.1379079" lon="-121.4267711"/>
+      <trkpt lat="37.1378121" lon="-121.4265994"/>
+    </trkseg>
+  </trk>
+</gpx>

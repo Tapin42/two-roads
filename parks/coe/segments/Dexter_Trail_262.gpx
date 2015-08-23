@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Dexter Trail 262</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347011</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Dexter Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Dexter Trail 262</name>
+    <trkseg>
+      <trkpt lat="37.1128468" lon="-121.434576"/>
+      <trkpt lat="37.1128693" lon="-121.4347105"/>
+      <trkpt lat="37.1130062" lon="-121.4349508"/>
+      <trkpt lat="37.113061" lon="-121.4351225"/>
+      <trkpt lat="37.1130541" lon="-121.4352512"/>
+      <trkpt lat="37.1129994" lon="-121.4353371"/>
+      <trkpt lat="37.112972" lon="-121.4354916"/>
+      <trkpt lat="37.1129583" lon="-121.4356546"/>
+      <trkpt lat="37.1130267" lon="-121.4358692"/>
+      <trkpt lat="37.1131568" lon="-121.4361439"/>
+      <trkpt lat="37.113499" lon="-121.4363499"/>
+      <trkpt lat="37.1137523" lon="-121.4364958"/>
+      <trkpt lat="37.1138207" lon="-121.436573"/>
+      <trkpt lat="37.1138276" lon="-121.4367361"/>
+      <trkpt lat="37.113896" lon="-121.4369764"/>
+      <trkpt lat="37.1139644" lon="-121.437294"/>
+      <trkpt lat="37.1140124" lon="-121.4374485"/>
+      <trkpt lat="37.1141698" lon="-121.4375257"/>
+      <trkpt lat="37.114334" lon="-121.4376373"/>
+      <trkpt lat="37.1144093" lon="-121.4377146"/>
+      <trkpt lat="37.114512" lon="-121.4378691"/>
+      <trkpt lat="37.1146284" lon="-121.4379635"/>
+      <trkpt lat="37.1148268" lon="-121.4380579"/>
+      <trkpt lat="37.1151143" lon="-121.4381094"/>
+      <trkpt lat="37.1153881" lon="-121.4381351"/>
+      <trkpt lat="37.1155592" lon="-121.4381781"/>
+      <trkpt lat="37.1156753" lon="-121.438235"/>
+    </trkseg>
+  </trk>
+</gpx>

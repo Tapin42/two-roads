@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Fitzgerald Ridge Road 3</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-353410</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Fitzgerald Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Fitzgerald Ridge Road 3</name>
+    <trkseg>
+      <trkpt lat="37.1290028" lon="-121.5080433"/>
+      <trkpt lat="37.1282843" lon="-121.5072279"/>
+      <trkpt lat="37.1277847" lon="-121.5062837"/>
+      <trkpt lat="37.1276342" lon="-121.5056658"/>
+      <trkpt lat="37.126543" lon="-121.50535"/>
+      <trkpt lat="37.1265256" lon="-121.50455"/>
+      <trkpt lat="37.1268951" lon="-121.5031767"/>
+      <trkpt lat="37.125543" lon="-121.50075"/>
+      <trkpt lat="37.126343" lon="-121.49765"/>
+      <trkpt lat="37.1260055" lon="-121.4971857"/>
+      <trkpt lat="37.1250972" lon="-121.4970045"/>
+      <trkpt lat="37.1235418" lon="-121.4961986"/>
+      <trkpt lat="37.1228301" lon="-121.496396"/>
+      <trkpt lat="37.1225358" lon="-121.496027"/>
+      <trkpt lat="37.1221046" lon="-121.4960527"/>
+      <trkpt lat="37.121543" lon="-121.49545"/>
+      <trkpt lat="37.1201199" lon="-121.4953403"/>
+      <trkpt lat="37.1192165" lon="-121.4967994"/>
+      <trkpt lat="37.1182584" lon="-121.4962845"/>
+      <trkpt lat="37.1160546" lon="-121.4956236"/>
+    </trkseg>
+  </trk>
+</gpx>

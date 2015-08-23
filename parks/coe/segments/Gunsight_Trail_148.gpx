@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Gunsight Trail 148</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347253</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Gunsight Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Gunsight Trail 148</name>
+    <trkseg>
+      <trkpt lat="37.1288577" lon="-121.3936143"/>
+      <trkpt lat="37.1288919" lon="-121.3941293"/>
+      <trkpt lat="37.1293538" lon="-121.3943868"/>
+      <trkpt lat="37.1298756" lon="-121.3950198"/>
+      <trkpt lat="37.1296361" lon="-121.3953524"/>
+      <trkpt lat="37.1294222" lon="-121.3955884"/>
+      <trkpt lat="37.1290288" lon="-121.3954382"/>
+      <trkpt lat="37.1285326" lon="-121.3954919"/>
+      <trkpt lat="37.1284129" lon="-121.3954061"/>
+      <trkpt lat="37.1280536" lon="-121.3956206"/>
+      <trkpt lat="37.127951" lon="-121.3957601"/>
+      <trkpt lat="37.127874" lon="-121.3957386"/>
+      <trkpt lat="37.127643" lon="-121.3958889"/>
+      <trkpt lat="37.1274976" lon="-121.3958459"/>
+      <trkpt lat="37.127164" lon="-121.3960927"/>
+      <trkpt lat="37.1271469" lon="-121.3962107"/>
+      <trkpt lat="37.1270015" lon="-121.3964682"/>
+      <trkpt lat="37.1269844" lon="-121.3967686"/>
+      <trkpt lat="37.1266165" lon="-121.3971656"/>
+      <trkpt lat="37.1267876" lon="-121.3975947"/>
+      <trkpt lat="37.1267106" lon="-121.397863"/>
+      <trkpt lat="37.1267534" lon="-121.3981634"/>
+      <trkpt lat="37.126762" lon="-121.3990217"/>
+      <trkpt lat="37.1269502" lon="-121.3991182"/>
+      <trkpt lat="37.1270699" lon="-121.399483"/>
+      <trkpt lat="37.1276516" lon="-121.3998692"/>
+      <trkpt lat="37.1277713" lon="-121.4002769"/>
+      <trkpt lat="37.1279937" lon="-121.4012425"/>
+      <trkpt lat="37.1282504" lon="-121.4015859"/>
+      <trkpt lat="37.1290544" lon="-121.4014357"/>
+      <trkpt lat="37.1292084" lon="-121.4015429"/>
+      <trkpt lat="37.1290202" lon="-121.401779"/>
+      <trkpt lat="37.1289347" lon="-121.402015"/>
+      <trkpt lat="37.1291913" lon="-121.4031737"/>
+      <trkpt lat="37.12914" lon="-121.4039462"/>
+      <trkpt lat="37.1292084" lon="-121.4042037"/>
+      <trkpt lat="37.1293282" lon="-121.4043324"/>
+      <trkpt lat="37.1297558" lon="-121.4042681"/>
+      <trkpt lat="37.1299269" lon="-121.4044183"/>
+      <trkpt lat="37.1304915" lon="-121.4049976"/>
+      <trkpt lat="37.1307481" lon="-121.4052551"/>
+      <trkpt lat="37.1310389" lon="-121.4056843"/>
+      <trkpt lat="37.1313468" lon="-121.4059418"/>
+      <trkpt lat="37.1316719" lon="-121.4066713"/>
+      <trkpt lat="37.1317574" lon="-121.4072721"/>
+      <trkpt lat="37.132014" lon="-121.4083879"/>
+      <trkpt lat="37.13186" lon="-121.4093965"/>
+      <trkpt lat="37.1317916" lon="-121.4105981"/>
+      <trkpt lat="37.1319285" lon="-121.4113276"/>
+      <trkpt lat="37.1320995" lon="-121.4115422"/>
+      <trkpt lat="37.1320824" lon="-121.4118212"/>
+      <trkpt lat="37.1317916" lon="-121.4124434"/>
+      <trkpt lat="37.1321864" lon="-121.4128881"/>
+    </trkseg>
+  </trk>
+</gpx>

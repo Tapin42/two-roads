@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Rattlesnake Trail 213</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347113</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:name>Rattlesnake Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Rattlesnake Trail 213</name>
+    <trkseg>
+      <trkpt lat="37.1228438" lon="-121.4139838"/>
+      <trkpt lat="37.1228378" lon="-121.4141695"/>
+      <trkpt lat="37.1228806" lon="-121.4143304"/>
+      <trkpt lat="37.1228121" lon="-121.414545"/>
+      <trkpt lat="37.1227009" lon="-121.4148454"/>
+      <trkpt lat="37.1227009" lon="-121.4151351"/>
+      <trkpt lat="37.1227865" lon="-121.4153711"/>
+      <trkpt lat="37.1227865" lon="-121.4155213"/>
+      <trkpt lat="37.1226582" lon="-121.4156608"/>
+      <trkpt lat="37.1225213" lon="-121.4158968"/>
+      <trkpt lat="37.1223331" lon="-121.4160577"/>
+      <trkpt lat="37.1222989" lon="-121.4163152"/>
+      <trkpt lat="37.122239" lon="-121.4165405"/>
+      <trkpt lat="37.1221107" lon="-121.4168088"/>
+      <trkpt lat="37.1221107" lon="-121.4170233"/>
+      <trkpt lat="37.1221962" lon="-121.417313"/>
+      <trkpt lat="37.1222646" lon="-121.4175812"/>
+      <trkpt lat="37.1223331" lon="-121.4178816"/>
+      <trkpt lat="37.1223502" lon="-121.4181928"/>
+      <trkpt lat="37.1224101" lon="-121.4183966"/>
+      <trkpt lat="37.1224101" lon="-121.4187292"/>
+      <trkpt lat="37.1224528" lon="-121.4189438"/>
+      <trkpt lat="37.1223502" lon="-121.4191262"/>
+      <trkpt lat="37.1222048" lon="-121.4192227"/>
+      <trkpt lat="37.1221363" lon="-121.4192442"/>
+      <trkpt lat="37.1221363" lon="-121.4193729"/>
+      <trkpt lat="37.122008" lon="-121.4195446"/>
+      <trkpt lat="37.1218369" lon="-121.4196519"/>
+      <trkpt lat="37.121777" lon="-121.4197377"/>
+      <trkpt lat="37.1216059" lon="-121.4196197"/>
+      <trkpt lat="37.1214263" lon="-121.4196626"/>
+      <trkpt lat="37.1212348" lon="-121.4197555"/>
+    </trkseg>
+  </trk>
+</gpx>

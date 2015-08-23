@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Creek Trail 158</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347233</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Pacheco Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Creek Trail 158</name>
+    <trkseg>
+      <trkpt lat="37.1693561" lon="-121.4397908"/>
+      <trkpt lat="37.1694734" lon="-121.4397452"/>
+      <trkpt lat="37.1696865" lon="-121.4399287"/>
+      <trkpt lat="37.1700187" lon="-121.4400194"/>
+      <trkpt lat="37.1705904" lon="-121.4402386"/>
+      <trkpt lat="37.1709089" lon="-121.4401722"/>
+      <trkpt lat="37.1712055" lon="-121.4401867"/>
+      <trkpt lat="37.1714392" lon="-121.4400733"/>
+      <trkpt lat="37.1716635" lon="-121.4400295"/>
+      <trkpt lat="37.1718849" lon="-121.4401173"/>
+      <trkpt lat="37.1720339" lon="-121.440081"/>
+      <trkpt lat="37.1721384" lon="-121.4402892"/>
+      <trkpt lat="37.172262" lon="-121.4403404"/>
+      <trkpt lat="37.1724928" lon="-121.4402953"/>
+      <trkpt lat="37.1728253" lon="-121.4400499"/>
+      <trkpt lat="37.173187" lon="-121.4399349"/>
+      <trkpt lat="37.1734928" lon="-121.4399129"/>
+      <trkpt lat="37.1738356" lon="-121.4400684"/>
+      <trkpt lat="37.1740527" lon="-121.440408"/>
+      <trkpt lat="37.1745197" lon="-121.4411282"/>
+      <trkpt lat="37.1751532" lon="-121.4416381"/>
+      <trkpt lat="37.175237" lon="-121.4421422"/>
+      <trkpt lat="37.1755693" lon="-121.4424258"/>
+      <trkpt lat="37.17566" lon="-121.4428189"/>
+      <trkpt lat="37.175512" lon="-121.4434957"/>
+      <trkpt lat="37.1757056" lon="-121.4438847"/>
+      <trkpt lat="37.1760732" lon="-121.444125"/>
+      <trkpt lat="37.176654" lon="-121.4447857"/>
+      <trkpt lat="37.1772444" lon="-121.4447698"/>
+      <trkpt lat="37.1779216" lon="-121.4448964"/>
+      <trkpt lat="37.1784304" lon="-121.4449337"/>
+      <trkpt lat="37.178754" lon="-121.4451882"/>
+      <trkpt lat="37.1790923" lon="-121.4452953"/>
+      <trkpt lat="37.1793979" lon="-121.4451475"/>
+      <trkpt lat="37.1796214" lon="-121.4449739"/>
+      <trkpt lat="37.1799118" lon="-121.4450531"/>
+      <trkpt lat="37.1803702" lon="-121.4451252"/>
+      <trkpt lat="37.1806171" lon="-121.4448884"/>
+      <trkpt lat="37.1808382" lon="-121.4450187"/>
+      <trkpt lat="37.1814325" lon="-121.4450995"/>
+      <trkpt lat="37.1816704" lon="-121.4452196"/>
+      <trkpt lat="37.1820891" lon="-121.445251"/>
+      <trkpt lat="37.1824063" lon="-121.4448069"/>
+      <trkpt lat="37.1826812" lon="-121.4438129"/>
+      <trkpt lat="37.1825755" lon="-121.4431784"/>
+      <trkpt lat="37.1830619" lon="-121.4426709"/>
+      <trkpt lat="37.1832311" lon="-121.4421845"/>
+      <trkpt lat="37.1831722" lon="-121.4418229"/>
+    </trkseg>
+  </trk>
+</gpx>

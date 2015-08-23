@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Eagle Pines Trail 1</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-353976</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Eagle Pines Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Eagle Pines Trail 1</name>
+    <trkseg>
+      <trkpt lat="37.1928048" lon="-121.4646223"/>
+      <trkpt lat="37.1933376" lon="-121.4649267"/>
+      <trkpt lat="37.1936674" lon="-121.4654976"/>
+      <trkpt lat="37.1941241" lon="-121.465764"/>
+      <trkpt lat="37.1945808" lon="-121.4659416"/>
+      <trkpt lat="37.194974" lon="-121.466449"/>
+      <trkpt lat="37.1955829" lon="-121.4669818"/>
+      <trkpt lat="37.1960396" lon="-121.4674639"/>
+      <trkpt lat="37.1963821" lon="-121.46754"/>
+      <trkpt lat="37.1964937" lon="-121.4675543"/>
+    </trkseg>
+  </trk>
+</gpx>

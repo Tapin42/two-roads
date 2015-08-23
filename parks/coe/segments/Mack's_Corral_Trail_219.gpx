@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mack's Corral Trail 219</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347101</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Mack's Corral Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mack's Corral Trail 219</name>
+    <trkseg>
+      <trkpt lat="37.1130653" lon="-121.3572425"/>
+      <trkpt lat="37.1128505" lon="-121.357448"/>
+      <trkpt lat="37.1127328" lon="-121.3577455"/>
+      <trkpt lat="37.1129185" lon="-121.3580506"/>
+      <trkpt lat="37.1134161" lon="-121.3580904"/>
+      <trkpt lat="37.1135621" lon="-121.3583293"/>
+      <trkpt lat="37.1135687" lon="-121.3585217"/>
+      <trkpt lat="37.1137345" lon="-121.3585416"/>
+      <trkpt lat="37.1138142" lon="-121.3583094"/>
+      <trkpt lat="37.1140464" lon="-121.3586079"/>
+      <trkpt lat="37.1141658" lon="-121.3584951"/>
+      <trkpt lat="37.1140464" lon="-121.3580506"/>
+      <trkpt lat="37.1144776" lon="-121.3582895"/>
+      <trkpt lat="37.1146766" lon="-121.3584222"/>
+      <trkpt lat="37.1147363" lon="-121.358389"/>
+      <trkpt lat="37.1145904" lon="-121.3581236"/>
+      <trkpt lat="37.1149353" lon="-121.3581236"/>
+      <trkpt lat="37.1150468" lon="-121.3581395"/>
+      <trkpt lat="37.1150468" lon="-121.3579564"/>
+      <trkpt lat="37.1154449" lon="-121.3575026"/>
+      <trkpt lat="37.1156439" lon="-121.3571285"/>
+      <trkpt lat="37.115827" lon="-121.3569215"/>
+      <trkpt lat="37.1159623" lon="-121.3569852"/>
+      <trkpt lat="37.1159942" lon="-121.3572399"/>
+      <trkpt lat="37.1160419" lon="-121.3575743"/>
+      <trkpt lat="37.1163683" lon="-121.3580281"/>
+      <trkpt lat="37.1165515" lon="-121.3585296"/>
+      <trkpt lat="37.1168381" lon="-121.3587446"/>
+      <trkpt lat="37.1169256" lon="-121.3587446"/>
+      <trkpt lat="37.117252" lon="-121.3582271"/>
+      <trkpt lat="37.1177724" lon="-121.3581159"/>
+      <trkpt lat="37.1181255" lon="-121.3581159"/>
+      <trkpt lat="37.1186391" lon="-121.3577949"/>
+      <trkpt lat="37.1193988" lon="-121.3574525"/>
+      <trkpt lat="37.1202976" lon="-121.35665"/>
+      <trkpt lat="37.1209246" lon="-121.3560663"/>
+      <trkpt lat="37.1214459" lon="-121.3553472"/>
+      <trkpt lat="37.1219132" lon="-121.3550956"/>
+      <trkpt lat="37.1224525" lon="-121.3546821"/>
+      <trkpt lat="37.1230277" lon="-121.3545383"/>
+    </trkseg>
+  </trk>
+</gpx>

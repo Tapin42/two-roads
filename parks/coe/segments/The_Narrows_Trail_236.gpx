@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>The Narrows Trail 236</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347065</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>The Narrows Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>The Narrows Trail 236</name>
+    <trkseg>
+      <trkpt lat="37.174088" lon="-121.481156"/>
+      <trkpt lat="37.1742677" lon="-121.481076"/>
+      <trkpt lat="37.1745823" lon="-121.4809044"/>
+      <trkpt lat="37.1749038" lon="-121.4806898"/>
+      <trkpt lat="37.1750611" lon="-121.4805095"/>
+      <trkpt lat="37.1750884" lon="-121.4802091"/>
+      <trkpt lat="37.1750132" lon="-121.4798658"/>
+      <trkpt lat="37.1748149" lon="-121.4795912"/>
+      <trkpt lat="37.174808" lon="-121.4792822"/>
+      <trkpt lat="37.1747308" lon="-121.478787"/>
+    </trkseg>
+  </trk>
+</gpx>

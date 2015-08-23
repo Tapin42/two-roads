@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Spring trail 144</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347261</twr:id>
+    <attrs>
+      <twr:highway>path</twr:highway>
+      <twr:name>Spring trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Spring trail 144</name>
+    <trkseg>
+      <trkpt lat="37.1187377" lon="-121.366073"/>
+      <trkpt lat="37.1187334" lon="-121.3665826"/>
+      <trkpt lat="37.1187582" lon="-121.367005"/>
+    </trkseg>
+  </trk>
+</gpx>

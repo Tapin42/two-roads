@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 63</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347429</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 63</name>
+    <trkseg>
+      <trkpt lat="37.0379439" lon="-121.4241284"/>
+      <trkpt lat="37.0364514" lon="-121.4224072"/>
+      <trkpt lat="37.0364385" lon="-121.4222892"/>
+      <trkpt lat="37.0364471" lon="-121.4218172"/>
+      <trkpt lat="37.0363614" lon="-121.4217761"/>
+      <trkpt lat="37.0358004" lon="-121.4216956"/>
+    </trkseg>
+  </trk>
+</gpx>

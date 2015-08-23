@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Robison Mountain Trail 73</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347407</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Robison Mountain Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Robison Mountain Trail 73</name>
+    <trkseg>
+      <trkpt lat="37.2610633" lon="-121.3712497"/>
+      <trkpt lat="37.2608173" lon="-121.3710523"/>
+      <trkpt lat="37.2603392" lon="-121.3700481"/>
+      <trkpt lat="37.2594374" lon="-121.3688808"/>
+      <trkpt lat="37.2589251" lon="-121.367662"/>
+      <trkpt lat="37.2585152" lon="-121.3664604"/>
+      <trkpt lat="37.2582215" lon="-121.3658167"/>
+      <trkpt lat="37.2584127" lon="-121.3651729"/>
+      <trkpt lat="37.2589729" lon="-121.3642975"/>
+      <trkpt lat="37.2589934" lon="-121.3635851"/>
+      <trkpt lat="37.2588568" lon="-121.3627268"/>
+      <trkpt lat="37.2582898" lon="-121.3619972"/>
+      <trkpt lat="37.2577638" lon="-121.3615509"/>
+      <trkpt lat="37.2571011" lon="-121.3614135"/>
+      <trkpt lat="37.2567049" lon="-121.3609672"/>
+      <trkpt lat="37.2566366" lon="-121.3602634"/>
+      <trkpt lat="37.2564453" lon="-121.3596798"/>
+      <trkpt lat="37.2559671" lon="-121.3585468"/>
+      <trkpt lat="37.2556938" lon="-121.3580061"/>
+      <trkpt lat="37.254874" lon="-121.3575168"/>
+      <trkpt lat="37.2544641" lon="-121.3573623"/>
+      <trkpt lat="37.2541362" lon="-121.3567787"/>
+      <trkpt lat="37.2538082" lon="-121.3563324"/>
+      <trkpt lat="37.253453" lon="-121.3553882"/>
+      <trkpt lat="37.2531592" lon="-121.3545299"/>
+      <trkpt lat="37.2530704" lon="-121.3535171"/>
+      <trkpt lat="37.2529884" lon="-121.353088"/>
+      <trkpt lat="37.2527015" lon="-121.3524271"/>
+      <trkpt lat="37.2527288" lon="-121.3519378"/>
+      <trkpt lat="37.2523189" lon="-121.3513971"/>
+      <trkpt lat="37.2518612" lon="-121.3512254"/>
+      <trkpt lat="37.2514307" lon="-121.3511825"/>
+      <trkpt lat="37.2511096" lon="-121.3509422"/>
+      <trkpt lat="37.2509935" lon="-121.3506504"/>
+      <trkpt lat="37.2510409" lon="-121.350345"/>
+    </trkseg>
+  </trk>
+</gpx>

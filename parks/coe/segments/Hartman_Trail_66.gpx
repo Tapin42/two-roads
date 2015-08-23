@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Hartman Trail 66</name>
+    <twr:source>osm</twr:source>
+    <twr:type>footway</twr:type>
+    <twr:id>-347421</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>footway</twr:highway>
+      <twr:name>Hartman Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Hartman Trail 66</name>
+    <trkseg>
+      <trkpt lat="37.1974378" lon="-121.4130636"/>
+      <trkpt lat="37.1974248" lon="-121.4127285"/>
+      <trkpt lat="37.1974105" lon="-121.4122123"/>
+      <trkpt lat="37.1975539" lon="-121.4117965"/>
+      <trkpt lat="37.1976112" lon="-121.4113377"/>
+      <trkpt lat="37.1977403" lon="-121.41118"/>
+      <trkpt lat="37.198027" lon="-121.4111226"/>
+      <trkpt lat="37.1981991" lon="-121.4107355"/>
+      <trkpt lat="37.1983425" lon="-121.4102336"/>
+      <trkpt lat="37.1980987" lon="-121.4088142"/>
+      <trkpt lat="37.1981704" lon="-121.4085131"/>
+      <trkpt lat="37.1980557" lon="-121.4080256"/>
+      <trkpt lat="37.1981274" lon="-121.4076241"/>
+      <trkpt lat="37.1980414" lon="-121.4068498"/>
+      <trkpt lat="37.1990594" lon="-121.4058748"/>
+      <trkpt lat="37.1995612" lon="-121.4046704"/>
+      <trkpt lat="37.1996759" lon="-121.4044554"/>
+      <trkpt lat="37.199891" lon="-121.4044267"/>
+      <trkpt lat="37.2001778" lon="-121.404484"/>
+      <trkpt lat="37.2006366" lon="-121.404312"/>
+      <trkpt lat="37.2010811" lon="-121.4044984"/>
+      <trkpt lat="37.2013678" lon="-121.4046274"/>
+      <trkpt lat="37.2015255" lon="-121.404441"/>
+      <trkpt lat="37.2013965" lon="-121.4040682"/>
+      <trkpt lat="37.2014539" lon="-121.4036524"/>
+      <trkpt lat="37.201841" lon="-121.4031936"/>
+      <trkpt lat="37.2020704" lon="-121.4026774"/>
+      <trkpt lat="37.2020561" lon="-121.402319"/>
+      <trkpt lat="37.2018123" lon="-121.4016021"/>
+      <trkpt lat="37.2017119" lon="-121.4009138"/>
+      <trkpt lat="37.2017406" lon="-121.399566"/>
+      <trkpt lat="37.2015542" lon="-121.3991359"/>
+      <trkpt lat="37.200866" lon="-121.3982469"/>
+      <trkpt lat="37.2006079" lon="-121.3977021"/>
+      <trkpt lat="37.2002638" lon="-121.3957807"/>
+      <trkpt lat="37.2002638" lon="-121.3950638"/>
+      <trkpt lat="37.1999914" lon="-121.3938164"/>
+      <trkpt lat="37.1995756" lon="-121.3930278"/>
+      <trkpt lat="37.1993892" lon="-121.392526"/>
+      <trkpt lat="37.1994035" lon="-121.3921532"/>
+      <trkpt lat="37.1997046" lon="-121.3920098"/>
+      <trkpt lat="37.1998193" lon="-121.391723"/>
+      <trkpt lat="37.2000487" lon="-121.3909058"/>
+      <trkpt lat="37.2000344" lon="-121.3903896"/>
+      <trkpt lat="37.2000344" lon="-121.3898017"/>
+      <trkpt lat="37.1996616" lon="-121.3891995"/>
+      <trkpt lat="37.1994895" lon="-121.388712"/>
+      <trkpt lat="37.1989303" lon="-121.3883536"/>
+      <trkpt lat="37.1986436" lon="-121.3884683"/>
+      <trkpt lat="37.1982708" lon="-121.3881958"/>
+      <trkpt lat="37.197984" lon="-121.3880381"/>
+      <trkpt lat="37.1976112" lon="-121.3874646"/>
+      <trkpt lat="37.1975539" lon="-121.3869914"/>
+      <trkpt lat="37.1976542" lon="-121.3865326"/>
+      <trkpt lat="37.1975969" lon="-121.3858444"/>
+      <trkpt lat="37.1972384" lon="-121.3856436"/>
+      <trkpt lat="37.1972098" lon="-121.3848694"/>
+      <trkpt lat="37.1969803" lon="-121.3844536"/>
+      <trkpt lat="37.1964642" lon="-121.3841381"/>
+    </trkseg>
+  </trk>
+</gpx>

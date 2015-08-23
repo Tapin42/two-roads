@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cross Canyon Trail 89</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347375</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Cross Canyon Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cross Canyon Trail 89</name>
+    <trkseg>
+      <trkpt lat="37.1385413" lon="-121.4695579"/>
+      <trkpt lat="37.1389077" lon="-121.4694418"/>
+      <trkpt lat="37.1391272" lon="-121.4693272"/>
+      <trkpt lat="37.1392322" lon="-121.4692462"/>
+    </trkseg>
+  </trk>
+</gpx>

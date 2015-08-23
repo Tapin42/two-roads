@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Rose Dam Trail 276</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346983</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Rose Dam Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Rose Dam Trail 276</name>
+    <trkseg>
+      <trkpt lat="37.1535068" lon="-121.4355808"/>
+      <trkpt lat="37.1542087" lon="-121.4349548"/>
+      <trkpt lat="37.1543225" lon="-121.4347651"/>
+      <trkpt lat="37.1542656" lon="-121.4344046"/>
+      <trkpt lat="37.1538103" lon="-121.4336648"/>
+      <trkpt lat="37.1534878" lon="-121.4327922"/>
+      <trkpt lat="37.1532602" lon="-121.4320713"/>
+      <trkpt lat="37.1528049" lon="-121.4312936"/>
+      <trkpt lat="37.1535447" lon="-121.4313695"/>
+      <trkpt lat="37.1537344" lon="-121.4315591"/>
+      <trkpt lat="37.154019" lon="-121.4314643"/>
+      <trkpt lat="37.1543415" lon="-121.4306107"/>
+      <trkpt lat="37.1545312" lon="-121.4304399"/>
+      <trkpt lat="37.1548726" lon="-121.4298898"/>
+      <trkpt lat="37.155271" lon="-121.429776"/>
+      <trkpt lat="37.1553659" lon="-121.429131"/>
+      <trkpt lat="37.1554417" lon="-121.4290923"/>
+      <trkpt lat="37.1556724" lon="-121.4293351"/>
+      <trkpt lat="37.1558242" lon="-121.4293169"/>
+      <trkpt lat="37.1561823" lon="-121.4286734"/>
+      <trkpt lat="37.1560392" lon="-121.4277374"/>
+      <trkpt lat="37.1560914" lon="-121.4270847"/>
+      <trkpt lat="37.1554388" lon="-121.426667"/>
+      <trkpt lat="37.1549427" lon="-121.4255444"/>
+      <trkpt lat="37.1548819" lon="-121.4254759"/>
+      <trkpt lat="37.1546547" lon="-121.4255427"/>
+      <trkpt lat="37.1544275" lon="-121.4254224"/>
+    </trkseg>
+  </trk>
+</gpx>

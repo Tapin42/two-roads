@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mustang Pond Trail 253</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347029</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Mustang Pond Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mustang Pond Trail 253</name>
+    <trkseg>
+      <trkpt lat="37.214755" lon="-121.36515"/>
+      <trkpt lat="37.2141252" lon="-121.3642238"/>
+      <trkpt lat="37.2137664" lon="-121.3641594"/>
+      <trkpt lat="37.2135784" lon="-121.3639556"/>
+      <trkpt lat="37.2134331" lon="-121.3636981"/>
+      <trkpt lat="37.2131084" lon="-121.3635157"/>
+      <trkpt lat="37.2127496" lon="-121.3628612"/>
+      <trkpt lat="37.2124164" lon="-121.3623033"/>
+      <trkpt lat="37.2119037" lon="-121.3617883"/>
+      <trkpt lat="37.2117157" lon="-121.3616489"/>
+      <trkpt lat="37.2118182" lon="-121.3614343"/>
+      <trkpt lat="37.2123565" lon="-121.3613377"/>
+      <trkpt lat="37.2127325" lon="-121.3610373"/>
+      <trkpt lat="37.2125616" lon="-121.3599966"/>
+      <trkpt lat="37.2122711" lon="-121.3597713"/>
+      <trkpt lat="37.2113483" lon="-121.3599966"/>
+    </trkseg>
+  </trk>
+</gpx>

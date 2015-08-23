@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mt Sizer Road 30</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347499</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Mt Sizer Road</twr:name>
+      <twr:surface>dirt</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mt Sizer Road 30</name>
+    <trkseg>
+      <trkpt lat="37.2142018" lon="-121.5146213"/>
+      <trkpt lat="37.2141797" lon="-121.5144524"/>
+      <trkpt lat="37.2140157" lon="-121.5142636"/>
+      <trkpt lat="37.2139063" lon="-121.5140233"/>
+      <trkpt lat="37.2139268" lon="-121.5138688"/>
+      <trkpt lat="37.2139952" lon="-121.5137486"/>
+      <trkpt lat="37.2141661" lon="-121.5136542"/>
+    </trkseg>
+  </trk>
+</gpx>

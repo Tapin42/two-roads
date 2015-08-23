@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Fitzgerald Ridge Road 192</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347163</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Fitzgerald Ridge Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Fitzgerald Ridge Road 192</name>
+    <trkseg>
+      <trkpt lat="37.1524864" lon="-121.5341519"/>
+      <trkpt lat="37.1522675" lon="-121.5339459"/>
+      <trkpt lat="37.1520349" lon="-121.5335425"/>
+      <trkpt lat="37.1518228" lon="-121.5333451"/>
+      <trkpt lat="37.1515081" lon="-121.5333365"/>
+      <trkpt lat="37.1512618" lon="-121.5333536"/>
+      <trkpt lat="37.1510361" lon="-121.5329159"/>
+      <trkpt lat="37.1505435" lon="-121.531843"/>
+      <trkpt lat="37.1500852" lon="-121.531534"/>
+      <trkpt lat="37.1496268" lon="-121.5312508"/>
+      <trkpt lat="37.1491958" lon="-121.5307959"/>
+      <trkpt lat="37.1489837" lon="-121.5302895"/>
+      <trkpt lat="37.1488059" lon="-121.5301522"/>
+      <trkpt lat="37.1483817" lon="-121.5298603"/>
+      <trkpt lat="37.1481953" lon="-121.5296211"/>
+      <trkpt lat="37.1481132" lon="-121.5291748"/>
+      <trkpt lat="37.1479695" lon="-121.5287542"/>
+      <trkpt lat="37.147689" lon="-121.5285139"/>
+      <trkpt lat="37.1472306" lon="-121.5284366"/>
+      <trkpt lat="37.1468406" lon="-121.5281706"/>
+      <trkpt lat="37.146697" lon="-121.5276212"/>
+      <trkpt lat="37.1467368" lon="-121.5271472"/>
+      <trkpt lat="37.146478" lon="-121.5266514"/>
+      <trkpt lat="37.1463298" lon="-121.5260196"/>
+      <trkpt lat="37.1460812" lon="-121.5254926"/>
+      <trkpt lat="37.145917" lon="-121.5249605"/>
+      <trkpt lat="37.145821" lon="-121.5245151"/>
+      <trkpt lat="37.1455681" lon="-121.5239305"/>
+      <trkpt lat="37.1451234" lon="-121.5238275"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willson Peak Summit Trail 125</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347299</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Willson Peak Summit Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willson Peak Summit Trail 125</name>
+    <trkseg>
+      <trkpt lat="37.0946907" lon="-121.4343022"/>
+      <trkpt lat="37.0948204" lon="-121.4345178"/>
+      <trkpt lat="37.0949288" lon="-121.4349012"/>
+      <trkpt lat="37.0950872" lon="-121.4350679"/>
+      <trkpt lat="37.095263" lon="-121.4351754"/>
+      <trkpt lat="37.0953766" lon="-121.4351437"/>
+      <trkpt lat="37.0954621" lon="-121.4347682"/>
+      <trkpt lat="37.0955643" lon="-121.4346213"/>
+    </trkseg>
+  </trk>
+</gpx>

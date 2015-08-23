@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Gilroy Hot Springs Road 40</name>
+    <twr:source>osm</twr:source>
+    <twr:type>unclassified</twr:type>
+    <twr:id>-347479</twr:id>
+    <attrs>
+      <twr:highway>unclassified</twr:highway>
+      <twr:lanes>2</twr:lanes>
+      <twr:name>Gilroy Hot Springs Road</twr:name>
+      <twr:name_1>Hot Springs Road</twr:name_1>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.name_base>Gilroy Hot Springs</twr:tiger.name_base>
+      <twr:tiger.name_base_1>Hot Springs</twr:tiger.name_base_1>
+      <twr:tiger.name_type>Rd</twr:tiger.name_type>
+      <twr:tiger.name_type_1>Rd</twr:tiger.name_type_1>
+      <twr:tiger.reviewed>yes</twr:tiger.reviewed>
+      <twr:tiger.zip_left>95020</twr:tiger.zip_left>
+      <twr:tiger.zip_right>95020</twr:tiger.zip_right>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Gilroy Hot Springs Road 40</name>
+    <trkseg>
+      <trkpt lat="37.1088153" lon="-121.4788374"/>
+      <trkpt lat="37.1087169" lon="-121.4785316"/>
+      <trkpt lat="37.1085757" lon="-121.478199"/>
+      <trkpt lat="37.1084859" lon="-121.4780971"/>
+      <trkpt lat="37.1084148" lon="-121.4780643"/>
+      <trkpt lat="37.1083233" lon="-121.478022"/>
+      <trkpt lat="37.1081907" lon="-121.4781186"/>
+      <trkpt lat="37.1080452" lon="-121.4782902"/>
+      <trkpt lat="37.1078955" lon="-121.478317"/>
+      <trkpt lat="37.107736" lon="-121.478292"/>
+      <trkpt lat="37.107394" lon="-121.478096"/>
+      <trkpt lat="37.107205" lon="-121.477891"/>
+      <trkpt lat="37.107129" lon="-121.477706"/>
+      <trkpt lat="37.107041" lon="-121.477649"/>
+      <trkpt lat="37.106638" lon="-121.477623"/>
+      <trkpt lat="37.106104" lon="-121.477467"/>
+      <trkpt lat="37.1059232" lon="-121.4772173"/>
+      <trkpt lat="37.1059489" lon="-121.4770135"/>
+      <trkpt lat="37.105934" lon="-121.476443"/>
+      <trkpt lat="37.105795" lon="-121.475885"/>
+      <trkpt lat="37.105655" lon="-121.475727"/>
+      <trkpt lat="37.105269" lon="-121.475464"/>
+      <trkpt lat="37.105119" lon="-121.475162"/>
+      <trkpt lat="37.104616" lon="-121.474501"/>
+      <trkpt lat="37.1043574" lon="-121.4742294"/>
+      <trkpt lat="37.1040665" lon="-121.4741113"/>
+      <trkpt lat="37.1038825" lon="-121.4740738"/>
+      <trkpt lat="37.1034632" lon="-121.4741113"/>
+      <trkpt lat="37.1032921" lon="-121.4737627"/>
+      <trkpt lat="37.102697" lon="-121.473479"/>
+      <trkpt lat="37.1020856" lon="-121.4731511"/>
+      <trkpt lat="37.1019615" lon="-121.4730224"/>
+    </trkseg>
+  </trk>
+</gpx>

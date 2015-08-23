@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>The Narrows Trail 226</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347087</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>The Narrows Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>The Narrows Trail 226</name>
+    <trkseg>
+      <trkpt lat="37.1910146" lon="-121.4690767"/>
+      <trkpt lat="37.1905542" lon="-121.4691052"/>
+      <trkpt lat="37.1904686" lon="-121.469143"/>
+      <trkpt lat="37.1899502" lon="-121.4690952"/>
+      <trkpt lat="37.1895501" lon="-121.4691581"/>
+      <trkpt lat="37.1891424" lon="-121.4693921"/>
+      <trkpt lat="37.1889562" lon="-121.4693594"/>
+      <trkpt lat="37.1887196" lon="-121.4694953"/>
+      <trkpt lat="37.187707" lon="-121.469339"/>
+      <trkpt lat="37.1867375" lon="-121.4695234"/>
+      <trkpt lat="37.1857509" lon="-121.4693363"/>
+      <trkpt lat="37.1850356" lon="-121.4691119"/>
+      <trkpt lat="37.183834" lon="-121.4690184"/>
+      <trkpt lat="37.1834225" lon="-121.4691447"/>
+      <trkpt lat="37.1830417" lon="-121.4696176"/>
+      <trkpt lat="37.1819877" lon="-121.4703896"/>
+      <trkpt lat="37.1812989" lon="-121.4711156"/>
+      <trkpt lat="37.1810942" lon="-121.4721208"/>
+      <trkpt lat="37.1812307" lon="-121.4730143"/>
+      <trkpt lat="37.1809825" lon="-121.4735603"/>
+      <trkpt lat="37.1804675" lon="-121.4740505"/>
+      <trkpt lat="37.1801634" lon="-121.4742801"/>
+      <trkpt lat="37.1798656" lon="-121.4744725"/>
+      <trkpt lat="37.1795181" lon="-121.4745097"/>
+      <trkpt lat="37.1793754" lon="-121.474578"/>
+      <trkpt lat="37.1792016" lon="-121.4749813"/>
+      <trkpt lat="37.1791028" lon="-121.475128"/>
+      <trkpt lat="37.1788604" lon="-121.4751736"/>
+      <trkpt lat="37.1786788" lon="-121.4752567"/>
+      <trkpt lat="37.1785439" lon="-121.4755087"/>
+      <trkpt lat="37.1784695" lon="-121.4759493"/>
+      <trkpt lat="37.1784046" lon="-121.4761089"/>
+      <trkpt lat="37.1780723" lon="-121.4766876"/>
+      <trkpt lat="37.1777931" lon="-121.4768676"/>
+      <trkpt lat="37.1775139" lon="-121.4769917"/>
+      <trkpt lat="37.1766018" lon="-121.4769172"/>
+      <trkpt lat="37.1757765" lon="-121.4771344"/>
+      <trkpt lat="37.1753173" lon="-121.4772399"/>
+      <trkpt lat="37.1751684" lon="-121.4773516"/>
+      <trkpt lat="37.1749947" lon="-121.4775067"/>
+      <trkpt lat="37.1749273" lon="-121.4775677"/>
+    </trkseg>
+  </trk>
+</gpx>

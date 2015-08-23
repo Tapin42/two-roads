@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 37</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347485</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 37</name>
+    <trkseg>
+      <trkpt lat="37.1983347" lon="-121.4206825"/>
+      <trkpt lat="37.1982595" lon="-121.4207083"/>
+      <trkpt lat="37.1981638" lon="-121.4208456"/>
+      <trkpt lat="37.1981091" lon="-121.4211117"/>
+      <trkpt lat="37.1980818" lon="-121.4213348"/>
+      <trkpt lat="37.1980954" lon="-121.4215408"/>
+      <trkpt lat="37.1979929" lon="-121.4215666"/>
+      <trkpt lat="37.1979313" lon="-121.4214636"/>
+      <trkpt lat="37.1978151" lon="-121.4212576"/>
+      <trkpt lat="37.197651" lon="-121.4210344"/>
+      <trkpt lat="37.1976168" lon="-121.4209143"/>
+      <trkpt lat="37.1976442" lon="-121.4206396"/>
+      <trkpt lat="37.1975895" lon="-121.4204508"/>
+      <trkpt lat="37.1973981" lon="-121.4199358"/>
+      <trkpt lat="37.1973297" lon="-121.4194552"/>
+      <trkpt lat="37.1972818" lon="-121.4188028"/>
+      <trkpt lat="37.1973092" lon="-121.4180132"/>
+      <trkpt lat="37.1974459" lon="-121.4175154"/>
+      <trkpt lat="37.1975553" lon="-121.4172665"/>
+      <trkpt lat="37.1975075" lon="-121.4170776"/>
+      <trkpt lat="37.1975553" lon="-121.4167944"/>
+      <trkpt lat="37.1976305" lon="-121.4165541"/>
+      <trkpt lat="37.1976374" lon="-121.4162365"/>
+      <trkpt lat="37.1975895" lon="-121.4159533"/>
+      <trkpt lat="37.1976305" lon="-121.4158932"/>
+      <trkpt lat="37.1977536" lon="-121.415876"/>
+      <trkpt lat="37.197904" lon="-121.4156357"/>
+      <trkpt lat="37.197945" lon="-121.4154039"/>
+      <trkpt lat="37.1979655" lon="-121.4149576"/>
+      <trkpt lat="37.1980407" lon="-121.4148375"/>
+      <trkpt lat="37.1983074" lon="-121.4147173"/>
+      <trkpt lat="37.1987107" lon="-121.4146143"/>
+      <trkpt lat="37.1988885" lon="-121.4145199"/>
+      <trkpt lat="37.1989842" lon="-121.4143826"/>
+    </trkseg>
+  </trk>
+</gpx>

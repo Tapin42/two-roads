@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 68</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347417</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 68</name>
+    <trkseg>
+      <trkpt lat="37.1007402" lon="-121.4719625"/>
+      <trkpt lat="37.1009626" lon="-121.4718391"/>
+      <trkpt lat="37.1013092" lon="-121.4718069"/>
+      <trkpt lat="37.1015959" lon="-121.4717211"/>
+      <trkpt lat="37.1017199" lon="-121.4716192"/>
+      <trkpt lat="37.1019253" lon="-121.4716514"/>
+      <trkpt lat="37.102066" lon="-121.4717191"/>
+    </trkseg>
+  </trk>
+</gpx>

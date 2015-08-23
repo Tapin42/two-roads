@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Seven Oaks Trail 166</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347217</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Seven Oaks Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Seven Oaks Trail 166</name>
+    <trkseg>
+      <trkpt lat="37.112199" lon="-121.3569132"/>
+      <trkpt lat="37.1120536" lon="-121.3563865"/>
+      <trkpt lat="37.1119299" lon="-121.3560478"/>
+      <trkpt lat="37.1118059" lon="-121.355734"/>
+      <trkpt lat="37.1116734" lon="-121.3556424"/>
+      <trkpt lat="37.1115617" lon="-121.3555497"/>
+      <trkpt lat="37.1114756" lon="-121.355182"/>
+      <trkpt lat="37.1113144" lon="-121.3551162"/>
+      <trkpt lat="37.111109" lon="-121.3554007"/>
+      <trkpt lat="37.1108352" lon="-121.355305"/>
+      <trkpt lat="37.1106162" lon="-121.3552449"/>
+      <trkpt lat="37.1103079" lon="-121.3552372"/>
+      <trkpt lat="37.1100813" lon="-121.3549703"/>
+      <trkpt lat="37.1099865" lon="-121.3549273"/>
+      <trkpt lat="37.1093665" lon="-121.3549669"/>
+    </trkseg>
+  </trk>
+</gpx>

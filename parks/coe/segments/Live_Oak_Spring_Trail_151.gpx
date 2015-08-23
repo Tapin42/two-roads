@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Live Oak Spring Trail 151</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347247</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:name>Live Oak Spring Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Live Oak Spring Trail 151</name>
+    <trkseg>
+      <trkpt lat="37.1361882" lon="-121.4147573"/>
+      <trkpt lat="37.1364342" lon="-121.4147"/>
+      <trkpt lat="37.1368875" lon="-121.414818"/>
+      <trkpt lat="37.1370959" lon="-121.4150071"/>
+      <trkpt lat="37.1371985" lon="-121.4153343"/>
+      <trkpt lat="37.1373482" lon="-121.4157796"/>
+      <trkpt lat="37.137515" lon="-121.4160907"/>
+      <trkpt lat="37.1376262" lon="-121.4161551"/>
+      <trkpt lat="37.1377547" lon="-121.416098"/>
+      <trkpt lat="37.1379994" lon="-121.4161055"/>
+      <trkpt lat="37.1382816" lon="-121.4161162"/>
+      <trkpt lat="37.1383404" lon="-121.4161444"/>
+      <trkpt lat="37.138353" lon="-121.4162947"/>
+      <trkpt lat="37.1383959" lon="-121.416434"/>
+      <trkpt lat="37.1384943" lon="-121.416375"/>
+      <trkpt lat="37.1387948" lon="-121.4163844"/>
+      <trkpt lat="37.1388877" lon="-121.4164394"/>
+      <trkpt lat="37.1390759" lon="-121.4166271"/>
+      <trkpt lat="37.139217" lon="-121.4163697"/>
+      <trkpt lat="37.1393539" lon="-121.4163536"/>
+      <trkpt lat="37.1394993" lon="-121.4163911"/>
+      <trkpt lat="37.13971" lon="-121.4164059"/>
+      <trkpt lat="37.1399922" lon="-121.4164488"/>
+      <trkpt lat="37.140206" lon="-121.4166955"/>
+      <trkpt lat="37.1404455" lon="-121.4166204"/>
+      <trkpt lat="37.1407192" lon="-121.4168243"/>
+      <trkpt lat="37.1407864" lon="-121.417008"/>
+      <trkpt lat="37.140765" lon="-121.4172655"/>
+      <trkpt lat="37.1408377" lon="-121.4173353"/>
+      <trkpt lat="37.141043" lon="-121.417523"/>
+      <trkpt lat="37.1411297" lon="-121.4175324"/>
+      <trkpt lat="37.1415433" lon="-121.4177"/>
+    </trkseg>
+  </trk>
+</gpx>

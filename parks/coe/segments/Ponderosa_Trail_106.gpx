@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Ponderosa Trail 106</name>
+    <twr:source>osm</twr:source>
+    <twr:type>footway</twr:type>
+    <twr:id>-347337</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:highway>footway</twr:highway>
+      <twr:name>Ponderosa Trail</twr:name>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Ponderosa Trail 106</name>
+    <trkseg>
+      <trkpt lat="37.1917193" lon="-121.5426429"/>
+      <trkpt lat="37.1918834" lon="-121.5428152"/>
+      <trkpt lat="37.1920176" lon="-121.5429403"/>
+      <trkpt lat="37.1920031" lon="-121.5431217"/>
+      <trkpt lat="37.1919414" lon="-121.5432214"/>
+      <trkpt lat="37.191867" lon="-121.5432831"/>
+      <trkpt lat="37.191887" lon="-121.5433955"/>
+      <trkpt lat="37.1918471" lon="-121.5434826"/>
+      <trkpt lat="37.1918507" lon="-121.5435878"/>
+      <trkpt lat="37.1917619" lon="-121.5438181"/>
+      <trkpt lat="37.191702" lon="-121.5439432"/>
+      <trkpt lat="37.191731" lon="-121.5440811"/>
+      <trkpt lat="37.1917528" lon="-121.5442733"/>
+      <trkpt lat="37.1917238" lon="-121.5445018"/>
+      <trkpt lat="37.191672" lon="-121.5446568"/>
+      <trkpt lat="37.1916719" lon="-121.5446569"/>
+      <trkpt lat="37.1915077" lon="-121.5451439"/>
+      <trkpt lat="37.191371" lon="-121.5455087"/>
+      <trkpt lat="37.1912855" lon="-121.5460451"/>
+      <trkpt lat="37.1912855" lon="-121.5463455"/>
+      <trkpt lat="37.1913368" lon="-121.5467103"/>
+      <trkpt lat="37.1915419" lon="-121.5469893"/>
+      <trkpt lat="37.191747" lon="-121.5472253"/>
+      <trkpt lat="37.1918838" lon="-121.5474184"/>
+      <trkpt lat="37.1919692" lon="-121.5477403"/>
+      <trkpt lat="37.1919521" lon="-121.5484484"/>
+      <trkpt lat="37.1920034" lon="-121.5486415"/>
+      <trkpt lat="37.1919521" lon="-121.5488346"/>
+      <trkpt lat="37.1919692" lon="-121.5490278"/>
+      <trkpt lat="37.1920376" lon="-121.5493067"/>
+      <trkpt lat="37.1921231" lon="-121.5495642"/>
+      <trkpt lat="37.1922769" lon="-121.5498217"/>
+      <trkpt lat="37.1927043" lon="-121.549929"/>
+      <trkpt lat="37.1929777" lon="-121.5500363"/>
+      <trkpt lat="37.1932341" lon="-121.5502294"/>
+      <trkpt lat="37.1934734" lon="-121.5505512"/>
+      <trkpt lat="37.1935931" lon="-121.5507014"/>
+      <trkpt lat="37.1940033" lon="-121.55068"/>
+      <trkpt lat="37.1942255" lon="-121.5505727"/>
+      <trkpt lat="37.1941914" lon="-121.5502723"/>
+      <trkpt lat="37.1941401" lon="-121.5500148"/>
+      <trkpt lat="37.1940375" lon="-121.5498431"/>
+      <trkpt lat="37.1936444" lon="-121.5497359"/>
+      <trkpt lat="37.1933196" lon="-121.5493925"/>
+      <trkpt lat="37.1928068" lon="-121.5492209"/>
+      <trkpt lat="37.1926701" lon="-121.5490278"/>
+      <trkpt lat="37.1928581" lon="-121.5484913"/>
+      <trkpt lat="37.1929607" lon="-121.5480622"/>
+      <trkpt lat="37.1928752" lon="-121.547633"/>
+      <trkpt lat="37.1926872" lon="-121.5473111"/>
+      <trkpt lat="37.1925846" lon="-121.5472897"/>
+      <trkpt lat="37.1923453" lon="-121.5475043"/>
+      <trkpt lat="37.1921402" lon="-121.5475257"/>
+      <trkpt lat="37.1918838" lon="-121.5474184"/>
+    </trkseg>
+  </trk>
+</gpx>

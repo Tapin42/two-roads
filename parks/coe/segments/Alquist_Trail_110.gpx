@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Alquist Trail 110</name>
+    <twr:source>osm</twr:source>
+    <twr:type>footway</twr:type>
+    <twr:id>-347329</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>footway</twr:highway>
+      <twr:name>Alquist Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Alquist Trail 110</name>
+    <trkseg>
+      <trkpt lat="37.1713075" lon="-121.4092088"/>
+      <trkpt lat="37.1715583" lon="-121.4093604"/>
+      <trkpt lat="37.1717814" lon="-121.4093406"/>
+      <trkpt lat="37.1723446" lon="-121.4095375"/>
+      <trkpt lat="37.1728263" lon="-121.4092841"/>
+      <trkpt lat="37.1731572" lon="-121.4095177"/>
+      <trkpt lat="37.1729591" lon="-121.4088972"/>
+      <trkpt lat="37.1724931" lon="-121.4087278"/>
+      <trkpt lat="37.17251" lon="-121.4083437"/>
+      <trkpt lat="37.1723462" lon="-121.4083437"/>
+      <trkpt lat="37.1720546" lon="-121.4078602"/>
+      <trkpt lat="37.1722107" lon="-121.4078326"/>
+      <trkpt lat="37.1723095" lon="-121.4080218"/>
+      <trkpt lat="37.1726286" lon="-121.4077281"/>
+      <trkpt lat="37.1730353" lon="-121.4077026"/>
+      <trkpt lat="37.1731859" lon="-121.4079684"/>
+      <trkpt lat="37.1733008" lon="-121.407584"/>
+      <trkpt lat="37.1736467" lon="-121.4075771"/>
+      <trkpt lat="37.1736961" lon="-121.4071632"/>
+      <trkpt lat="37.1730865" lon="-121.4069617"/>
+      <trkpt lat="37.1733827" lon="-121.4067989"/>
+      <trkpt lat="37.173939" lon="-121.4069571"/>
+      <trkpt lat="37.1740564" lon="-121.407285"/>
+      <trkpt lat="37.1741593" lon="-121.4068498"/>
+      <trkpt lat="37.174066" lon="-121.4066136"/>
+      <trkpt lat="37.1743205" lon="-121.4068379"/>
+      <trkpt lat="37.1739797" lon="-121.4062033"/>
+      <trkpt lat="37.1740267" lon="-121.4056157"/>
+      <trkpt lat="37.1742148" lon="-121.4048753"/>
+      <trkpt lat="37.174015" lon="-121.4040174"/>
+      <trkpt lat="37.1735802" lon="-121.4038764"/>
+      <trkpt lat="37.1734039" lon="-121.4029362"/>
+      <trkpt lat="37.1736507" lon="-121.402901"/>
+      <trkpt lat="37.1736507" lon="-121.4027012"/>
+      <trkpt lat="37.1733804" lon="-121.4024191"/>
+      <trkpt lat="37.1737682" lon="-121.4014085"/>
+      <trkpt lat="37.1737564" lon="-121.4010794"/>
+      <trkpt lat="37.1735919" lon="-121.4009384"/>
+      <trkpt lat="37.1733921" lon="-121.4011382"/>
+      <trkpt lat="37.1733451" lon="-121.400386"/>
+      <trkpt lat="37.1731336" lon="-121.4000335"/>
+      <trkpt lat="37.1731806" lon="-121.3993988"/>
+      <trkpt lat="37.1737329" lon="-121.3989758"/>
+      <trkpt lat="37.1732414" lon="-121.3989893"/>
+      <trkpt lat="37.1729591" lon="-121.3986556"/>
+      <trkpt lat="37.1732628" lon="-121.3984822"/>
+      <trkpt lat="37.1730631" lon="-121.3984587"/>
+      <trkpt lat="37.17264" lon="-121.3981884"/>
+      <trkpt lat="37.1722639" lon="-121.3977653"/>
+      <trkpt lat="37.1722052" lon="-121.3981884"/>
+      <trkpt lat="37.1722639" lon="-121.3988112"/>
+      <trkpt lat="37.1719466" lon="-121.3980473"/>
+      <trkpt lat="37.171641" lon="-121.3976125"/>
+      <trkpt lat="37.1715118" lon="-121.3972364"/>
+      <trkpt lat="37.1712885" lon="-121.3966253"/>
+      <trkpt lat="37.1714765" lon="-121.3958849"/>
+      <trkpt lat="37.1715118" lon="-121.3955794"/>
+      <trkpt lat="37.1713526" lon="-121.3955169"/>
+    </trkseg>
+  </trk>
+</gpx>

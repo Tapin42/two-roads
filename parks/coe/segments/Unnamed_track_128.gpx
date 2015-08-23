@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 128</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347293</twr:id>
+    <attrs>
+      <twr:created_by>Potlatch 0.10f</twr:created_by>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 128</name>
+    <trkseg>
+      <trkpt lat="37.176365" lon="-121.5190162"/>
+      <trkpt lat="37.1762562" lon="-121.5190474"/>
+      <trkpt lat="37.1761331" lon="-121.5190731"/>
+      <trkpt lat="37.1760305" lon="-121.5190988"/>
+      <trkpt lat="37.1758937" lon="-121.5191761"/>
+      <trkpt lat="37.1757501" lon="-121.5191933"/>
+      <trkpt lat="37.1756133" lon="-121.5191503"/>
+      <trkpt lat="37.1755108" lon="-121.519116"/>
+      <trkpt lat="37.1753671" lon="-121.5190044"/>
+      <trkpt lat="37.175275" lon="-121.5188833"/>
+      <trkpt lat="37.1752145" lon="-121.518713"/>
+      <trkpt lat="37.1752321" lon="-121.5185646"/>
+      <trkpt lat="37.1752577" lon="-121.518438"/>
+      <trkpt lat="37.1752851" lon="-121.518292"/>
+      <trkpt lat="37.1753398" lon="-121.5181719"/>
+      <trkpt lat="37.175388" lon="-121.5180173"/>
+    </trkseg>
+  </trk>
+</gpx>

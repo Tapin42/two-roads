@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Mt Stakes Trail 245</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347047</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Mt Stakes Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Mt Stakes Trail 245</name>
+    <trkseg>
+      <trkpt lat="37.2801431" lon="-121.4329425"/>
+      <trkpt lat="37.2804691" lon="-121.433041"/>
+      <trkpt lat="37.2807887" lon="-121.4332909"/>
+      <trkpt lat="37.281174" lon="-121.4335139"/>
+      <trkpt lat="37.2816096" lon="-121.4335945"/>
+      <trkpt lat="37.2820453" lon="-121.433675"/>
+      <trkpt lat="37.2824478" lon="-121.433724"/>
+      <trkpt lat="37.283698" lon="-121.4318606"/>
+      <trkpt lat="37.2843357" lon="-121.4310704"/>
+      <trkpt lat="37.2847338" lon="-121.4294617"/>
+      <trkpt lat="37.2851743" lon="-121.428303"/>
+      <trkpt lat="37.2850976" lon="-121.4256661"/>
+      <trkpt lat="37.2855325" lon="-121.4249908"/>
+      <trkpt lat="37.2864611" lon="-121.4232447"/>
+      <trkpt lat="37.2866149" lon="-121.4231595"/>
+      <trkpt lat="37.2867777" lon="-121.4231481"/>
+      <trkpt lat="37.286746" lon="-121.4230742"/>
+      <trkpt lat="37.2865018" lon="-121.4230401"/>
+      <trkpt lat="37.2858867" lon="-121.4235517"/>
+      <trkpt lat="37.285751" lon="-121.4235631"/>
+      <trkpt lat="37.285941" lon="-121.4231026"/>
+      <trkpt lat="37.2859003" lon="-121.422898"/>
+      <trkpt lat="37.2860043" lon="-121.4224716"/>
+      <trkpt lat="37.2861897" lon="-121.4222385"/>
+      <trkpt lat="37.2864204" lon="-121.4220737"/>
+      <trkpt lat="37.2865244" lon="-121.4216814"/>
+      <trkpt lat="37.2867053" lon="-121.4213006"/>
+      <trkpt lat="37.2873114" lon="-121.4209652"/>
+      <trkpt lat="37.2884104" lon="-121.4202508"/>
+      <trkpt lat="37.2887813" lon="-121.4198649"/>
+      <trkpt lat="37.2891779" lon="-121.4190932"/>
+      <trkpt lat="37.2892035" lon="-121.4187073"/>
+      <trkpt lat="37.2888069" lon="-121.4184339"/>
+      <trkpt lat="37.2887302" lon="-121.4181124"/>
+      <trkpt lat="37.2892163" lon="-121.4175818"/>
+      <trkpt lat="37.2892802" lon="-121.417212"/>
+      <trkpt lat="37.2888965" lon="-121.4165206"/>
+      <trkpt lat="37.2885511" lon="-121.4163437"/>
+      <trkpt lat="37.2884871" lon="-121.4158453"/>
+      <trkpt lat="37.2886918" lon="-121.4151539"/>
+      <trkpt lat="37.2887558" lon="-121.4145107"/>
+      <trkpt lat="37.2890116" lon="-121.4139962"/>
+      <trkpt lat="37.2892163" lon="-121.4128868"/>
+      <trkpt lat="37.2890628" lon="-121.4122919"/>
+      <trkpt lat="37.2891907" lon="-121.4114075"/>
+      <trkpt lat="37.2891907" lon="-121.410684"/>
+      <trkpt lat="37.2888581" lon="-121.4094781"/>
+      <trkpt lat="37.2885255" lon="-121.4087224"/>
+      <trkpt lat="37.2878859" lon="-121.4080793"/>
+      <trkpt lat="37.2886534" lon="-121.4073396"/>
+      <trkpt lat="37.2897535" lon="-121.4069377"/>
+      <trkpt lat="37.2942895" lon="-121.4031661"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Paradise Lake Trail 45</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347469</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Paradise Lake Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Paradise Lake Trail 45</name>
+    <trkseg>
+      <trkpt lat="37.2322031" lon="-121.3768071"/>
+      <trkpt lat="37.2325683" lon="-121.3769352"/>
+      <trkpt lat="37.2328751" lon="-121.3769439"/>
+      <trkpt lat="37.2330505" lon="-121.3771368"/>
+      <trkpt lat="37.2334099" lon="-121.3773121"/>
+      <trkpt lat="37.2336728" lon="-121.3773472"/>
+      <trkpt lat="37.2340498" lon="-121.377391"/>
+      <trkpt lat="37.2343566" lon="-121.3771193"/>
+      <trkpt lat="37.2346108" lon="-121.3768037"/>
+      <trkpt lat="37.2349702" lon="-121.3767336"/>
+    </trkseg>
+  </trk>
+</gpx>

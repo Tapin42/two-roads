@@ -1,5 +1,8 @@
-var fs     = require('fs');
-var xml2js = require('xml2js');
+var fs      = require('fs');
+var osmUtil = require('./osmUtil.js');
+
+var inFile  = process.argv[2] || (__dirname + '/henry_coe_highways.osm');
+var outFile = process.argv[3] || './henry_coe_intersections.gpx';
 
 function oxfordJoin(ary, sep, finalSep) {
   if (ary.length < 2) {
@@ -21,10 +24,10 @@ function processData(err, data) {
 
   console.log('Ways: ' + data.osm.way.length);
 
-  var nodes = parseNodes(data.osm.node);
+  var nodes = osmUtil.parseNodes(data.osm.node);
   console.log('# of nodes: ' + Object.keys(nodes).length);
 
-  var ways = parseWays(data.osm.way, nodes);
+  var ways = osmUtil.parseHighways(data.osm.way, nodes);
   console.log('# of trails: ' + Object.keys(ways).length);
 
   var routesByNode = {};
@@ -85,68 +88,7 @@ function processData(err, data) {
       }
     });
 
-  writeGpx('./henry_coe_intersections.gpx', gpxData);
-}
-
-function parseNodes(nodeDict) {
-  var rv = {};
-
-  nodeDict.forEach(function (node) {
-      rv[node.$.id] = {
-        id: node.$.id,
-        lat: node.$.lat,
-        lon: node.$.lon
-      }
-    });
-
-  return rv;
-}
-
-function parseWays(wayDict, nodes) {
-  var rv = {};
-
-  function findTag(way, tagKey) {
-    if (way.tag) {
-      var possible = way.tag.filter(function (tag) {
-          return tag.$.k === tagKey;
-        });
-      if (possible.length === 0) {
-        return null;
-      }
-      if (possible.length > 1) {
-        console.log('Found multiple names.  This is... interesting.');
-        var i = 0;
-        possible.forEach(function (tag) {
-          console.log(i++ + ': ' + tag.$.n);
-        })
-      }
-
-      return possible[0].$.v;
-    }
-  }
-
-  wayDict.forEach(function (way) {
-
-    var wayType = findTag(way, 'highway');
-    var VALID_HIGHWAYS = ['track', 'path', 'footway', 'bridleway', 'steps'];
-    if (VALID_HIGHWAYS.indexOf(wayType) > -1) {
-      var wayName = findTag(way, 'name');
-
-      var wayResult = {
-        id: way.$.id,
-        name: wayName ? wayName : ('Unnamed ' + wayType),
-        type: wayType,
-        nodes: way.nd.map(function (nd) {
-            return nodes[nd.$.ref] ? nodes[nd.$.ref] : { 'id': nd.$.ref, 'missing': true };
-          })
-      };
-      rv[way.$.id] = wayResult;
-
-      // console.log('Found way ' + wayName + ' which appears to be ' + (wayType ? ('a ' + wayType) : 'something unknown'));
-    }
-  });
-
-  return rv;
+  writeGpx(outFile, gpxData);
 }
 
 function writeGpx(fname, data) {
@@ -168,12 +110,4 @@ function writeGpx(fname, data) {
   fs.closeSync(outf);
 }
 
-
-var parser = new xml2js.Parser();
-fs.readFile(__dirname + '/henry_coe.osm', function(err, data) {
-    if (err) {
-      console.log('Error parsing file: ' + err);
-      return;
-    }
-    parser.parseString(data, processData);
-});
+osmUtil.readFile(inFile, processData);

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>White Tank Trail 199</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347145</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>White Tank Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>White Tank Trail 199</name>
+    <trkseg>
+      <trkpt lat="37.1510077" lon="-121.4422446"/>
+      <trkpt lat="37.1510028" lon="-121.4419547"/>
+      <trkpt lat="37.1513329" lon="-121.441859"/>
+      <trkpt lat="37.1515167" lon="-121.4419716"/>
+      <trkpt lat="37.1518972" lon="-121.4423847"/>
+      <trkpt lat="37.1521979" lon="-121.4422961"/>
+      <trkpt lat="37.152729" lon="-121.4429032"/>
+      <trkpt lat="37.1529377" lon="-121.4428273"/>
+      <trkpt lat="37.1531084" lon="-121.4423151"/>
+      <trkpt lat="37.1536396" lon="-121.4422013"/>
+      <trkpt lat="37.1540949" lon="-121.4418408"/>
+      <trkpt lat="37.1545312" lon="-121.4411959"/>
+      <trkpt lat="37.1547398" lon="-121.4411579"/>
+      <trkpt lat="37.1551951" lon="-121.4418029"/>
+      <trkpt lat="37.1553848" lon="-121.4416322"/>
+      <trkpt lat="37.1553279" lon="-121.4407785"/>
+      <trkpt lat="37.1551192" lon="-121.4400956"/>
+      <trkpt lat="37.1545691" lon="-121.4397542"/>
+      <trkpt lat="37.1539241" lon="-121.4384642"/>
+      <trkpt lat="37.1539431" lon="-121.4372501"/>
+      <trkpt lat="37.1536586" lon="-121.4365293"/>
+      <trkpt lat="37.1535068" lon="-121.4355808"/>
+    </trkseg>
+  </trk>
+</gpx>

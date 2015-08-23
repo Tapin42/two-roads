@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Burra Burra Trail 180</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347189</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Burra Burra Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Burra Burra Trail 180</name>
+    <trkseg>
+      <trkpt lat="37.1107731" lon="-121.370364"/>
+      <trkpt lat="37.1106273" lon="-121.3698966"/>
+      <trkpt lat="37.1103385" lon="-121.3696967"/>
+      <trkpt lat="37.1100053" lon="-121.3698966"/>
+      <trkpt lat="37.1098251" lon="-121.3698248"/>
+      <trkpt lat="37.1087803" lon="-121.3694632"/>
+      <trkpt lat="37.108498" lon="-121.3693988"/>
+      <trkpt lat="37.108289" lon="-121.3692353"/>
+      <trkpt lat="37.1082205" lon="-121.368995"/>
+      <trkpt lat="37.1081863" lon="-121.368789"/>
+      <trkpt lat="37.1080631" lon="-121.3686517"/>
+      <trkpt lat="37.1076387" lon="-121.3687633"/>
+      <trkpt lat="37.1075226" lon="-121.3687658"/>
+      <trkpt lat="37.1075155" lon="-121.3685658"/>
+      <trkpt lat="37.1076167" lon="-121.3681972"/>
+      <trkpt lat="37.1075839" lon="-121.3674758"/>
+      <trkpt lat="37.107625" lon="-121.3671754"/>
+      <trkpt lat="37.1079162" lon="-121.3664162"/>
+      <trkpt lat="37.1080702" lon="-121.3659334"/>
+      <trkpt lat="37.1084039" lon="-121.3652146"/>
+      <trkpt lat="37.1084947" lon="-121.3649428"/>
+      <trkpt lat="37.1084669" lon="-121.3648065"/>
+      <trkpt lat="37.1083985" lon="-121.3646949"/>
+      <trkpt lat="37.1082059" lon="-121.3644985"/>
+      <trkpt lat="37.107933" lon="-121.3640855"/>
+      <trkpt lat="37.1077394" lon="-121.3635877"/>
+      <trkpt lat="37.1075908" lon="-121.3625405"/>
+      <trkpt lat="37.1076181" lon="-121.3620513"/>
+      <trkpt lat="37.1075497" lon="-121.361768"/>
+      <trkpt lat="37.1077277" lon="-121.3612788"/>
+      <trkpt lat="37.1078727" lon="-121.3608998"/>
+      <trkpt lat="37.1082753" lon="-121.3605063"/>
+      <trkpt lat="37.1084601" lon="-121.3603518"/>
+      <trkpt lat="37.1086654" lon="-121.3601544"/>
+      <trkpt lat="37.1087168" lon="-121.359789"/>
+      <trkpt lat="37.1087339" lon="-121.359176"/>
+      <trkpt lat="37.1086997" lon="-121.3589185"/>
+      <trkpt lat="37.1086434" lon="-121.3583588"/>
+      <trkpt lat="37.1084552" lon="-121.3580048"/>
+      <trkpt lat="37.1085236" lon="-121.3574898"/>
+      <trkpt lat="37.1089168" lon="-121.3569456"/>
+      <trkpt lat="37.1089871" lon="-121.3566611"/>
+      <trkpt lat="37.1089598" lon="-121.3563607"/>
+      <trkpt lat="37.1089187" lon="-121.3560775"/>
+      <trkpt lat="37.1087818" lon="-121.3558457"/>
+      <trkpt lat="37.1087544" lon="-121.3556483"/>
+      <trkpt lat="37.1088191" lon="-121.3552999"/>
+      <trkpt lat="37.1088913" lon="-121.3551162"/>
+      <trkpt lat="37.1088502" lon="-121.354687"/>
+      <trkpt lat="37.1088708" lon="-121.3544896"/>
+      <trkpt lat="37.1087786" lon="-121.3542875"/>
+    </trkseg>
+  </trk>
+</gpx>

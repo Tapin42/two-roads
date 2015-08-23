@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Woodpecker Trail 254</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347027</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:name>Woodpecker Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Woodpecker Trail 254</name>
+    <trkseg>
+      <trkpt lat="37.161669" lon="-121.3944693"/>
+      <trkpt lat="37.1614383" lon="-121.3939291"/>
+      <trkpt lat="37.1615423" lon="-121.3936423"/>
+      <trkpt lat="37.1614658" lon="-121.3935133"/>
+      <trkpt lat="37.1612675" lon="-121.3934763"/>
+      <trkpt lat="37.1610809" lon="-121.3936293"/>
+      <trkpt lat="37.1608792" lon="-121.3937745"/>
+      <trkpt lat="37.1603386" lon="-121.3937584"/>
+      <trkpt lat="37.1602579" lon="-121.393597"/>
+      <trkpt lat="37.1603547" lon="-121.3932903"/>
+      <trkpt lat="37.1602417" lon="-121.3929837"/>
+      <trkpt lat="37.1602175" lon="-121.3924592"/>
+      <trkpt lat="37.1598383" lon="-121.3925399"/>
+    </trkseg>
+  </trk>
+</gpx>

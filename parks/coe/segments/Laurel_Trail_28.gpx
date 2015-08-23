@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Laurel Trail 28</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347503</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Laurel Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Laurel Trail 28</name>
+    <trkseg>
+      <trkpt lat="37.1671213" lon="-121.431833"/>
+      <trkpt lat="37.167181" lon="-121.4323372"/>
+      <trkpt lat="37.1670793" lon="-121.4325448"/>
+      <trkpt lat="37.1670549" lon="-121.4326889"/>
+      <trkpt lat="37.1667962" lon="-121.4327751"/>
+      <trkpt lat="37.166491" lon="-121.4329277"/>
+      <trkpt lat="37.166365" lon="-121.4332395"/>
+      <trkpt lat="37.166219" lon="-121.4337172"/>
+      <trkpt lat="37.1663119" lon="-121.4341882"/>
+      <trkpt lat="37.1661527" lon="-121.4349114"/>
+      <trkpt lat="37.1662588" lon="-121.435535"/>
+      <trkpt lat="37.1666701" lon="-121.436225"/>
+      <trkpt lat="37.1666237" lon="-121.4365633"/>
+      <trkpt lat="37.1665574" lon="-121.436968"/>
+      <trkpt lat="37.1666436" lon="-121.4371604"/>
+      <trkpt lat="37.1665839" lon="-121.4372069"/>
+      <trkpt lat="37.1664777" lon="-121.4371339"/>
+      <trkpt lat="37.1657745" lon="-121.4368818"/>
+      <trkpt lat="37.165476" lon="-121.4369415"/>
+      <trkpt lat="37.1654826" lon="-121.4372798"/>
+      <trkpt lat="37.1656219" lon="-121.4375319"/>
+      <trkpt lat="37.1655622" lon="-121.4377243"/>
+      <trkpt lat="37.1653632" lon="-121.4380892"/>
+      <trkpt lat="37.1649518" lon="-121.4385802"/>
+      <trkpt lat="37.1649518" lon="-121.4388787"/>
+      <trkpt lat="37.1652106" lon="-121.4392502"/>
+      <trkpt lat="37.1655489" lon="-121.439635"/>
+      <trkpt lat="37.1662787" lon="-121.4398274"/>
+      <trkpt lat="37.166365" lon="-121.4400397"/>
+      <trkpt lat="37.1663782" lon="-121.4403051"/>
+    </trkseg>
+  </trk>
+</gpx>

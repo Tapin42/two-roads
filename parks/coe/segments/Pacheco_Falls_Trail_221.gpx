@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Falls Trail 221</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347097</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Pacheco Falls Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Falls Trail 221</name>
+    <trkseg>
+      <trkpt lat="37.1410002" lon="-121.4081728"/>
+      <trkpt lat="37.1411967" lon="-121.4081054"/>
+      <trkpt lat="37.1413883" lon="-121.4077878"/>
+    </trkseg>
+  </trk>
+</gpx>

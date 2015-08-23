@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Booze Lake Road 103</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347343</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:name>Booze Lake Road</twr:name>
+      <twr:surface>unpaved</twr:surface>
+      <twr:twor.map>2013</twr:twor.map>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Booze Lake Road 103</name>
+    <trkseg>
+      <trkpt lat="37.2225545" lon="-121.524767"/>
+      <trkpt lat="37.2226141" lon="-121.5247006"/>
+      <trkpt lat="37.2226346" lon="-121.5245547"/>
+      <trkpt lat="37.2226825" lon="-121.5243144"/>
+      <trkpt lat="37.222744" lon="-121.5242114"/>
+      <trkpt lat="37.2228533" lon="-121.5241599"/>
+      <trkpt lat="37.2230105" lon="-121.5240826"/>
+      <trkpt lat="37.2231814" lon="-121.5239882"/>
+      <trkpt lat="37.2232771" lon="-121.5238852"/>
+      <trkpt lat="37.2233044" lon="-121.5237822"/>
+      <trkpt lat="37.2233044" lon="-121.5236277"/>
+      <trkpt lat="37.2232361" lon="-121.5234904"/>
+      <trkpt lat="37.2231882" lon="-121.5233702"/>
+      <trkpt lat="37.2231609" lon="-121.5230956"/>
+      <trkpt lat="37.2231677" lon="-121.5229754"/>
+      <trkpt lat="37.2232087" lon="-121.5227437"/>
+      <trkpt lat="37.2233181" lon="-121.5225377"/>
+      <trkpt lat="37.223571" lon="-121.5221772"/>
+      <trkpt lat="37.223735" lon="-121.5218768"/>
+      <trkpt lat="37.2238649" lon="-121.5217566"/>
+      <trkpt lat="37.2240494" lon="-121.5216708"/>
+      <trkpt lat="37.2242203" lon="-121.5216965"/>
+      <trkpt lat="37.2244116" lon="-121.521791"/>
+      <trkpt lat="37.2245893" lon="-121.5217566"/>
+      <trkpt lat="37.224726" lon="-121.5216365"/>
+      <trkpt lat="37.2249994" lon="-121.521379"/>
+      <trkpt lat="37.2253069" lon="-121.5212502"/>
+      <trkpt lat="37.225553" lon="-121.5210871"/>
+      <trkpt lat="37.2257102" lon="-121.5210271"/>
+      <trkpt lat="37.2259357" lon="-121.52107"/>
+      <trkpt lat="37.2265439" lon="-121.5213961"/>
+      <trkpt lat="37.2266738" lon="-121.5213704"/>
+      <trkpt lat="37.2267831" lon="-121.5213189"/>
+    </trkseg>
+  </trk>
+</gpx>

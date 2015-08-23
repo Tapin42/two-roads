@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Wasno Road 24</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347511</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Wasno Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Wasno Road 24</name>
+    <trkseg>
+      <trkpt lat="37.1264645" lon="-121.4501294"/>
+      <trkpt lat="37.1263071" lon="-121.4499492"/>
+      <trkpt lat="37.1260589" lon="-121.4498385"/>
+      <trkpt lat="37.1256587" lon="-121.4496479"/>
+      <trkpt lat="37.1252198" lon="-121.449218"/>
+      <trkpt lat="37.1248655" lon="-121.4491304"/>
+      <trkpt lat="37.1247244" lon="-121.4488997"/>
+      <trkpt lat="37.1246389" lon="-121.4488246"/>
+      <trkpt lat="37.1245704" lon="-121.4487173"/>
+      <trkpt lat="37.1237535" lon="-121.4485725"/>
+      <trkpt lat="37.1232017" lon="-121.4483311"/>
+      <trkpt lat="37.1226065" lon="-121.4484291"/>
+      <trkpt lat="37.1220083" lon="-121.4482882"/>
+      <trkpt lat="37.1215764" lon="-121.4483345"/>
+      <trkpt lat="37.1213539" lon="-121.4484438"/>
+      <trkpt lat="37.1211871" lon="-121.4484598"/>
+      <trkpt lat="37.1211358" lon="-121.4483901"/>
+      <trkpt lat="37.1210734" lon="-121.448154"/>
+      <trkpt lat="37.120862" lon="-121.4480307"/>
+      <trkpt lat="37.120738" lon="-121.4480253"/>
+      <trkpt lat="37.1207209" lon="-121.4477947"/>
+      <trkpt lat="37.1208363" lon="-121.447285"/>
+      <trkpt lat="37.1207928" lon="-121.4471412"/>
+      <trkpt lat="37.1206372" lon="-121.4471013"/>
+      <trkpt lat="37.1204514" lon="-121.4471778"/>
+      <trkpt lat="37.1202632" lon="-121.4471295"/>
+      <trkpt lat="37.1201605" lon="-121.4468398"/>
+      <trkpt lat="37.1199851" lon="-121.4466199"/>
+      <trkpt lat="37.1199253" lon="-121.4463892"/>
+      <trkpt lat="37.1198825" lon="-121.4462122"/>
+      <trkpt lat="37.1198611" lon="-121.4457294"/>
+      <trkpt lat="37.1197927" lon="-121.4452573"/>
+      <trkpt lat="37.1197755" lon="-121.444694"/>
+      <trkpt lat="37.1196928" lon="-121.4442689"/>
+      <trkpt lat="37.1193991" lon="-121.4439591"/>
+      <trkpt lat="37.1192323" lon="-121.443766"/>
+      <trkpt lat="37.1190477" lon="-121.4434766"/>
+      <trkpt lat="37.1189108" lon="-121.4429874"/>
+      <trkpt lat="37.1190272" lon="-121.442378"/>
+      <trkpt lat="37.1189177" lon="-121.4420862"/>
+      <trkpt lat="37.1186662" lon="-121.441754"/>
+      <trkpt lat="37.1184591" lon="-121.4408502"/>
+      <trkpt lat="37.1183906" lon="-121.4406701"/>
+      <trkpt lat="37.1181031" lon="-121.4404384"/>
+      <trkpt lat="37.1175306" lon="-121.4400035"/>
+      <trkpt lat="37.1170344" lon="-121.4398525"/>
+      <trkpt lat="37.1165836" lon="-121.4393724"/>
+      <trkpt lat="37.1160705" lon="-121.4388675"/>
+      <trkpt lat="37.1156753" lon="-121.438235"/>
+      <trkpt lat="37.1153929" lon="-121.4378719"/>
+      <trkpt lat="37.1150798" lon="-121.4377458"/>
+      <trkpt lat="37.1149874" lon="-121.4375552"/>
+      <trkpt lat="37.115037" lon="-121.4372882"/>
+      <trkpt lat="37.1150808" lon="-121.4368443"/>
+      <trkpt lat="37.1146965" lon="-121.4365441"/>
+      <trkpt lat="37.1145596" lon="-121.4360291"/>
+      <trkpt lat="37.1138478" lon="-121.4357459"/>
+      <trkpt lat="37.1132592" lon="-121.4346301"/>
+      <trkpt lat="37.1128468" lon="-121.434576"/>
+      <trkpt lat="37.1126229" lon="-121.4344873"/>
+      <trkpt lat="37.1125747" lon="-121.4343125"/>
+      <trkpt lat="37.1125408" lon="-121.4340582"/>
+      <trkpt lat="37.1126366" lon="-121.4337492"/>
+      <trkpt lat="37.1128214" lon="-121.433466"/>
+      <trkpt lat="37.1128896" lon="-121.4332139"/>
+      <trkpt lat="37.112753" lon="-121.4326334"/>
+      <trkpt lat="37.1127119" lon="-121.4321098"/>
+      <trkpt lat="37.1126571" lon="-121.4318008"/>
+      <trkpt lat="37.1123882" lon="-121.4312372"/>
+      <trkpt lat="37.1119159" lon="-121.4306278"/>
+      <trkpt lat="37.1111561" lon="-121.4299497"/>
+      <trkpt lat="37.1108789" lon="-121.4295419"/>
+      <trkpt lat="37.1106017" lon="-121.4291343"/>
+      <trkpt lat="37.1102869" lon="-121.4287738"/>
+      <trkpt lat="37.1100473" lon="-121.4281902"/>
+      <trkpt lat="37.1097051" lon="-121.4280529"/>
+      <trkpt lat="37.1095494" lon="-121.4276778"/>
+      <trkpt lat="37.1098214" lon="-121.4270057"/>
+      <trkpt lat="37.1097119" lon="-121.4267911"/>
+      <trkpt lat="37.1094381" lon="-121.4266195"/>
+      <trkpt lat="37.1092071" lon="-121.4261929"/>
+      <trkpt lat="37.1086304" lon="-121.4258985"/>
+      <trkpt lat="37.1086304" lon="-121.4254779"/>
+      <trkpt lat="37.1087786" lon="-121.4248347"/>
+      <trkpt lat="37.1085226" lon="-121.424442"/>
+      <trkpt lat="37.1083292" lon="-121.4238386"/>
+      <trkpt lat="37.107975" lon="-121.4233605"/>
+      <trkpt lat="37.1075421" lon="-121.4225683"/>
+      <trkpt lat="37.107412" lon="-121.422122"/>
+      <trkpt lat="37.1075003" lon="-121.4218814"/>
+      <trkpt lat="37.1075694" lon="-121.4216928"/>
+      <trkpt lat="37.1079459" lon="-121.4212722"/>
+      <trkpt lat="37.1077611" lon="-121.4209632"/>
+      <trkpt lat="37.1078295" lon="-121.4204654"/>
+      <trkpt lat="37.1081923" lon="-121.4202165"/>
+      <trkpt lat="37.1086783" lon="-121.4199848"/>
+      <trkpt lat="37.1088152" lon="-121.4197788"/>
+      <trkpt lat="37.1087399" lon="-121.4195127"/>
+      <trkpt lat="37.1080349" lon="-121.4195642"/>
+      <trkpt lat="37.1077474" lon="-121.4193582"/>
+      <trkpt lat="37.1076242" lon="-121.4182939"/>
+    </trkseg>
+  </trk>
+</gpx>

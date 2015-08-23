@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Eagle Pines Trail 288</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-346955</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Eagle Pines Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Eagle Pines Trail 288</name>
+    <trkseg>
+      <trkpt lat="37.173383" lon="-121.4555813"/>
+      <trkpt lat="37.1739158" lon="-121.4559706"/>
+      <trkpt lat="37.1745247" lon="-121.4563893"/>
+      <trkpt lat="37.1748545" lon="-121.4565542"/>
+      <trkpt lat="37.1753366" lon="-121.4571504"/>
+      <trkpt lat="37.1754381" lon="-121.4574929"/>
+      <trkpt lat="37.1755269" lon="-121.4578608"/>
+      <trkpt lat="37.1759201" lon="-121.4582541"/>
+      <trkpt lat="37.1762246" lon="-121.4582794"/>
+      <trkpt lat="37.1769096" lon="-121.4586727"/>
+      <trkpt lat="37.1777469" lon="-121.4591801"/>
+      <trkpt lat="37.1783558" lon="-121.4592182"/>
+      <trkpt lat="37.1787617" lon="-121.4596495"/>
+      <trkpt lat="37.1790535" lon="-121.4597002"/>
+      <trkpt lat="37.1791423" lon="-121.4595353"/>
+      <trkpt lat="37.1794467" lon="-121.4594846"/>
+      <trkpt lat="37.1798781" lon="-121.4597129"/>
+      <trkpt lat="37.1802333" lon="-121.46088"/>
+      <trkpt lat="37.1804616" lon="-121.4611337"/>
+      <trkpt lat="37.180728" lon="-121.4612352"/>
+      <trkpt lat="37.1811974" lon="-121.4612732"/>
+      <trkpt lat="37.1812862" lon="-121.4614382"/>
+      <trkpt lat="37.1815018" lon="-121.4615777"/>
+      <trkpt lat="37.1817809" lon="-121.461527"/>
+      <trkpt lat="37.182504" lon="-121.4618187"/>
+      <trkpt lat="37.1829861" lon="-121.4622627"/>
+      <trkpt lat="37.1830368" lon="-121.4624911"/>
+      <trkpt lat="37.1837979" lon="-121.4626687"/>
+      <trkpt lat="37.1842039" lon="-121.4627067"/>
+      <trkpt lat="37.1846986" lon="-121.462859"/>
+      <trkpt lat="37.1855739" lon="-121.4630112"/>
+      <trkpt lat="37.1861448" lon="-121.4630239"/>
+      <trkpt lat="37.1872358" lon="-121.4637089"/>
+      <trkpt lat="37.1875022" lon="-121.4637977"/>
+      <trkpt lat="37.1880096" lon="-121.463544"/>
+      <trkpt lat="37.1881872" lon="-121.4633537"/>
+      <trkpt lat="37.1886946" lon="-121.4633537"/>
+      <trkpt lat="37.1890371" lon="-121.4634932"/>
+      <trkpt lat="37.1895699" lon="-121.4633791"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 50</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347455</twr:id>
+    <attrs>
+      <twr:foot>permissive</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 50</name>
+    <trkseg>
+      <trkpt lat="37.1126368" lon="-121.4046905"/>
+      <trkpt lat="37.1123909" lon="-121.4049005"/>
+      <trkpt lat="37.1125022" lon="-121.4054155"/>
+      <trkpt lat="37.1125877" lon="-121.4059841"/>
+      <trkpt lat="37.1127931" lon="-121.4062846"/>
+      <trkpt lat="37.1129984" lon="-121.4065313"/>
+      <trkpt lat="37.1129556" lon="-121.4068746"/>
+      <trkpt lat="37.1127674" lon="-121.4070463"/>
+      <trkpt lat="37.1122968" lon="-121.407175"/>
+      <trkpt lat="37.1116979" lon="-121.4074218"/>
+      <trkpt lat="37.1114498" lon="-121.4075506"/>
+      <trkpt lat="37.1110049" lon="-121.4076257"/>
+      <trkpt lat="37.1107996" lon="-121.407808"/>
+    </trkseg>
+  </trk>
+</gpx>

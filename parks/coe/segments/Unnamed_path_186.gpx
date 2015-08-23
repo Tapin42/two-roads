@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 186</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347175</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 186</name>
+    <trkseg>
+      <trkpt lat="37.1053955" lon="-121.4201958"/>
+      <trkpt lat="37.1054701" lon="-121.4205764"/>
+      <trkpt lat="37.1054444" lon="-121.4206837"/>
+      <trkpt lat="37.1048968" lon="-121.4207266"/>
+      <trkpt lat="37.1047" lon="-121.4210699"/>
+      <trkpt lat="37.1045557" lon="-121.4217865"/>
+    </trkseg>
+  </trk>
+</gpx>

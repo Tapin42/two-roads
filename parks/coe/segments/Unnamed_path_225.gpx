@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 225</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347089</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 225</name>
+    <trkseg>
+      <trkpt lat="37.1267246" lon="-121.448799"/>
+      <trkpt lat="37.126544" lon="-121.4492806"/>
+      <trkpt lat="37.1263986" lon="-121.44942"/>
+      <trkpt lat="37.126065" lon="-121.4494522"/>
+      <trkpt lat="37.1256116" lon="-121.4492484"/>
+      <trkpt lat="37.1253464" lon="-121.4490553"/>
+      <trkpt lat="37.1250837" lon="-121.4489426"/>
+      <trkpt lat="37.1249254" lon="-121.4487817"/>
+      <trkpt lat="37.1245704" lon="-121.4487173"/>
+    </trkseg>
+  </trk>
+</gpx>

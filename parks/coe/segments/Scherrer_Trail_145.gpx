@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Scherrer Trail 145</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347259</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Scherrer Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Scherrer Trail 145</name>
+    <trkseg>
+      <trkpt lat="37.127948" lon="-121.3714625"/>
+      <trkpt lat="37.127839" lon="-121.3716755"/>
+      <trkpt lat="37.1269836" lon="-121.3719974"/>
+      <trkpt lat="37.1267034" lon="-121.3725745"/>
+      <trkpt lat="37.1268573" lon="-121.3729286"/>
+      <trkpt lat="37.1269856" lon="-121.3732612"/>
+      <trkpt lat="37.1269757" lon="-121.3734576"/>
+      <trkpt lat="37.1266776" lon="-121.3738691"/>
+      <trkpt lat="37.1265758" lon="-121.3742542"/>
+      <trkpt lat="37.1263538" lon="-121.3746807"/>
+      <trkpt lat="37.1264223" lon="-121.3750777"/>
+      <trkpt lat="37.1264533" lon="-121.3755594"/>
+      <trkpt lat="37.1263346" lon="-121.3761119"/>
+      <trkpt lat="37.1265852" lon="-121.3769831"/>
+      <trkpt lat="37.1264633" lon="-121.3776778"/>
+      <trkpt lat="37.1261639" lon="-121.3781703"/>
+      <trkpt lat="37.1261554" lon="-121.3785479"/>
+      <trkpt lat="37.1260211" lon="-121.3788826"/>
+      <trkpt lat="37.1253754" lon="-121.3796578"/>
+      <trkpt lat="37.1247253" lon="-121.3799153"/>
+      <trkpt lat="37.1244516" lon="-121.3801728"/>
+      <trkpt lat="37.1241607" lon="-121.3803015"/>
+      <trkpt lat="37.1235448" lon="-121.3806234"/>
+      <trkpt lat="37.123101" lon="-121.3810225"/>
+      <trkpt lat="37.1228286" lon="-121.3811448"/>
+      <trkpt lat="37.1224156" lon="-121.3804088"/>
+      <trkpt lat="37.1222274" lon="-121.3801513"/>
+      <trkpt lat="37.1219471" lon="-121.3803744"/>
+      <trkpt lat="37.1217375" lon="-121.3806372"/>
+      <trkpt lat="37.1215642" lon="-121.3808712"/>
+      <trkpt lat="37.1212981" lon="-121.3809662"/>
+      <trkpt lat="37.1211601" lon="-121.3812542"/>
+      <trkpt lat="37.1210811" lon="-121.3814602"/>
+      <trkpt lat="37.1209719" lon="-121.3818443"/>
+      <trkpt lat="37.1206362" lon="-121.3822327"/>
+      <trkpt lat="37.1204928" lon="-121.3824236"/>
+      <trkpt lat="37.1203303" lon="-121.3827669"/>
+      <trkpt lat="37.120029" lon="-121.3831694"/>
+      <trkpt lat="37.1198492" lon="-121.3835631"/>
+      <trkpt lat="37.1198445" lon="-121.3838938"/>
+    </trkseg>
+  </trk>
+</gpx>

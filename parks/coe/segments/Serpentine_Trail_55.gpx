@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Serpentine Trail 55</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347445</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Serpentine Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Serpentine Trail 55</name>
+    <trkseg>
+      <trkpt lat="37.0955909" lon="-121.4217447"/>
+      <trkpt lat="37.0956575" lon="-121.4223437"/>
+      <trkpt lat="37.0960568" lon="-121.4227874"/>
+      <trkpt lat="37.0963966" lon="-121.4232923"/>
+      <trkpt lat="37.0964054" lon="-121.4236979"/>
+      <trkpt lat="37.0960568" lon="-121.4238967"/>
+      <trkpt lat="37.0958587" lon="-121.4245621"/>
+      <trkpt lat="37.0953247" lon="-121.4248064"/>
+      <trkpt lat="37.0944372" lon="-121.4253167"/>
+      <trkpt lat="37.0949253" lon="-121.4262041"/>
+      <trkpt lat="37.0953466" lon="-121.427079"/>
+      <trkpt lat="37.0956353" lon="-121.4278015"/>
+      <trkpt lat="37.0956131" lon="-121.4281565"/>
+      <trkpt lat="37.0951694" lon="-121.4282896"/>
+      <trkpt lat="37.0949032" lon="-121.4288442"/>
+      <trkpt lat="37.0945704" lon="-121.4291327"/>
+      <trkpt lat="37.0940823" lon="-121.4292436"/>
+      <trkpt lat="37.0940066" lon="-121.4299132"/>
+      <trkpt lat="37.0946417" lon="-121.4300648"/>
+      <trkpt lat="37.0948588" lon="-121.4305082"/>
+      <trkpt lat="37.094843" lon="-121.4313072"/>
+      <trkpt lat="37.0943586" lon="-121.4316923"/>
+      <trkpt lat="37.0940063" lon="-121.4316873"/>
+      <trkpt lat="37.0938555" lon="-121.4317041"/>
+      <trkpt lat="37.0937159" lon="-121.4319011"/>
+      <trkpt lat="37.0935174" lon="-121.4321603"/>
+    </trkseg>
+  </trk>
+</gpx>

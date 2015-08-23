@@ -4,6 +4,7 @@
     <style type="text/css">
       html, body { height: 100%; margin: 0; padding: 0; }
       #mapDisplay { height: 100%; display: none; }
+      #elevation { padding-top: 10px; }
     </style>
     <script src="https://www.google.com/jsapi"></script>
     <script>
@@ -25,10 +26,12 @@
 
 var map;
 var elevator;
+var activePath;
 var server = 'http://localhost:8000/';
 
-function haversine() {
-  var radians = Array.prototype.map.call(arguments, function(deg) { return deg/180.0 * Math.PI; });
+function haversine(p1, p2) {
+  var args = [p1.lat, p1.lng, p2.lat, p2.lng];
+  var radians = Array.prototype.map.call(args, function(deg) { return deg/180.0 * Math.PI; });
   var lat1 = radians[0], lon1 = radians[1], lat2 = radians[2], lon2 = radians[3];
   var R = 3959.87; // mi; km is 6372.8
   var dLat = lat2 - lat1;
@@ -122,6 +125,15 @@ function fetchSegments(park, map) {
 
 function fetchAndDisplaySegment(park, map, segment) {
   $.ajax(server + segment).then(function (gpx, textStatus, jqXHR) {
+
+      function getSegColor(source) {
+        var segColors = {
+          osm: 'yellow',
+          default: 'red'
+        };
+        return segColors[source] || segColors.default;
+      }
+
       $gpx = $(gpx);
       var coords = [];
       $gpx.find('trkpt').each(function () {
@@ -134,12 +146,12 @@ function fetchAndDisplaySegment(park, map, segment) {
       var path = new google.maps.Polyline({
           path: coords,
           geodesic: true,
-          strokeColor: '#cc0000',
+          strokeColor: getSegColor($gpx.find('metadata > source').text()),
           strokeOpacity: 0.5,
           strokeWeight: 5
         });
 
-      google.maps.event.addListener(path, 'click', displaySegElevation(coords));
+      google.maps.event.addListener(path, 'click', displaySegElevation(coords, path));
 
       path.setMap(map);
     }, function (jqXHR, textStatus, errorThrown) {
@@ -153,7 +165,7 @@ function fetchAndDisplaySegment(park, map, segment) {
 //   }
 // }
 
-function displaySegElevation(coords) {
+function displaySegElevation(coords, path) {
   return function () {
     var POINTS_PER_CALL = 256;
     var nCalls = Math.ceil(coords.length / POINTS_PER_CALL);
@@ -161,6 +173,14 @@ function displaySegElevation(coords) {
     var finished = [];
     var errStatus;
 
+    if (activePath) {
+      activePath.path.setOptions({strokeColor: activePath.origColor});
+    }
+    activePath = {
+      path: path,
+      origColor: path.strokeColor
+    };
+    path.setOptions({strokeColor: 'blue'});
     console.log('Path is ' + coords.length + ' elements long, so make ' + nCalls + ' calls');
     for (var i=0; i<nCalls; i++) {
       finished.push(false);
@@ -176,7 +196,7 @@ function displaySegElevation(coords) {
         finished[callIdx] = true;
         if (finished.indexOf(false) === -1) {
           var finalArray = [].concat.apply([], allData);
-          plotElevation(finalArray, status);
+          plotElevation(coords, finalArray, status);
         }
       };
     }
@@ -191,13 +211,12 @@ function displaySegElevation(coords) {
 
 // Takes an array of ElevationResult objects, draws the path on the map
 // and plots the elevation profile on a Visualization API Material Line chart.
-function plotElevation(elevations, status) {
+function plotElevation(coords, elevations, status) {
   var elevsInFeet = elevations.map(function (x) { return x.elevation*3.28084; })
   var chartDiv = document.getElementById('elevation');
   if (status !== google.maps.ElevationStatus.OK) {
     // Show the error code inside the chartDiv.
-    chartDiv.innerHTML = 'Cannot show elevation: request failed because ' +
-        status;
+    chartDiv.innerHTML = 'Cannot show elevation: request failed because ' + status;
     return;
   }
   // Create a new chart in the elevation_chart DIV.
@@ -208,18 +227,30 @@ function plotElevation(elevations, status) {
   // column here does double duty as distance along the
   // X axis.
   var data = new google.visualization.DataTable();
-  data.addColumn('string', 'Sample');
+  data.addColumn('number', 'Distance');
   data.addColumn('number', 'Elevation');
+  var totalDistance = 0.0;
   for (var i = 0; i < elevsInFeet.length; i++) {
-    data.addRow(['', elevsInFeet[i]]);
+    if (i > 0) {
+      totalDistance += haversine(coords[i-1], coords[i]);
+    }
+    data.addRow([totalDistance, elevsInFeet[i]]);
   }
 
   // Draw the chart using the data within its DIV.
-  chart.draw(data, google.charts.Line.convertOptions({
-    height: $(window).height()*0.2,
-    legend: 'none',
-    titleY: 'Elevation (m)'
-  }));
+  chart.draw(data, {
+    height: $(window).height()*0.18,
+    //legend: 'none',
+    legend: {
+      position: 'none'
+    },
+    vAxis: {
+      format: 'none',
+      gridlines: {
+        count: 4
+      }
+    }
+  });
 }
 
     </script>

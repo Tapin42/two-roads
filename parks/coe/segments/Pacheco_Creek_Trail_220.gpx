@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Pacheco Creek Trail 220</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347099</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Pacheco Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Pacheco Creek Trail 220</name>
+    <trkseg>
+      <trkpt lat="37.1831722" lon="-121.4418229"/>
+      <trkpt lat="37.1838444" lon="-121.4414654"/>
+      <trkpt lat="37.1843731" lon="-121.4408521"/>
+      <trkpt lat="37.1844577" lon="-121.4403023"/>
+      <trkpt lat="37.1847749" lon="-121.4396467"/>
+      <trkpt lat="37.1861073" lon="-121.4390334"/>
+      <trkpt lat="37.1864668" lon="-121.438695"/>
+      <trkpt lat="37.1870801" lon="-121.4384835"/>
+      <trkpt lat="37.1875454" lon="-121.4382086"/>
+      <trkpt lat="37.1881375" lon="-121.4384835"/>
+      <trkpt lat="37.1887147" lon="-121.4384323"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Canteen Trail 23</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347513</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Canteen Trail</twr:name>
+      <twr:source>Yahoo</twr:source>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Canteen Trail 23</name>
+    <trkseg>
+      <trkpt lat="37.1738356" lon="-121.4400684"/>
+      <trkpt lat="37.1738882" lon="-121.4397977"/>
+      <trkpt lat="37.1738626" lon="-121.439508"/>
+      <trkpt lat="37.1738968" lon="-121.4391647"/>
+      <trkpt lat="37.1742045" lon="-121.4390038"/>
+      <trkpt lat="37.1746234" lon="-121.4388965"/>
+      <trkpt lat="37.1749739" lon="-121.4381776"/>
+      <trkpt lat="37.174991" lon="-121.4378129"/>
+      <trkpt lat="37.1748029" lon="-121.4374588"/>
+      <trkpt lat="37.1744011" lon="-121.4372335"/>
+      <trkpt lat="37.1744268" lon="-121.436976"/>
+      <trkpt lat="37.1751107" lon="-121.4367614"/>
+      <trkpt lat="37.175085" lon="-121.4363537"/>
+      <trkpt lat="37.1747687" lon="-121.4360533"/>
+      <trkpt lat="37.1746491" lon="-121.4351843"/>
+      <trkpt lat="37.1747944" lon="-121.4346479"/>
+      <trkpt lat="37.1750936" lon="-121.4341651"/>
+      <trkpt lat="37.1749654" lon="-121.4331995"/>
+      <trkpt lat="37.1751363" lon="-121.4327489"/>
+      <trkpt lat="37.1753159" lon="-121.4324592"/>
+      <trkpt lat="37.1755723" lon="-121.4323841"/>
+      <trkpt lat="37.1756578" lon="-121.4320193"/>
+      <trkpt lat="37.1759399" lon="-121.4316545"/>
+      <trkpt lat="37.1761109" lon="-121.4311932"/>
+      <trkpt lat="37.1764272" lon="-121.4305173"/>
+      <trkpt lat="37.1766323" lon="-121.4301632"/>
+      <trkpt lat="37.1770661" lon="-121.4297581"/>
+    </trkseg>
+  </trk>
+</gpx>

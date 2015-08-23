@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>North Fork Trail 25</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347509</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>North Fork Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>North Fork Trail 25</name>
+    <trkseg>
+      <trkpt lat="37.1230277" lon="-121.3545383"/>
+      <trkpt lat="37.1232255" lon="-121.3546642"/>
+      <trkpt lat="37.1233872" lon="-121.3551495"/>
+      <trkpt lat="37.1236749" lon="-121.3556528"/>
+      <trkpt lat="37.1241242" lon="-121.3560842"/>
+      <trkpt lat="37.1242321" lon="-121.3563359"/>
+      <trkpt lat="37.1242321" lon="-121.3567673"/>
+      <trkpt lat="37.124286" lon="-121.3570729"/>
+      <trkpt lat="37.1248433" lon="-121.3578279"/>
+      <trkpt lat="37.1254904" lon="-121.3587266"/>
+      <trkpt lat="37.1255084" lon="-121.3595535"/>
+      <trkpt lat="37.1260698" lon="-121.361189"/>
+      <trkpt lat="37.1264736" lon="-121.3620329"/>
+      <trkpt lat="37.1267428" lon="-121.3622348"/>
+      <trkpt lat="37.1270845" lon="-121.3627783"/>
+      <trkpt lat="37.1274581" lon="-121.3632823"/>
+      <trkpt lat="37.1275497" lon="-121.363496"/>
+      <trkpt lat="37.1276108" lon="-121.3640533"/>
+      <trkpt lat="37.1278151" lon="-121.3643864"/>
+      <trkpt lat="37.1279543" lon="-121.364544"/>
+      <trkpt lat="37.1279946" lon="-121.3648591"/>
+      <trkpt lat="37.1280166" lon="-121.3654014"/>
+      <trkpt lat="37.1279286" lon="-121.3663981"/>
+      <trkpt lat="37.127925" lon="-121.3668451"/>
+      <trkpt lat="37.1279323" lon="-121.3672189"/>
+      <trkpt lat="37.1283815" lon="-121.3676109"/>
+      <trkpt lat="37.1285926" lon="-121.3682705"/>
+      <trkpt lat="37.1290323" lon="-121.3690268"/>
+      <trkpt lat="37.129195" lon="-121.369084"/>
+      <trkpt lat="37.1292653" lon="-121.3692862"/>
+      <trkpt lat="37.1292865" lon="-121.3697088"/>
+      <trkpt lat="37.1294896" lon="-121.3701582"/>
+      <trkpt lat="37.1295741" lon="-121.3704238"/>
+      <trkpt lat="37.1298276" lon="-121.3709402"/>
+      <trkpt lat="37.1299844" lon="-121.3712438"/>
+      <trkpt lat="37.1300255" lon="-121.3713296"/>
+      <trkpt lat="37.1300818" lon="-121.3716"/>
+      <trkpt lat="37.1302718" lon="-121.371733"/>
+      <trkpt lat="37.1302369" lon="-121.3722061"/>
+      <trkpt lat="37.130265" lon="-121.372351"/>
+      <trkpt lat="37.1303402" lon="-121.3725226"/>
+      <trkpt lat="37.1304497" lon="-121.3727372"/>
+      <trkpt lat="37.1303745" lon="-121.3728476"/>
+      <trkpt lat="37.1302855" lon="-121.3729518"/>
+      <trkpt lat="37.1302376" lon="-121.3730634"/>
+      <trkpt lat="37.1301418" lon="-121.3732093"/>
+      <trkpt lat="37.1299912" lon="-121.3734153"/>
+      <trkpt lat="37.1299365" lon="-121.3735955"/>
+      <trkpt lat="37.1299639" lon="-121.3737672"/>
+      <trkpt lat="37.1300528" lon="-121.373956"/>
+      <trkpt lat="37.1302087" lon="-121.3742358"/>
+      <trkpt lat="37.1302651" lon="-121.3744754"/>
+      <trkpt lat="37.1301486" lon="-121.3745912"/>
+    </trkseg>
+  </trk>
+</gpx>

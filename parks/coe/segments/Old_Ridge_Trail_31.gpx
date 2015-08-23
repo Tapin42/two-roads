@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Old Ridge Trail 31</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347497</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Old Ridge Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Old Ridge Trail 31</name>
+    <trkseg>
+      <trkpt lat="37.1568316" lon="-121.44759"/>
+      <trkpt lat="37.157003" lon="-121.4476591"/>
+      <trkpt lat="37.157392" lon="-121.4479487"/>
+      <trkpt lat="37.1578238" lon="-121.4486729"/>
+      <trkpt lat="37.157935" lon="-121.4489358"/>
+      <trkpt lat="37.1578837" lon="-121.4493435"/>
+      <trkpt lat="37.1579051" lon="-121.4495151"/>
+      <trkpt lat="37.1578452" lon="-121.4497404"/>
+      <trkpt lat="37.1577939" lon="-121.4499658"/>
+      <trkpt lat="37.157811" lon="-121.4500623"/>
+      <trkpt lat="37.1582599" lon="-121.4507865"/>
+      <trkpt lat="37.1582727" lon="-121.4511137"/>
+      <trkpt lat="37.1584437" lon="-121.4515536"/>
+      <trkpt lat="37.1587516" lon="-121.4520686"/>
+      <trkpt lat="37.1589611" lon="-121.4524173"/>
+      <trkpt lat="37.159115" lon="-121.4525621"/>
+      <trkpt lat="37.1591577" lon="-121.4527392"/>
+      <trkpt lat="37.1597648" lon="-121.4538335"/>
+      <trkpt lat="37.1601111" lon="-121.4543163"/>
+      <trkpt lat="37.1602009" lon="-121.4546221"/>
+      <trkpt lat="37.1601667" lon="-121.4549815"/>
+      <trkpt lat="37.1601795" lon="-121.4556735"/>
+      <trkpt lat="37.1602864" lon="-121.4560705"/>
+      <trkpt lat="37.1604232" lon="-121.4567303"/>
+      <trkpt lat="37.1607395" lon="-121.4571702"/>
+      <trkpt lat="37.1607566" lon="-121.4574223"/>
+      <trkpt lat="37.1607652" lon="-121.4577227"/>
+      <trkpt lat="37.1606412" lon="-121.4581411"/>
+      <trkpt lat="37.1605514" lon="-121.458184"/>
+      <trkpt lat="37.1602222" lon="-121.4581519"/>
+      <trkpt lat="37.1599016" lon="-121.4582484"/>
+      <trkpt lat="37.1596921" lon="-121.4583933"/>
+      <trkpt lat="37.1596408" lon="-121.4584737"/>
+      <trkpt lat="37.1593886" lon="-121.4584415"/>
+      <trkpt lat="37.1592603" lon="-121.4584684"/>
+      <trkpt lat="37.1589311" lon="-121.4583342"/>
+      <trkpt lat="37.1584865" lon="-121.458286"/>
+      <trkpt lat="37.1580974" lon="-121.4582538"/>
+      <trkpt lat="37.1576457" lon="-121.4581639"/>
+    </trkseg>
+  </trk>
+</gpx>

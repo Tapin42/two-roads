@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Robison Creek Trail 137</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347275</twr:id>
+    <attrs>
+      <twr:bicycle>no</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Robison Creek Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Robison Creek Trail 137</name>
+    <trkseg>
+      <trkpt lat="37.2557826" lon="-121.4178301"/>
+      <trkpt lat="37.2553044" lon="-121.4176553"/>
+      <trkpt lat="37.2549423" lon="-121.4178956"/>
+      <trkpt lat="37.2542591" lon="-121.4178441"/>
+      <trkpt lat="37.2532822" lon="-121.4176724"/>
+      <trkpt lat="37.2528449" lon="-121.4175694"/>
+      <trkpt lat="37.252312" lon="-121.4178098"/>
+      <trkpt lat="37.2516288" lon="-121.4182561"/>
+      <trkpt lat="37.2513692" lon="-121.4185822"/>
+      <trkpt lat="37.2505494" lon="-121.4188397"/>
+      <trkpt lat="37.2502283" lon="-121.4188397"/>
+      <trkpt lat="37.2498525" lon="-121.4183419"/>
+      <trkpt lat="37.2493947" lon="-121.4176553"/>
+      <trkpt lat="37.2488277" lon="-121.4174407"/>
+      <trkpt lat="37.2483904" lon="-121.4175265"/>
+      <trkpt lat="37.2479941" lon="-121.4176982"/>
+      <trkpt lat="37.2474612" lon="-121.4175952"/>
+      <trkpt lat="37.2470923" lon="-121.4174579"/>
+      <trkpt lat="37.2467096" lon="-121.4177668"/>
+      <trkpt lat="37.2465457" lon="-121.4173119"/>
+      <trkpt lat="37.246368" lon="-121.4171832"/>
+      <trkpt lat="37.2459102" lon="-121.4175694"/>
+    </trkseg>
+  </trk>
+</gpx>

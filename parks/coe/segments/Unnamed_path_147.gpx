@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed path 147</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347255</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed path 147</name>
+    <trkseg>
+      <trkpt lat="37.1033727" lon="-121.4223219"/>
+      <trkpt lat="37.1033737" lon="-121.4225397"/>
+      <trkpt lat="37.1032111" lon="-121.4227329"/>
+      <trkpt lat="37.1033994" lon="-121.422808"/>
+      <trkpt lat="37.1037246" lon="-121.4226792"/>
+      <trkpt lat="37.1038957" lon="-121.4228831"/>
+      <trkpt lat="37.1039984" lon="-121.4239989"/>
+      <trkpt lat="37.1040839" lon="-121.4243529"/>
+      <trkpt lat="37.1038016" lon="-121.4246641"/>
+      <trkpt lat="37.1036732" lon="-121.4244173"/>
+      <trkpt lat="37.1033652" lon="-121.4240847"/>
+      <trkpt lat="37.1032111" lon="-121.4247177"/>
+      <trkpt lat="37.1029459" lon="-121.425222"/>
+      <trkpt lat="37.1027919" lon="-121.425222"/>
+      <trkpt lat="37.1027491" lon="-121.4254043"/>
+      <trkpt lat="37.1029544" lon="-121.425576"/>
+      <trkpt lat="37.102809" lon="-121.4261983"/>
+      <trkpt lat="37.1026464" lon="-121.4260052"/>
+      <trkpt lat="37.1025739" lon="-121.4261676"/>
+    </trkseg>
+  </trk>
+</gpx>

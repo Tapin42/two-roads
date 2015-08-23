@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Unnamed track 142</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347265</twr:id>
+    <attrs>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Unnamed track 142</name>
+    <trkseg>
+      <trkpt lat="37.0940059" lon="-121.4345934"/>
+      <trkpt lat="37.0941197" lon="-121.43442"/>
+      <trkpt lat="37.0943182" lon="-121.4342999"/>
+      <trkpt lat="37.0944415" lon="-121.434257"/>
+    </trkseg>
+  </trk>
+</gpx>

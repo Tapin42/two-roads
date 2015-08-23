@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Red Creek Road 157</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-347235</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:highway>track</twr:highway>
+      <twr:name>Red Creek Road</twr:name>
+      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
+      <twr:tiger.county>Stanislaus, CA</twr:tiger.county>
+      <twr:tiger.name_base>Red Creek</twr:tiger.name_base>
+      <twr:tiger.name_type>Rd</twr:tiger.name_type>
+      <twr:tiger.reviewed>no</twr:tiger.reviewed>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Red Creek Road 157</name>
+    <trkseg>
+      <trkpt lat="37.2915595" lon="-121.4475849"/>
+      <trkpt lat="37.2918805" lon="-121.4484432"/>
+      <trkpt lat="37.2918532" lon="-121.4494989"/>
+      <trkpt lat="37.2918273" lon="-121.4500486"/>
+      <trkpt lat="37.2918273" lon="-121.4506237"/>
+      <trkpt lat="37.2921141" lon="-121.4507352"/>
+      <trkpt lat="37.2921824" lon="-121.4509927"/>
+      <trkpt lat="37.2919639" lon="-121.4511644"/>
+      <trkpt lat="37.2912264" lon="-121.4517051"/>
+      <trkpt lat="37.2909055" lon="-121.4521514"/>
+      <trkpt lat="37.2904617" lon="-121.4529411"/>
+      <trkpt lat="37.2899017" lon="-121.4533359"/>
+      <trkpt lat="37.2891984" lon="-121.4534561"/>
+      <trkpt lat="37.2890277" lon="-121.4537136"/>
+      <trkpt lat="37.2885155" lon="-121.4537136"/>
+      <trkpt lat="37.2876756" lon="-121.4537822"/>
+      <trkpt lat="37.2870815" lon="-121.4541942"/>
+      <trkpt lat="37.2870815" lon="-121.4545976"/>
+      <trkpt lat="37.2869244" lon="-121.4548294"/>
+      <trkpt lat="37.2864191" lon="-121.4552413"/>
+      <trkpt lat="37.2860367" lon="-121.4555675"/>
+      <trkpt lat="37.2859684" lon="-121.4563571"/>
+      <trkpt lat="37.2861459" lon="-121.4565717"/>
+      <trkpt lat="37.2863645" lon="-121.4565717"/>
+      <trkpt lat="37.2863781" lon="-121.4570009"/>
+      <trkpt lat="37.2866513" lon="-121.4574729"/>
+      <trkpt lat="37.2866513" lon="-121.4580738"/>
+      <trkpt lat="37.286583" lon="-121.4587432"/>
+      <trkpt lat="37.2868083" lon="-121.4592067"/>
+      <trkpt lat="37.2870815" lon="-121.4596187"/>
+      <trkpt lat="37.2872386" lon="-121.45955"/>
+      <trkpt lat="37.2874232" lon="-121.4588803"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Cattle Duster Trail 191</name>
+    <twr:source>osm</twr:source>
+    <twr:type>path</twr:type>
+    <twr:id>-347165</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>path</twr:highway>
+      <twr:name>Cattle Duster Trail</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Cattle Duster Trail 191</name>
+    <trkseg>
+      <trkpt lat="37.129941" lon="-121.4578542"/>
+      <trkpt lat="37.129881" lon="-121.4579587"/>
+      <trkpt lat="37.1298126" lon="-121.4584222"/>
+      <trkpt lat="37.1297852" lon="-121.4587569"/>
+      <trkpt lat="37.1296757" lon="-121.4589372"/>
+      <trkpt lat="37.1296826" lon="-121.4594436"/>
+      <trkpt lat="37.1294933" lon="-121.4598431"/>
+      <trkpt lat="37.1293267" lon="-121.4603534"/>
+      <trkpt lat="37.1292172" lon="-121.4606624"/>
+      <trkpt lat="37.1292035" lon="-121.4608941"/>
+      <trkpt lat="37.1291625" lon="-121.4612718"/>
+      <trkpt lat="37.1290393" lon="-121.4614778"/>
+      <trkpt lat="37.1288614" lon="-121.4617095"/>
+      <trkpt lat="37.1287577" lon="-121.4619299"/>
+    </trkseg>
+  </trk>
+</gpx>
