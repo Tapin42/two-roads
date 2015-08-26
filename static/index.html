@@ -28,6 +28,7 @@ var map;
 var elevator;
 var elevationChart;
 var activePath;
+var activePoint;
 var activeSegments = [];
 var server = 'http://localhost:8000/';
 
@@ -193,9 +194,9 @@ function fetchAndDisplaySegment(park, map, segment) {
 //   }
 // }
 
-function handleSegmentClick(segment) {
-  return function() {
-    var path = segment.path;
+function handleSegmentClick(originalSegment) {
+  return function segmentClickHandler() {
+    var path = originalSegment.path;
     // if (activePath) {
     //   activePath.path.setOptions({strokeColor: activePath.origColor});
     // }
@@ -205,10 +206,42 @@ function handleSegmentClick(segment) {
     };
     path.setOptions({strokeColor: 'blue'});
 
+    // Cheap deep copy
+    var segment = $.extend({}, originalSegment);
+
+    markNewActivePoint(segment);
     activeSegments.push(segment);
     showCurrentPath(activeSegments);
     displaySegElevation(segment);
   };
+}
+
+function markNewActivePoint(segment) {
+  if (activePoint) {
+    activePoint.marker.setMap(null);
+    var oldCoords = activePoint.coords;
+
+    var distFromStart = haversine(oldCoords, segment.coords[0]);
+    var distFromEnd = haversine(oldCoords, segment.coords[segment.coords.length-1]);
+
+    if (distFromEnd < distFromStart) {
+      // Flip it!
+      console.log('Reversing ' + segment.name + ' to make it work');
+      segment.reversed = true;
+      segment.coords = segment.coords.reverse();
+    }
+  }
+
+  // Now is the time on Sprocket when we dance.
+  activePoint = {
+    coords: segment.coords[segment.coords.length-1]
+  };
+  activePoint.marker = new google.maps.Marker({
+    position: activePoint.coords,
+    map: map,
+    title: 'Lat: ' + activePoint.coords.lat + ', Lng: ' + activePoint.coords.lng
+  });
+
 }
 
 function showCurrentPath(segments) {
