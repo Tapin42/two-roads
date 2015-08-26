@@ -27,6 +27,7 @@
 var map;
 var elevator;
 var activePath;
+var activeSegments = [];
 var server = 'http://localhost:8000/';
 
 function haversine(p1, p2) {
@@ -98,6 +99,7 @@ function initMap(park) {
   elevator = new google.maps.ElevationService;
 
   fetchOverlays(park, map);
+  fetchTrailheads(park, map);
   fetchSegments(park, map);
 }
 
@@ -113,6 +115,22 @@ function fetchOverlays(park, map) {
         overlay.setMap(map);
       });
     });
+}
+
+function fetchTrailheads(park, map) {
+  // Poor name, because there's really no "fetching" involved, but whatever.  It's consistent.
+
+  function displayMarker(trailheadName) {
+    var marker = new google.maps.Marker({
+      map: map,
+      // animation: google.maps.Animation.DROP,
+      title: trailheadName,
+      position: park.trailheads[trailheadName],
+      icon: 'icon/hiking2.png'
+    });
+  }
+
+  Object.keys(park.trailheads).forEach(displayMarker);
 }
 
 function fetchSegments(park, map) {
@@ -143,16 +161,24 @@ function fetchAndDisplaySegment(park, map, segment) {
         });
       });
 
+      var trailName = $gpx.find('metadata > name').text();
       var path = new google.maps.Polyline({
           path: coords,
-          name: $gpx.find('metadata > name').text(),
           geodesic: true,
           strokeColor: getSegColor($gpx.find('metadata > source').text()),
           strokeOpacity: 0.5,
           strokeWeight: 5
         });
 
-      google.maps.event.addListener(path, 'click', displaySegElevation(coords, path));
+      var segMetadata = {
+        path: path,
+        coords: coords,
+        name: trailName,
+        serverName: segment,
+        url: server + segment
+      };
+
+      google.maps.event.addListener(path, 'click', handleSegmentClick(segMetadata));
 
       path.setMap(map);
     }, function (jqXHR, textStatus, errorThrown) {
@@ -166,23 +192,38 @@ function fetchAndDisplaySegment(park, map, segment) {
 //   }
 // }
 
-function displaySegElevation(coords, path) {
-  return function () {
-    var POINTS_PER_CALL = 256;
-    var nCalls = Math.ceil(coords.length / POINTS_PER_CALL);
-    var allData = [];
-    var finished = [];
-    var errStatus;
-
-    if (activePath) {
-      activePath.path.setOptions({strokeColor: activePath.origColor});
-    }
+function handleSegmentClick(segment) {
+  return function() {
+    var path = segment.path;
+    // if (activePath) {
+    //   activePath.path.setOptions({strokeColor: activePath.origColor});
+    // }
     activePath = {
       path: path,
       origColor: path.strokeColor
     };
     path.setOptions({strokeColor: 'blue'});
-    console.log('Path is ' + coords.length + ' elements long, so make ' + nCalls + ' calls');
+
+    displaySegElevation(segment);
+  };
+}
+
+function displaySegElevation(segment) {
+  var coords = segment.coords;
+  var path = segment.path;
+
+  var POINTS_PER_CALL = 256;
+  var nCalls = Math.ceil(coords.length / POINTS_PER_CALL);
+  var allData = [];
+  var finished = [];
+  var errStatus;
+
+  if (segment.elevations) {
+    console.log('We already have the elevations for ' + segment.name + ', so we\'ll just display them.');
+    plotElevation(activeSegments, segment, google.maps.ElevationStatus.OK);
+    activeSegments.push(segment);
+  } else {
+    console.log('Path for ' + segment.name + ' is ' + coords.length + ' elements long, so make ' + nCalls + ' calls');
     for (var i=0; i<nCalls; i++) {
       finished.push(false);
     }
@@ -197,7 +238,9 @@ function displaySegElevation(coords, path) {
         finished[callIdx] = true;
         if (finished.indexOf(false) === -1) {
           var finalArray = [].concat.apply([], allData);
-          plotElevation(path, coords, finalArray, status);
+          segment.elevations = finalArray;
+          plotElevation(activeSegments, segment, status);
+          activeSegments.push(segment);
         }
       };
     }
@@ -207,12 +250,24 @@ function displaySegElevation(coords, path) {
         'locations': coords.slice(i*POINTS_PER_CALL,(i+1)*POINTS_PER_CALL)
       }, elevatorCb(i));
     }
-  };
+  }
 }
 
 // Takes an array of ElevationResult objects, draws the path on the map
 // and plots the elevation profile on a Visualization API Material Line chart.
-function plotElevation(path, coords, elevations, status) {
+function plotElevation(alreadyActive, segment, status) {
+  var coords = [];
+  var elevations = [];
+
+  if (alreadyActive) {
+    alreadyActive.forEach(function (seg) {
+      coords = coords.concat(seg.coords);
+      elevations = elevations.concat(seg.elevations);
+    });
+  }
+  coords = coords.concat(segment.coords);
+  elevations = elevations.concat(segment.elevations);
+
   var elevsInFeet = elevations.map(function (x) { return x.elevation*3.28084; })
   var chartDiv = document.getElementById('elevation');
   if (status !== google.maps.ElevationStatus.OK) {
@@ -224,9 +279,6 @@ function plotElevation(path, coords, elevations, status) {
   var chart = new google.charts.Line(chartDiv);
 
   // Extract the data from which to populate the chart.
-  // Because the samples are equidistant, the 'Sample'
-  // column here does double duty as distance along the
-  // X axis.
   var data = new google.visualization.DataTable();
   data.addColumn('number', 'Distance');
   data.addColumn('number', 'Elevation');
@@ -241,7 +293,7 @@ function plotElevation(path, coords, elevations, status) {
   // Draw the chart using the data within its DIV.
   chart.draw(data, {
     height: $(window).height()*0.18,
-    title: path.name,   // This doesn't do anything
+    title: segment.name,   // This doesn't do anything
     legend: {
       position: 'none'
     },

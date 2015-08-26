@@ -12,13 +12,25 @@
       "lat": 37.186632,
       "lng": -121.5468486
     },
-    "Hunting Hollow Parking Lot": {},
-    "Coyote Creek Trailhead": {},
-    "Kickham Ranch Gate": {},
-    "Bell Station Gate": {},
+    "Hunting Hollow Parking Lot": {
+      "lat": 37.0759559,
+      "lng": -121.4669385
+    },
+    "Coyote Creek Trailhead": {
+      "lat": 37.0995533,
+      "lng": -121.4726575
+    },
+    "Kickham Ranch Gate": {
+      "lat": 37.0338195,
+      "lng": -121.4297092
+    },
+    "Bell Station Gate": {
+      "lat": 37.0426425,
+      "lng": -121.3087555
+    },
     "Dowdy Ranch Visitors Center": {
       "lat": 37.112199,
       "lng": -121.3569132
-    },
+    }
   }
 }
