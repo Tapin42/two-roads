@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style type="text/css">
-      html, body { height: 100%; margin: 0; padding: 0; }
-      #mapDisplay { height: 100%; display: none; }
-      #elevation { padding-top: 10px; }
-    </style>
+    <link rel="stylesheet" type="text/css" href="two-roads.css">
     <script src="https://www.google.com/jsapi"></script>
     <script>
       // Load the Visualization API and the line package.
@@ -20,6 +16,16 @@
     <div id="mapDisplay">
       <div id="map"></div>
       <div id="elevation"></div>
+      <div id="route-overlay">
+        <input type="button" name="reset" />
+        <div id="route-list">
+          <ol>
+            <li>Parking lot</li>
+            <li>Get in car</li>
+            <li>Drive home</li>
+          </ol>
+        </div>
+      </div>
     </div>
 
     <script type="text/javascript">
@@ -229,6 +235,13 @@ function markNewActivePoint(segment) {
       console.log('Reversing ' + segment.name + ' to make it work');
       segment.reversed = true;
       segment.coords = segment.coords.reverse();
+      var t = distFromStart;
+      distFromStart = distFromEnd;
+      distFromEnd = t;
+    }
+
+    if (distFromStart > 0.01) {
+      // We didn't find the segment that directly connects, so we need to hunt it down.
     }
   }
 

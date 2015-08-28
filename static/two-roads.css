@@ -1,0 +1,42 @@
+html, body {
+  height: 100%; margin: 0; padding: 0;
+  font-family: sans-serif;
+}
+
+#mapDisplay {
+  height: 100%; display: none;
+}
+
+#elevation {
+  padding-top: 10px;
+}
+
+#route-overlay {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  margin: 30px 15px 15px 15px;
+  z-index: 10;
+  background-color: #fff;
+}
+
+#route-list {
+  width: 200px;
+}
+
+ol {
+  padding: 10px 3px 3px 0px;
+  margin-bottom:  0px;
+  list-style-type: none;
+}
+
+li {
+  border-width: 1px;
+  border-color: #ccc;
+  border-style: solid;
+  padding:  10px 10px 10px 10px;
+}
+
+li:nth-child(odd) {
+  background-color: #ffb;
+}
