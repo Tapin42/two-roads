@@ -99,7 +99,9 @@ function toggleMapVisibility(isVisible) {
 function initMap(park) {
   toggleMapVisibility(true);
 
-  map = new google.maps.Map(document.getElementById('map'), park.start);
+  map = new google.maps.Map(document.getElementById('map'), $.extend(park.start, {
+    mapTypeId: google.maps.MapTypeId.TERRAIN
+  }));
   elevator = new google.maps.ElevationService;
 
   fetchOverlays(park, map);
@@ -132,6 +134,11 @@ function fetchTrailheads(park, map) {
       position: park.trailheads[trailheadName],
       icon: 'icon/hiking2.png'
     });
+
+    marker.addListener('click', function() {
+      map.setZoom(15);
+      map.setCenter(marker.getPosition());
+    });
   }
 
   Object.keys(park.trailheads).forEach(displayMarker);
@@ -158,11 +165,17 @@ function fetchAndDisplaySegment(park, map, segment) {
 
       $gpx = $(gpx);
       var coords = [];
+      var segDist = 0;
       $gpx.find('trkpt').each(function () {
-        coords.push({
+        var newCoords = {
           lat: parseFloat($(this).attr('lat')),
           lng: parseFloat($(this).attr('lon'))
-        });
+        }
+        if (coords.length !== 0) {
+          segDist += haversine(newCoords, coords[coords.length-1]);
+        }
+        newCoords.dist = segDist;
+        coords.push(newCoords);
       });
 
       var trailName = $gpx.find('metadata > name').text();
@@ -213,9 +226,8 @@ function handleSegmentClick(originalSegment) {
 
     markNewActivePoint(segment);
     activeSegments.push(segment);
-    displaySegElevation(segment).then(function () {
-      showCurrentPath(activeSegments);
-    });
+    addSegmentToRouteList(activeSegments);
+    displaySegElevation(segment);
   };
 }
 
@@ -232,6 +244,14 @@ function markNewActivePoint(segment) {
       console.log('Reversing ' + segment.name + ' to make it work');
       segment.reversed = true;
       segment.coords = segment.coords.reverse();
+      // Have to recompute segment distance when we flip
+      var segDist = 0;
+      for (var i=0; i<segment.coords.length; i++) {
+        if (i !== 0) {
+          segDist += haversine(segment.coords[i], segment.coords[i-1]);
+        }
+        segment.coords[i].dist = segDist;
+      }
       var t = distFromStart;
       distFromStart = distFromEnd;
       distFromEnd = t;
@@ -253,7 +273,7 @@ function markNewActivePoint(segment) {
   });
 }
 
-function showCurrentPath(segments) {
+function addSegmentToRouteList(segments) {
   var mostRecent = segments[segments.length-1];
   var route = segments.map(function (seg) { return seg.name; }).join(' => ');
   console.log('Current path is ' + route);
@@ -353,8 +373,8 @@ function plotElevation(segment, status) {
 
   if (!elevationChart) {
     elevationChart = {
-      coords: coords,
-      elevations: elevations,
+      coords: [],
+      elevations: [],
       totalDistance: 0.0
     };
 
@@ -365,39 +385,20 @@ function plotElevation(segment, status) {
     elevationChart.data = new google.visualization.DataTable();
     elevationChart.data.addColumn('number', 'Distance');
     elevationChart.data.addColumn('number', 'Elevation');
-    for (var i = 0; i < elevations.length; i++) {
-      if (i > 0) {
-        var newDist = haversine(coords[i-1], coords[i]);
-        coords[i].dist = coords[i-1].dist + newDist;
-        elevationChart.totalDistance += newDist;
-      } else {
-        coords[i].dist = 0;
-      }
-      elevationChart.data.addRow([elevationChart.totalDistance, elevations[i]]);
-    }
-
-    // Draw the chart using the data within its DIV.
-    elevationChart.chart.draw(elevationChart.data, chartOpts);
-    D.resolve();
-  } else {
-    for (var i = 0; i<elevations.length; i++) {
-      if (i > 0) {
-        var newDist = haversine(coords[i-1], coords[i]);
-        coords[i].dist = coords[i-1].dist + newDist;
-        elevationChart.totalDistance += newDist;
-      } else {
-        elevationChart.totalDistance += haversine(elevationChart.coords[elevationChart.coords.length-1], coords[0]);
-        coords[i].dist = 0;
-      }
-      elevationChart.data.addRow([elevationChart.totalDistance, elevations[i]]);
-    }
-
-    elevationChart.coords = elevationChart.coords.concat(coords);
-    elevationChart.elevations = elevationChart.elevations.concat(elevations);
-
-    elevationChart.chart.draw(elevationChart.data, chartOpts);
-    D.resolve();
   }
+
+  for (var i = 0; i < elevations.length; i++) {
+    var pointDistance = elevationChart.totalDistance + coords[i].dist;
+    elevationChart.data.addRow([pointDistance, elevations[i]]);
+  }
+
+  // Draw the chart using the data within its DIV.
+  elevationChart.coords = elevationChart.coords.concat(coords);
+  elevationChart.elevations = elevationChart.elevations.concat(elevations);
+  elevationChart.totalDistance += coords[coords.length-1].dist;
+
+  elevationChart.chart.draw(elevationChart.data, chartOpts);
+  D.resolve();
 
   return D.promise();
 }
