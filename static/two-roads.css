@@ -13,6 +13,7 @@ html, body {
 
 #route-overlay {
   position: absolute;
+  display: none;
   right: 0px;
   top: 0px;
   margin: 30px 15px 15px 15px;
@@ -20,12 +21,12 @@ html, body {
   background-color: #fff;
 }
 
-#route-list {
+#route-list-div {
   width: 200px;
 }
 
 ol {
-  padding: 10px 3px 3px 0px;
+  padding: 10px 3px 3px 3px;
   margin-bottom:  0px;
   list-style-type: none;
 }

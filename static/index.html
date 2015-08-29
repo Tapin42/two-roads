@@ -18,12 +18,8 @@
       <div id="elevation"></div>
       <div id="route-overlay">
         <input type="button" name="reset" />
-        <div id="route-list">
-          <ol>
-            <li>Parking lot</li>
-            <li>Get in car</li>
-            <li>Drive home</li>
-          </ol>
+        <div id="route-list-div">
+          <ol id="route-list"></ol>
         </div>
       </div>
     </div>
@@ -217,8 +213,9 @@ function handleSegmentClick(originalSegment) {
 
     markNewActivePoint(segment);
     activeSegments.push(segment);
-    showCurrentPath(activeSegments);
-    displaySegElevation(segment);
+    displaySegElevation(segment).then(function () {
+      showCurrentPath(activeSegments);
+    });
   };
 }
 
@@ -254,15 +251,30 @@ function markNewActivePoint(segment) {
     map: map,
     title: 'Lat: ' + activePoint.coords.lat + ', Lng: ' + activePoint.coords.lng
   });
-
 }
 
 function showCurrentPath(segments) {
+  var mostRecent = segments[segments.length-1];
   var route = segments.map(function (seg) { return seg.name; }).join(' => ');
   console.log('Current path is ' + route);
+
+  if (activeSegments.length === 1) {
+    $('#route-overlay').show(1000)
+  }
+
+  buildRouteListElement(mostRecent).appendTo('#route-list');
+}
+
+function buildRouteListElement(segment) {
+  var name = segment.name;
+  // Distance rounded to one decimal place
+  var dist = Math.round(10*segment.coords[segment.coords.length-1].dist)/10;
+
+  return $('<li>' + name + ' (' + dist + ')</li>');
 }
 
 function displaySegElevation(segment) {
+  var D = $.Deferred();
   var coords = segment.coords;
   var path = segment.path;
 
@@ -274,7 +286,7 @@ function displaySegElevation(segment) {
 
   if (segment.elevations) {
     // console.log('We already have the elevations for ' + segment.name + ', so we\'ll just display them.');
-    plotElevation(segment, google.maps.ElevationStatus.OK);
+    plotElevation(segment, google.maps.ElevationStatus.OK).then(D.resolve);
   } else {
     // console.log('Path for ' + segment.name + ' is ' + coords.length + ' elements long, so make ' + nCalls + ' calls');
     for (var i=0; i<nCalls; i++) {
@@ -293,7 +305,7 @@ function displaySegElevation(segment) {
         if (finished.indexOf(false) === -1) {
           var finalArray = [].concat.apply([], allData);
           segment.elevations = finalArray;
-          plotElevation(segment, status);
+          plotElevation(segment, status).then(D.resolve);
         }
       };
     }
@@ -304,11 +316,14 @@ function displaySegElevation(segment) {
       }, elevatorCb(i));
     }
   }
+
+  return D.promise();
 }
 
 // Takes an array of ElevationResult objects, draws the path on the map
 // and plots the elevation profile on a Visualization API Material Line chart.
 function plotElevation(segment, status) {
+  var D = $.Deferred();
   var coords = segment.coords;
   var elevations = segment.elevations;
   var chartOpts = {
@@ -352,19 +367,27 @@ function plotElevation(segment, status) {
     elevationChart.data.addColumn('number', 'Elevation');
     for (var i = 0; i < elevations.length; i++) {
       if (i > 0) {
-        elevationChart.totalDistance += haversine(coords[i-1], coords[i]);
+        var newDist = haversine(coords[i-1], coords[i]);
+        coords[i].dist = coords[i-1].dist + newDist;
+        elevationChart.totalDistance += newDist;
+      } else {
+        coords[i].dist = 0;
       }
       elevationChart.data.addRow([elevationChart.totalDistance, elevations[i]]);
     }
 
     // Draw the chart using the data within its DIV.
     elevationChart.chart.draw(elevationChart.data, chartOpts);
+    D.resolve();
   } else {
     for (var i = 0; i<elevations.length; i++) {
       if (i > 0) {
-        elevationChart.totalDistance += haversine(coords[i-1], coords[i]);
+        var newDist = haversine(coords[i-1], coords[i]);
+        coords[i].dist = coords[i-1].dist + newDist;
+        elevationChart.totalDistance += newDist;
       } else {
         elevationChart.totalDistance += haversine(elevationChart.coords[elevationChart.coords.length-1], coords[0]);
+        coords[i].dist = 0;
       }
       elevationChart.data.addRow([elevationChart.totalDistance, elevations[i]]);
     }
@@ -373,7 +396,10 @@ function plotElevation(segment, status) {
     elevationChart.elevations = elevationChart.elevations.concat(elevations);
 
     elevationChart.chart.draw(elevationChart.data, chartOpts);
+    D.resolve();
   }
+
+  return D.promise();
 }
 
     </script>
