@@ -443,33 +443,32 @@ function exportGpx() {
 }
 
 function generateGpx(segments) {
-  var gpxData = {
-    gpx: {
-      $: {
-        'xmlns': "http://www.topografix.com/GPX/1/1",
-        'xmlns:gpsm': "http://www.gpsmaster.org/schema/gpsm/v1",
-        'xmlns:twr': "http://navratils.org/schema/two-roads/v1"
-      },
-      metadata: [{
-        name: 'New Track',
-        'twr:source': 'two-roads',
-      }],
-      trk: []
-    }
-  };
 
+  var doc = $.parseXML('<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gpx/>');
+
+  var $gpx = $('gpx', doc);
+  $gpx.attr('xmlns', 'http://www.topografix.com/GPX/1/1');
+  $gpx.attr('xmlns:gpsm', 'http://www.gpsmaster.org/schema/gpsm/v1');
+  $gpx.attr('xmlns:twr', 'http://navratils.org/schema/two-roads/v1');
+
+  var $metadata = $(doc.createElement('metadata'));
+  $metadata.append($(doc.createElement('name')).text('New Track'));
+  $metadata.append($(doc.createElement('twr:source')).text('two-roads'));
+
+  $gpx.append($metadata);
+
+  var $trk = $(doc.createElement('trk'));
   segments.forEach(function (segment) {
-    gpxData.gpx.trk.push(getGpxTrkFromSegment(segment));
+    $trk.append(getTrksegFromSegment(doc, segment));
   });
+  $gpx.append($trk);
 
-  // var builder = new xml2js.Builder();
-  // var xml = builder.buildObject(gpxData);
-  var xml = JSON.stringify(gpxData);
+  var rv = (new XMLSerializer()).serializeToString($(doc).context);
 
-  return xml;
+  return rv;
 }
 
-function getGpxTrkFromSegment(segment) {
+function getTrksegFromSegment(doc, segment) {
   // Segment has:
   // - coords
   // - elevations
@@ -486,25 +485,25 @@ function getGpxTrkFromSegment(segment) {
   // - url
   // ... and consider using a server ID as well to allow for matchup later?  But the URL can serve that purpose too
 
-  var trk = {
-    name: segment.name,
-    src: segment.url,
-    trkseg: [{
-      trkpt: []
-    }]
-  };
-
+  var $trkseg = $(doc.createElement('trkseg'));
+  var $extensions = $(doc.createElement('extensions'));
+  $extensions.append($(doc.createElement('twr:name')).text(segment.name));
+  $extensions.append($(doc.createElement('twr:src')).text(segment.url));
+  $trkseg.append($extensions);
   for (var i=0; i<segment.coords.length; i++) {
-    trk.trkseg[0].trkpt.push({
-      $: {
-        lat: segment.coords[i].lat,
-        lon: segment.coords[i].lon
-      },
-      ele: segment.elevations[i]
-    });
+    var $trkpt =
+      $(doc.createElement('trkpt'))
+        .attr('lat', segment.coords[i].lat)
+        .attr('lon', segment.coords[i].lng);
+
+    // Convert back to the units that everyone else in the world uses but us special-snowflake Americans.
+    var $ele = $(doc.createElement('ele')).text(segment.elevations[i]/3.28084);
+
+    $trkpt.append($ele);
+    $trkseg.append($trkpt);
   }
 
-  return trk;
+  return $trkseg;
 }
 
     </script>
