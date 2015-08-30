@@ -3,6 +3,7 @@
   <head>
     <link rel="stylesheet" type="text/css" href="two-roads.css">
     <script src="https://www.google.com/jsapi"></script>
+    <script src="lib/FileSaver.min.js"></script>
     <script>
       // Load the Visualization API and the line package.
       google.load('visualization', '1', {packages: ['line']});
@@ -17,7 +18,10 @@
       <div id="map"></div>
       <div id="elevation"></div>
       <div id="route-overlay">
-        <input type="button" name="reset" />
+        <div id="buttons">
+          <button name="reset" onclick="resetRoute()">Reset</button>
+          <button name="export" onclick="exportGpx()">Export</button>
+        </div>
         <div id="route-list-div">
           <ol id="route-list"></ol>
         </div>
@@ -117,8 +121,10 @@ function fetchOverlays(park, map) {
           new google.maps.LatLng(overlay.bounds[2], overlay.bounds[3])
           );
 
-        var overlay = new google.maps.GroundOverlay(server + overlay.url, bounds);
-        overlay.setMap(map);
+        var overlay = new google.maps.GroundOverlay(server + overlay.url, bounds, {
+          map: map,
+          clickable: false
+        });
       });
     });
 }
@@ -138,6 +144,9 @@ function fetchTrailheads(park, map) {
     marker.addListener('click', function() {
       map.setZoom(15);
       map.setCenter(marker.getPosition());
+      activePoint = {
+        coords: park.trailheads[trailheadName]
+      };
     });
   }
 
@@ -211,19 +220,12 @@ function fetchAndDisplaySegment(park, map, segment) {
 
 function handleSegmentClick(originalSegment) {
   return function segmentClickHandler() {
-    var path = originalSegment.path;
-    // if (activePath) {
-    //   activePath.path.setOptions({strokeColor: activePath.origColor});
-    // }
-    activePath = {
-      path: path,
-      origColor: path.strokeColor
-    };
-    path.setOptions({strokeColor: 'blue'});
 
     // Cheap deep copy
     var segment = $.extend({}, originalSegment);
 
+    segment.origColor = segment.path.strokeColor;
+    segment.path.setOptions({strokeColor: 'blue'});
     markNewActivePoint(segment);
     activeSegments.push(segment);
     addSegmentToRouteList(activeSegments);
@@ -231,34 +233,39 @@ function handleSegmentClick(originalSegment) {
   };
 }
 
-function markNewActivePoint(segment) {
+function markNewActivePoint(segment, onlyMark) {
   if (activePoint) {
-    activePoint.marker.setMap(null);
-    var oldCoords = activePoint.coords;
-
-    var distFromStart = haversine(oldCoords, segment.coords[0]);
-    var distFromEnd = haversine(oldCoords, segment.coords[segment.coords.length-1]);
-
-    if (distFromEnd < distFromStart) {
-      // Flip it!
-      console.log('Reversing ' + segment.name + ' to make it work');
-      segment.reversed = true;
-      segment.coords = segment.coords.reverse();
-      // Have to recompute segment distance when we flip
-      var segDist = 0;
-      for (var i=0; i<segment.coords.length; i++) {
-        if (i !== 0) {
-          segDist += haversine(segment.coords[i], segment.coords[i-1]);
-        }
-        segment.coords[i].dist = segDist;
-      }
-      var t = distFromStart;
-      distFromStart = distFromEnd;
-      distFromEnd = t;
+    if (activePoint.marker) {
+      activePoint.marker.setMap(null);
     }
 
-    if (distFromStart > 0.01) {
-      // We didn't find the segment that directly connects, so we need to hunt it down.
+    if (!onlyMark) {
+      var oldCoords = activePoint.coords;
+
+      var distFromStart = haversine(oldCoords, segment.coords[0]);
+      var distFromEnd = haversine(oldCoords, segment.coords[segment.coords.length-1]);
+
+      if (distFromEnd < distFromStart) {
+        // Flip it!
+        console.log('Reversing ' + segment.name + ' to make it work');
+        segment.reversed = true;
+        segment.coords = segment.coords.reverse();
+        // Have to recompute segment distance when we flip
+        var segDist = 0;
+        for (var i=0; i<segment.coords.length; i++) {
+          if (i !== 0) {
+            segDist += haversine(segment.coords[i], segment.coords[i-1]);
+          }
+          segment.coords[i].dist = segDist;
+        }
+        var t = distFromStart;
+        distFromStart = distFromEnd;
+        distFromEnd = t;
+      }
+
+      if (distFromStart > 0.01) {
+        // We didn't find the segment that directly connects, so we need to hunt it down.
+      }
     }
   }
 
@@ -279,7 +286,7 @@ function addSegmentToRouteList(segments) {
   console.log('Current path is ' + route);
 
   if (activeSegments.length === 1) {
-    $('#route-overlay').show(1000)
+    $('#route-overlay').show(500);
   }
 
   buildRouteListElement(mostRecent).appendTo('#route-list');
@@ -344,6 +351,14 @@ function displaySegElevation(segment) {
 // and plots the elevation profile on a Visualization API Material Line chart.
 function plotElevation(segment, status) {
   var D = $.Deferred();
+
+  if (!segment) {
+    // Zero everything out, we're done here
+    elevationChart = null;
+    $('#elevation').empty();
+    return;
+  }
+
   var coords = segment.coords;
   var elevations = segment.elevations;
   var chartOpts = {
@@ -371,7 +386,7 @@ function plotElevation(segment, status) {
     return;
   }
 
-  if (!elevationChart) {
+  if (!elevationChart || !elevationChart.data) {
     elevationChart = {
       coords: [],
       elevations: [],
@@ -401,6 +416,95 @@ function plotElevation(segment, status) {
   D.resolve();
 
   return D.promise();
+}
+
+function resetRoute() {
+  if (activePoint) {
+    activePoint.marker.setMap(null);
+    activePoint = null;
+  }
+
+  activeSegments.forEach(function (seg) {
+    seg.path.setOptions({strokeColor: seg.origColor});
+  });
+  activeSegments = [];
+
+  plotElevation(null);
+
+  $('#route-overlay').hide(500);
+  $('#route-list').empty();
+}
+
+function exportGpx() {
+  var blob = new Blob([generateGpx(activeSegments)], {
+    type: 'application/gpx+xml'
+  });
+  saveAs(blob, "track.gpx");
+}
+
+function generateGpx(segments) {
+  var gpxData = {
+    gpx: {
+      $: {
+        'xmlns': "http://www.topografix.com/GPX/1/1",
+        'xmlns:gpsm': "http://www.gpsmaster.org/schema/gpsm/v1",
+        'xmlns:twr': "http://navratils.org/schema/two-roads/v1"
+      },
+      metadata: [{
+        name: 'New Track',
+        'twr:source': 'two-roads',
+      }],
+      trk: []
+    }
+  };
+
+  segments.forEach(function (segment) {
+    gpxData.gpx.trk.push(getGpxTrkFromSegment(segment));
+  });
+
+  // var builder = new xml2js.Builder();
+  // var xml = builder.buildObject(gpxData);
+  var xml = JSON.stringify(gpxData);
+
+  return xml;
+}
+
+function getGpxTrkFromSegment(segment) {
+  // Segment has:
+  // - coords
+  // - elevations
+  // - name
+  // - origColor
+  // - path
+  // - serverName
+  // - url
+  //
+  // We should probably save:
+  // - coords (duh)
+  // - elevations
+  // - name
+  // - url
+  // ... and consider using a server ID as well to allow for matchup later?  But the URL can serve that purpose too
+
+  var trk = {
+    name: segment.name,
+    src: segment.url,
+    trkseg: [{
+      trkpt: []
+    }]
+  };
+
+  for (var i=0; i<segment.coords.length; i++) {
+    trk.trkseg[0].trkpt.push({
+      $: {
+        lat: segment.coords[i].lat,
+        lon: segment.coords[i].lon
+      },
+      ele: segment.elevations[i]
+    });
+  }
+
+  return trk;
 }
 
     </script>

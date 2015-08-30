@@ -21,6 +21,10 @@ html, body {
   background-color: #fff;
 }
 
+#buttons {
+  margin: 10px 10px 0px 10px;
+}
+
 #route-list-div {
   width: 250px;
   max-height: 500px;
@@ -29,7 +33,7 @@ html, body {
 
 ol {
   padding: 10px 3px 3px 3px;
-  margin-bottom:  0px;
+  margin:  0px 0px 0px 0px;
   list-style-type: none;
 }
 
