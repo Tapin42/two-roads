@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
   <metadata>
-    <name>WIllow Ridge Road 5</name>
+    <name>Willow Ridge Road 5</name>
     <twr:source>osm</twr:source>
-    <twr:type>track</twr:type>
-    <twr:id>-89843</twr:id>
+    <twr:type>path</twr:type>
+    <twr:id>-89969</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
-      <twr:highway>track</twr:highway>
-      <twr:name>WIllow Ridge Road</twr:name>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Willow Ridge Road</twr:name>
     </attrs>
   </metadata>
   <trk>
-    <name>WIllow Ridge Road 5</name>
+    <name>Willow Ridge Road 5</name>
     <trkseg>
-      <trkpt lat="37.1982869" lon="-121.4241587"/>
-      <trkpt lat="37.198492" lon="-121.4238926"/>
-      <trkpt lat="37.1987039" lon="-121.4237124"/>
-      <trkpt lat="37.1987449" lon="-121.4234377"/>
-      <trkpt lat="37.1988638" lon="-121.4228748"/>
-      <trkpt lat="37.19895" lon="-121.4226223"/>
-      <trkpt lat="37.198909" lon="-121.4224335"/>
-      <trkpt lat="37.1988338" lon="-121.4221674"/>
-      <trkpt lat="37.1987588" lon="-121.4219065"/>
-      <trkpt lat="37.198533" lon="-121.4216524"/>
-      <trkpt lat="37.1983416" lon="-121.4212919"/>
-      <trkpt lat="37.1982937" lon="-121.4209057"/>
-      <trkpt lat="37.1983347" lon="-121.4206825"/>
+      <trkpt lat="37.1693039" lon="-121.4597131"/>
+      <trkpt lat="37.1695667" lon="-121.4597956"/>
+      <trkpt lat="37.1699292" lon="-121.459684"/>
+      <trkpt lat="37.1702028" lon="-121.4597355"/>
+      <trkpt lat="37.1707089" lon="-121.4597269"/>
+      <trkpt lat="37.1714954" lon="-121.459478"/>
+      <trkpt lat="37.1718921" lon="-121.4594265"/>
+      <trkpt lat="37.1722135" lon="-121.459169"/>
+      <trkpt lat="37.1723298" lon="-121.45886"/>
+      <trkpt lat="37.1723982" lon="-121.4584395"/>
+      <trkpt lat="37.1726239" lon="-121.4578129"/>
+      <trkpt lat="37.1729043" lon="-121.4575296"/>
+      <trkpt lat="37.1732326" lon="-121.4570061"/>
+      <trkpt lat="37.1733352" lon="-121.4565598"/>
+      <trkpt lat="37.1734788" lon="-121.4563795"/>
+      <trkpt lat="37.1735472" lon="-121.4558645"/>
+      <trkpt lat="37.173383" lon="-121.4555813"/>
     </trkseg>
   </trk>
 </gpx>

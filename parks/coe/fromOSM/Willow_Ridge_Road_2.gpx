@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
   <metadata>
-    <name>WIllow Ridge Road 2</name>
+    <name>Willow Ridge Road 2</name>
     <twr:source>osm</twr:source>
-    <twr:type>track</twr:type>
-    <twr:id>-89846</twr:id>
+    <twr:type>path</twr:type>
+    <twr:id>-89972</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
-      <twr:highway>track</twr:highway>
-      <twr:name>WIllow Ridge Road</twr:name>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Willow Ridge Road</twr:name>
     </attrs>
   </metadata>
   <trk>
-    <name>WIllow Ridge Road 2</name>
+    <name>Willow Ridge Road 2</name>
     <trkseg>
-      <trkpt lat="37.1933285" lon="-121.4258395"/>
-      <trkpt lat="37.1934599" lon="-121.4256521"/>
-      <trkpt lat="37.1936696" lon="-121.4253162"/>
-      <trkpt lat="37.1938147" lon="-121.4252225"/>
-      <trkpt lat="37.1940463" lon="-121.4252509"/>
-      <trkpt lat="37.194253" lon="-121.4253431"/>
-      <trkpt lat="37.1944134" lon="-121.4254537"/>
-      <trkpt lat="37.1945758" lon="-121.4254784"/>
-      <trkpt lat="37.1947316" lon="-121.425429"/>
-      <trkpt lat="37.1949162" lon="-121.4254032"/>
-      <trkpt lat="37.1950326" lon="-121.425468"/>
+      <trkpt lat="37.1534945" lon="-121.4518108"/>
+      <trkpt lat="37.1536154" lon="-121.4519986"/>
+      <trkpt lat="37.1538933" lon="-121.4522293"/>
+      <trkpt lat="37.1543565" lon="-121.4528408"/>
+      <trkpt lat="37.1546602" lon="-121.4531553"/>
+      <trkpt lat="37.1548478" lon="-121.4534641"/>
+      <trkpt lat="37.1549975" lon="-121.4535982"/>
+      <trkpt lat="37.1552731" lon="-121.4541282"/>
+      <trkpt lat="37.1557329" lon="-121.4545101"/>
+      <trkpt lat="37.1558355" lon="-121.4547569"/>
+      <trkpt lat="37.1559466" lon="-121.4554757"/>
     </trkseg>
   </trk>
 </gpx>

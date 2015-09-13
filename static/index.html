@@ -224,12 +224,20 @@ function handleSegmentClick(originalSegment) {
     // Cheap deep copy
     var segment = $.extend({}, originalSegment);
 
-    segment.origColor = segment.path.strokeColor;
+    if (!segment.origColor) {
+      segment.origColor = segment.path.strokeColor;
+    }
     segment.path.setOptions({strokeColor: 'blue'});
-    markNewActivePoint(segment);
-    activeSegments.push(segment);
-    addSegmentToRouteList(activeSegments);
-    displaySegElevation(segment);
+
+    if (activeSegments.length === 1 && activeSegments[0].url === segment.url) {
+      // This doesn't quite work, because of the elevation chart.  Grumble.
+      markNewActivePoint(segment);
+    } else {
+      markNewActivePoint(segment);
+      activeSegments.push(segment);
+      addSegmentToRouteList(activeSegments);
+      displaySegElevation(segment);
+    }
   };
 }
 

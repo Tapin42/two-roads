@@ -4,24 +4,28 @@
     <name>Willow Ridge Road 15</name>
     <twr:source>osm</twr:source>
     <twr:type>track</twr:type>
-    <twr:id>-89821</twr:id>
+    <twr:id>-89846</twr:id>
     <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
       <twr:highway>track</twr:highway>
       <twr:name>Willow Ridge Road</twr:name>
-      <twr:tiger.cfcc>A41</twr:tiger.cfcc>
-      <twr:tiger.county>Santa Clara, CA</twr:tiger.county>
-      <twr:tiger.reviewed>no</twr:tiger.reviewed>
-      <twr:tiger.separated>no</twr:tiger.separated>
-      <twr:tiger.source>tiger_import_dch_v0.6_20070809</twr:tiger.source>
-      <twr:tiger.tlid>122933594:123000904</twr:tiger.tlid>
-      <twr:tiger.upload_uuid>bulk_upload.pl-9f300d22-5de3-4867-bd5e-8c2a200c22ad</twr:tiger.upload_uuid>
     </attrs>
   </metadata>
   <trk>
     <name>Willow Ridge Road 15</name>
     <trkseg>
-      <trkpt lat="37.1512723" lon="-121.4433297"/>
-      <trkpt lat="37.151395" lon="-121.443406"/>
+      <trkpt lat="37.1933285" lon="-121.4258395"/>
+      <trkpt lat="37.1934599" lon="-121.4256521"/>
+      <trkpt lat="37.1936696" lon="-121.4253162"/>
+      <trkpt lat="37.1938147" lon="-121.4252225"/>
+      <trkpt lat="37.1940463" lon="-121.4252509"/>
+      <trkpt lat="37.194253" lon="-121.4253431"/>
+      <trkpt lat="37.1944134" lon="-121.4254537"/>
+      <trkpt lat="37.1945758" lon="-121.4254784"/>
+      <trkpt lat="37.1947316" lon="-121.425429"/>
+      <trkpt lat="37.1949162" lon="-121.4254032"/>
+      <trkpt lat="37.1950326" lon="-121.425468"/>
     </trkseg>
   </trk>
 </gpx>

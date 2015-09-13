@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willow Ridge Road 22</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89581</twr:id>
+    <attrs>
+      <twr:highway>track</twr:highway>
+      <twr:motor_vehicle>no</twr:motor_vehicle>
+      <twr:name>Willow Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willow Ridge Road 22</name>
+    <trkseg>
+      <trkpt lat="37.1887147" lon="-121.4384323"/>
+      <trkpt lat="37.1888788" lon="-121.438398"/>
+      <trkpt lat="37.1890497" lon="-121.4382177"/>
+      <trkpt lat="37.1891181" lon="-121.4380032"/>
+      <trkpt lat="37.1891896" lon="-121.4377905"/>
+      <trkpt lat="37.1896994" lon="-121.4373541"/>
+      <trkpt lat="37.1898361" lon="-121.4372994"/>
+      <trkpt lat="37.1900271" lon="-121.4372828"/>
+      <trkpt lat="37.1901369" lon="-121.4372307"/>
+      <trkpt lat="37.1903694" lon="-121.4370504"/>
+      <trkpt lat="37.1906634" lon="-121.4370419"/>
+      <trkpt lat="37.1910805" lon="-121.4371363"/>
+      <trkpt lat="37.1912378" lon="-121.4372135"/>
+      <trkpt lat="37.1916275" lon="-121.4370934"/>
+      <trkpt lat="37.1918395" lon="-121.4370247"/>
+      <trkpt lat="37.1920446" lon="-121.437059"/>
+      <trkpt lat="37.1922155" lon="-121.4371706"/>
+      <trkpt lat="37.1923591" lon="-121.4371363"/>
+      <trkpt lat="37.192489" lon="-121.4369474"/>
+      <trkpt lat="37.1925847" lon="-121.4366642"/>
+      <trkpt lat="37.1926326" lon="-121.4361149"/>
+      <trkpt lat="37.192809" lon="-121.4354378"/>
+      <trkpt lat="37.1930027" lon="-121.4350646"/>
+      <trkpt lat="37.1931112" lon="-121.4347416"/>
+      <trkpt lat="37.1932061" lon="-121.4342513"/>
+      <trkpt lat="37.1933026" lon="-121.433952"/>
+      <trkpt lat="37.1935898" lon="-121.4335142"/>
+      <trkpt lat="37.1937881" lon="-121.4330851"/>
+      <trkpt lat="37.193877" lon="-121.4326817"/>
+      <trkpt lat="37.1938291" lon="-121.432407"/>
+      <trkpt lat="37.1936513" lon="-121.4322439"/>
+      <trkpt lat="37.1935214" lon="-121.4321409"/>
+      <trkpt lat="37.1935009" lon="-121.4319521"/>
+      <trkpt lat="37.1935782" lon="-121.4316233"/>
+      <trkpt lat="37.1937129" lon="-121.431274"/>
+      <trkpt lat="37.1938154" lon="-121.4310337"/>
+      <trkpt lat="37.1938713" lon="-121.4308204"/>
+      <trkpt lat="37.1938323" lon="-121.4306876"/>
+      <trkpt lat="37.1935657" lon="-121.4304755"/>
+      <trkpt lat="37.1933407" lon="-121.4303977"/>
+      <trkpt lat="37.1931036" lon="-121.4302613"/>
+      <trkpt lat="37.1929177" lon="-121.4299945"/>
+      <trkpt lat="37.1927625" lon="-121.4298922"/>
+      <trkpt lat="37.1925642" lon="-121.4297548"/>
+      <trkpt lat="37.1923987" lon="-121.429497"/>
+      <trkpt lat="37.1923048" lon="-121.4291433"/>
+      <trkpt lat="37.1921869" lon="-121.4289796"/>
+      <trkpt lat="37.1921073" lon="-121.4288085"/>
+      <trkpt lat="37.1920793" lon="-121.4287189"/>
+    </trkseg>
+  </trk>
+</gpx>

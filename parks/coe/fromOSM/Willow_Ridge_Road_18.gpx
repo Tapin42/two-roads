@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
+  <metadata>
+    <name>Willow Ridge Road 18</name>
+    <twr:source>osm</twr:source>
+    <twr:type>track</twr:type>
+    <twr:id>-89843</twr:id>
+    <attrs>
+      <twr:bicycle>yes</twr:bicycle>
+      <twr:foot>yes</twr:foot>
+      <twr:highway>track</twr:highway>
+      <twr:name>Willow Ridge Road</twr:name>
+    </attrs>
+  </metadata>
+  <trk>
+    <name>Willow Ridge Road 18</name>
+    <trkseg>
+      <trkpt lat="37.1982869" lon="-121.4241587"/>
+      <trkpt lat="37.198492" lon="-121.4238926"/>
+      <trkpt lat="37.1987039" lon="-121.4237124"/>
+      <trkpt lat="37.1987449" lon="-121.4234377"/>
+      <trkpt lat="37.1988638" lon="-121.4228748"/>
+      <trkpt lat="37.19895" lon="-121.4226223"/>
+      <trkpt lat="37.198909" lon="-121.4224335"/>
+      <trkpt lat="37.1988338" lon="-121.4221674"/>
+      <trkpt lat="37.1987588" lon="-121.4219065"/>
+      <trkpt lat="37.198533" lon="-121.4216524"/>
+      <trkpt lat="37.1983416" lon="-121.4212919"/>
+      <trkpt lat="37.1982937" lon="-121.4209057"/>
+      <trkpt lat="37.1983347" lon="-121.4206825"/>
+    </trkseg>
+  </trk>
+</gpx>

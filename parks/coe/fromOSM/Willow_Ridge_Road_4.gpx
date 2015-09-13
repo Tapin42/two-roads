@@ -1,22 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsm="http://www.gpsmaster.org/schema/gpsm/v1" xmlns:twr="http:localhost/schema/two-roads/v1">
   <metadata>
-    <name>WIllow Ridge Road 4</name>
+    <name>Willow Ridge Road 4</name>
     <twr:source>osm</twr:source>
-    <twr:type>track</twr:type>
-    <twr:id>-89844</twr:id>
+    <twr:type>path</twr:type>
+    <twr:id>-89970</twr:id>
     <attrs>
       <twr:bicycle>yes</twr:bicycle>
       <twr:foot>yes</twr:foot>
-      <twr:highway>track</twr:highway>
-      <twr:name>WIllow Ridge Road</twr:name>
+      <twr:highway>path</twr:highway>
+      <twr:horse>yes</twr:horse>
+      <twr:name>Willow Ridge Road</twr:name>
     </attrs>
   </metadata>
   <trk>
-    <name>WIllow Ridge Road 4</name>
+    <name>Willow Ridge Road 4</name>
     <trkseg>
-      <trkpt lat="37.1982458" lon="-121.4244248"/>
-      <trkpt lat="37.1982869" lon="-121.4241587"/>
+      <trkpt lat="37.1576457" lon="-121.4581639"/>
+      <trkpt lat="37.1577418" lon="-121.458494"/>
+      <trkpt lat="37.1586707" lon="-121.4594008"/>
+      <trkpt lat="37.1590586" lon="-121.4595777"/>
+      <trkpt lat="37.1597584" lon="-121.4598986"/>
+      <trkpt lat="37.1601414" lon="-121.459993"/>
+      <trkpt lat="37.1603466" lon="-121.4599415"/>
+      <trkpt lat="37.1612427" lon="-121.4599415"/>
+      <trkpt lat="37.1618104" lon="-121.4598814"/>
+      <trkpt lat="37.1623371" lon="-121.4597698"/>
+      <trkpt lat="37.1627015" lon="-121.459896"/>
+      <trkpt lat="37.1629664" lon="-121.4598127"/>
+      <trkpt lat="37.1631784" lon="-121.4595724"/>
+      <trkpt lat="37.1634247" lon="-121.4593664"/>
+      <trkpt lat="37.1635475" lon="-121.4589607"/>
+      <trkpt lat="37.1639992" lon="-121.4585596"/>
+      <trkpt lat="37.1644507" lon="-121.4581047"/>
+      <trkpt lat="37.164649" lon="-121.4578043"/>
+      <trkpt lat="37.1648337" lon="-121.457667"/>
+      <trkpt lat="37.1652578" lon="-121.4577356"/>
+      <trkpt lat="37.1655998" lon="-121.4577356"/>
+      <trkpt lat="37.1658602" lon="-121.4580434"/>
+      <trkpt lat="37.1660101" lon="-121.4581562"/>
+      <trkpt lat="37.1662153" lon="-121.4581905"/>
+      <trkpt lat="37.1663133" lon="-121.4580327"/>
+      <trkpt lat="37.1664629" lon="-121.4579415"/>
+      <trkpt lat="37.1666126" lon="-121.4580649"/>
+      <trkpt lat="37.1668135" lon="-121.4584726"/>
+      <trkpt lat="37.16704" lon="-121.4588374"/>
+      <trkpt lat="37.1671797" lon="-121.4589716"/>
+      <trkpt lat="37.1672139" lon="-121.4592978"/>
+      <trkpt lat="37.1674533" lon="-121.4595295"/>
+      <trkpt lat="37.167677" lon="-121.4596528"/>
+      <trkpt lat="37.1678568" lon="-121.4596582"/>
+      <trkpt lat="37.1680894" lon="-121.4596067"/>
+      <trkpt lat="37.1685682" lon="-121.4597441"/>
+      <trkpt lat="37.1690332" lon="-121.4597355"/>
+      <trkpt lat="37.1691837" lon="-121.4596754"/>
+      <trkpt lat="37.1693039" lon="-121.4597131"/>
     </trkseg>
   </trk>
 </gpx>
