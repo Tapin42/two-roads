@@ -1,1 +1,8 @@
 <b>{{ model.name }}</b> <i>({{ model.dir }})</i>
+<p />
+
+<ul>
+{{#each v, k in model.trailheads}}
+  <li> {{ k }}: {{ v.lat }}, {{ v.lng }} </li>
+{{/each}}
+</ul>
