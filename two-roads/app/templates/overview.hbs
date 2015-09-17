@@ -1,3 +1,8 @@
 
 <h3 align="center">Pick a park from the list below</h3>
 
+<ul>
+{{#each model.parks as |park|}}
+  <li>{{park}}</li>
+{{/each}}
+</ul>

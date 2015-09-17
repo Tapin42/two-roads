@@ -4,15 +4,18 @@ export default DS.JSONAPISerializer.extend({
   normalizeFindRecordResponse(store, typ, payload) {
     return {
       data: {
-        id: payload.dir,
+        id: 'root',
         type: typ.modelName,
         attributes: {
-          name: payload.name,
-          dir: payload.dir,
-          start: payload.start,
-          trailheads: payload.trailheads
+        },
+        relationships: {
+          park: {
+            links: {
+              related: payload.parks
+            }
+          }
         }
       }
-    }
+    };
   }
 });
