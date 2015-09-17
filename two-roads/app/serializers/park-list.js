@@ -7,13 +7,14 @@ export default DS.JSONAPISerializer.extend({
         id: 'root',
         type: typ.modelName,
         attributes: {
-        },
-        relationships: {
-          park: {
-            links: {
-              related: payload.parks
-            }
-          }
+          parks: payload.parks
+        // },
+        // relationships: {
+        //   park: {
+        //     links: {
+        //       related: payload.parks
+        //     }
+        //   }
         }
       }
     };
