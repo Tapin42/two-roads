@@ -6,7 +6,7 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
-  this.route('plan');
+  this.route('plan', { path: '/plan/:park' });
   this.route('overview');
   this.route('park');
 });

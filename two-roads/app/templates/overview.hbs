@@ -1,8 +1,8 @@
 
 <h3 align="center">Pick a park from the list below</h3>
 
-<ul>
+<ul class="nav nav-pills nav-justified">
 {{#each model.parks as |park|}}
-  <li>{{park}}</li>
+  <li role="presentation">{{#link-to 'plan' park}}{{park}}{{/link-to}}</li>
 {{/each}}
 </ul>
